@@ -1,37 +1,37 @@
-# Como Utilizar o GitHub
+# Як користуватися GitHub
 
-o GitHub será utilizado para organizar as tarefas e versionar as traduções, aqui você aprenderá como utilizar suas principais ferramentas e entender suas terminologias.
+GitHub використовуватиметься для організації завдань і перекладів версій, тут ви дізнаєтесь, як використовувати його основні інструменти та зрозумієте їх термінологію.
 
-## Índice
+## Зміст
 
-- [Como Utilizar o GitHub](#como-utilizar-o-github)
-  - [Índice](#índice)
-  - [Ferramentas](#ferramentas)
-    - [Issues](#issues)
-      - [Exemplos de Issues no nosso projeto](#exemplos-de-issues-no-nosso-projeto)
-    - [Pull Request](#pull-request)
-      - [Exemplos de Pull Requests no nosso projeto](#exemplos-de-pull-requests-no-nosso-projeto)
+- [Як користуватися GitHub](#як-користуватися-github)
+   - [Зміст](#зміст)
+   - [Інструменти](#інструменти)
+     - [Проблема](#проблема)
+       - [Приклад Issue у нашому проекті](#приклад-issue-у-нашому-проекті)
+     - [Запит на отримання](#pull-request)
+       - [Приклад Pull Request у нашому проекті](#приклад-pull-request-у-нашому-проекті)
 
 ---
 
-## Ferramentas
+## Інструменти
 
-### Issues
+### Проблема
 
-Issue é uma ferramenta para auxiliar na construção de um projeto. Basicamente é uma ferramenta de bug report ou feedback em geral.
+Issue — це інструмент, який допомагає створити запит. В основному це повідомлення про помилку або засіб зворотного зв'язку в цілому.
 
-#### Exemplos de Issues no nosso projeto
+#### Приклад Issue у нашому проекті
 
-"Ahh nossa encontrei este erro na tradução, o que eu faço?"
+"Аааа, я знайшов цю помилку в перекладі, що мені робити?"
 
-Cria uma issue, basta ir na aba de Issues do Repositório, clicar em "nova issue" e escrever o problema, utilizando o template disponível.
+Створіть "Issue", просто перейдіть на вкладку "Issues" в репозитарії, клацніть "New Issue" та напишіть проблему, використовуючи доступний шаблон.
 
-### Pull Request
+### Запит на отримання
 
-Os Pull Requests (PRs) permitem que você informe outras pessoas sobre as alterações por push feitas em uma ramificação de um repositório no GitHub. Após a abertura de uma solicitação de pull, você poderá discutir e revisar as possíveis alterações com colaboradores e adicionar confirmações de acompanhamento antes que as alterações sejam mescladas na ramificação base.
+Pull Request (PR) дозволяю інформувати інших про push-зміни, внесені до гілки сховища на GitHub. Відкривши запит на отримання, ви можете обговорити та переглянути можливі зміни з автором змін та іншими учасниками та додати подальші коміти до того, як зміни буде об’єднано в базову гілку.
 
-#### Exemplos de Pull Requests no nosso projeto
+#### Приклад Pull Request у нашому проекті
 
-"Yay, terminei a tradução do arquivo \[nome\].rpy! O que eu faço agora?"
+"Так, я закінчив переклад файлу \[name\].rpy! Що мені тепер робити?"
 
-Depois de commitar suas alterações, Crie um novo Pull Request no repositório principal, descrevendo suas alterações, o mesmo então será analisado, revisado e caso estando em boa qualidade, aceito e incorporado à tradução oficial.
+Після внесення змін створіть новий запит на витягування в основному сховищі, описуючи ваші зміни, які потім будуть проаналізовані, переглянуті та, якщо вони якісні, прийняті та включені до офіційного перекладу.

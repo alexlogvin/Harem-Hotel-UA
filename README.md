@@ -1,33 +1,33 @@
-# HaremHotel-BR
+# HaremHotel-UA
 
-Repositório para tradução pt-br do jogo Harem Hotel
+Репозиторій для UA перекладу гри Harem Hotel
 
-## Índice
+## Зміст
 
-- [HaremHotel-BR](#haremhotel-br)
-  - [Índice](#índice)
-  - [Como começar](#como-começar)
-  - [FAQ (Perguntas frequentes)](#faq-perguntas-frequentes)
-    - [Como Posso Ajudar?](#como-posso-ajudar)
-    - [Como Utilizar o GitHub?](#como-utilizar-o-github)
-    - [Como Utilizar o Git?](#como-utilizar-o-git)
+- [HaremHotel-UA](#haremhotel-ua)
+  - [Зміст](#зміст)
+  - [Як розпочати](#як-розпочати)
+  - [FAQ (Часті запитання)](#faq-часті-запитання)
+    - [Як я можу допомогти?](#як-я-можу-допомогти)
+    - [Допомога з GitHub?](#допомога-з-github)
+    - [Допомога з Git?](#допомога-з-git)
 
 ---
 
-## Como começar
+## Як розпочати
 
-Olá pessoal, este repositório será o local onde teremos a versão final que será enviada ao Runey da tradução pt-br do jogo, estaremos trabalhando com Issues + Pull Requests para fazermos as traduções e organizarmos as tarefas!
+Привіт! Цей резпозиторій ми будемо використовувати для внесення змін до українського перекладу гри, який, при 100% перекладі, буде надіслано Runey.
 
-## FAQ (Perguntas frequentes)
+## FAQ (Часті запитання)
 
-### Como Posso Ajudar?
+### Як я можу допомогти?
 
-Leia sobre [como contribuir](HOW-TO-CONTRIBUTE.md).
+Читати про те [як зробити внесок](HOW-TO-CONTRIBUTE.md)
 
-### Como Utilizar o GitHub?
+### Допомога з GitHub?
 
-Leia sobre [como utilizar o GitHub](HOW-TO-GITHUB.md).
+Читати про те [як користуватись GitHub'ом](HOW-TO-GITHUB.md).
 
-### Como Utilizar o Git?
+### Допомога з Git?
 
-Leia sobre [como utilizar o Git](HOW-TO-GIT.md).
+Читати про те [як користуватись Git'ом](HOW-TO-GIT.md).
