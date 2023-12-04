@@ -1,38 +1,33 @@
-# Modelo de Pull Request
+# Шаблон Pull Request
 
-O modelo a seguir deve ser utilizado ao criar um Pull Request.
+Під час створення PR'у використовуйте цей шаблон.
 
-## Descrição
+## Опис
 
-Inclua um resumo da alteração e qual Issue foi corrigido. Inclua também motivação e contexto relevantes. Liste todas as possíveis dependências necessárias para essa alteração.
+Додайте підсумок змін і інформацію про те, що перекладено, чи яку проблему ("Issue") вирішено.
+У випадку якщо вирішено проблему - додайте номер проблеми чи посилання на неї:
 
-Corrige # (issue)
+Виправити № (проблема)
 
-## Tipo de mudança
+## Тип зміни
 
-Exclua as opções que não são relevantes.
+Видаліть неактуальні варіанти.
 
-- [ ] Correção de Tradução
-- [ ] Nova Tradução
+- [ ] Виправлення перекладу
+- [ ] Новий переклад
 
-## Como isso foi testado?
+## Як це було перевірено/відтестовано?
 
-Descreva os testes que você executou para verificar suas alterações. Forneça instruções para que possamos reproduzir. Liste também todos os detalhes relevantes para sua configuração de testes.
+Опишіть як ви це перевірили. Додайте опис як можна це перевірити. Додайте скріншоти з гри чи сейвфайл для перевірки.
 
-- [ ] Teste A
-- [ ] Teste B
+- [ ] Тест А
+- [ ] Тест Б
 
-**Configurações**:
+## Контрольний список
 
-- Versão do RenPy (SDK):
-- Versão do Python:
-- Ferramentas Utilizadas:
+- [ ] Мій переклад відповідає інструкціям щодо якості цього проекту.
+- [ ] Я здійснив самоперевірку власного перекладу.
+- [ ] Мої зміни не створюють нових помилок.
+- [ ] Мої зміни внесено лише до існуючих файлів і лише до перекладу тексту.
 
-## Checklist
-
-- [ ] Minha tradução segue as diretrizes de qualidade deste projeto.
-- [ ] Realizei uma autorrevisão da minha própria tradução.
-- [ ] Minhas alterações não geram novos erros.
-- [ ] Minhas Alterações foram feitas apenas em arquivos existentes e apenas nas strings
-
-Suas alterações não serão aceitas caso algumas dessas verificações não sejam cumpridas.
+Ваші зміни не будуть прийняті, якщо хоч одна з цих перевірок не виконана.

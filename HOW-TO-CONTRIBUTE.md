@@ -1,45 +1,41 @@
-# Como Contribuir
+# Як зробити внесок
 
-Opa, ótimo, quer ajudar a traduzir o jogo mas não sabe por onde começar? Veio ao lugar certo!
+Чудово, хочеш допомогти перекласти гру, але не знаєш, з чого почати? Ви потрапили в потрібне місце!
 
-## Índice
+## Зміст
 
-- [Como Contribuir](#como-contribuir)
-  - [Índice](#índice)
-  - [Considerações Iniciais](#considerações-iniciais)
-    - [Conhecimento Geral](#conhecimento-geral)
-    - [INGLÊS](#inglês)
-    - [Lógica de Programação](#lógica-de-programação)
-    - [Git + GitHub](#git--github)
-  - [Organização do Repositório](#organização-do-repositório)
-    - [Como Começar a traduzir](#como-começar-a-traduzir)
+- [Як зробити внесок](#як-зробити-внесок)
+   - [Зміст](#зміст)
+   - [Загальне](#загальне)
+     - [Загальні знання](#general-knowledge)
+     - [АНГЛІЙСЬКА](#англійська)
+     - [Логіка програмування](#programming-logic)
+     - [Git + GitHub](#git--github)
+   - [Організація сховища](#repository-organization)
+     - [Як розпочати переклад](#how-to-start-translating)
 
 ---
 
-## Considerações Iniciais
+## Загальне
 
-Traduzir um jogo é divertido, é trabalhoso mas também te da uma satisfação intensa quando o trabalho é concluído, mas existem coisas que devemos ter em mente quando traduzimos um jogo!
+Комусь перекладати гру може бути весело, комусь важко, комусь цікаво, але загалом завершена робота приносить відчуття задоволення. Проте необхідно пам'ятати про наступне:
 
-### Conhecimento Geral
+### Знання англійської
 
-Quando traduzindo um jogo, temos que ter uma noção básica das coisas, qual a linguagem o jogo foi programado, qual lógica que o jogo segue, como que cada uma das coisas funciona, entre outros, sorte nossa que o RenPy cuida disso tudo, a gente só precisa traduzir os arquivos automaticamente generados pela engine que cuida disso tudo, PORÉM...
+Основна мова гри - англійська, тому ми від перекладачів очікується знання англійської мови середнього чи вище рівня. Оскільки ми хочемо якісного перекладу, ми маємо переконатися, що ви принаймні знаєте, що перекладаєте.
 
-### INGLÊS
+### Логіка програмування
 
-O jogo base é totalmente em inglês, então esperamos um nível intermediário/avançado de inglês dos tradutores, ja que queremos um trabalho de qualidade, nós temos que nos certificar que pelo menos vocês sabem o que estão escrevendo.
-
-### Lógica de Programação
-
-Não é tão necessário, mas se você entender como um código funciona e as bases necessárias pra se desenvolver um jogo RenPy facilita bastante a sua vida em traduzir.
+При наявності розуміння, як працює код, а особливо RenPy ігри - це значно полегшить переклад.
 
 ### Git + GitHub
 
-Como estaremos utilizando GIT pra versionar e GITHUB pra organizar, esperamos um conhecimento prévio básico de como utilizar essas duas ferramentas, se você não entende ainda, leia sobre [como utilizar o Git](HOW-TO-GIT.md) ou sobre [como utilizar o GitHub](HOW-TO-GITHUB.md)
+Знання і вміння користуватись GIT та GITHUB є обовязковими, адже це головний інструмент для внесення змін в файли для перекладу. Для ознайомлення прочитайте про те [як користуватись Git'ом](HOW-TO-GIT.md), чи [як користуватись GitHub'ом](HOW-TO-GITHUB.md)
 
-## Organização do Repositório
+## Організація репозиторію
 
-Este repositório contém diversas [branchs](HOW-TO-GIT.md#terminologias), cada uma delas corresponde a uma versão do jogo, ou dependendo da necessidade, versões de traduções.
+Цей репозиторій містить кілька [гілок](HOW-TO-GIT.md#гілка), кожна з яких відповідає версії гри, або, залежно від потреби, версії перекладу.
 
-### Como Começar a traduzir
+### Як почати переклад
 
-Você deve primeiro criar um [fork](HOW-TO-GIT.md#terminologias) do projeto e dai começar a traduzir neste seu fork, assim que terminar, você pode enviar suas alterações atravez de [commits](HOW-TO-GIT.md#terminologias) e assim que tudo estiver organizado, criando um Pull Request nesse repositório.
+Ви повинні спочатку створити [гілку](HOW-TO-GIT.md#гілка) в головному проекті, відгалужуючись від тієї версії, яку ви плануєте перекладати, а потім розпочати переклад, вносячи зміни у цю гілку. Після завершення ви можете подати свої зміни через Merge Request.

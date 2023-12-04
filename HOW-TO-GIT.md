@@ -1,83 +1,68 @@
-# Como Utilizar o GIT
+# Як користуватися GIT
 
-Como iremos trabalhar utilizando o GitHub para organizar as tarefas e versionar as traduções, você deverá saber pelo menos um básico do Git, principais comandos e terminologias.
+Оскільки ми працюємо з GitHub для організації перекладу, ви повинні знати принаймні основи Git, основні команди та термінологію.
 
-## Índice
+## Зміст
 
-- [Como Utilizar o GIT](#como-utilizar-o-git)
-  - [Índice](#índice)
-  - [Conhecimento Básico](#conhecimento-básico)
-    - [Terminologias](#terminologias)
-      - [Repositório](#repositório)
-      - [Branch](#branch)
-      - [Fork](#fork)
-    - [Principais Comandos](#principais-comandos)
-      - [Init](#init)
-      - [Clone](#clone)
-      - [Commit](#commit)
-      - [Add](#add)
-      - [Push](#push)
-      - [Pull](#pull)
-      - [Merge](#merge)
-      - [Log](#log)
-    - [Considerações Finais](#considerações-finais)
+- [Як використовувати GIT](#як-користуватися-git)
+   - [Зміст](#зміст)
+   - [Базові знання](#базові-знання)
+     - [Термінологія](#термінологія)
+       - [Репозиторій](#репозиторій)
+       - [Гілка](#гілка)
+     - [Головні команди](#головні-команди)
+       - [Clone](#clone)
+       - [Commit](#commit)
+       - [Add](#add)
+       - [Push](#push)
+       - [Pull](#pull)
+       - [Fetch](#fetch)
+     - [Заключні міркування](#заключні-міркування)
 
 ---
 
-## Conhecimento Básico
+## Базові знання
 
-Criado pelo engenheiro de software Linus Torvalds, conhecido por ter desenvolvido, também, o núcleo Linux, o GIT é um Sistema de Controle de Versões Distribuído.
+GIT створена інженером-програмістом Лінусом Торвальдсом, відомим тим, що також розробив ядро ​​Linux, є розподіленою системою керування версіями.
 
-### Terminologias
+### Термінологія
 
-#### Repositório
+#### Репозиторій
 
-Os repositórios são os ambientes criados para armazenar seus códigos.
+Репозиторій – це середовище, створене для зберігання змін у файлах і найкраще працює з текстовими файлами.
 
-#### Branch
+#### Гілка
 
-Branch é o nome dado a uma ramificação do projeto.
+Відгалуження від головної гілки проекту (master).
 
-Isso é útil porque possibilita gerenciar múltiplas alterações acontecendo simultaneamente.
+Необхідна для керування багатьма змінами, які відбуваються одночасно, а також для створення MR'ів.
 
-#### Fork
-
-Fork é simplesmente o mesmo projeto no seu namespace, permitindo que você faça alterações em um projeto como uma forma mais aberta de contribuir. Dessa forma, projetos não precisam se preocupar em adicionar colaboradores para dar acesso ao [push](#push).
-
-### Principais Comandos
-
-#### Init
-
-Este comando dá origem a um repositório novo, local ou remoto, ou reinicializa um repositório já existente;
+### Головні команди
 
 #### Clone
 
-Este comando clona o código de um repositório para sua manipulação em outro ambiente;
+Ця команда клонує репозиторій із хмари до вашого комп'ютеру;
 
 #### Commit
 
-Este comando move os arquivos da stage area para um repositório local;
+Ця команда створює запис із попередньо доданими змінами у вашому локальному репозиторії;
 
 #### Add
 
-Este comando adiciona um arquivo alterado a uma staging area, ou seja, o prepara para ser vinculado a um commit;
+Ця команда додає змінений файл до списку файлів, які є кандидатами до коміту;
 
 #### Push
 
-Este comando envia arquivos de um repositório local para um repositório remoto. No GitHub, por exemplo;
+Ця команда надсилає зміни з локального репозиторію до хмарного;
 
 #### Pull
 
-Ao contrário do push, este comando traz um arquivo do repositório remoto para o repositório local.
+Ця команда підтягує зміни з хмарного репозиторію до локального;
 
-#### Merge
+#### Fetch
 
-Este comando serve para unir arquivos alterados ao arquivo original de um projeto. Em outras palavras, é ele quem une os branchs as commits.
+Ця команда підтягує список змін з хмарного репозиторію до локального;
 
-#### Log
+### Заключні міркування
 
-Este comando permite a visualização do histórico de commits de um arquivo ou usuário, ou o acesso de uma versão específica.
-
-### Considerações Finais
-
-O git é uma ferramenta bem avançada para quem nunca fez nada no mundo de programação, então eu entendo que pode ser difícil para alguns se acostumarem, caso necessitem, podem perguntar qualquer coisa no servidor do discord ou procurar vídeo sobre como utilizar o Git.
+Git — це дуже зручний хоча і складний інструмент для тих, хто ніколи нічого не робив у світі програмування. Тому рекомендую ознайомитись більше тут: https://git-scm.com/book/uk/v2
