@@ -1,382 +1,382 @@
-﻿# TODO: Translation updated at 2022-12-11 22:14
+﻿# TODO: Translation updated at 2023-12-05 09:00
 
 # game/script.rpy:372
 translate uk_UA skip_a27367e9:
 
     # "Skip the intro?"
-    ""
+    "Пропустити вступ?"
 
 # game/script.rpy:376
 translate uk_UA skip_aaa47156:
 
     # "Since you are on Android, you may need to download {b}google keyboard{/b} to enter your name."
-    ""
+    "Оскільки ви використовуєте OS Android, скоріш за все вам необхідно буде завантажити {b}google keyboard{/b}, щоб ввести ваше ім'я."
 
 # game/script.rpy:388
 translate uk_UA intro_443a9488:
 
     # "16 years ago..."
-    ""
+    "16 років тому..."
 
 # game/script.rpy:390
 translate uk_UA intro_402a59b9:
 
     # yg "Today, the hard work over these past few decades will finally pay off. I have big plans, and you girls will be the first thing customers see."
-    yg ""
+    yg "Важка праця за ці кілька десятиліть нарешті окупиться сьогодні. В мене грандіозні плани і ви, дівчата, будете першим, що клієнти побачать."
 
 # game/script.rpy:391
 translate uk_UA intro_9664af3c:
 
     # lika "I'm so excited, Master!"
-    lika ""
+    lika "Як так схвильована, Господарю!"
 
 # game/script.rpy:393
 translate uk_UA intro_c3faeeb9:
 
     # yg "I'm glad, Lika. You'll be working out front today and we'll need that enthusiasm. Do anything you can to bring in customers. In fact, it may be best for you to wear nothing at all."
-    yg ""
+    yg "Я радий, Ліка. Ти сьогодні будеш працювати на рецепції і нам знадобиться твій ентузіазм. Роби все можливе, щоб залучити клієнтів. Зрештою, тобі, мабуть, краще бути голою."
 
 # game/script.rpy:395
 translate uk_UA intro_87d74243:
 
     # lika "Oh, one of {i}those{/i} jobs..."
-    lika ""
+    lika "О, це {i}така{/i} робота..."
 
 # game/script.rpy:396
 translate uk_UA intro_7ad58750:
 
     # yg "I'm sorry, but you know how much debt we're in."
-    yg ""
+    yg "Вибачай, але ти ж знаєш наскільки ми залізли в борги."
 
 # game/script.rpy:397
 translate uk_UA intro_dd517148:
 
     # lika "Yes, I understand, Master..."
-    lika ""
+    lika "Так, Господарю, я все розумію..."
 
 # game/script.rpy:399
 translate uk_UA intro_2ef7e57b:
 
     # yg "Sophie, you'll be preparing a buffet for our opening ceremony. Can I trust you to cook everything necessary for our guests?"
-    yg ""
+    yg "Софія, ти відповідаєш за їжу для нашої церемонії відкриття. Чи можу я тобі довірити приготовити все необхідне для наших гостей?"
 
 # game/script.rpy:400
 translate uk_UA intro_f629f8ab:
 
     # so "Of course, Master! Anything you need."
-    so ""
+    so "Звичайно, Господарю! Все що скажете."
 
 # game/script.rpy:402
 translate uk_UA intro_2950b4cb:
 
     # yg "And Ellen... I need you to make sure this place is spotless. We don't need any poor reviews on our very first day."
-    yg ""
+    yg "І Елен... Потрібно, щоб ти подбала за те, щоб тут не було ні пилинки. Нам не потрібні низькі рейтинги з перших днів."
 
 # game/script.rpy:403
 translate uk_UA intro_437126a5:
 
     # e "{size=-10}{i}I'm not your slave...{/i}{/size}"
-    e ""
+    e "{size=-10}{i}Я вам не рабиня...{/i}{/size}"
 
 # game/script.rpy:404
 translate uk_UA intro_2f64dd92:
 
     # yg "Speak up."
-    yg ""
+    yg "Повтори."
 
 # game/script.rpy:406
 translate uk_UA intro_c8757f43:
 
     # e "You're really making me do an elf's job? I'm human! Not some slave."
-    e ""
+    e "Ви справді хочете, щоб я робила роботу Ельфів? Я людина! Не якась там рабиня."
 
 # game/script.rpy:407
 translate uk_UA intro_280da457:
 
     # yg "Ellen, we need to be a team today."
-    yg ""
+    yg "Елен, ми сьогодні маємо буди одною командою."
 
 # game/script.rpy:408
 translate uk_UA intro_ad624bb2:
 
     # e "Then let me be the receptionist! Don't reduce me to their level. I shouldn't be a maid, give me something with dignity!"
-    e ""
+    e "Тоді дозвольте мені працювати на рецепції! Не принижуйте мене, опускаючи до їх рівня. Я не маю бути покоївкою, дайте мені достойну роботу!"
 
 # game/script.rpy:409
 translate uk_UA intro_e232e700:
 
     # yg "Though it may take some time and training, you'll become a fine maid. Anything can be accomplished through hard work and dedication."
-    yg ""
+    yg "Не зважаючи на те, що це займе якись час і тренування - з тебе вийде хороша покоївка. Важкою працею і терпінням можна досягнути будь-яких висот."
 
 # game/script.rpy:411
 translate uk_UA intro_c318831e:
 
     # e "Whatever... It's not like I have much of a choice..."
-    e ""
+    e "Байдуже... Ви так чи інакше не даєте мені вибору..."
 
 # game/script.rpy:413
 translate uk_UA intro_3b2a34b0:
 
     # yg "Now then, get to it girls! We're expecting a lot of traffic, so do your part and we might just succeed."
-    yg ""
+    yg "Що ж, за роботу, дівчата! Сьогодні буде людно, то ж робіть свою роботу і в нас є шанс на успіх."
 
 # game/script.rpy:414
 translate uk_UA intro_9fc1043f:
 
     # so "Yes Master!"
-    so ""
+    so "Так Господарю!"
 
 # game/script.rpy:415
 translate uk_UA intro_f3dd56ad:
 
     # lika "Yes Master..."
-    lika ""
+    lika "Так Господарю..."
 
 # game/script.rpy:460
 translate uk_UA intro_021efa4e:
 
     # yg "...{w}*sigh*..."
-    yg ""
+    yg "...{w}*зітхання*..."
 
 # game/script.rpy:461
 translate uk_UA intro_08033034:
 
     # yg "...I've done so much... I've worked so hard... is this really all I have to show for it? After all these years..."
-    yg ""
+    yg "...Я стільки всього зробив... Я важко працював... чи це все на що я здатний? Після стількох років..."
 
 # game/script.rpy:462
 translate uk_UA intro_617de26f:
 
     # yg "A little far from the paradise I had envisioned... At this pace, I won't be able to see it for myself... I'm too old..."
-    yg ""
+    yg "Трохи далеко від раю, який я собі уявляв... Таким темпом я не доживу до моменту, щоб це побачити все на власні очі... Я застарий..."
 
 # game/script.rpy:463
 translate uk_UA intro_cbfde8c0:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:464
 translate uk_UA intro_95608ae1:
 
     # yg "No, I can't give up yet. I've already given up on family, fortune, and fame..."
-    yg ""
+    yg "Ні, мені ще рано здаватись. Я і так вже відмовився від сім'ї, багатства і слави..."
 
 # game/script.rpy:466
 translate uk_UA intro_9e4a916d:
 
     # yg "I can't give up on you, too..."
-    yg ""
+    yg "Я не можу також і від тебе відмовитись..."
 
 # game/script.rpy:470
 translate uk_UA intro_15cfc189:
 
     # "Today..."
-    ""
+    "Сьогодні..."
 
 # game/script.rpy:474
 translate uk_UA intro_d83d22e6:
 
     # comms "*ding dong*\nGood morning passengers! It's your captain speaking. I hope you're awake and ready, because we've just arrived in Syl'anar airspace! Please find a seat and buckle in, we'll be landing shortly!"
-    comms ""
+    comms "*дзинь-дзилинь*\nДоброго ранку, пасажири! Говорить ваш капітан. Надіюсь, що ви проснулись і готові, адже ми щойно прибули в повітряний простір Сил'анар! Будь ласка, сядьте у ваші місця і пристібніться - ми скоро приземлимось!"
 
 # game/script.rpy:475
 translate uk_UA intro_56e4e34e:
 
     # you "Hmm...? Did I fall asleep...?"
-    you ""
+    you "Хм...? Я що, заснув...?"
 
 # game/script.rpy:476
 translate uk_UA intro_44522476:
 
     # you "Urgh... what time is it?"
-    you ""
+    you "Ух... котра година?"
 
 # game/script.rpy:478
 translate uk_UA intro_a22938ea:
 
     # tv "Welcome to Syl'anar! Home of opportunity!"
-    tv ""
+    tv "Ласкаво просимо в Сил'анар! Домівку можливостей!"
 
 # game/script.rpy:479
 translate uk_UA intro_bfee764e:
 
     # you "Oh?"
-    you ""
+    you "О?"
 
 # game/script.rpy:481
 translate uk_UA intro_2854280d:
 
     # you "What's this? Some kind of ad?"
-    you ""
+    you "Що це? Якась реклама?"
 
 # game/script.rpy:483
 translate uk_UA intro_4805441e:
 
     # tv "Here at Syl'anar, we pride ourselves in being the world's number one economy. In only 300 years, the formation of our four kingdoms into one great republic has achieved feats that were once believed to be impossible!"
-    tv ""
+    tv "Тут, в Сил'анарі, ми гордимося тим, що наша економіка перша у світі. Всього за 300 років наші чотири королівства об'єднались в одну велику республіку, що досягнула таких висот, які вважались малоймовірними!"
 
 # game/script.rpy:485
 translate uk_UA intro_6e1a8a22:
 
     # tv "And you, valued human, are welcome to join us in our place in history. We do hope you enjoy your stay!"
-    tv ""
+    tv "І ви, важлива людина, можете приєднатись до нас у нашому місці в історії. Ми сподіваємось, що ви насолодитесь вашим перебуванням у нас!"
 
 # game/script.rpy:487
 translate uk_UA intro_db775536:
 
     # tv "Are you a tourist, immigrant, or return citizen?" nointeract
-    tv "" nointeract
+    tv "Ви турист, іммігрант, чи громадянин, що повернувся?" nointeract
 
 # game/script.rpy:490
 translate uk_UA intro_90f731c9:
 
     # tv "Then you're in luck! Stop by any Happy Home Academy and you will receive a 10 percent discount on any slave of your choosing with purchase of a slave license. We want to make your dreams reality!"
-    tv ""
+    tv "Тоді вам пощастило! Зазирніть у будь яку Академію Щасливий Дім і ви отримаєте 10-и процентну знажку на будь-якого раба на ваш вибір при купівлі ліцензії на рабовласництво. Ми зробимо ваші мрії реальністю!"
 
 # game/script.rpy:491
 translate uk_UA intro_c2e08acd:
 
     # you "A slave, hm? It's that easy?"
-    you ""
+    you "Раб, хм? Невже так просто?"
 
 # game/script.rpy:492
 translate uk_UA intro_f0ac3430:
 
     # tv "WARNING! It is strictly prohibited by international law to bring any elf or half elf assets outside the borders of Syl'anar."
-    tv ""
+    tv "УВАГА! Суворо заборонено міжнародним законодавством транспортування будь яких цінностей ельфійського чи напівельфійського походження за межі Сил'анару."
 
 # game/script.rpy:495
 translate uk_UA intro_74d448d5:
 
     # tv "Are you an influencer, idol, politician, or simply wishing to tour Syl'anar's greatest vistas?" nointeract
-    tv "" nointeract
+    tv "Ви інфлуенсер, зірка, політик, чи просто бажаєте відвідати найкращі краєвиди Сил'анару?" nointeract
 
 # game/script.rpy:498
 translate uk_UA intro_9e629ee7:
 
     # tv "Great! Then please ask for a tour guide on your way out. Visit attractions such as: The Pyramids of Syl'tin! The tallest mountain in the world, located in our very own Syl'tali! Or perhaps the infamous brothels of Corpus city would interest you?"
-    tv ""
+    tv "Чудово! Тоді зверніться до туристичного гіду на виході. Відвідайте наступні розваги: Піраміди Сил'тіну! Найвищу гору у світі, що знаходиться у нашому Сил'талі! Чи можливо вас зацікавлять знамениті борделі Корпуса?"
 
 # game/script.rpy:499
 translate uk_UA intro_0b2e838e:
 
     # you "They've got everything, don't they?"
-    you ""
+    you "У них є все, правда?"
 
 # game/script.rpy:500
 translate uk_UA intro_25e6315f:
 
     # tv "Syl'anar is vast, and it's biogeography is diverse. Our land can accomodate you, no matter your tastes. From the jungles of Syl'tin, to the deserts of Syl'tali. Or the temperate forests of Syl'ari and tundras of Syl'osi!"
-    tv ""
+    tv "Сил'анар є величезним і його біогеографія є різноманітною. Наша земля готова вас прийняти, не залежно від ваших смаків. Від джунглів Сил'тіну до пустель Сил'талі. Чи помірні ліси Сил'арі і тундри Сил'осі!"
 
 # game/script.rpy:501
 translate uk_UA intro_38972a8b:
 
     # you "Syl'ari, that's where I'm headed."
-    you ""
+    you "Сил'арі - мені туди."
 
 # game/script.rpy:504
 translate uk_UA intro_6a5698e7:
 
     # tv "How unfortunate. But if you change your mind, please ask for a tour guide on your way out."
-    tv ""
+    tv "Що ж, жаль. Але якщо ви передумаєте, зверніться до туристичного гіду на виході."
 
 # game/script.rpy:506
 translate uk_UA intro_5032a963:
 
     # you "I'm not going to fall for any sales pitches. Better I just turn this off."
-    you ""
+    you "Я не куплюсь на рекламні пропозиції. Краще це вимкнути."
 
 # game/script.rpy:507
 translate uk_UA intro_bd4d3cfc:
 
     # "*knock, knock, knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:509
 translate uk_UA intro_dd042525:
 
     # fat "Hello~ We're so happy to have you flying on Syl-Air, sir! It will no doubt be a better place with you immigrating here!"
-    fat ""
+    fat "Доброго дня~ Ми дуже щасливі, що ви, сер, обрали авіалінії Сил-Ейр! Безсумнівно, ваша імміграція сюди зробить це місце тільки кращим!"
 
 # game/script.rpy:510
 translate uk_UA intro_598ae166:
 
     # you "How did you..."
-    you ""
+    you "Як ти..."
 
 # game/script.rpy:511
 translate uk_UA intro_5eb6a5e7:
 
     # fat "Here at Syl-Air, we make it our mission to set up immigrants for success! Are you a student? Or a business owner perhaps?"
-    fat ""
+    fat "Ми поставили собі за ціль налаштувати іммігрантів на успіх тут в Сил-Ейр! Ви студент? Чи можливо бізнесмен?"
 
 # game/script.rpy:512
 translate uk_UA intro_f53f5d93:
 
     # you "No, I- \nActually, yes. I just became a business owner. My grandfather recently passed..."
-    you ""
+    you "Ні, я- \nХоча так. Я щойно став бізнесменом. Нещодавно помер мій дідусь..."
 
 # game/script.rpy:513
 translate uk_UA intro_fa642051:
 
     # fat "Wonderful! The government would like to offer you a 15 percent discount on your first business' slave. Together with your immigration discount, that's 25 percent in total!"
-    fat ""
+    fat "Прекрасно! Уряд надає вам змогу скористатись 15-и процентною знижкою на вашого першого раба для бізнесу. Враховуючи вашу імміграційну знижку в сумі це буде складати 25 процентів!"
 
 # game/script.rpy:516
 translate uk_UA intro_f51060df:
 
     # fat "You're very welcome! Good luck!"
-    fat ""
+    fat "Ласкаво просимо і щасти вам!"
 
 # game/script.rpy:518
 translate uk_UA intro_2ab7ceba:
 
     # fat "Happy? Yes, I'm very happy!"
-    fat ""
+    fat "Щасливий? Так, я дуже щасливий!"
 
 # game/script.rpy:519
 translate uk_UA intro_24cd2c64:
 
     # you "Okay... \n{i}(There's definitely something off about her...){/i}"
-    you ""
+    you "Добре... \n{i}(З нею точно щось не те...){/i}"
 
 # game/script.rpy:521
 translate uk_UA intro_c9ac2da4:
 
     # fat "The offer remains on your account, whether you take it or not!"
-    fat ""
+    fat "Пропозиція залишиться з вами, не залежно від того приймете ви її чи ні!"
 
 # game/script.rpy:523
 translate uk_UA intro_8da668cf:
 
     # comms "*ding dong*\nHello passengers! This is your pilot speaking. We'll be landing in 5 minutes, please buckle up immediately."
-    comms ""
+    comms "*дзинь-дзилинь*\nДоброго дня пасажири! Говорить ваш пілот. Ми приземляємось через 5 хвилин, тож негайно пристібніть паски безпеки."
 
 # game/script.rpy:525
 translate uk_UA intro_4e5e025b:
 
     # fat "Time to take our seats. Enjoy your new life in Syl'anar, {i}Master...{/i}"
-    fat ""
+    fat "Час зайняти свої місця. Насолоджуйтесь вашим новим життям у Сил'анар, {i}Господарю...{/i}"
 
 # game/script.rpy:527
 translate uk_UA intro_dae0ec55:
 
     # you "..."
-    you ""
+    you "..."
 
 # game/script.rpy:529
 translate uk_UA intro_2ad58eb0:
 
     # "You arrive in Syl'anar, a strange and foreign land. But it's not pleasure that calls you here, it's business... {w}Or maybe a bit of both..."
-    ""
+    "Ви прибули у Сил'анар, чужий і незнайомий край. Але вас сюди привела не насолода, а бізнес... {w}А можливо всього потрохи..."
 
 # game/script.rpy:531
 translate uk_UA intro_66a69780:
 
     # you "So this is the place, huh? Not bad. A bit out of the way though..."
-    you ""
+    you "Тож ось це місце, хм? Непогане. Хоча трохи віддалене..."
 
 # game/script.rpy:532
 translate uk_UA intro_91265989:
