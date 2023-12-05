@@ -382,877 +382,877 @@ translate uk_UA intro_66a69780:
 translate uk_UA intro_91265989:
 
     # you "I was told the hotel is going to need some repairs to become fully operational. It looks well kept though, someone must be inside."
-    you ""
+    you "Чув, що готель потребує деякого ремонту для повноцінної роботи. На вигляд в достояному стані, гляну можливо хтось є всередині."
 
 # game/script.rpy:533
 translate uk_UA intro_ec0b7bf8:
 
     # you "Well, I better go introduce myself as the new boss."
-    you ""
+    you "Що ж, треба відрекомендуватись як новий власник."
 
 # game/script.rpy:535
 translate uk_UA intro_7069eb00:
 
     # you "Oh, that's right. Grandpa left me a letter to read when I got here..."
-    you ""
+    you "О, точно. Дідусь залишив мені листа, який я мав прочитати по приїзді..."
 
 # game/script.rpy:539
 translate uk_UA intro_11d21152:
 
     # you "He's really giving me this hotel..."
-    you ""
+    you "Він дійсно залишив мені цей готель..."
 
 # game/script.rpy:540
 translate uk_UA intro_2fd15e80:
 
     # you "Thanks Grandpa, wish I knew you better."
-    you ""
+    you "Дякую тобі дідусю, жаль, що ми не познайомились краще."
 
 # game/script.rpy:548
 translate uk_UA start2_2660a911:
 
     # q "Oh, hello. Welcome to-"
-    q ""
+    q "О, добрий день. Ласкаво просимо до-"
 
 # game/script.rpy:550
 translate uk_UA start2_f5e0482e:
 
     # q "Oh! You're him, aren't you? The new owner!"
-    q ""
+    q "О! Це ж ви, чи не так? Новий власник!"
 
 # game/script.rpy:552
 translate uk_UA start2_88b4ebf0:
 
     # q "I could recognize your grandfather's eyes anywhere! My name is Ellen, nice to finally meet you."
-    q ""
+    q "Я впізнаю очі вашого дідуся всюди! Я Елен, рада нарешті з вами познайомитись."
 
 # game/script.rpy:553
 translate uk_UA start2_4ce2d4c3:
 
     # e "What was your name again?"
-    e ""
+    e "То як вас звати?"
 
 # game/script.rpy:571
 translate uk_UA start2_68d76243:
 
     # e "[name], right. Sorry, your grandfather didn't mention you much..."
-    e ""
+    e "Звісно, [name]. Вибачайте, просто ваш дідусь не часто про вас згадував..."
 
 # game/script.rpy:572
 translate uk_UA start2_6d99bbe3:
 
     # e "Now that I think about it, you've never been here, have you? Your grandfather was a very busy man... but at least he cared enough about you to give you this place."
-    e ""
+    e "Мені на думку спало, що ви ще тут ніколи не були, вірно? Ваш дідусь був дуже зайнятою людиною... проте він подбав про те, щоб залишити вам у спадок цей готель."
 
 # game/script.rpy:574
 translate uk_UA start2_5f34b80f:
 
     # e "In case you hadn't guessed it, this place is a luxury hotel of sorts, and you're the new owner!"
-    e ""
+    e "Це є щось на подобу розкішного готелю, якщо ви ще це не усвідомили, а ви його новий власник!"
 
 # game/script.rpy:575
 translate uk_UA start2_035cf35b:
 
     # e "Each guest pays you $5 a day. So the more residents you have, the more money you will make."
-    e ""
+    e "Кожен постоялець вам буде платити $5 в день. Чим більше їх - тим більший буде ваш прибуток."
 
 # game/script.rpy:577
 translate uk_UA start2_74a73740:
 
     # e "Unfortunately... most of the maids were let go when your grandfather died. We were all so close to him... but one maid did stay, she's new too, so you may have to teach her a thing or two."
-    e ""
+    e "На жаль... майже всіх покоївок відпустили після смерті вашого дідуся. Ми були дуже сильно прив'язані до нього... але одна таки лишилась, проте вона новенька, то ж вам доведеться дечому її навчити."
 
 # game/script.rpy:579
 translate uk_UA start2_eb411d22:
 
     # e "Lin, come out now! The new owner is here!"
-    e ""
+    e "Виходь, Лін! Новий власник приїхав!"
 
 # game/script.rpy:581
 translate uk_UA start2_8e04dc5f:
 
     # l "{i}The... new owner?{/i}"
-    l ""
+    l "{i}Новий... власник?{/i}"
 
 # game/script.rpy:582
 translate uk_UA start2_f9e4fa0c:
 
     # l "...Okay."
-    l ""
+    l "...Добре."
 
 # game/script.rpy:584
 translate uk_UA start2_cc7e8303:
 
     # e "This poor elf was recently taken in as of a couple weeks ago. As I'm sure you can tell, Lin is a slave. Your slave!"
-    e ""
+    e "Ця бідолашна ельфійка була придбана всього декілька тижнів тому. Лін - рабиня, як бачите. Ваша рабиня!"
 
 # game/script.rpy:585
 translate uk_UA start2_372dd3d5:
 
     # e "And as your slave, you may have her call you whatever you would like. What would you like her to call you?"
-    e ""
+    e "І оскільки вона ваша рабиня, ви можете вимагати від неї звертатись до вас як забажаєте. То ж як їй до вас звертатись?"
 
 # game/script.rpy:592
 translate uk_UA start2_3b222a09:
 
     # r "You've unlocked some special dialog ;)"
-    r ""
+    r "Ви відкрили особливий діалог ;)"
 
 # game/script.rpy:593
 translate uk_UA start2_7d2e64e7:
 
     # e "Ohh~ Daddy? Well that's kinky. But who am I to say otherwise."
-    e ""
+    e "О~ Татку? Що ж, це дивно. Але хто я така, щоб вам вказувати."
 
 # game/script.rpy:594
 translate uk_UA start2_f0d16405:
 
     # e "Lin, you'll be calling him Daddy from now on. Understand?"
-    e ""
+    e "Лін, від тепер звертайся до нього Татку. Зрозуміла?"
 
 # game/script.rpy:595
 translate uk_UA start2_361aaa69:
 
     # l "D-Daddy...? But you're not my father..."
-    l ""
+    l "Т-Татку...? Але ж ви не мій батько..."
 
 # game/script.rpy:596
 translate uk_UA start2_211a2ee4:
 
     # e "Lin..."
-    e ""
+    e "Лін..."
 
 # game/script.rpy:597
 translate uk_UA start2_79e86c7a:
 
     # l "Nnn... Okay, I'll call you Daddy..."
-    l ""
+    l "М... Добре, буду звертатись до вас Татку..."
 
 # game/script.rpy:599
 translate uk_UA start2_e7211d5b:
 
     # e "Very well, Lin, you'll be calling him by his name from now on. Understand?"
-    e ""
+    e "Добре, Лін, від тепер звертайся до нього за іменем. Зрозуміла?"
 
 # game/script.rpy:600
 translate uk_UA start2_a6ff1fe6:
 
     # l "By your name...? Um... Okay [linoname]."
-    l ""
+    l "За вашим іменем? М... Добре [linoname]."
 
 # game/script.rpy:602
 translate uk_UA start2_35f49707:
 
     # e "Very well, Lin, you'll be calling him [linoname] from now on. Understand?"
-    e ""
+    e "Добре, Лін, від тепер звертайся до нього як [linoname]. Зрозуміла?"
 
 # game/script.rpy:603
 translate uk_UA start2_7925567d:
 
     # l "Yes, I will call you [linoname]."
-    l ""
+    l "Так, буду звертатись до вас як [linoname]."
 
 # game/script.rpy:636
 translate uk_UA start2_88492ccb:
 
     # e "Feel free to use her however you would like. She may not be the best cook, but she can be useful in... other areas."
-    e ""
+    e "Ні в чому собі не відмовляйте з нею. Вона хоча і не є хорошим поваром, проте може бути корисна в... інших сферах."
 
 # game/script.rpy:637
 translate uk_UA start2_ec06078f:
 
     # e "You'll do whatever he says, right Lin?"
-    e ""
+    e "Ти будеш робити все, що він накаже, так Лін?"
 
 # game/script.rpy:638
 translate uk_UA start2_b9e33e06:
 
     # l "Yes [linoname], whatever you need."
-    l ""
+    l "Так [linoname], все що накажете."
 
 # game/script.rpy:640
 translate uk_UA start2_0961e477:
 
     # e "Now run off to the kitchen, Lin. Why don't you cook [linoname] something nice?"
-    e ""
+    e "Тепер, Лін, біжи на кухню. Чому б тобі не спекти [linoname] щось смачне?"
 
 # game/script.rpy:642
 translate uk_UA start2_34f2089e:
 
     # e "Now run off to the kitchen, Lin. Why don't you cook your new [linoname] something nice?"
-    e ""
+    e "Тепер, Лін, біжи на кухню. Чому б тобі не спекти твоєму новому [linoname] щось смачне?"
 
 # game/script.rpy:643
 translate uk_UA start2_636e40a3:
 
     # e "And sweetie... don't burn it this time..."
-    e ""
+    e "І сонечко... не спали цього разу нічого..."
 
 # game/script.rpy:644
 translate uk_UA start2_91175aec:
 
     # l "Yes ma'am..."
-    l ""
+    l "Так пані..."
 
 # game/script.rpy:646
 translate uk_UA start2_e7e2d655:
 
     # e "I'm so happy to have you with us, [name]! I'm sure you'll turn this hotel into something amazing!"
-    e ""
+    e "[name], я так рада, що ви тепер з нами! Я впевнена, що ви зробите з цього готелю цукерочку!"
 
 # game/script.rpy:647
 translate uk_UA start2_5a3133a2:
 
     # e "Oh, that reminds me... we do have one guest currently living here. I believe her name was... Kali? She joined yesterday."
-    e ""
+    e "О, щойно згадала... в нас вже є один постоялець. Якщо не помиляюсь її звати... Калі? Вона вчора поселилась."
 
 # game/script.rpy:648
 translate uk_UA start2_34c3dba4:
 
     # e "Why don't you go introduce yourself? She lives on the first floor, room 2."
-    e ""
+    e "Чому б вам не піти і представитись? Вона живе на другому поверсі, кімната 2."
 
 # game/script.rpy:649
 translate uk_UA start2_de3957be:
 
     # e "You should talk to Lin as well, she works in the kitchen each morning and noon. Otherwise, she's usually in her room."
-    e ""
+    e "Також поговоріть з Лін, вона працює на кухні з ранку до обіду. В інший час Лін можна знайти в її кімнаті."
 
 # game/script.rpy:650
 translate uk_UA start2_53aa19aa:
 
     # e "As for me, you can find me right here. I'm here all day."
-    e ""
+    e "Щодо мене, я цілий день знаходжусь тут, на рецепції."
 
 # game/script.rpy:651
 translate uk_UA start2_a4fb49ed:
 
     # e "Enjoy your new hotel, [name]! I'll be seeing you."
-    e ""
+    e "[name], насолоджуйтесь вашим новим надбанням! Ще побачимось."
 
 # game/script.rpy:653
 translate uk_UA start2_9f87b393:
 
     # "TIP: Some side content is locked and hidden behind character stats and traits, such as training, outfits, and more. So be sure to check back on characters often."
-    ""
+    "Порада: Деякий другорядний контент, такий як тренування, одяг, тощо, прихований за характеристиками та рисами персонажів. Тож регулярно відвідуйте ваших постояльців."
 
 # game/script.rpy:654
 translate uk_UA start2_0383b281:
 
     # "TIP: 'Talk' dialogue choices on the doors to character's rooms are story events. Story events appear after a short cooldown, and character stats and traits are not required. Have fun!"
-    ""
+    "Порада: Вибір 'Поговорити' на дверях до кімнат постояльців веде до сюжетних подій. Сюжетні події появляться після невеликої перерви і для них не потрібно буде ніяких характеристик чи рис персонажів. Розважайтесь!"
 
 # game/script.rpy:679
 translate uk_UA start2_2fbbce15:
 
     # "TIP: Some things are locked and hidden behind character stats and traits, such as events, outfits, and more. So be sure to check on characters often."
-    ""
+    "Порада: Деякі речі, такі як події, одяг, тощо, приховані за характеристиками та рисами персонажів. Тож регулярно відвідуйте ваших постояльців."
 
 # game/script.rpy:680
 translate uk_UA start2_4738f380:
 
     # "TIP: 'Talk' dialogue choices on the doors to character's rooms are unique events. Have fun!"
-    ""
+    "Порада: Вибір 'Поговорити' на дверях до кімнат постояльців веде до особливих подій. Розважайтесь!"
 
 # game/script.rpy:698
 translate uk_UA advanceday_56f4aa1b:
 
     # a "Hey, going to sleep?"
-    a ""
+    a "Ей, ти збираєшся спати?"
 
 # game/script.rpy:699
 translate uk_UA advanceday_02e373a5:
 
     # c "I was."
-    c ""
+    c "Так, збирався."
 
 # game/script.rpy:700
 translate uk_UA advanceday_54e79446:
 
     # a "Instead of that, why don't you follow me?"
-    a ""
+    a "Чому б тобі краще не піти за мною?"
 
 # game/script.rpy:701
 translate uk_UA advanceday_14901c18:
 
     # c "At this time of night?"
-    c ""
+    c "Посеред ночі?"
 
 # game/script.rpy:702
 translate uk_UA advanceday_97016968:
 
     # a "Mhm."
-    a ""
+    a "Угу."
 
 # game/script.rpy:703
 translate uk_UA advanceday_e96098cb:
 
     # c "Where would we go?"
-    c ""
+    c "І куди ми підем?"
 
 # game/script.rpy:704
 translate uk_UA advanceday_07082a0c:
 
     # a "To a special place of mine."
-    a ""
+    a "В одне моє особливе місце."
 
 # game/script.rpy:705
 translate uk_UA advanceday_5eb5b5bc:
 
     # c "I'm going to need directions to drive there."
-    c ""
+    c "Мені потрібний буде маршрут, щоб туди доїхати."
 
 # game/script.rpy:706
 translate uk_UA advanceday_6267f0ee:
 
     # a "We'll be walking, silly."
-    a ""
+    a "Дурненький, ми туди підем пішки."
 
 # game/script.rpy:707
 translate uk_UA advanceday_14901c18_1:
 
     # c "At this time of night?"
-    c ""
+    c "Посеред ночі?"
 
 # game/script.rpy:710
 translate uk_UA advanceday_e6df983b:
 
     # a "You already said that, what are you so scared of?"
-    a ""
+    a "Ти повторюєшся, боїшся чогось?"
 
 # game/script.rpy:711
 translate uk_UA advanceday_0b3d70fe:
 
     # c "I'm scared of going outside in the middle of the night with my crazy girlfriend who keeps her knife in an unspecified location."
-    c ""
+    c "Я боюсь іти на вулицю посеред ночі з моєю зхибленою подругою, яка постійно тримає десь біля себе ніж."
 
 # game/script.rpy:714
 translate uk_UA advanceday_294e16f3:
 
     # a "You're funny..."
-    a ""
+    a "А ти смішний..."
 
 # game/script.rpy:715
 translate uk_UA advanceday_5672c80c:
 
     # a "Come on already!"
-    a ""
+    a "Та йдем!"
 
 # game/script.rpy:716
 translate uk_UA advanceday_eec7ed34:
 
     # c "Alright..."
-    c ""
+    c "Ну добре..."
 
 # game/script.rpy:727
 translate uk_UA advancedaymenu_24a54e89:
 
     # c "I want you to wake me up every morning with a blowjob."
-    c ""
+    c "Будеш мене будити кожного ранку мінетом."
 
 # game/script.rpy:730
 translate uk_UA advancedaymenu_554c0125:
 
     # l "[linoname]... I would really prefer not to..."
-    l ""
+    l "[linoname]... Я цього не хочу..."
 
 # game/script.rpy:734
 translate uk_UA advancedaymenu_91f54ec9:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Мені треба більше зблизитись з нею."
 
 # game/script.rpy:739
 translate uk_UA advancedaymenu_32ffad71:
 
     # "I already have Lin and [botname] as my alarm."
-    ""
+    "Лін і [botname] вже є моїми будильниками."
 
 # game/script.rpy:742
 translate uk_UA advancedaymenu_038aa701:
 
     # "I already have [botname] as my alarm."
-    ""
+    "[botname] вже є моїм будильником."
 
 # game/script.rpy:745
 translate uk_UA advancedaymenu_842862bf:
 
     # "I already have Felicity & Emma as my alarm."
-    ""
+    "Фелісіті і Емма вже є моїми будильниками."
 
 # game/script.rpy:748
 translate uk_UA advancedaymenu_84d6ef1d:
 
     # "I already have Sylvia as my alarm."
-    ""
+    "Сильвія вже є моїм будильником."
 
 # game/script.rpy:752
 translate uk_UA advancedaymenu_24a54e89_1:
 
     # c "I want you to wake me up every morning with a blowjob."
-    c ""
+    c "Будеш мене будити кожного ранку мінетом."
 
 # game/script.rpy:753
 translate uk_UA advancedaymenu_029755c0:
 
     # l "Okay [linoname]!"
-    l ""
+    l "Добре [linoname]!"
 
 # game/script.rpy:759
 translate uk_UA advancedaymenu_5d400270:
 
     # c "I want you to stop waking me up every morning."
-    c ""
+    c "Більше не буди мене зранку."
 
 # game/script.rpy:760
 translate uk_UA advancedaymenu_e12b3157:
 
     # l "Yes [linoname]."
-    l ""
+    l "Так [linoname]."
 
 # game/script.rpy:777
 translate uk_UA advancedaymenu_32ffad71_1:
 
     # "I already have Lin and [botname] as my alarm."
-    ""
+    "Лін і [botname] вже є моїми будильниками."
 
 # game/script.rpy:780
 translate uk_UA advancedaymenu_0069e6e2:
 
     # "I already have Lin as my alarm."
-    ""
+    "Лін вже є моїм будильником."
 
 # game/script.rpy:783
 translate uk_UA advancedaymenu_842862bf_1:
 
     # "I already have Felicity & Emma as my alarm."
-    ""
+    "Фелісіті і Емма вже є моїми будильниками."
 
 # game/script.rpy:786
 translate uk_UA advancedaymenu_84d6ef1d_1:
 
     # "I already have Sylvia as my alarm."
-    ""
+    "Сильвія вже є моїм будильником."
 
 # game/script.rpy:790
 translate uk_UA advancedaymenu_ed9e62f3:
 
     # c "I want you to wake me up every morning with a handjob."
-    c ""
+    c "Будеш мене будити кожного ранку мастурбацією."
 
 # game/script.rpy:791
 translate uk_UA advancedaymenu_731a9a42:
 
     # bot "Okay [botown]!"
-    bot ""
+    bot "Добре [botown]!"
 
 # game/script.rpy:797
 translate uk_UA advancedaymenu_5d400270_1:
 
     # c "I want you to stop waking me up every morning."
-    c ""
+    c "Більше не буди мене зранку."
 
 # game/script.rpy:798
 translate uk_UA advancedaymenu_9ee88edb:
 
     # bot "Okay."
-    bot ""
+    bot "Добре."
 
 # game/script.rpy:827
 translate uk_UA advancedaymenu_0069e6e2_1:
 
     # "I already have Lin as my alarm."
-    ""
+    "Лін вже є моїм будильником."
 
 # game/script.rpy:830
 translate uk_UA advancedaymenu_842862bf_2:
 
     # "I already have Felicity & Emma as my alarm."
-    ""
+    "Фелісіті і Емма вже є моїми будильниками."
 
 # game/script.rpy:833
 translate uk_UA advancedaymenu_038aa701_1:
 
     # "I already have [botname] as my alarm."
-    ""
+    "[botname] вже є моїм будильником."
 
 # game/script.rpy:836
 translate uk_UA advancedaymenu_84d6ef1d_2:
 
     # "I already have Sylvia as my alarm."
-    ""
+    "Сильвія вже є моїм будильником."
 
 # game/script.rpy:842
 translate uk_UA advancedaymenu_8fe13a78:
 
     # c "I want you two to wake me up every morning with a blowjob."
-    c ""
+    c "Будете обидві мене будити кожного ранку мінетом."
 
 # game/script.rpy:843
 translate uk_UA advancedaymenu_7de9f947:
 
     # l "We can do that!"
-    l ""
+    l "Це ми можемо!"
 
 # game/script.rpy:844
 translate uk_UA advancedaymenu_731a9a42_1:
 
     # bot "Okay [botown]!"
-    bot ""
+    bot "Добре [botown]!"
 
 # game/script.rpy:854
 translate uk_UA advancedaymenu_a7f7d1fa:
 
     # c "I want you two to stop waking me up every morning."
-    c ""
+    c "Більше не будіть мене зранку."
 
 # game/script.rpy:855
 translate uk_UA advancedaymenu_c6285f19:
 
     # l "Very well."
-    l ""
+    l "Домовились."
 
 # game/script.rpy:856
 translate uk_UA advancedaymenu_9ee88edb_1:
 
     # bot "Okay."
-    bot ""
+    bot "Добре."
 
 # game/script.rpy:866
 translate uk_UA advancedaymenu_32ffad71_2:
 
     # "I already have Lin and [botname] as my alarm."
-    ""
+    "Лін і [botname] вже є моїми будильниками."
 
 # game/script.rpy:869
 translate uk_UA advancedaymenu_0069e6e2_2:
 
     # "I already have Lin as my alarm."
-    ""
+    "Лін вже є моїм будильником."
 
 # game/script.rpy:872
 translate uk_UA advancedaymenu_038aa701_2:
 
     # "I already have [botname] as my alarm."
-    ""
+    "[botname] вже є моїм будильником."
 
 # game/script.rpy:875
 translate uk_UA advancedaymenu_84d6ef1d_3:
 
     # "I already have Sylvia as my alarm."
-    ""
+    "Сильвія вже є моїм будильником."
 
 # game/script.rpy:881
 translate uk_UA advancedaymenu_24a54e89_2:
 
     # c "I want you to wake me up every morning with a blowjob."
-    c ""
+    c "Будеш мене будити кожного ранку мінетом."
 
 # game/script.rpy:882
 translate uk_UA advancedaymenu_7cff55e6:
 
     # f "Sounds fun!"
-    f ""
+    f "Звучить весело!"
 
 # game/script.rpy:883
 translate uk_UA advancedaymenu_a167e50d:
 
     # em "Okay!"
-    em ""
+    em "Добре!"
 
 # game/script.rpy:893
 translate uk_UA advancedaymenu_83ec5151:
 
     # f "Fine..."
-    f ""
+    f "Гаразд..."
 
 # game/script.rpy:894
 translate uk_UA advancedaymenu_75083dcd:
 
     # em "I was kinda having fun, but... okay."
-    em ""
+    em "Я тут роззважалась, але... ну добре."
 
 # game/script.rpy:903
 translate uk_UA advancedaymenu_32ffad71_3:
 
     # "I already have Lin and [botname] as my alarm."
-    ""
+    "Лін і [botname] вже є моїми будильниками."
 
 # game/script.rpy:906
 translate uk_UA advancedaymenu_0069e6e2_3:
 
     # "I already have Lin as my alarm."
-    ""
+    "Лін вже є моїм будильником."
 
 # game/script.rpy:909
 translate uk_UA advancedaymenu_038aa701_3:
 
     # "I already have [botname] as my alarm."
-    ""
+    "[botname] вже є моїм будильником."
 
 # game/script.rpy:912
 translate uk_UA advancedaymenu_842862bf_3:
 
     # "I already have Felicity & Emma as my alarm."
-    ""
+    "Фелісіті і Емма вже є моїми будильниками."
 
 # game/script.rpy:916
 translate uk_UA advancedaymenu_24a54e89_3:
 
     # c "I want you to wake me up every morning with a blowjob."
-    c ""
+    c "Будеш мене будити кожного ранку мінетом."
 
 # game/script.rpy:917
 translate uk_UA advancedaymenu_259e9597:
 
     # syl "Fine..."
-    syl ""
+    syl "Гаразд..."
 
 # game/script.rpy:923
 translate uk_UA advancedaymenu_16d67f66:
 
     # syl "Is all you called me for? Good."
-    syl ""
+    syl "Це все що ти від мене хотів? Добре."
 
 # game/script.rpy:935
 translate uk_UA advancedaymenu_971351af:
 
     # "I'm not tired enough to sleep."
-    ""
+    "Я ще повний сил, щоб спати."
 
 # game/script.rpy:944
 translate uk_UA sleepwithsomeone_f7d9de3f:
 
     # c "Let's sleep together."
-    c ""
+    c "Йдем спати разом."
 
 # game/script.rpy:945
 translate uk_UA sleepwithsomeone_978e1d99:
 
     # l "Okay!"
-    l ""
+    l "Добре!"
 
 # game/script.rpy:956
 translate uk_UA sleepwithsomeone_f7d9de3f_1:
 
     # c "Let's sleep together."
-    c ""
+    c "Йдем спати разом."
 
 # game/script.rpy:957
 translate uk_UA sleepwithsomeone_04bdcbac:
 
     # k "Oh, okay!"
-    k ""
+    k "О, добре!"
 
 # game/script.rpy:962
 translate uk_UA sleepwithsomeone_f7d9de3f_2:
 
     # c "Let's sleep together."
-    c ""
+    c "Йдем спати разом."
 
 # game/script.rpy:963
 translate uk_UA sleepwithsomeone_cf23c3dc:
 
     # a "Yay!"
-    a ""
+    a "Ура!"
 
 # game/script.rpy:968
 translate uk_UA sleepwithsomeone_f7d9de3f_3:
 
     # c "Let's sleep together."
-    c ""
+    c "Йдем спати разом."
 
 # game/script.rpy:969
 translate uk_UA sleepwithsomeone_e8c493cd:
 
     # m "Awesome!"
-    m ""
+    m "Чудово!"
 
 # game/script.rpy:975
 translate uk_UA sleepwithsomeone_f7d9de3f_4:
 
     # c "Let's sleep together."
-    c ""
+    c "Йдем спати разом."
 
 # game/script.rpy:976
 translate uk_UA sleepwithsomeone_9a02a6fc:
 
     # bot "I would love to!"
-    bot ""
+    bot "З задоволенням!"
 
 # game/script.rpy:980
 translate uk_UA sleepwithsomeone_f7d9de3f_5:
 
     # c "Let's sleep together."
-    c ""
+    c "Йдем спати разом."
 
 # game/script.rpy:981
 translate uk_UA sleepwithsomeone_053432b7:
 
     # bot "Okay!"
-    bot ""
+    bot "Добре!"
 
 # game/script.rpy:986
 translate uk_UA sleepwithsomeone_f7d9de3f_6:
 
     # c "Let's sleep together."
-    c ""
+    c "Йдем спати разом."
 
 # game/script.rpy:987
 translate uk_UA sleepwithsomeone_f273e2bb:
 
     # f "Alright."
-    f ""
+    f "Домовились."
 
 # game/script.rpy:992
 translate uk_UA sleepwithsomeone_f7d9de3f_7:
 
     # c "Let's sleep together."
-    c ""
+    c "Йдем спати разом."
 
 # game/script.rpy:993
 translate uk_UA sleepwithsomeone_7d03f61d:
 
     # em "Perfect timing. I was just about to go to bed too."
-    em ""
+    em "Як вчасно. Я якраз зібралась спати."
 
 # game/script.rpy:999
 translate uk_UA sleepwithsomeone_a403f657:
 
     # l "Are you getting tired, [linoname]...?"
-    l ""
+    l "[linoname], втомилися...?"
 
 # game/script.rpy:1000
 translate uk_UA sleepwithsomeone_5e6f483c:
 
     # bot "We can snuggle~"
-    bot ""
+    bot "Можемо обійнятись~"
 
 # game/script.rpy:1006
 translate uk_UA sleepwithsomeone_68e277c5:
 
     # em "Need someone to keep you warm?"
-    em ""
+    em "Хочеш тебе зігрію?"
 
 # game/script.rpy:1007
 translate uk_UA sleepwithsomeone_27bb01d7:
 
     # f "We can join you..."
-    f ""
+    f "Ми хочемо до тебе..."
 
 # game/script.rpy:1010
 translate uk_UA sleepwithsomeone_62213eb1:
 
     # "Not yet implemented."
-    ""
+    "Ще не реалізовано."
 
 # game/script.rpy:1722
 translate uk_UA lobby2_42fb1d18:
 
     # bot "Good morning [botown]~"
-    bot ""
+    bot "Доброго ранку [botown]~"
 
 # game/script.rpy:1724
 translate uk_UA lobby2_c9680a30:
 
     # bot "Hello [botown]!"
-    bot ""
+    bot "Привіт [botown]!"
 
 # game/script.rpy:1726
 translate uk_UA lobby2_522e2bb5:
 
     # bot "Having a good day [botown]?"
-    bot ""
+    bot "[botown], як твій день?"
 
 # game/script.rpy:1728
 translate uk_UA lobby2_f6031e2f:
 
     # bot "It's raining..."
-    bot ""
+    bot "Дощ падає..."
 
 # game/script.rpy:1730
 translate uk_UA lobby2_2c23083b:
 
     # bot "Hello [botown]... I really like the cow outfit you bought me! Oh! And the cat outfit too!"
-    bot ""
+    bot "Привіт [botown]... мені дуже сподобався костюм корівки, що ти купив! О! Костюм кішечки також!"
 
 # game/script.rpy:1731
 translate uk_UA lobby2_72495d6f:
 
     # bot "I can't decide which is better..."
-    bot ""
+    bot "Не можу вирішити який з них кращий..."
 
 # game/script.rpy:1733
 translate uk_UA lobby2_49602c40:
 
     # bot "Like what I'm wearing? It's so slutty..."
-    bot ""
+    bot "Як тобі мій вигляд? Такий розпусний..."
 
 # game/script.rpy:1735
 translate uk_UA lobby2_8ed4e2a6:
 
     # bot "It's so sunny..."
-    bot ""
+    bot "Так сонячно..."
 
 # game/script.rpy:1737
 translate uk_UA lobby2_76f15520:
 
     # bot "[botown]! Can we go back to the city some time? It was so fun!"
-    bot ""
+    bot "[botown]! Нам треба частіше виходити в місто, що скажеш? Було весело!"
 
 # game/script.rpy:1739
 translate uk_UA lobby2_369b534f:
 
     # bot "[botown]... My tits jiggle a lot in this outfit you know..."
-    bot ""
+    bot "[botown]... Дивись, як сильно мої груди гойдаються в цьому костюмі..."
 
 # game/script.rpy:1742
 translate uk_UA lobby2_9991c225:
 
     # bot "Oh, sure! I'll change in to something more comfortable and be right down."
-    bot ""
+    bot "О, звичайно! Я щвиденько надіну щось зручне і спущусь."
 
 # game/script.rpy:1745
 translate uk_UA lobby2_362eb8ee:
 
     # bot "Well, I'm not really hungry... But I wouldn't mind spending time with you!"
-    bot ""
+    bot "Ну, я насправді не голодна... Але не проти провести з тобою час!"
 
 # game/script.rpy:1747
 translate uk_UA lobby2_668060df:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в кафе..."
 
 # game/script.rpy:1749
 translate uk_UA lobby2_9521072d:
 
     # bot "So what are you going to get [botown]?"
-    bot ""
+    bot "То що ти, [botown], замовиш?"
 
 # game/script.rpy:1751
 translate uk_UA lobby2_b69b4539:
 
     # "You order some to eat. You make small talk and eventually finish your meal."
-    ""
+    "Ви щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:1753
 translate uk_UA lobby2_20868fff:
 
     # bot "It was fun! Did you enjoy your food?"
-    bot ""
+    bot "Було весело! Як їда, було смачно?"
 
 # game/script.rpy:1760
 translate uk_UA lobby2_6c197210:
 
     # bot "Hmmm... Oh! Let's watch TV!"
-    bot ""
+    bot "Хм... О! Давай подивимся, що там по телебаченню!"
 
 # game/script.rpy:1763
 translate uk_UA lobby2_6243348c:
 
     # bot "I want to visit the cafe! Can you take me [botown]?"
-    bot ""
+    bot "Я хочу в кафе! [botown] повезеш мене туди?"
 
 # game/script.rpy:1766
 translate uk_UA lobby2_362eb8ee_1:
