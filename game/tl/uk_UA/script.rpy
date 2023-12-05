@@ -1258,355 +1258,355 @@ translate uk_UA lobby2_6243348c:
 translate uk_UA lobby2_362eb8ee_1:
 
     # bot "Well, I'm not really hungry... But I wouldn't mind spending time with you!"
-    bot ""
+    bot "Ну, я насправді не голодна... Але не проти провести з тобою час!"
 
 # game/script.rpy:1768
 translate uk_UA lobby2_668060df_1:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в кафе..."
 
 # game/script.rpy:1770
 translate uk_UA lobby2_9521072d_1:
 
     # bot "So what are you going to get [botown]?"
-    bot ""
+    bot "То що ти, [botown], замовиш?"
 
 # game/script.rpy:1772
 translate uk_UA lobby2_b69b4539_1:
 
     # "You order some to eat. You make small talk and eventually finish your meal."
-    ""
+    "Ви щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:1774
 translate uk_UA lobby2_20868fff_1:
 
     # bot "It was fun! Did you enjoy your food?"
-    bot ""
+    bot "Було весело! Як їда, було смачно?"
 
 # game/script.rpy:1779
 translate uk_UA lobby2_66d4d084:
 
     # bot "Oh... Okay [linoname]."
-    bot ""
+    bot "О... Добре [linoname]."
 
 # game/script.rpy:1782
 translate uk_UA lobby2_6c197210_1:
 
     # bot "Hmmm... Oh! Let's watch TV!"
-    bot ""
+    bot "Хм... О! Давай подивимся, що там по телебаченню!"
 
 # game/script.rpy:1785
 translate uk_UA lobby2_f5c82de8:
 
     # bot "You're funny [botown]..."
-    bot ""
+    bot "[botown], а ти смішний..."
 
 # game/script.rpy:1789
 translate uk_UA lobby2_a41cdb04:
 
     # bot "Okay [botown]~"
-    bot ""
+    bot "Добре, [botown]~"
 
 # game/script.rpy:1800
 translate uk_UA lobby2_8a82bb4a:
 
     # bot "Good morning [botown]!"
-    bot ""
+    bot "Добрий ранок, [botown]!"
 
 # game/script.rpy:1802
 translate uk_UA lobby2_c9680a30_1:
 
     # bot "Hello [botown]!"
-    bot ""
+    bot "Привіт, [botown]!"
 
 # game/script.rpy:1804
 translate uk_UA lobby2_522e2bb5_1:
 
     # bot "Having a good day [botown]?"
-    bot ""
+    bot "Як твій день, [botown]?"
 
 # game/script.rpy:1806
 translate uk_UA lobby2_f6031e2f_1:
 
     # bot "It's raining..."
-    bot ""
+    bot "Дощ падає..."
 
 # game/script.rpy:1808
 translate uk_UA lobby2_2c23083b_1:
 
     # bot "Hello [botown]... I really like the cow outfit you bought me! Oh! And the cat outfit too!"
-    bot ""
+    bot "Привіт [botown]... мені дуже сподобався костюм корівки, що ти купив! О! Костюм кішечки також!"
 
 # game/script.rpy:1809
 translate uk_UA lobby2_72495d6f_1:
 
     # bot "I can't decide which is better..."
-    bot ""
+    bot "Не можу вирішити який з них кращий..."
 
 # game/script.rpy:1811
 translate uk_UA lobby2_39417d3f:
 
     # bot "Hehe... I'm not wearing anything!"
-    bot ""
+    bot "Хіхі... А на мені нічого немає!"
 
 # game/script.rpy:1813
 translate uk_UA lobby2_8ed4e2a6_1:
 
     # bot "It's so sunny..."
-    bot ""
+    bot "Так сонячно..."
 
 # game/script.rpy:1815
 translate uk_UA lobby2_76f15520_1:
 
     # bot "[botown]! Can we go back to the city some time? It was so fun!"
-    bot ""
+    bot "[botown]! Нам треба частіше виходити в місто, що скажеш? Було весело!"
 
 # game/script.rpy:1817
 translate uk_UA lobby2_d9dd22ef:
 
     # bot "Wearing nothing is really embarrassing! It makes me wet..."
-    bot ""
+    bot "Ходити голою дуже соромно! Я аж потекла..."
 
 # game/script.rpy:1820
 translate uk_UA lobby2_d8a24345:
 
     # bot "Oh, sure! I'll put some clothes on and be right down, heheh..."
-    bot ""
+    bot "О, звичайно! Я швиденько надіну щось і спущусь, хіхі..."
 
 # game/script.rpy:1823
 translate uk_UA lobby2_362eb8ee_2:
 
     # bot "Well, I'm not really hungry... But I wouldn't mind spending time with you!"
-    bot ""
+    bot "Ну, я насправді не голодна... Але не проти провести з тобою час!"
 
 # game/script.rpy:1825
 translate uk_UA lobby2_668060df_2:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в кафе..."
 
 # game/script.rpy:1827
 translate uk_UA lobby2_9521072d_2:
 
     # bot "So what are you going to get [botown]?"
-    bot ""
+    bot "То що ти, [botown], замовиш?"
 
 # game/script.rpy:1829
 translate uk_UA lobby2_b69b4539_2:
 
     # "You order some to eat. You make small talk and eventually finish your meal."
-    ""
+    "Ви щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:1831
 translate uk_UA lobby2_20868fff_2:
 
     # bot "It was fun! Did you enjoy your food?"
-    bot ""
+    bot "Було весело! Як їда, було смачно?"
 
 # game/script.rpy:1838
 translate uk_UA lobby2_6c197210_2:
 
     # bot "Hmmm... Oh! Let's watch TV!"
-    bot ""
+    bot "Хм... О! Давай подивимся, що там по телебаченню!"
 
 # game/script.rpy:1841
 translate uk_UA lobby2_6243348c_1:
 
     # bot "I want to visit the cafe! Can you take me [botown]?"
-    bot ""
+    bot "Я хочу в кафе! [botown] повезеш мене туди?"
 
 # game/script.rpy:1844
 translate uk_UA lobby2_362eb8ee_3:
 
     # bot "Well, I'm not really hungry... But I wouldn't mind spending time with you!"
-    bot ""
+    bot "Ну, я насправді не голодна... Але не проти провести з тобою час!"
 
 # game/script.rpy:1846
 translate uk_UA lobby2_668060df_3:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в кафе..."
 
 # game/script.rpy:1848
 translate uk_UA lobby2_9521072d_3:
 
     # bot "So what are you going to get [botown]?"
-    bot ""
+    bot "То що ти, [botown], замовиш?"
 
 # game/script.rpy:1850
 translate uk_UA lobby2_b69b4539_3:
 
     # "You order some to eat. You make small talk and eventually finish your meal."
-    ""
+    "Ви щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:1852
 translate uk_UA lobby2_20868fff_3:
 
     # bot "It was fun! Did you enjoy your food?"
-    bot ""
+    bot "Було весело! Як їда, було смачно?"
 
 # game/script.rpy:1857
 translate uk_UA lobby2_0822ebd1:
 
     # bot "Oh... Okay [botown]."
-    bot ""
+    bot "О... Добре [botown]."
 
 # game/script.rpy:1860
 translate uk_UA lobby2_6c197210_3:
 
     # bot "Hmmm... Oh! Let's watch TV!"
-    bot ""
+    bot "Хм... О! Давай подивимся, що там по телебаченню!"
 
 # game/script.rpy:1863
 translate uk_UA lobby2_f5c82de8_1:
 
     # bot "You're funny [botown]..."
-    bot ""
+    bot "[botown], а ти смішний..."
 
 # game/script.rpy:1867
 translate uk_UA lobby2_a41cdb04_1:
 
     # bot "Okay [botown]~"
-    bot ""
+    bot "Добре, [botown]~"
 
 # game/script.rpy:1879
 translate uk_UA lobby2_4be16191:
 
     # l "Hello [linoname]..."
-    l ""
+    l "Привіт, [linoname]..."
 
 # game/script.rpy:1881
 translate uk_UA lobby2_3a631fdd:
 
     # l "Hello!"
-    l ""
+    l "Привіт!"
 
 # game/script.rpy:1883
 translate uk_UA lobby2_c761afff:
 
     # l "Would you like me to cook something for you [linoname]?"
-    l ""
+    l "[linoname], хочете я щось приготую вам?"
 
 # game/script.rpy:1885
 translate uk_UA lobby2_15f66a9b:
 
     # l "I love the rain... It's so calming."
-    l ""
+    l "Обожнюю дощ... Так заспокоює."
 
 # game/script.rpy:1887
 translate uk_UA lobby2_5fa99b38:
 
     # l "Can we do it in the butt today [linoname]?"
-    l ""
+    l "[linoname], давайте сьогодні спробуємо в попку?"
 
 # game/script.rpy:1889
 translate uk_UA lobby2_f8e48d1a:
 
     # l "We should go somewhere to eat today!"
-    l ""
+    l "Сходимо сьогодні кудись поїсти!"
 
 # game/script.rpy:1891
 translate uk_UA lobby2_c72ea88e:
 
     # l "So much to clean..."
-    l ""
+    l "Стільки треба прибирати..."
 
 # game/script.rpy:1893
 translate uk_UA lobby2_b066788f:
 
     # l "Hmmm.... [linoname]! My pussy..."
-    l ""
+    l "Хм... [linoname]! Моя пісічка..."
 
 # game/script.rpy:1895
 translate uk_UA lobby2_bded1f7c:
 
     # l "Hmmm... I wish it would rain soon..."
-    l ""
+    l "Хм... Хочеться дощу..."
 
 # game/script.rpy:1897
 translate uk_UA lobby2_72b6765c:
 
     # l "Oh, [linoname]~..."
-    l ""
+    l "О, [linoname]~..."
 
 # game/script.rpy:1900
 translate uk_UA lobby2_39e43dc6:
 
     # l "Oh, Okay. I'll change and be right down!"
-    l ""
+    l "О, добре. Я передінусь і вже спускаюсь!"
 
 # game/script.rpy:1903
 translate uk_UA lobby2_0a6ec564:
 
     # l "*gasp*! Really? Of course! Let me get dressed, I can't wait!"
-    l ""
+    l "*вдих*! Серйозно? Звичайно! Дозвольте мені вдягнутися, не можу дочекатись!"
 
 # game/script.rpy:1905
 translate uk_UA lobby2_668060df_4:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в кафе..."
 
 # game/script.rpy:1907
 translate uk_UA lobby2_34fac3c7:
 
     # l "What should I get [linoname]? A cookie? A sandwich? I can't decide!"
-    l ""
+    l "[linoname], що мені обрати? Печивко? Сендвіч? Не можу вибрати!"
 
 # game/script.rpy:1909
 translate uk_UA lobby2_370dae91:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Ви обоє щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:1911
 translate uk_UA lobby2_394060cd:
 
     # l "Ahh, that was amazing!"
-    l ""
+    l "А, це будо неймовірно!"
 
 # game/script.rpy:1916
 translate uk_UA lobby2_b1c88753:
 
     # l "Oh, sure! I'll get dressed right now!"
-    l ""
+    l "О, звичайно! Вже біжу перевдягатись!"
 
 # game/script.rpy:1919
 translate uk_UA lobby2_951bbbe9:
 
     # l "What should we do [linoname]?"
-    l ""
+    l "[linoname], що будемо робити?"
 
 # game/script.rpy:1921
 translate uk_UA lobby2_54096183:
 
     # "You and Lin spend some time at the beach. Once you're both done, you head back..."
-    ""
+    "Ви з Лін провели якийсь час на пляжі. Через якийсь час, відпочивши, ви повернулись..."
 
 # game/script.rpy:1925
 translate uk_UA lobby2_368c1b13:
 
     # l "Absolutely!"
-    l ""
+    l "Звичайно!"
 
 # game/script.rpy:1930
 translate uk_UA lobby2_ddcd99a8:
 
     # l "Ahh... The water feels so nice on my skin..."
-    l ""
+    l "А... Вода так приємно ніжить мою шкіру..."
 
 # game/script.rpy:1932
 translate uk_UA lobby2_f4b4f181:
 
     # l "Good thing I didn't bring a swim suit, right [linoname]?"
-    l ""
+    l "Добре, що я не взяла купальник, так [linoname]?"
 
 # game/script.rpy:1934
 translate uk_UA lobby2_f54708f3:
 
     # l "Ahhhhh..."
-    l ""
+    l "Ах..."
 
 # game/script.rpy:1936
 translate uk_UA lobby2_ec81936b:
