@@ -1612,2083 +1612,2085 @@ translate uk_UA lobby2_f54708f3:
 translate uk_UA lobby2_ec81936b:
 
     # "You and Lin spend a long while relaxing your stresses away..."
-    ""
+    "Ви з Лін довго проводили час разом знімаючи стрес..."
 
 # game/script.rpy:1938
 translate uk_UA lobby2_387673a9:
 
     # l "I think we should get out for a while..."
-    l ""
+    l "Думаю нам варто вийти на якийсь час..."
 
 # game/script.rpy:1943
 translate uk_UA lobby2_f54708f3_1:
 
     # l "Ahhhhh..."
-    l ""
+    l "Ах..."
 
 # game/script.rpy:1945
 translate uk_UA lobby2_ec81936b_1:
 
     # "You and Lin spend a long while relaxing your stresses away..."
-    ""
+    "Ви з Лін довго проводили час разом знімаючи стрес..."
 
 # game/script.rpy:1947
 translate uk_UA lobby2_2f5edaf9:
 
     # l "We should go inside for a while, right [linoname]?"
-    l ""
+    l "Може нам краще зайти всередину, що скажете, [linoname]?"
 
 # game/script.rpy:1953
 translate uk_UA lobby2_9dd76018:
 
     # l "Oh! Can we watch some TV?"
-    l ""
+    l "О! Може глянемо що там по телебаченню?"
 
 # game/script.rpy:1956
 translate uk_UA lobby2_0a00ef23:
 
     # l "Hmmm... I'm a bit hungry [linoname]... Can we get something to eat?"
-    l ""
+    l "Хм... [linoname], я трохи зголодніла... Може підемо щось поїмо?"
 
 # game/script.rpy:1960
 translate uk_UA lobby2_668060df_5:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в кафе..."
 
 # game/script.rpy:1962
 translate uk_UA lobby2_34fac3c7_1:
 
     # l "What should I get [linoname]? A cookie? A sandwich? I can't decide!"
-    l ""
+    l "[linoname], що мені обрати? Печивко? Сендвіч? Не можу вибрати!"
 
 # game/script.rpy:1964
 translate uk_UA lobby2_370dae91_1:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Ви обоє щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:1966
 translate uk_UA lobby2_394060cd_1:
 
     # l "Ahh, that was amazing!"
-    l ""
+    l "А, це будо неймовірно!"
 
 # game/script.rpy:1971
 translate uk_UA lobby2_900d740c:
 
     # l "Oh... Okay [linoname]."
-    l ""
+    l "О... Добре [linoname]."
 
 # game/script.rpy:1974
 translate uk_UA lobby2_274d85a0:
 
     # l "I really want to go to the beach!"
-    l ""
+    l "Я так хочу на пляж!"
 
 # game/script.rpy:1977
 translate uk_UA lobby2_951bbbe9_1:
 
     # l "What should we do [linoname]?"
-    l ""
+    l "[linoname], що будемо робити?"
 
 # game/script.rpy:1979
 translate uk_UA lobby2_54096183_1:
 
     # "You and Lin spend some time at the beach. Once you're both done, you head back..."
-    ""
+    "Ви з Лін провели якийсь час на пляжі. Через якийсь час, відпочивши, ви повернулись..."
 
 # game/script.rpy:1983
 translate uk_UA lobby2_c0e33ef3:
 
     # l "I think I'll pass."
-    l ""
+    l "Думаю, не цього разу."
 
 # game/script.rpy:1987
 translate uk_UA lobby2_b3f3b681:
 
     # l "Okay~"
-    l ""
+    l "Добре~"
 
 # game/script.rpy:1999
 translate uk_UA lobby2_2598a943:
 
     # k "Morning."
-    k ""
+    k "Доброго ранку."
 
 # game/script.rpy:2001
 translate uk_UA lobby2_750c2be7:
 
     # k "Oh, Hey [name]!"
-    k ""
+    k "О, привіт [name]!"
 
 # game/script.rpy:2003
 translate uk_UA lobby2_df794597:
 
     # k "Gotta get ready to work soon..."
-    k ""
+    k "Маю готуватись до роботи..."
 
 # game/script.rpy:2005
 translate uk_UA lobby2_8acb6bf4:
 
     # k "Hey, it's raining!"
-    k ""
+    k "Привіт, дощ падає!"
 
 # game/script.rpy:2007
 translate uk_UA lobby2_bf93f103:
 
     # k "It's raining... Wanna... Stay in for a while?"
-    k ""
+    k "Падає дощ... Можливо... Побудемо всередині?"
 
 # game/script.rpy:2009
 translate uk_UA lobby2_ce048c99:
 
     # k "I'm kind of hungry... Want to go somewhere to eat [name]?"
-    k ""
+    k "Я типу голодна... [name], сходимо кудись поїсти?"
 
 # game/script.rpy:2011
 translate uk_UA lobby2_8583b129:
 
     # k "Lucy's been annoying..."
-    k ""
+    k "Люсі мене дратує..."
 
 # game/script.rpy:2013
 translate uk_UA lobby2_c95a2109:
 
     # k "Hey... You wanna come to my room later?"
-    k ""
+    k "Привіт... Зайдеш до мене пізніше?"
 
 # game/script.rpy:2015
 translate uk_UA lobby2_60bfc811:
 
     # k "I wish it would rain soon... I love the rain."
-    k ""
+    k "Я хотіла б, щоб скоріше пішов дощ... Я люблю дощ."
 
 # game/script.rpy:2017
 translate uk_UA lobby2_d12543a9:
 
     # k "Hey [name]... Is it bad that it feels really good when you cum inside?"
-    k ""
+    k "Привіт [name]... А це погано, що мені подобається, коли ти кінчаєш всередину?"
 
 # game/script.rpy:2019
 translate uk_UA lobby2_6124354b:
 
     # k "Hey [name]."
-    k ""
+    k "Привіт [name]."
 
 # game/script.rpy:2022
 translate uk_UA lobby2_f3c650ff:
 
     # k "Yeah, sure."
-    k ""
+    k "Так, звичайно."
 
 # game/script.rpy:2025
 translate uk_UA lobby2_71fbaff9:
 
     # k "Oh, sure."
-    k ""
+    k "О, звісно."
 
 # game/script.rpy:2027
 translate uk_UA lobby2_668060df_6:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в кафе..."
 
 # game/script.rpy:2029
 translate uk_UA lobby2_e5e00581:
 
     # k "Hm, what're you going to get?"
-    k ""
+    k "Хм, що ти замовиш?"
 
 # game/script.rpy:2031
 translate uk_UA lobby2_370dae91_2:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Ви обоє щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:2033
 translate uk_UA lobby2_eed08fbd:
 
     # k "Phew, that was pretty good! Let's get out of here."
-    k ""
+    k "Ух, було досить смачно! Ідем звідси."
 
 # game/script.rpy:2038
 translate uk_UA lobby2_03048d50:
 
     # k "Oh, the beach? Sure, I guess."
-    k ""
+    k "О, пляж? Звичайно, мабуть."
 
 # game/script.rpy:2041
 translate uk_UA lobby2_8210ba91:
 
     # k "Ah, it's kind of hot..."
-    k ""
+    k "Ах, трохи жаркувато..."
 
 # game/script.rpy:2043
 translate uk_UA lobby2_ac7e3d5b:
 
     # "You and Kali spend some time at the beach. Once you're both done, you head back..."
-    ""
+    "Ви з Калі провели якийсь час на пляжі. Через якийсь час, відпочивши, ви повернулись..."
 
 # game/script.rpy:2047
 translate uk_UA lobby2_745d0824:
 
     # k "Sure!"
-    k ""
+    k "Звісно!"
 
 # game/script.rpy:2052
 translate uk_UA lobby2_b5a3844d:
 
     # k "Look out!" with ssshake
-    k "" with ssshake
+    k "Обережно!" with ssshake
 
 # game/script.rpy:2055
 translate uk_UA lobby2_6af51ecd:
 
     # k "Hah!" with sshake
-    k "" with sshake
+    k "Ха!" with sshake
 
 # game/script.rpy:2058
 translate uk_UA lobby2_964cbc37:
 
     # k "Looks like I got you a little wet..."
-    k ""
+    k "Схоже, що я заставила тебе потекти..."
+	# k "Схоже, що я тебе трохи намочила..."
 
 # game/script.rpy:2060
 translate uk_UA lobby2_7bdea6a5:
 
     # "You and Kali spend a long while relaxing your stresses away..."
-    ""
+    "Ви з Калі довго проводили час разом знімаючи стрес..."
 
 # game/script.rpy:2062
 translate uk_UA lobby2_abd2b138:
 
     # k "Phew... That was fun, but I'm really tired now."
-    k ""
+    k "Ух... Було весело, але я вже втомилась."
 
 # game/script.rpy:2068
 translate uk_UA lobby2_05e4b222:
 
     # k "Wanna see what's on TV?"
-    k ""
+    k "Хочеш глянути що там по ТБ?"
 
 # game/script.rpy:2071
 translate uk_UA lobby2_bfe0064a:
 
     # k "Egh, I haven't eaten all day. You hungry?"
-    k ""
+    k "Ех, я цілий день нічого не їла. Ти голодний?"
 
 # game/script.rpy:2075
 translate uk_UA lobby2_668060df_7:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в кафе..."
 
 # game/script.rpy:2077
 translate uk_UA lobby2_e5e00581_1:
 
     # k "Hm, what're you going to get?"
-    k ""
+    k "Хм, що ти замовиш?"
 
 # game/script.rpy:2079
 translate uk_UA lobby2_370dae91_3:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Ви обоє щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:2081
 translate uk_UA lobby2_eed08fbd_1:
 
     # k "Phew, that was pretty good! Let's get out of here."
-    k ""
+    k "Ух, було досить смачно! Ідем звідси."
 
 # game/script.rpy:2086
 translate uk_UA lobby2_0481ecc1:
 
     # k "Oh, alright. Guess I'll see what Lin is cooking."
-    k ""
+    k "О, ну добре. Значить піду гляну що там Лін готує."
 
 # game/script.rpy:2089
 translate uk_UA lobby2_70abf0e9:
 
     # k "I've kind of been wanting to relax at the beach lately. Interested?"
-    k ""
+    k "Мене останнім часом тяне відпочити на пляж. Що скажеш?"
 
 # game/script.rpy:2092
 translate uk_UA lobby2_8210ba91_1:
 
     # k "Ah, it's kind of hot..."
-    k ""
+    k "Ах, трохи жаркувато..."
 
 # game/script.rpy:2094
 translate uk_UA lobby2_ac7e3d5b_1:
 
     # "You and Kali spend some time at the beach. Once you're both done, you head back..."
-    ""
+    "Ви з Калі провели якийсь час на пляжі. Через якийсь час, відпочивши, ви повернулись..."
 
 # game/script.rpy:2098
 translate uk_UA lobby2_f848e5a1:
 
     # k "Haha, what? You're joking right?"
-    k ""
+    k "Хіхі, що? Ти ж жартуєш, чи ні?"
 
 # game/script.rpy:2102
 translate uk_UA lobby2_71fbaff9_1:
 
     # k "Oh, sure."
-    k ""
+    k "О, звісно."
 
 # game/script.rpy:2110
 translate uk_UA lobby2_52f69f96:
 
     # k "I'm such a slut..."
-    k ""
+    k "Я така розпусна..."
 
 # game/script.rpy:2114
 translate uk_UA lobby2_c6c984c2:
 
     # k "Oh hey, Morning."
-    k ""
+    k "О привіт, доброго ранку."
 
 # game/script.rpy:2116
 translate uk_UA lobby2_750c2be7_1:
 
     # k "Oh, Hey [name]!"
-    k ""
+    k "О, привіт [name]!"
 
 # game/script.rpy:2118
 translate uk_UA lobby2_df794597_1:
 
     # k "Gotta get ready to work soon..."
-    k ""
+    k "Маю готуватись до роботи..."
 
 # game/script.rpy:2120
 translate uk_UA lobby2_8acb6bf4_1:
 
     # k "Hey, it's raining!"
-    k ""
+    k "Привіт, дощ падає!"
 
 # game/script.rpy:2122
 translate uk_UA lobby2_bf93f103_1:
 
     # k "It's raining... Wanna... Stay in for a while?"
-    k ""
+    k "Дощ падає... Можливо... Побудемо всередині?"
 
 # game/script.rpy:2124
 translate uk_UA lobby2_ce048c99_1:
 
     # k "I'm kind of hungry... Want to go somewhere to eat [name]?"
-    k ""
+    k "Я типу голодна... [name], сходимо кудись поїсти?"
 
 # game/script.rpy:2126
 translate uk_UA lobby2_8583b129_1:
 
     # k "Lucy's been annoying..."
-    k ""
+    k "Люсі мене дратує..."
 
 # game/script.rpy:2128
 translate uk_UA lobby2_c95a2109_1:
 
     # k "Hey... You wanna come to my room later?"
-    k ""
+    k "Привіт... Зайдеш до мене пізніше?"
 
 # game/script.rpy:2130
 translate uk_UA lobby2_60bfc811_1:
 
     # k "I wish it would rain soon... I love the rain."
-    k ""
+    k "Я хотіла б, щоб скоріше пішов дощ... Я люблю дощ."
 
 # game/script.rpy:2132
 translate uk_UA lobby2_d12543a9_1:
 
     # k "Hey [name]... Is it bad that it feels really good when you cum inside?"
-    k ""
+    k "Привіт [name]... А це погано, що мені подобається, коли ти кінчаєш всередину?"
 
 # game/script.rpy:2134
 translate uk_UA lobby2_ac86fd36:
 
     # k "Oh, hey..."
-    k ""
+    k "О, привіт..."
 
 # game/script.rpy:2137
 translate uk_UA lobby2_f3c650ff_1:
 
     # k "Yeah, sure."
-    k ""
+    k "Так, звичайно."
 
 # game/script.rpy:2140
 translate uk_UA lobby2_e5c41bc5:
 
     # k "Oh, sure. Let me change real quick though..."
-    k ""
+    k "О, звісно. Я тільки швиденько перевдягнусь..."
 
 # game/script.rpy:2142
 translate uk_UA lobby2_668060df_8:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в кафе..."
 
 # game/script.rpy:2144
 translate uk_UA lobby2_e5e00581_2:
 
     # k "Hm, what're you going to get?"
-    k ""
+    k "Хм, що ти замовиш?"
 
 # game/script.rpy:2146
 translate uk_UA lobby2_370dae91_4:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Ви обоє щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:2148
 translate uk_UA lobby2_eed08fbd_2:
 
     # k "Phew, that was pretty good! Let's get out of here."
-    k ""
+    k "Ух, було досить смачно! Ідем звідси."
 
 # game/script.rpy:2153
 translate uk_UA lobby2_03048d50_1:
 
     # k "Oh, the beach? Sure, I guess."
-    k ""
+    k "О, пляж? Звичайно, мабуть."
 
 # game/script.rpy:2156
 translate uk_UA lobby2_8210ba91_2:
 
     # k "Ah, it's kind of hot..."
-    k ""
+    k "Ах, трохи жаркувато..."
 
 # game/script.rpy:2158
 translate uk_UA lobby2_ac7e3d5b_2:
 
     # "You and Kali spend some time at the beach. Once you're both done, you head back..."
-    ""
+    "Ви з Калі провели якийсь час на пляжі. Через якийсь час, відпочивши, ви повернулись..."
 
 # game/script.rpy:2162
 translate uk_UA lobby2_745d0824_1:
 
     # k "Sure!"
-    k ""
+    k "Звісно!"
 
 # game/script.rpy:2167
 translate uk_UA lobby2_b5a3844d_1:
 
     # k "Look out!" with ssshake
-    k "" with ssshake
+    k "Обережно!" with ssshake
 
 # game/script.rpy:2170
 translate uk_UA lobby2_6af51ecd_1:
 
     # k "Hah!" with sshake
-    k "" with sshake
+    k "Ха!" with sshake
 
 # game/script.rpy:2173
 translate uk_UA lobby2_964cbc37_1:
 
     # k "Looks like I got you a little wet..."
-    k ""
+    k "Схоже, що я заставила тебе потекти..."
+	# k "Схоже, що я тебе трохи намочила..."
 
 # game/script.rpy:2175
 translate uk_UA lobby2_7bdea6a5_1:
 
     # "You and Kali spend a long while relaxing your stresses away..."
-    ""
+    "Ви з Калі довго проводили час разом знімаючи стрес..."
 
 # game/script.rpy:2177
 translate uk_UA lobby2_abd2b138_1:
 
     # k "Phew... That was fun, but I'm really tired now."
-    k ""
+    k "Ух... Було весело, але я вже втомилась."
 
 # game/script.rpy:2183
 translate uk_UA lobby2_05e4b222_1:
 
     # k "Wanna see what's on TV?"
-    k ""
+    k "Хочеш глянути що там по ТБ?"
 
 # game/script.rpy:2186
 translate uk_UA lobby2_bfe0064a_1:
 
     # k "Egh, I haven't eaten all day. You hungry?"
-    k ""
+    k "Ех, я цілий день нічого не їла. Ти голодний?"
 
 # game/script.rpy:2190
 translate uk_UA lobby2_668060df_9:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в кафе..."
 
 # game/script.rpy:2192
 translate uk_UA lobby2_e5e00581_3:
 
     # k "Hm, what're you going to get?"
-    k ""
+    k "Хм, що ти замовиш?"
 
 # game/script.rpy:2194
 translate uk_UA lobby2_370dae91_5:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Ви обоє щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:2196
 translate uk_UA lobby2_eed08fbd_3:
 
     # k "Phew, that was pretty good! Let's get out of here."
-    k ""
+    k "Ух, було досить смачно! Ідем звідси."
 
 # game/script.rpy:2201
 translate uk_UA lobby2_0481ecc1_1:
 
     # k "Oh, alright. Guess I'll see what Lin is cooking."
-    k ""
+    k "О, ну добре. Значить піду гляну що там Лін готує."
 
 # game/script.rpy:2204
 translate uk_UA lobby2_70abf0e9_1:
 
     # k "I've kind of been wanting to relax at the beach lately. Interested?"
-    k ""
+    k "Мене останнім часом тяне відпочити на пляж. Що скажеш?"
 
 # game/script.rpy:2207
 translate uk_UA lobby2_8210ba91_3:
 
     # k "Ah, it's kind of hot..."
-    k ""
+    k "Ах, трохи жаркувато..."
 
 # game/script.rpy:2209
 translate uk_UA lobby2_ac7e3d5b_3:
 
     # "You and Kali spend some time at the beach. Once you're both done, you head back..."
-    ""
+    "Ви з Калі провели якийсь час на пляжі. Через якийсь час, відпочивши, ви повернулись..."
 
 # game/script.rpy:2213
 translate uk_UA lobby2_d607d1c5:
 
     # k "Maybe later, okay?"
-    k ""
+    k "Можливо пізніше, добре?"
 
 # game/script.rpy:2217
 translate uk_UA lobby2_b9876676:
 
     # k "Let's do it!"
-    k ""
+    k "Давай!"
 
 # game/script.rpy:2228
 translate uk_UA lobby2_5ceff244:
 
     # a "Good morning [name]~"
-    a ""
+    a "Добрий ранок, [name]~"
 
 # game/script.rpy:2230
 translate uk_UA lobby2_97dd9142:
 
     # a "Hi baby~"
-    a ""
+    a "Привіт любий~"
 
 # game/script.rpy:2232
 translate uk_UA lobby2_dcb145cb:
 
     # a "Hey [name], how's your evening?"
-    a ""
+    a "Привіт [name], як твій вечір?"
 
 # game/script.rpy:2234
 translate uk_UA lobby2_6edff9f7:
 
     # a "Hey, it's raining! We should totally stay inside all day and have sex!"
-    a ""
+    a "Ей, дощ іде! Ми однозначно повинні сидіти вдома весь день і займатися сексом!"
 
 # game/script.rpy:2236
 translate uk_UA lobby2_8876a7b4:
 
     # a "Hi [name]! We should go to the cafe today!"
-    a ""
+    a "Привіт [name]! Давай сходимо в кафе сьогодні!"
 
 # game/script.rpy:2238
 translate uk_UA lobby2_9ba94482:
 
     # a "They say rain helps you sleep better. Maybe I can make sure of that? Hehe~"
-    a ""
+    a "Кажуть, що дощ допомагає краще спати. Дозволиш мені переконаюсь в цьому? Хіхі~"
 
 # game/script.rpy:2240
 translate uk_UA lobby2_95be7c5b:
 
     # a "Nnn, [name]... Can we fuck today? I'm all slutty just for you~~~"
-    a ""
+    a "Мм, [name]... Можемо сьогодні потрахатись? Я вся така розпусна лише для тебе~~~"
 
 # game/script.rpy:2242
 translate uk_UA lobby2_3d5529d7:
 
     # a "It's so sunny..."
-    a ""
+    a "Так сонячно..."
 
 # game/script.rpy:2244
 translate uk_UA lobby2_f3d965fb:
 
     # a "Hey [name]! If you walked in to the dungeon and saw me naked with a ball gag in my mouth, would you fuck me?"
-    a ""
+    a "Привіт [name]! Якщо б ти ввійшов в підземелля і побачив мене голою і з кляпом у роті, ти б мене трахнув?"
 
 # game/script.rpy:2246
 translate uk_UA lobby2_147d0d84:
 
     # a "Hehe... I'm such a slut, aren't I?"
-    a ""
+    a "Хіхі... Я така розпусна, правда?"
 
 # game/script.rpy:2249
 translate uk_UA lobby2_7703e1f0:
 
     # a "Sure! Let me change real quick though."
-    a ""
+    a "Звичайно! Дай тільки мені швиденько перевдягнутись."
 
 # game/script.rpy:2252
 translate uk_UA lobby2_98ef3193:
 
     # a "Yeah! Let's go! Let me change real quick."
-    a ""
+    a "Так! Ідем! Дай я швиденько перевдягнусь."
 
 # game/script.rpy:2254
 translate uk_UA lobby2_668060df_10:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в кафе..."
 
 # game/script.rpy:2256
 translate uk_UA lobby2_a6e1bf31:
 
     # a "Oooh, what are you gonna get?"
-    a ""
+    a "Уу, що ти візьмеш?"
 
 # game/script.rpy:2258
 translate uk_UA lobby2_370dae91_6:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Ви обоє щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:2260
 translate uk_UA lobby2_08db5f9b:
 
     # a "That was delicious! Let's go home now."
-    a ""
+    a "Було смачно! Пішли тепер додому."
 
 # game/script.rpy:2265
 translate uk_UA lobby2_cb0823fe:
 
     # a "Yeah, sure!"
-    a ""
+    a "Так, авжеж!"
 
 # game/script.rpy:2268
 translate uk_UA lobby2_beb4446b:
 
     # a "The sun feels nice!"
-    a ""
+    a "Так приємно сонце гріє!"
 
 # game/script.rpy:2270
 translate uk_UA lobby2_c7fad9ef:
 
     # "You and Ashley spend some time at the beach. Once you're both done, you head back..."
-    ""
+    "Ви з Ешлі провели якийсь час на пляжі. Через якийсь час, відпочивши, ви повернулись..."
 
 # game/script.rpy:2274
 translate uk_UA lobby2_cf23c3dc:
 
     # a "Yay!"
-    a ""
+    a "Ура!"
 
 # game/script.rpy:2279
 translate uk_UA lobby2_960d59c0:
 
     # a "I love youuu~"
-    a ""
+    a "Я тебе кохаююю~"
 
 # game/script.rpy:2281
 translate uk_UA lobby2_6d8a9bf5:
 
     # "You and Ashley spend a long while relaxing your stresses away..."
-    ""
+    "Ви з Ешлі довго проводили час разом знімаючи стрес..."
 
 # game/script.rpy:2283
 translate uk_UA lobby2_0e78715e:
 
     # a "Come on, let's go back inside..."
-    a ""
+    a "Ну ж бо, ідем всередину..."
 
 # game/script.rpy:2286
 translate uk_UA lobby2_8bf62ab4:
 
     # a "Don't you want to shower in the waterfall?"
-    a ""
+    a "Не хочеш скупатись у водопаді?"
 
 # game/script.rpy:2288
 translate uk_UA lobby2_6d8a9bf5_1:
 
     # "You and Ashley spend a long while relaxing your stresses away..."
-    ""
+    "Ви з Ешлі довго проводили час разом знімаючи стрес..."
 
 # game/script.rpy:2290
 translate uk_UA lobby2_3628e674:
 
     # a "Come on, let's go back inside."
-    a ""
+    a "Ну ж бо, ідем всередину."
 
 # game/script.rpy:2296
 translate uk_UA lobby2_fa6c683e:
 
     # a "Let's watch some TV."
-    a ""
+    a "Давай трохи подивимся, що там по телебаченню."
 
 # game/script.rpy:2299
 translate uk_UA lobby2_a4a95dde:
 
     # a "I'm a bit hungry, want to eat?"
-    a ""
+    a "Я трохи зголодніла, хочеш їсти?"
 
 # game/script.rpy:2302
 translate uk_UA lobby2_56990c4f:
 
     # a "Awesome! I'll change and we can go!"
-    a ""
+    a "Чудово! Я передінусь і підем!"
 
 # game/script.rpy:2304
 translate uk_UA lobby2_8426c48d:
 
     # "You both hop in your car, and drive to a fancy restaurant..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в престижний ресторан..."
 
 # game/script.rpy:2306
 translate uk_UA lobby2_a6e1bf31_1:
 
     # a "Oooh, what are you gonna get?"
-    a ""
+    a "Уу, що ти візьмеш?"
 
 # game/script.rpy:2308
 translate uk_UA lobby2_370dae91_7:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Ви обоє щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:2310
 translate uk_UA lobby2_08db5f9b_1:
 
     # a "That was delicious! Let's go home now."
-    a ""
+    a "Було смачно! Пішли тепер додому."
 
 # game/script.rpy:2316
 translate uk_UA lobby2_b155aa6d:
 
     # a "Aww, okay."
-    a ""
+    a "Ам, добре."
 
 # game/script.rpy:2319
 translate uk_UA lobby2_1f5a5cbe:
 
     # a "Let's go to the beach!"
-    a ""
+    a "Давай підемо на пляж!"
 
 # game/script.rpy:2322
 translate uk_UA lobby2_beb4446b_1:
 
     # a "The sun feels nice!"
-    a ""
+    a "Так приємно сонце гріє!"
 
 # game/script.rpy:2324
 translate uk_UA lobby2_c7fad9ef_1:
 
     # "You and Ashley spend some time at the beach. Once you're both done, you head back..."
-    ""
+    "Ви з Ешлі провели якийсь час на пляжі. Через якийсь час, відпочивши, ви повернулись..."
 
 # game/script.rpy:2328
 translate uk_UA lobby2_056525c8:
 
     # a "Later, okay?"
-    a ""
+    a "Пізніше, добре?"
 
 # game/script.rpy:2332
 translate uk_UA lobby2_216686ce:
 
     # a "Yeah! Let's do it!"
-    a ""
+    a "Ага! Давай!"
 
 # game/script.rpy:2342
 translate uk_UA lobby2_ab03bd57:
 
     # a "Good morning~ Like what I'm wearing?"
-    a ""
+    a "Доброго ранку~ Як тобі мій наряд?"
 
 # game/script.rpy:2344
 translate uk_UA lobby2_97dd9142_1:
 
     # a "Hi baby~"
-    a ""
+    a "Привіт любий~"
 
 # game/script.rpy:2346
 translate uk_UA lobby2_8e1c0450:
 
     # a "It's getting a bit hot out, huh?"
-    a ""
+    a "Назовні стає трохи жаркіше, га?"
 
 # game/script.rpy:2348
 translate uk_UA lobby2_6edff9f7_1:
 
     # a "Hey, it's raining! We should totally stay inside all day and have sex!"
-    a ""
+    a "Ей, дощ іде! Ми однозначно повинні сидіти вдома весь день і займатися сексом!"
 
 # game/script.rpy:2350
 translate uk_UA lobby2_8876a7b4_1:
 
     # a "Hi [name]! We should go to the cafe today!"
-    a ""
+    a "Привіт [name]! Давай сходимо в кафе сьогодні!"
 
 # game/script.rpy:2352
 translate uk_UA lobby2_9ba94482_1:
 
     # a "They say rain helps you sleep better. Maybe I can make sure of that? Hehe~"
-    a ""
+    a "Кажуть, що дощ допомагає краще спати. Дозволиш мені переконаюсь в цьому? Хіхі~"
 
 # game/script.rpy:2354
 translate uk_UA lobby2_800211ca:
 
     # a "Nnn, [name]... Can we fuck today? We could do it in this cute outfit!"
-    a ""
+    a "Мм, [name]... Можемо сьогодні потрахатись? Ми можемо це зробити в цьому милому вбранні!"
 
 # game/script.rpy:2356
 translate uk_UA lobby2_3d5529d7_1:
 
     # a "It's so sunny..."
-    a ""
+    a "Так сонячно..."
 
 # game/script.rpy:2358
 translate uk_UA lobby2_f3d965fb_1:
 
     # a "Hey [name]! If you walked in to the dungeon and saw me naked with a ball gag in my mouth, would you fuck me?"
-    a ""
+    a "Привіт [name]! Якщо б ти ввійшов в підземелля і побачив мене голою і з кляпом у роті, ти б мене трахнув?"
 
 # game/script.rpy:2360
 translate uk_UA lobby2_665081dd:
 
     # a "Hey [name]!"
-    a ""
+    a "Привіт [name]!"
 
 # game/script.rpy:2363
 translate uk_UA lobby2_46c17595:
 
     # a "Sure!"
-    a ""
+    a "Звісно!"
 
 # game/script.rpy:2366
 translate uk_UA lobby2_98ef3193_1:
 
     # a "Yeah! Let's go! Let me change real quick."
-    a ""
+    a "Так! Ідем! Дай я швиденько перевдягнусь."
 
 # game/script.rpy:2368
 translate uk_UA lobby2_668060df_11:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в кафе..."
 
 # game/script.rpy:2370
 translate uk_UA lobby2_a6e1bf31_2:
 
     # a "Oooh, what are you gonna get?"
-    a ""
+    a "Уу, що ти візьмеш?"
 
 # game/script.rpy:2372
 translate uk_UA lobby2_370dae91_8:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Ви обоє щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:2374
 translate uk_UA lobby2_08db5f9b_2:
 
     # a "That was delicious! Let's go home now."
-    a ""
+    a "Було смачно! Пішли тепер додому."
 
 # game/script.rpy:2379
 translate uk_UA lobby2_cb0823fe_1:
 
     # a "Yeah, sure!"
-    a ""
+    a "Так, авжеж!"
 
 # game/script.rpy:2382
 translate uk_UA lobby2_beb4446b_2:
 
     # a "The sun feels nice!"
-    a ""
+    a "Так приємно сонце гріє!"
 
 # game/script.rpy:2384
 translate uk_UA lobby2_c7fad9ef_2:
 
     # "You and Ashley spend some time at the beach. Once you're both done, you head back..."
-    ""
+    "Ви з Ешлі провели якийсь час на пляжі. Через якийсь час, відпочивши, ви повернулись..."
 
 # game/script.rpy:2388
 translate uk_UA lobby2_cf23c3dc_1:
 
     # a "Yay!"
-    a ""
+    a "Ура!"
 
 # game/script.rpy:2393
 translate uk_UA lobby2_960d59c0_1:
 
     # a "I love youuu~"
-    a ""
+    a "Я тебе кохаююю~"
 
 # game/script.rpy:2395
 translate uk_UA lobby2_6d8a9bf5_2:
 
     # "You and Ashley spend a long while relaxing your stresses away..."
-    ""
+    "Ви з Ешлі довго проводили час разом знімаючи стрес..."
 
 # game/script.rpy:2397
 translate uk_UA lobby2_0e78715e_1:
 
     # a "Come on, let's go back inside..."
-    a ""
+    a "Ну ж бо, ідем всередину..."
 
 # game/script.rpy:2400
 translate uk_UA lobby2_8bf62ab4_1:
 
     # a "Don't you want to shower in the waterfall?"
-    a ""
+    a "Не хочеш скупатись у водопаді?"
 
 # game/script.rpy:2402
 translate uk_UA lobby2_6d8a9bf5_3:
 
     # "You and Ashley spend a long while relaxing your stresses away..."
-    ""
+    "Ви з Ешлі довго проводили час разом знімаючи стрес..."
 
 # game/script.rpy:2404
 translate uk_UA lobby2_3628e674_1:
 
     # a "Come on, let's go back inside."
-    a ""
+    a "Ну ж бо, ідем всередину."
 
 # game/script.rpy:2410
 translate uk_UA lobby2_fa6c683e_1:
 
     # a "Let's watch some TV."
-    a ""
+    a "Давай трохи подивимся, що там по телебаченню."
 
 # game/script.rpy:2413
 translate uk_UA lobby2_a4a95dde_1:
 
     # a "I'm a bit hungry, want to eat?"
-    a ""
+    a "Я трохи зголодніла, хочеш їсти?"
 
 # game/script.rpy:2416
 translate uk_UA lobby2_56990c4f_1:
 
     # a "Awesome! I'll change and we can go!"
-    a ""
+    a "Чудово! Я передінусь і підем!"
 
 # game/script.rpy:2418
 translate uk_UA lobby2_8426c48d_1:
 
     # "You both hop in your car, and drive to a fancy restaurant..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в престижний ресторан..."
 
 # game/script.rpy:2420
 translate uk_UA lobby2_a6e1bf31_3:
 
     # a "Oooh, what are you gonna get?"
-    a ""
+    a "Уу, що ти візьмеш?"
 
 # game/script.rpy:2422
 translate uk_UA lobby2_370dae91_9:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Ви обоє щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:2424
 translate uk_UA lobby2_08db5f9b_3:
 
     # a "That was delicious! Let's go home now."
-    a ""
+    a "Було смачно! Пішли тепер додому."
 
 # game/script.rpy:2430
 translate uk_UA lobby2_b155aa6d_1:
 
     # a "Aww, okay."
-    a ""
+    a "Ам, добре."
 
 # game/script.rpy:2433
 translate uk_UA lobby2_1f5a5cbe_1:
 
     # a "Let's go to the beach!"
-    a ""
+    a "Давай підемо на пляж!"
 
 # game/script.rpy:2436
 translate uk_UA lobby2_beb4446b_3:
 
     # a "The sun feels nice!"
-    a ""
+    a "Так приємно сонце гріє!"
 
 # game/script.rpy:2438
 translate uk_UA lobby2_c7fad9ef_3:
 
     # "You and Ashley spend some time at the beach. Once you're both done, you head back..."
-    ""
+    "Ви з Ешлі провели якийсь час на пляжі. Через якийсь час, відпочивши, ви повернулись..."
 
 # game/script.rpy:2442
 translate uk_UA lobby2_67e3110b:
 
     # a "Hmm... Nah."
-    a ""
+    a "Хм... Нєа."
 
 # game/script.rpy:2446
 translate uk_UA lobby2_216686ce_1:
 
     # a "Yeah! Let's do it!"
-    a ""
+    a "Ага! Давай!"
 
 # game/script.rpy:2455
 translate uk_UA lobby2_0510cf2b:
 
     # m "Mmmm..."
-    m ""
+    m "Мм..."
 
 # game/script.rpy:2459
 translate uk_UA lobby2_e2186922:
 
     # m "Oh, hey cutie."
-    m ""
+    m "О, привіт миленький."
 
 # game/script.rpy:2461
 translate uk_UA lobby2_3777100f:
 
     # m "How's your morning been [name]?"
-    m ""
+    m "Як твій ранок, [name]?"
 
 # game/script.rpy:2463
 translate uk_UA lobby2_b8325929:
 
     # m "How's your day been [name]?"
-    m ""
+    m "Як пройшов твій день, [name]?"
 
 # game/script.rpy:2465
 translate uk_UA lobby2_7c42c5fc:
 
     # m "Hmm... It's still raining..."
-    m ""
+    m "Хм... Все ще падає дощ..."
 
 # game/script.rpy:2467
 translate uk_UA lobby2_886db382:
 
     # m "Hey [name], when are we going back to the beach?"
-    m ""
+    m "Привіт [name], коли ми знов підем на пляж?"
 
 # game/script.rpy:2469
 translate uk_UA lobby2_893492a6:
 
     # m "I hate the rain..."
-    m ""
+    m "Ненавиджу дощ..."
 
 # game/script.rpy:2471
 translate uk_UA lobby2_a89f17d4:
 
     # m "Hey [name], I've been a bit horny lately..."
-    m ""
+    m "Привіт [name], я останнім часом трохи збуджена..."
 
 # game/script.rpy:2472
 translate uk_UA lobby2_7ce60053:
 
     # m "We should do something later..."
-    m ""
+    m "Треба щось зробити разом..."
 
 # game/script.rpy:2474
 translate uk_UA lobby2_43ad68be:
 
     # m "Nice weather today."
-    m ""
+    m "Сьогоді гарна погода."
 
 # game/script.rpy:2476
 translate uk_UA lobby2_6466fcad:
 
     # m "Hey [name]... Up for some fun in the dungeon today?"
-    m ""
+    m "Привіт [name]... Хочеш сьогодні розважитись в підземеллі?"
 
 # game/script.rpy:2478
 translate uk_UA lobby2_168012b4:
 
     # m "Hey [name]."
-    m ""
+    m "Привіт [name]."
 
 # game/script.rpy:2481
 translate uk_UA lobby2_0c324a87:
 
     # m "Oh, sure. Let me change in to something more comfortable and I'll join you in a bit."
-    m ""
+    m "О, звісно. Я тільки перевдягнусь у щось зручне і до тебе приєднаюсь незабаром..."
 
 # game/script.rpy:2484
 translate uk_UA lobby2_3233283c:
 
     # m "Sure! I'll split the bill with you."
-    m ""
+    m "Звісно! Оплатимо чек порівну."
 
 # game/script.rpy:2486
 translate uk_UA lobby2_8426c48d_2:
 
     # "You both hop in your car, and drive to a fancy restaurant..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в престижний ресторан..."
 
 # game/script.rpy:2488
 translate uk_UA lobby2_ab98b23e:
 
     # m "Thanks for taking me. So what are you going to eat?"
-    m ""
+    m "Дякую, що запросив мене. То що ти замовиш поїсти?"
 
 # game/script.rpy:2490
 translate uk_UA lobby2_370dae91_10:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Ви обоє щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:2492
 translate uk_UA lobby2_8ac21834:
 
     # m "Whew... I'm full. We should head back now."
-    m ""
+    m "Ух... Я наїлась. Нам варто повернутись."
 
 # game/script.rpy:2497
 translate uk_UA lobby2_35a6eb36:
 
     # m "Yeah! That sounds fun. Let me change and I'll be ready to go."
-    m ""
+    m "Ага! Звучить весело. Дай мені перевдягнутись і вирушимо."
 
 # game/script.rpy:2500
 translate uk_UA lobby2_5b082de8:
 
     # m "Ahh, sunny days like these are great, aren't they?"
-    m ""
+    m "Ах, такі сонячні дні - прекрасні, правда?"
 
 # game/script.rpy:2503
 translate uk_UA lobby2_c5bcc9ce:
 
     # "You and Maria spend some time at the beach. Once you're both done, you head back..."
-    ""
+    "Ви з Марією провели якийсь час на пляжі. Через якийсь час, відпочивши, ви повернулись..."
 
 # game/script.rpy:2506
 translate uk_UA lobby2_7843df01:
 
     # m "Oh, sure!"
-    m ""
+    m "О, звісно!"
 
 # game/script.rpy:2511
 translate uk_UA lobby2_85a11105:
 
     # m "Wanna go skinny dipping with me? Heheh..."
-    m ""
+    m "Хочеш скупатись голяка зі мною? Хіхі..."
 
 # game/script.rpy:2514
 translate uk_UA lobby2_d8fcb347:
 
     # m "Like what you see...?"
-    m ""
+    m "Подобається мій вигляд?"
 
 # game/script.rpy:2518
 translate uk_UA lobby2_54037059:
 
     # "You and Maria spend a long while relaxing your stresses away..."
-    ""
+    "Ви з Марією довго проводили час разом знімаючи стрес..."
 
 # game/script.rpy:2520
 translate uk_UA lobby2_46684f58:
 
     # m "Come on, let's get out of here."
-    m ""
+    m "Ну ж бо, ідем звідси."
 
 # game/script.rpy:2523
 translate uk_UA lobby2_4eb43846:
 
     # m "Ahhh, the heat feels so good..."
-    m ""
+    m "Аа, така приємна спека..."
 
 # game/script.rpy:2525
 translate uk_UA lobby2_54037059_1:
 
     # "You and Maria spend a long while relaxing your stresses away..."
-    ""
+    "Ви з Марією довго проводили час разом знімаючи стрес..."
 
 # game/script.rpy:2527
 translate uk_UA lobby2_f9036af5:
 
     # m "I think I'm going to fall asleep... Wanna get out of here?"
-    m ""
+    m "В мене таке відчуття, що скоро засну... Хочеш підем звідси?"
 
 # game/script.rpy:2533
 translate uk_UA lobby2_fd047d6a:
 
     # m "Hmm, how about see what's on TV?"
-    m ""
+    m "Хм, що скажеш на те, щоб глянути ТБ?"
 
 # game/script.rpy:2536
 translate uk_UA lobby2_ab1a2dea:
 
     # m "I'm a bit hungry, want to eat?"
-    m ""
+    m "Я трохи зголодніла, хочеш їсти?"
 
 # game/script.rpy:2539
 translate uk_UA lobby2_563950a8:
 
     # m "Cool, I'll change and we can be on our way."
-    m ""
+    m "Круто, я передінусь і вирушимо."
 
 # game/script.rpy:2541
 translate uk_UA lobby2_8426c48d_3:
 
     # "You both hop in your car, and drive to a fancy restaurant..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в престижний ресторан..."
 
 # game/script.rpy:2543
 translate uk_UA lobby2_ab98b23e_1:
 
     # m "Thanks for taking me. So what are you going to eat?"
-    m ""
+    m "Дякую, що запросив мене. То що ти замовиш поїсти?"
 
 # game/script.rpy:2545
 translate uk_UA lobby2_370dae91_11:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Ви обоє щось замовили поїсти. Ви ведете невимушену бесіду і врешті-решт завершуєте прийом їжі."
 
 # game/script.rpy:2547
 translate uk_UA lobby2_8ac21834_1:
 
     # m "Whew... I'm full. We should head back now."
-    m ""
+    m "Ух... Я наїлась. Нам варто повернутись."
 
 # game/script.rpy:2552
 translate uk_UA lobby2_81e9f3c9:
 
     # m "Oh, okay."
-    m ""
+    m "О, добре."
 
 # game/script.rpy:2555
 translate uk_UA lobby2_1e281c0c:
 
     # m "Hm, I've been wanting to go to the beach lately."
-    m ""
+    m "Хм, останнім часом в мене бажання сходити на пляж."
 
 # game/script.rpy:2558
 translate uk_UA lobby2_5b082de8_1:
 
     # m "Ahh, sunny days like these are great, aren't they?"
-    m ""
+    m "Аа, сонячні дні такі приємні, правда?"
 
 # game/script.rpy:2561
 translate uk_UA lobby2_c5bcc9ce_1:
 
     # "You and Maria spend some time at the beach. Once you're both done, you head back..."
-    ""
+    "Ви з Марією провели якийсь час на пляжі. Через якийсь час, відпочивши, ви повернулись..."
 
 # game/script.rpy:2564
 translate uk_UA lobby2_55f8a2e3:
 
     # m "Maybe later, okay?"
-    m ""
+    m "Можливо пізніше, добре?"
 
 # game/script.rpy:2568
 translate uk_UA lobby2_7a0212f2:
 
     # m "Ooh! Are you serious? I would love to!"
-    m ""
+    m "О! Ти це серйозно? Залюбки!"
 
 # game/script.rpy:2689
 translate uk_UA lobby2_76676665:
 
     # e "Hello [name]. How can I help?"
-    e ""
+    e "Привіт [name]. Чимось допомогти?"
 
 # game/script.rpy:2773
 translate uk_UA utilityroom_6088fdcc:
 
     # "You hear some noises coming from the Laundry Room..."
-    ""
+    "Ви чуєте якісь звуки, що доносяться з пральні..."
 
 # game/script.rpy:2960
 translate uk_UA utilityroom_99654bc5:
 
     # em "Oh, [name]... I didn't think many people came in here..."
-    em ""
+    em "О, [name]... Я думала, що це місце не дуже популярне..."
 
 # game/script.rpy:2962
 translate uk_UA utilityroom_3604dca3:
 
     # em "Did you want to watch...?"
-    em ""
+    em "Хотів подивитись?"
 
 # game/script.rpy:2966
 translate uk_UA utilityroom_f3b2070d:
 
     # em "Hahhhh...! You came at a good time... I'm about to cum..."
-    em ""
+    em "Хаа...! Тоді ти вчасно... я якраз збиралась кінчити..."
 
 # game/script.rpy:2967
 translate uk_UA utilityroom_77d722a6:
 
     # em "I was... Ahn... I was thinking about you cumming on my tits..."
-    em ""
+    em "Я... Ам... Я тут подумала, було б добре, якби ти мені кінчив на груди..."
 
 # game/script.rpy:2968
 translate uk_UA utilityroom_f9f66263:
 
     # em "Ahhh! Hnnn! Oh, I'm really close!"
-    em ""
+    em "Аа! Мм! О, я вже майже!"
 
 # game/script.rpy:2969
 translate uk_UA utilityroom_0bde6aa9:
 
     # em "Nnnn! I'm going to cum! AH! I'm cumming, I'm cumming!"
-    em ""
+    em "Мм! Я зараз кінчу! А! Я кінчаю, я кінчаю!"
 
 # game/script.rpy:2971
 translate uk_UA utilityroom_6e1f3a0f:
 
     # em "AHH!!!" with sshake
-    em "" with sshake
+    em "АА!!!" with sshake
 
 # game/script.rpy:2973
 translate uk_UA utilityroom_ba659925:
 
     # em "Ahhh... You watched me cum..."
-    em ""
+    em "Аа... Ти дивився, як я кінчаю..."
 
 # game/script.rpy:2984
 translate uk_UA utilityroom_fb19edfa:
 
     # f "A-Ah! [name]... It's not what it looks like...!"
-    f ""
+    f "А-а! [name]... Це не те, про що ти подумав...!"
 
 # game/script.rpy:2986
 translate uk_UA utilityroom_415a6b2f:
 
     # f "I just... Got really horny..."
-    f ""
+    f "Я просто... Дуже збудилась..."
 
 # game/script.rpy:2988
 translate uk_UA utilityroom_6655c400:
 
     # f "Ahhh... I can't stop myself... Nnnn..."
-    f ""
+    f "Аа... Не можу зупинитись... Мм..."
 
 # game/script.rpy:2989
 translate uk_UA utilityroom_9c60f9e9:
 
     # f "Hahh, ahh... Mmm... Can we fuck later? Please...?"
-    f ""
+    f "Хаа, аа... Мм... Можемо потрахатись пізніше? Будь ласка...?"
 
 # game/script.rpy:2990
 translate uk_UA utilityroom_e2f62530:
 
     # f "Ohh, ahh! I think I'm going to cummm!!!"
-    f ""
+    f "Оо, аа! Думаю, скоро кінчууу!!!"
 
 # game/script.rpy:2992
 translate uk_UA utilityroom_8e4d0d32:
 
     # f "HNNN!!!" with sshake
-    f "" with sshake
+    f "Нн!!!" with sshake
 
 # game/script.rpy:2994
 translate uk_UA utilityroom_7347baca:
 
     # f "Nnn... Sorry..."
-    f ""
+    f "Нн... Вибач..."
 
 # game/script.rpy:3001
 translate uk_UA utilityroom_97dd9142:
 
     # a "Hi baby~"
-    a ""
+    a "Привіт любий~"
 
 # game/script.rpy:3003
 translate uk_UA utilityroom_665081dd:
 
     # a "Hey [name]!"
-    a ""
+    a "Привіт [name]!"
 
 # game/script.rpy:3011
 translate uk_UA utilityroom_97dd9142_1:
 
     # a "Hi baby~"
-    a ""
+    a "Привіт любий~"
 
 # game/script.rpy:3013
 translate uk_UA utilityroom_665081dd_1:
 
     # a "Hey [name]!"
-    a ""
+    a "Привіт [name]!"
 
 # game/script.rpy:3019
 translate uk_UA utilityroom_779eb7b1:
 
     # a "Oh... Hey [name]... What's up?"
-    a ""
+    a "О... Привіт [name]... Як ти?"
 
 # game/script.rpy:3020
 translate uk_UA utilityroom_506c11b1:
 
     # c "What are you doing?"
-    c ""
+    c "Що робиш?"
 
 # game/script.rpy:3021
 translate uk_UA utilityroom_2f54bd43:
 
     # a "I got really horny so I just started masturbating..."
-    a ""
+    a "Я так сильно збудилась, що почала мастурбувати..."
 
 # game/script.rpy:3022
 translate uk_UA utilityroom_f9b1e069:
 
     # a "Hehe~ I'm really close... wanna watch me cum?"
-    a ""
+    a "Хіхі~ Я вже майже... Хочеш глянути, як я кінчаю?"
 
 # game/script.rpy:3026
 translate uk_UA utilityroom_8a1a6bd1:
 
     # a "Nnn..."
-    a ""
+    a "Нн..."
 
 # game/script.rpy:3027
 translate uk_UA utilityroom_df426250:
 
     # a "Hehe~ You watching me just makes it better!"
-    a ""
+    a "Хіхі~ Коли ти дивишся - мене це більше заводить!"
 
 # game/script.rpy:3028
 translate uk_UA utilityroom_81effae1:
 
     # a "Ahhh... Hahhnn... Mmm..."
-    a ""
+    a "Аа... Хаа... Мм..."
 
 # game/script.rpy:3031
 translate uk_UA utilityroom_151e8c15:
 
     # a "Hahh! Are you still watching? Nnn! I'm close! I'm gonna cum!"
-    a ""
+    a "Хаа! Ти ще дивишся? Нн! Я майже! Зараз кінчу!"
 
 # game/script.rpy:3032
 translate uk_UA utilityroom_9f131250:
 
     # a "Ah! Watch me cum [name]! Watch me cummm!"
-    a ""
+    a "Аа! [name], дивись як я кінчаю! Дивись як я кінчаюю!"
 
 # game/script.rpy:3034
 translate uk_UA utilityroom_1e474251:
 
     # a "Ah, Ahhh!!!" with ssshake
-    a "" with ssshake
+    a "А, аа!!!" with ssshake
 
 # game/script.rpy:3036
 translate uk_UA utilityroom_8cc5b028:
 
     # a "Ahhh... Hahhh... Hehe~ I came..."
-    a ""
+    a "Аа... Хаа... Хіхі~ Я кінчила..."
 
 # game/script.rpy:3046
 translate uk_UA utilityroom_779eb7b1_1:
 
     # a "Oh... Hey [name]... What's up?"
-    a ""
+    a "О... Привіт [name]... Як ти?"
 
 # game/script.rpy:3047
 translate uk_UA utilityroom_506c11b1_1:
 
     # c "What are you doing?"
-    c ""
+    c "Що робиш?"
 
 # game/script.rpy:3048
 translate uk_UA utilityroom_2f54bd43_1:
 
     # a "I got really horny so I just started masturbating..."
-    a ""
+    a "Я так сильно збудилась, що почала мастурбувати..."
 
 # game/script.rpy:3049
 translate uk_UA utilityroom_f9b1e069_1:
 
     # a "Hehe~ I'm really close... wanna watch me cum?"
-    a ""
+    a "Хіхі~ Я вже майже... Хочеш глянути, як я кінчаю?"
 
 # game/script.rpy:3053
 translate uk_UA utilityroom_8a1a6bd1_1:
 
     # a "Nnn..."
-    a ""
+    a "Нн..."
 
 # game/script.rpy:3054
 translate uk_UA utilityroom_df426250_1:
 
     # a "Hehe~ You watching me just makes it better!"
-    a ""
+    a "Хіхі~ Коли ти дивишся - мене це більше заводить!"
 
 # game/script.rpy:3055
 translate uk_UA utilityroom_81effae1_1:
 
     # a "Ahhh... Hahhnn... Mmm..."
-    a ""
+    a "Аа... Хаа... Мм..."
 
 # game/script.rpy:3058
 translate uk_UA utilityroom_151e8c15_1:
 
     # a "Hahh! Are you still watching? Nnn! I'm close! I'm gonna cum!"
-    a ""
+    a "Хаа! Ти ще дивишся? Нн! Я майже! Зараз кінчу!"
 
 # game/script.rpy:3059
 translate uk_UA utilityroom_9f131250_1:
 
     # a "Ah! Watch me cum [name]! Watch me cummm!"
-    a ""
+    a "Аа! [name], дивись як я кінчаю! Дивись як я кінчаюю!"
 
 # game/script.rpy:3061
 translate uk_UA utilityroom_1e474251_1:
 
     # a "Ah, Ahhh!!!" with ssshake
-    a "" with ssshake
+    a "А, аа!!!" with ssshake
 
 # game/script.rpy:3063
 translate uk_UA utilityroom_8cc5b028_1:
 
     # a "Ahhh... Hahhh... Hehe~ I came..."
-    a ""
+    a "Аа... Хаа... Хіхі~ Я кінчила..."
 
 # game/script.rpy:3075
 translate uk_UA utilityroom_f493553c:
 
     # bot "Oh, hello [botown]~ Heheheh~"
-    bot ""
+    bot "О, привіт [botown]~ Хіхіхі~"
 
 # game/script.rpy:3077
 translate uk_UA utilityroom_785a8180:
 
     # bot "I hope you're having a good day [botown]!"
-    bot ""
+    bot "[botown], надіюсь в тебе день задався!"
 
 # game/script.rpy:3083
 translate uk_UA utilityroom_8ba29bb8:
 
     # bot "O-Oh! [botown]..."
-    bot ""
+    bot "О-о! [botown]..."
 
 # game/script.rpy:3084
 translate uk_UA utilityroom_506c11b1_2:
 
     # c "What are you doing?"
-    c ""
+    c "Що робиш?"
 
 # game/script.rpy:3085
 translate uk_UA utilityroom_fc2c5521:
 
     # bot "I was just relaxing and... I got really horny all of the sudden... Nnn..."
-    bot ""
+    bot "Я розслаблялась і... Раптово мене охопила пристрасть... Нн..."
 
 # game/script.rpy:3087
 translate uk_UA utilityroom_7530fd19:
 
     # bot "It's really hard to resist..."
-    bot ""
+    bot "Насправді важко встояти..."
 
 # game/script.rpy:3089
 translate uk_UA utilityroom_75fe983e:
 
     # bot "Nnn..."
-    bot ""
+    bot "Нн..."
 
 # game/script.rpy:3090
 translate uk_UA utilityroom_fe31162b:
 
     # bot "We did so much naughty things together... It's making me horny all the time..."
-    bot ""
+    bot "Ми разом робили стільки всього непристойного... Мене це постійно збуджує..."
 
 # game/script.rpy:3093
 translate uk_UA utilityroom_326014f7:
 
     # bot "Hahh... Nnn..."
-    bot ""
+    bot "Хаа... Нн..."
 
 # game/script.rpy:3094
 translate uk_UA utilityroom_06880f21:
 
     # bot "I... Hope you don't mind [botown]... I'm just going to... rub myself for a while... Nnn..."
-    bot ""
+    bot "Я... Надіюсь, [botown], ти не проти... Я хочу... себе трішки потерти... Нн..."
 
 # game/script.rpy:3101
 translate uk_UA utilityroom_7cdcce1d:
 
     # l "Oh, [linoname]! It's so good to see you!"
-    l ""
+    l "О, [linoname]! Я так рада вас бачити!"
 
 # game/script.rpy:3103
 translate uk_UA utilityroom_7dc58a1b:
 
     # l "Hello [linoname]!"
-    l ""
+    l "Привіт [linoname]!"
 
 # game/script.rpy:3109
 translate uk_UA utilityroom_6514f619:
 
     # l "[linoname]..."
-    l ""
+    l "[linoname]..."
 
 # game/script.rpy:3110
 translate uk_UA utilityroom_506c11b1_3:
 
     # c "What are you doing?"
-    c ""
+    c "Що робиш?"
 
 # game/script.rpy:3112
 translate uk_UA utilityroom_37cb378b:
 
     # l "Nnn... I was cleaning... and I got really horny... thinking about you..."
-    l ""
+    l "Нн... Я прибирала... І дуже збудилась... думаючи про вас..."
 
 # game/script.rpy:3113
 translate uk_UA utilityroom_eaf48776:
 
     # l "Ahh... Don't worry [linoname]... I'll try... not to cum... Nnnn..."
-    l ""
+    l "Аа... Не хвилюйтесь, [linoname]... Я буду старатись... не кінчити... Нн..."
 
 # game/script.rpy:3114
 translate uk_UA utilityroom_957b4b1c:
 
     # l "I just... Need to... For... a little... while..."
-    l ""
+    l "Я тільки... Мушу... Ще... трішки... довше..."
 
 # game/script.rpy:3125
 translate uk_UA utilityroom_790a8ede:
 
     # f "Hello [name]! Good to see you."
-    f ""
+    f "Привіт [name]! Рада вас бачити."
 
 # game/script.rpy:3127
 translate uk_UA utilityroom_3c6fac7b:
 
     # em "Hey [name]! What's up?"
-    em ""
+    em "Привіт [name]... Як ти?"
 
 # game/script.rpy:3131
 translate uk_UA utilityroom_790a8ede_1:
 
     # f "Hello [name]! Good to see you."
-    f ""
+    f "Привіт [name]! Рада вас бачити."
 
 # game/script.rpy:3133
 translate uk_UA utilityroom_3c6fac7b_1:
 
     # em "Hey [name]! What's up?"
-    em ""
+    em "Привіт [name]... Як ти?"
 
 # game/script.rpy:3135
 translate uk_UA utilityroom_e07e0d6b:
 
     # f "Oh, [name]."
-    f ""
+    f "О, [name]."
 
 # game/script.rpy:3136
 translate uk_UA utilityroom_9e1a6984:
 
     # em "Need something?"
-    em ""
+    em "Щось хочеш?"
 
 # game/script.rpy:3143
 translate uk_UA utilityroom_a5cd05d6:
 
     # k "Hey [name]!"
-    k ""
+    k "Привіт [name]!"
 
 # game/script.rpy:3145
 translate uk_UA utilityroom_83140101:
 
     # k "Oh, what's up?"
-    k ""
+    k "О, як ти?"
 
 # game/script.rpy:3151
 translate uk_UA utilityroom_15c300f2:
 
     # k "Oh! [name]..."
-    k ""
+    k "О! [name]..."
 
 # game/script.rpy:3152
 translate uk_UA utilityroom_506c11b1_4:
 
     # c "What are you doing?"
-    c ""
+    c "Що робиш?"
 
 # game/script.rpy:3154
 translate uk_UA utilityroom_b4bfe569:
 
     # k "I may have gotten... a little horny today..."
-    k ""
+    k "Я можливо сьогодні... трішки збудилася..."
 
 # game/script.rpy:3155
 translate uk_UA utilityroom_59518525:
 
     # k "So I decided I would be a little risky and masturbate in public..."
-    k ""
+    k "То ж я вирішила ризикнути і помастурбувати на публіці..."
 
 # game/script.rpy:3156
 translate uk_UA utilityroom_bb443cbc:
 
     # k "Do... you want to watch?"
-    k ""
+    k "Ти... хочеш подивитись?"
 
 # game/script.rpy:3159
 translate uk_UA utilityroom_4f3621b1:
 
     # k "...Cool..."
-    k ""
+    k "...Круто..."
 
 # game/script.rpy:3161
 translate uk_UA utilityroom_aad26f02:
 
     # k "Mm..."
-    k ""
+    k "Мм..."
 
 # game/script.rpy:3162
 translate uk_UA utilityroom_309bb503:
 
     # k "Being naked in public... is a real turn on..."
-    k ""
+    k "Бути оголеною в публічних місцях... так заводить..."
 
 # game/script.rpy:3163
 translate uk_UA utilityroom_5b8e7760:
 
     # k "What did you do to me [name]... Ahhnnnn..."
-    k ""
+    k "[name], що ти зі мною зробив... Аанн..."
 
 # game/script.rpy:3174
 translate uk_UA utilityroom_cc735746:
 
     # m "Hey cutie..."
-    m ""
+    m "Привіт миленький..."
 
 # game/script.rpy:3176
 translate uk_UA utilityroom_ae203947:
 
     # m "Hi [name]."
-    m ""
+    m "Привіт [name]."
 
 # game/script.rpy:3182
 translate uk_UA utilityroom_a6818d08:
 
     # m "Oh, Haha. Hello [name]..."
-    m ""
+    m "О, хіхі. Привіт [name]..."
 
 # game/script.rpy:3183
 translate uk_UA utilityroom_506c11b1_5:
 
     # c "What are you doing?"
-    c ""
+    c "Що робиш?"
 
 # game/script.rpy:3184
 translate uk_UA utilityroom_3fb61b46:
 
     # m "What does it look like? I'm fucking a dildo..."
-    m ""
+    m "А на що це схоже? Я трахаю фалоімітатор..."
 
 # game/script.rpy:3185
 translate uk_UA utilityroom_a74861c7:
 
     # m "I was pretty close to cumming before you interrupted me... So how about you watch and help me cum?"
-    m ""
+    m "Я вже майже кінчила, доки ти не втрутився... То ж, що на рахунок, щоб ти подивився і допоміг мені кінчити?"
 
 # game/script.rpy:3189
 translate uk_UA utilityroom_26d8aaf6:
 
     # m "Mmmm... Good choice..."
-    m ""
+    m "Мм... Правильний вибір..."
 
 # game/script.rpy:3191
 translate uk_UA utilityroom_1fa0caac:
 
     # m "Nnn... fuck... feels better when I have a crowd... Haha..."
-    m ""
+    m "Нн... Трясця... обожнюю, коли маю глядачів... Хіхі..."
 
 # game/script.rpy:3192
 translate uk_UA utilityroom_9256911d:
 
     # m "Ahhh... fuck, fuck! Are you getting hard [name]? From watching me? Mmm..."
-    m ""
+    m "Аа... трясця, трясця! [name], в тебе вже стоїть? Від мого вигляду? Мм..."
 
 # game/script.rpy:3195
 translate uk_UA utilityroom_3d53adee:
 
     # m "Ahhh shit... I'm close again... Mmmm! Ahh!"
-    m ""
+    m "Аа дідько... Я знову близька до... Мм! Аа!"
 
 # game/script.rpy:3196
 translate uk_UA utilityroom_f93633ca:
 
     # m "I'm gonna cum! I'm gonna cum! Watch me cum [name]! Watch me CUM!"
-    m ""
+    m "Я зараз кінчу! Я зараз кінчу! [name], дивись, як я кінчаю! Дивись, як я КІНЧАЮ!"
 
 # game/script.rpy:3198
 translate uk_UA utilityroom_473eca7d:
 
     # m "FFFUUCK!" with ssshake
-    m "" with ssshake
+    m "ТРЯЯСЦЯЯ!" with ssshake
 
 # game/script.rpy:3200
 translate uk_UA utilityroom_b484926e:
 
     # m "Ahhh... Hahahhh... Enjoy the show? Hahaha... Nnn..."
-    m ""
+    m "Аа... Хіхіі... Насолодився виставою? Хіхіхі... Нн..."
 
 # game/script.rpy:3204
 translate uk_UA utilityroom_5a399a14:
 
     # m "Your loss."
-    m ""
+    m "Не знаєш, що втрачаєш."
 
 # game/script.rpy:3353
 translate uk_UA ellentalk_22d453fe:
 
     # e "[name], it just occured to me that your grandfather never properly named this hotel. The building still isn't fully complete, but a name wouldn't be unjustified. What do you think? Want to give it a name?"
-    e ""
+    e "[name], я щойно збагнула, що твій дідусь таки не дав ніякої назви готелю. Будівля ще не повністю завершена, але це не відміняє, що їй потрібна назва. Як думаєш? Даш будівлі назву?"
 
 # game/script.rpy:3358
 translate uk_UA ellentalk_cd5d5a0b:
 
     # e "Very well, this hotel will now be known as [hotelname]!"
-    e ""
+    e "Прекрасно, відтепер хотель буде мати назву [hotelname]!"
 
 # game/script.rpy:3362
 translate uk_UA ellentalk_a00bd1a3:
 
     # c "An email?"
-    c ""
+    c "Електронний лист?"
 
 # game/script.rpy:3363
 translate uk_UA ellentalk_c7f50457:
 
     # e "Yes, from the HHA. It seems you've made quite the impression on an elf named Peni, she chose you as her preferred master to live with and as a result is discounted by 25 percent only for you."
-    e ""
+    e "Так, від Академії Щасливий Дім. Схоже, що ви справили сильне враження на ельфійку Пені, вона надала перевагу вам, як господарю, і це дає вам 25-и процентну знижку на неї."
 
 # game/script.rpy:3364
 translate uk_UA ellentalk_3a0ba53b:
 
     # c "I see... thank you."
-    c ""
+    c "Ясно... дякую."
 
 # game/script.rpy:3365
 translate uk_UA ellentalk_91c5422d:
 
     # e "If you would like to purchase her, the shop is available on your computer."
-    e ""
+    e "Якщо ви забажаєте її купити - онлайн магазин доступний з вашого комп'ютера."
 
 # game/script.rpy:3368
 translate uk_UA ellentalk_6c54400c:
 
     # e "Anything I can help you with?"
-    e ""
+    e "Чимось можу вам допомогти?"
 
 # game/script.rpy:3372
 translate uk_UA ellentalking_98e176cc:
 
     # e "Someone will come along eventually. We just need to give it time."
-    e ""
+    e "Хтось, рано чи пізно, заселиться. Потрібно трішки зачекати."
 
 # game/script.rpy:3375
 translate uk_UA ellentalking_d6556c05:
 
     # e "There are three main ways you can earn money:\n1. Sell pinups.\n2. Gigs in the city.\n3. Upgrade the hotel."
-    e ""
+    e "Є три головні способи заробітку:\n1. Продаж пінапів.\n2. Підробіток в місті.\n3. Модернізація готелю."
 
 # game/script.rpy:3377
 translate uk_UA ellen_moneytalk_5fce860f:
 
     # e "Which would you like to learn about?" nointeract
-    e "" nointeract
+    e "Про що вам детальніше розказати?" nointeract
 
 # game/script.rpy:3379
 translate uk_UA ellen_moneytalk_fe2dd7a5:
 
     # e "Ah, that was something you grandfather had some of us do..."
-    e ""
+    e "А, це те, що ваш дідусь вимагав від декого з нас..."
 
 # game/script.rpy:3380
 translate uk_UA ellen_moneytalk_9ee7b317:
 
     # e "Ah, *ahem*... Customers will pay more for skimpier outfits and multiple people. This way you could see each outfit you buy as an investment! So long as you're close enough for them to accept..."
-    e ""
+    e "А, *кхм*"... Клієнти будуть платити більще, якщо одяг буде оголювати більше і кількість учасників більша. Тому кожний одяг, який ви придбаєте, можна розглядати як інвестицію! У всякому випадку, якщо ви в достатньо теплих відносинах з дівчатами, щоб вони прийняли ваш подарунок...
 
 # game/script.rpy:3383
 translate uk_UA ellen_moneytalk_6e6035a2:
 
     # e "I hear Bernie's Bowling Bar has had trouble keeping delivery drivers recently... perhaps they would hire you. They're located in Caliber City."
-    e ""
+    e "Чула, що Бар-більярдна Берні останнім часом має деякі складнощі з доставкою... можливо вони могли б наймати вас. Вони знаходяться в місті Калібер."
 
 # game/script.rpy:3386
 translate uk_UA ellen_moneytalk_da042089:
 
     # e "As you may have noticed by now, each resident pays you rent, so the more doors you have the better! I would focus on building additional floors first."
-    e ""
+    e "Ви, мабуть, вже помітили, що ваші постояльці платять вам оренду, тому чим більше доступних кімнат - тим краще! Я б звернула вашу увагу спочатку на побудову додаткових поверхів."
 
 # game/script.rpy:3387
 translate uk_UA ellen_moneytalk_5024ca72:
 
     # e "But if you need more money, You can build a bar. It was always your grandfather's plan to build a bar to pay for the hotel and attract customers. A fully ugpraded bar would make even more money!"
-    e ""
+    e "Але, якщо вам потрібні гроші - ви можете побудувати бар. Ваш дідусь завжди планував побудувати бар, щоб окуповувати готель і притягувати клієнтів. Повністю модернізований бар буде приносити значно більше грошей."
 
 # game/script.rpy:3395
 translate uk_UA ellen_moneytalk_b84828c9:
 
     # e "I'm an accountant and receptionist, I sort out all the bills, make sure everybody is paying rent, welcome guests, that sort of thing."
-    e ""
+    e "Я бухгалтер і рецепціоніст, я займаюсь рахунками, впевнююсь в тому, що кожен постоялець платить оренду, зустрічаю гостей, все в цьому роді."
 
 # game/script.rpy:3398
 translate uk_UA ellen_moneytalk_c7bb894b:
 
     # e "Oh... you came here for that, hm?"
-    e ""
+    e "О... ви за цим сюди прийшли, хм?"
 
 # game/script.rpy:3399
 translate uk_UA ellen_moneytalk_19a94368:
 
     # e "Well, you are the boss... if you need me to do something else for now, I would be more than willing..."
-    e ""
+    e "Що ж, ви головний... якщо вам потрібно буде ще щось від мене, я залюбки вам допоможу..."
 
 # game/script.rpy:3402
 translate uk_UA ellen_moneytalk_9d5dd3e4:
 
     # e "Right now? Well, okay... let's just try to be quiet, heheh..."
-    e ""
+    e "Що вже? Ну, добре... давайте спробуєм бути тихіше, хіхі..."
 
 # game/script.rpy:3405
 translate uk_UA ellen_moneytalk_377985b3:
 
     # e "Ohh, okay. Follow me..."
-    e ""
+    e "О, добре. Ідіть за мною..."
 
 # game/script.rpy:3411
 translate uk_UA ellen_moneytalk_f4c59136:
 
     # e "It seems you have no debt at the moment. Congratulations!"
-    e ""
+    e "Схоже, що у вас зараз відсутні заборгованості. Вітаю!"
 
 # game/script.rpy:3414
 translate uk_UA ellen_moneytalk_1a78c105:
 
     # e "Very well... we should have just enough money in the savings account to pay this off. But I can only do this once. Are you sure?"
-    e ""
+    e "Що ж... в нас мало б бути достатньо грошей на рахунку з заощадженнями, щоб це оплатити. Але я можу це зробити тільки один раз. Ви впевнені?"
 
 # game/script.rpy:3417
 translate uk_UA ellen_moneytalk_5db9c210:
 
     # e "Your debt has been cleared!"
-    e ""
+    e "Ваш борг погашено!"
 
 # game/script.rpy:3430
 translate uk_UA upgrades_d72f2a77:
 
     # e "I hope you know what you're doing..."
-    e ""
+    e "Надіюсь ви знаєте, що робите..."
 
 # game/script.rpy:3438
 translate uk_UA upgrades_c2583b9c:
 
     # "The Elves' happiness went down..."
-    ""
+    "Щастя ельфів знизилось..."
 
 # game/script.rpy:3444
 translate uk_UA upgrades_c9e9c46b:
 
     # c "I'm already giving them bland food."
-    c ""
+    c "Я вже їм даю прісну їжу."
 
 # game/script.rpy:3447
 translate uk_UA upgrades_885254ba:
 
     # e "Very well."
-    e ""
+    e "Чудово."
 
 # game/script.rpy:3452
 translate uk_UA upgrades_d06a55e7:
 
     # "The Elves' happiness went up!"
-    ""
+    "Щастя ельфів піднялось!"
 
 # game/script.rpy:3457
 translate uk_UA upgrades_c2583b9c_1:
 
     # "The Elves' happiness went down..."
-    ""
+    "Щастя ельфів знизилось..."
 
 # game/script.rpy:3463
 translate uk_UA upgrades_9f095d90:
 
     # c "I'm already giving them regular food."
-    c ""
+    c "Я вже їм даю звичайну їжу."
 
 # game/script.rpy:3466
 translate uk_UA upgrades_b3b6ac09:
 
     # e "Wonderful!"
-    e ""
+    e "Прекрасно!"
 
 # game/script.rpy:3474
 translate uk_UA upgrades_d06a55e7_1:
 
     # "The Elves' happiness went up!"
-    ""
+    "Щастя ельфів піднялось!"
 
 # game/script.rpy:3480
 translate uk_UA upgrades_1bd817b9:
 
     # c "I'm already giving them luxury food."
-    c ""
+    c "Я вже їм даю розкішну їжу."
 
 # game/script.rpy:3493
 translate uk_UA barupgrade_1d86075c:
 
     # e "Music would be the best decision!"
-    e ""
+    e "Музика мала б бути кращим рішенням!"
 
 # game/script.rpy:3496
 translate uk_UA barupgrade_bc53ee81:
 
     # e "Your first goal should be to buy at least 6 different drink types."
-    e ""
+    e "Вашою першою ціллю мала б бути закупівля хоча б 6-и різних видів напоїв."
 
 # game/script.rpy:3497
 translate uk_UA barupgrade_d2721e60:
 
     # e "Drinks are a bar's main purpose, so having a wide variety of quality drinks are sure to increase your profits!"
-    e ""
+    e "Напої це головне, що є в барі, то ж придбання разноманітних високоякісних напоїв точно підніме ваші прибутки!"
 
 # game/script.rpy:3500
 translate uk_UA barupgrade_a37d7922:
 
     # e "I would buy a surround sound system."
-    e ""
+    e "Я б купила систему обємного звуку."
 
 # game/script.rpy:3503
 translate uk_UA barupgrade_64b8dc7b:
 
     # e "I would recommend buying some seats. More seats, more money!"
-    e ""
+    e "Я б порадила придбати додаткові сидячі місця. Більше місць - більше грошей!"
 
 # game/script.rpy:3506
 translate uk_UA barupgrade_f37f1349:
 
     # e "Your next logical step is Mixology Training!"
-    e ""
+    e "Ваше наступне логічне рішення - уроки міксології."
 
 # game/script.rpy:3507
 translate uk_UA barupgrade_e9153bd9:
 
     # e "Mixology Training will allow your bartender to become a little creative, meaning your bar will have custom drinks only available here!"
-    e ""
+    e "Уроки міксології зроблять бармена більш творчим, що дасть вашому закладу ексклюзивні напої, які можна буде замовити лише тут!"
 
 # game/script.rpy:3513
 translate uk_UA barupgrade_01aca1d2:
 
     # e "Now that you have the chairs, music, and drinks necessary to host large amount of patrons, I recommend we begin promoting Sports Day!"
-    e ""
+    e "Оскильки у вас тепер є достатньо місць, музика і напої, щоб приймати велику кількість відвідувачів, прийшла черга реклами дня спорту."
 
 # game/script.rpy:3519
 translate uk_UA barupgrade_672dcfcb:
 
     # e "Every Sunday Evening, if we advertise it correctly, should be packed to the brim! It may be expensive up front, but once everything is in place I can guarantee you'll be paid back in full in at most 3 weeks."
-    e ""
+    e "Кожного недільного вечора, якщо правильно підібрати рекламу, заклад має бути заповненим вщент! Спочатку це може здаватись дорого, але, коли все готово, не довше ніж за 3 тижні це все мало б окупитись, я гарантую."
 
 # game/script.rpy:3520
 translate uk_UA barupgrade_a3a77ace:
@@ -5470,7 +5472,7 @@ translate uk_UA floor2menu_c12a4fb6:
 translate uk_UA floor2menu_39f56e41:
 
     # bot "Awwww... Okay..."
-    bot ""
+    bot "Ам... Добре..."
 
 # game/script.rpy:4838
 translate uk_UA floor2menu_bbe38fd9:
@@ -5860,7 +5862,7 @@ translate uk_UA floor2menu_2f320cf7:
 translate uk_UA floor2menu_fdf60f66:
 
     # bot "Awww... But I'm so horny now!"
-    bot ""
+    bot "Ам... Але ж я зараз так збуджена!"
 
 # game/script.rpy:5008
 translate uk_UA floor2menu_717b76fb:
@@ -6532,7 +6534,7 @@ translate uk_UA floor2menu_8c2babf2:
 translate uk_UA floor2menu_9fa8a0f8:
 
     # em "Hey [name]!"
-    em ""
+    em "Привіт [name]!"
 
 # game/script.rpy:5328
 translate uk_UA floor2menu_6c493eb8_2:
@@ -6574,7 +6576,7 @@ translate uk_UA floor2menu_391847f1:
 translate uk_UA floor2menu_fb58dff5:
 
     # f "Hey [name], what's up?"
-    f ""
+    f "Привіт [name], як ти?"
 
 # game/script.rpy:5356
 translate uk_UA floor2menu_717a4d9f:
@@ -6694,7 +6696,7 @@ translate uk_UA floor2menu_ecf18235_2:
 translate uk_UA floor2menu_5a1f9fa0:
 
     # em "Oh! Hey [name], what's up?"
-    em ""
+    em "О! Привіт [name], як ти?"
 
 # game/script.rpy:5414
 translate uk_UA floor2menu_c7349818:
@@ -6718,7 +6720,7 @@ translate uk_UA floor2menu_816c4eeb:
 translate uk_UA floor2menu_b4563824:
 
     # f "Hey [name]~"
-    f ""
+    f "Привіт [name]~"
 
 # game/script.rpy:5431
 translate uk_UA floor2menu_6c493eb8_3:
@@ -6796,7 +6798,7 @@ translate uk_UA floor2menu_ad3c3999:
 translate uk_UA floor2menu_524b05f4:
 
     # f "Sure!"
-    f ""
+    f "Звісно!"
 
 # game/script.rpy:5474
 translate uk_UA floor2menu_da107b44:
@@ -7108,7 +7110,7 @@ translate uk_UA floor2menu_52341a1c:
 translate uk_UA floor2menu_6a506300:
 
     # c "Maybe later."
-    c ""
+    c "Можливо пізніше."
 
 # game/script.rpy:5686
 translate uk_UA floor2menu_3a55d2f2:
@@ -7138,7 +7140,7 @@ translate uk_UA floor2menu_c6c78500:
 translate uk_UA floor2menu_48fc288b:
 
     # c "What's up?"
-    c ""
+    c "Як ти?"
 
 # game/script.rpy:5710
 translate uk_UA floor2menu_ca0d6b15:
@@ -7582,7 +7584,7 @@ translate uk_UA lobby_af65ae04:
 translate uk_UA lobby_ee0f9226:
 
     # m "What's up?"
-    m ""
+    m "Як ти?"
 
 # game/script.rpy:6042
 translate uk_UA lobby_779568dc:
@@ -7612,7 +7614,7 @@ translate uk_UA lobby_7b79ab01:
 translate uk_UA lobby_168012b4:
 
     # m "Hey [name]."
-    m ""
+    m "Привіт [name]."
 
 # game/script.rpy:6073
 translate uk_UA lobby_9c43a04a:
@@ -7822,13 +7824,13 @@ translate uk_UA lobby_ecf18235_1:
 translate uk_UA lobby_885f04e7:
 
     # m "Hey! What's up?"
-    m ""
+    m "Привіт! Як ти?"
 
 # game/script.rpy:6143
 translate uk_UA lobby_9b02a66d:
 
     # c "Let's go to the beach."
-    c ""
+    c "Давай підемо на пляж!"
 
 # game/script.rpy:6146
 translate uk_UA lobby_6d6e24f2:
@@ -7870,7 +7872,7 @@ translate uk_UA lobby_1ffa4758:
 translate uk_UA lobby_bd6084f9:
 
     # "You both hop in your car. Maria gives you directions and soon you arrive. She was right, it's very fancy. It's the kind of place that serves premium steak and lobster at marked up prices."
-    ""
+    "Ви обоє заскочили в автомобіль. Марія допомогла знайти вірну дорогу і ви прибули. Вона була права - він дуже розкішний. В таких закладах подають преміальні стейки та лобстери за завищеними цінами."
 
 # game/script.rpy:6176
 translate uk_UA lobby_2d92837f:
@@ -7930,7 +7932,7 @@ translate uk_UA lobby_2b08c85a:
 translate uk_UA lobby_48fc288b:
 
     # c "What's up?"
-    c ""
+    c "Як ти?"
 
 # game/script.rpy:6216
 translate uk_UA lobby_d5a96581:
@@ -7966,7 +7968,7 @@ translate uk_UA lobby_c4d93d4d:
 translate uk_UA lobby_ee0f9226_1:
 
     # m "What's up?"
-    m ""
+    m "Як ти?"
 
 # game/script.rpy:6231
 translate uk_UA lobby_eb4057f4:
@@ -8698,7 +8700,7 @@ translate uk_UA lobby_e03738ed:
 translate uk_UA lobby_9ed6eebc:
 
     # a "WHAT ARE YOU DOING MARIA!?"
-    a ""
+    a "ТИ ЩО РОБИШ, МАРІЯ!?"
 
 # game/script.rpy:6453
 translate uk_UA lobby_32cf229d:
@@ -8806,7 +8808,7 @@ translate uk_UA lobby_5a3c79a1:
 translate uk_UA lobby_2947c302:
 
     # m "Hey [name], what's up?"
-    m ""
+    m "Привіт [name], як ти?"
 
 # game/script.rpy:6505
 translate uk_UA lobby_6c493eb8:
@@ -8824,7 +8826,7 @@ translate uk_UA lobby_7c688f5b:
 translate uk_UA lobby_2947c302_1:
 
     # m "Hey [name], what's up?"
-    m ""
+    m "Привіт [name], як ти?"
 
 # game/script.rpy:6517
 translate uk_UA lobby_6c493eb8_1:
@@ -8842,7 +8844,7 @@ translate uk_UA lobby_7c688f5b_1:
 translate uk_UA lobby_2947c302_2:
 
     # m "Hey [name], what's up?"
-    m ""
+    m "Привіт [name], як ти?"
 
 # game/script.rpy:6529
 translate uk_UA lobby_6c493eb8_2:
@@ -8860,7 +8862,7 @@ translate uk_UA lobby_7c688f5b_2:
 translate uk_UA lobby_2947c302_3:
 
     # m "Hey [name], what's up?"
-    m ""
+    m "Привіт [name], як ти?"
 
 # game/script.rpy:6542
 translate uk_UA lobby_6c493eb8_3:
@@ -8938,13 +8940,13 @@ translate uk_UA lobby_4e296d5c:
 translate uk_UA lobby_36ca608b:
 
     # m "Oh, maybe later then."
-    m ""
+    m "О, тоді, мабуть, пізніше."
 
 # game/script.rpy:6584
 translate uk_UA lobby_2947c302_4:
 
     # m "Hey [name], what's up?"
-    m ""
+    m "Привіт [name], як ти?"
 
 # game/script.rpy:6585
 translate uk_UA lobby_6c493eb8_4:
@@ -9358,7 +9360,7 @@ translate uk_UA floor1menu_7f468e7e:
 translate uk_UA floor1menu_48fc288b:
 
     # c "What's up?"
-    c ""
+    c "Як ти?"
 
 # game/script.rpy:6801
 translate uk_UA floor1menu_315ac068:
@@ -9502,7 +9504,7 @@ translate uk_UA floor1menu_248f6490:
 translate uk_UA floor1menu_a594f0ca:
 
     # "After Lin gets dressed, you both hop in your car and drive to the beach."
-    ""
+    "Після того як Лін перевдягнулась ви обоє заскочили в автомобіль і поїхали на пляж..."
 
 # game/script.rpy:6868
 translate uk_UA floor1menu_4cf88512_1:
@@ -9676,7 +9678,7 @@ translate uk_UA floor1menu_1e881d77:
 translate uk_UA floor1menu_cf7b1c62:
 
     # l "Oh... okay [linoname]. Maybe next time?"
-    l ""
+    l "О... Добре [linoname]. Можливо іншим разом?"
 
 # game/script.rpy:7061
 translate uk_UA floor1menu_335c3c89:
@@ -10066,7 +10068,7 @@ translate uk_UA floor1menu_760620a7:
 translate uk_UA floor1menu_2619b356:
 
     # k "Hey [name], what's up?"
-    k ""
+    k "Привіт [name], як ти?"
 
 # game/script.rpy:7296
 translate uk_UA floor1menu_ff32eb99:
@@ -10198,7 +10200,7 @@ translate uk_UA floor1menu_543383d1:
 translate uk_UA floor1menu_f8cb9225:
 
     # k "Well, let's get out of here..."
-    k ""
+    k "Що ж, ідем звідси..."
 
 # game/script.rpy:7441
 translate uk_UA floor1menu_b50ab21d:
@@ -10582,7 +10584,7 @@ translate uk_UA kcreep_2392584c:
 translate uk_UA kcreep_fa004465:
 
     # k "Come on, let's go home."
-    k ""
+    k "Ну ж бо, ідем всередину."
 
 # game/script.rpy:7568
 translate uk_UA kcreep_7ef175e1:
@@ -10672,7 +10674,7 @@ translate uk_UA kcreep_29f7e3ea:
 translate uk_UA kcreep_55838880:
 
     # k "Hey, what's up?"
-    k ""
+    k "Привіт, як ти?"
 
 # game/script.rpy:7629
 translate uk_UA kcreep_6c493eb8:
@@ -10690,7 +10692,7 @@ translate uk_UA kcreep_9ffa6e11:
 translate uk_UA kcreep_55838880_1:
 
     # k "Hey, what's up?"
-    k ""
+    k "Привіт, як ти?"
 
 # game/script.rpy:7639
 translate uk_UA kcreep_6c493eb8_1:
@@ -10708,7 +10710,7 @@ translate uk_UA kcreep_9ffa6e11_1:
 translate uk_UA kcreep_55838880_2:
 
     # k "Hey, what's up?"
-    k ""
+    k "Привіт, як ти?"
 
 # game/script.rpy:7649
 translate uk_UA kcreep_6c493eb8_2:
@@ -10726,7 +10728,7 @@ translate uk_UA kcreep_9ffa6e11_2:
 translate uk_UA kcreep_55838880_3:
 
     # k "Hey, what's up?"
-    k ""
+    k "Привіт, як ти?"
 
 # game/script.rpy:7659
 translate uk_UA kcreep_6c493eb8_3:
@@ -11164,7 +11166,7 @@ translate uk_UA kcreep_fc1a4916:
 translate uk_UA kcreep_7c275486:
 
     # a "Hi [name]~ What's up?"
-    a ""
+    a "Привіт [name]~ Як ти?"
 
 # game/script.rpy:7918
 translate uk_UA kcreep_b8e084f2:
@@ -11230,7 +11232,7 @@ translate uk_UA kcreep_30563767:
 translate uk_UA kcreep_3ab81655:
 
     # a "Yep, what's up?"
-    a ""
+    a "Ага, як ти?"
 
 # game/script.rpy:7937
 translate uk_UA kcreep_da174bf5:
@@ -11290,7 +11292,7 @@ translate uk_UA kcreep_30563767_1:
 translate uk_UA kcreep_3ab81655_1:
 
     # a "Yep, what's up?"
-    a ""
+    a "Ага, як ти?"
 
 # game/script.rpy:7953
 translate uk_UA kcreep_34315e0b:
@@ -11692,7 +11694,7 @@ translate uk_UA kcreep_7d3420e5:
 translate uk_UA kcreep_dd719b78:
 
     # a "[name]! Let's go to the beach!"
-    a ""
+    a "[name]! Давай підемо на пляж!"
 
 # game/script.rpy:8201
 translate uk_UA kcreep_297d93f3_1:
@@ -11740,7 +11742,7 @@ translate uk_UA kcreep_5e5fc2b9:
 translate uk_UA kcreep_55bad306:
 
     # a "Awww..."
-    a ""
+    a "Ам..."
 
 # game/script.rpy:8236
 translate uk_UA kcreep_4affcf42_1:
@@ -11758,7 +11760,7 @@ translate uk_UA kcreep_f7c6d3eb:
 translate uk_UA kcreep_ab6d79f7:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Привііт [name]! Як ти?"
 
 # game/script.rpy:8247
 translate uk_UA kcreep_6c493eb8_4:
@@ -11776,7 +11778,7 @@ translate uk_UA kcreep_e786a439:
 translate uk_UA kcreep_ab6d79f7_1:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Привііт [name]! Як ти?"
 
 # game/script.rpy:8259
 translate uk_UA kcreep_6c493eb8_5:
@@ -11794,7 +11796,7 @@ translate uk_UA kcreep_e786a439_1:
 translate uk_UA kcreep_ab6d79f7_2:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Привііт [name]! Як ти?"
 
 # game/script.rpy:8271
 translate uk_UA kcreep_6c493eb8_6:
@@ -11812,7 +11814,7 @@ translate uk_UA kcreep_e786a439_2:
 translate uk_UA kcreep_ab6d79f7_3:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Привііт [name]! Як ти?"
 
 # game/script.rpy:8283
 translate uk_UA kcreep_6c493eb8_7:
@@ -11872,13 +11874,13 @@ translate uk_UA kcreep_a2f82df7:
 translate uk_UA kcreep_7c633c07:
 
     # a "Awww... but later, okay?"
-    a ""
+    a "Ам... але пізніше, добре?"
 
 # game/script.rpy:8320
 translate uk_UA kcreep_ab6d79f7_4:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Привііт [name]! Як ти?"
 
 # game/script.rpy:8321
 translate uk_UA kcreep_6c493eb8_8:
@@ -23500,7 +23502,7 @@ translate uk_UA shower_53f79ef6:
 translate uk_UA shower_98d1ee0e:
 
     # f "Oh, hey [name]! Did you come to join me?"
-    f ""
+    f "О, привіт [name]! Ти вирішив приєднатись до мене?"
 
 # game/script.rpy:12467
 translate uk_UA shower_678ae389:
@@ -23824,7 +23826,7 @@ translate uk_UA shower_1da390d2:
 translate uk_UA shower_e0bd6f85:
 
     # l "Yay!"
-    l ""
+    l "Ура!"
 
 # game/script.rpy:12657
 translate uk_UA shower_f10a8163:
@@ -23896,7 +23898,7 @@ translate uk_UA shower_6180a1c7:
 translate uk_UA shower_a1625018:
 
     # l "Oh... okay [linoname]..."
-    l ""
+    l "О... Добре [linoname]..."
 
 # game/script.rpy:12682
 translate uk_UA shower_6d686373:
@@ -29032,7 +29034,7 @@ translate uk_UA springash_6ceec2f9:
 translate uk_UA springash_f6a7099d:
 
     # a "Oh, hey [name]!"
-    a ""
+    a "О, привіт [name]!"
 
 # game/script.rpy:15318
 translate uk_UA springash_f968826d:
@@ -29230,7 +29232,7 @@ translate uk_UA yourroom_a21f7f89:
 translate uk_UA yourroom_506c11b1:
 
     # c "What are you doing?"
-    c ""
+    c "Що робиш?"
 
 # game/script.rpy:15440
 translate uk_UA yourroom_cdada02e:
@@ -29926,7 +29928,7 @@ translate uk_UA yourroom_2c4e8fb5:
 translate uk_UA yourroom_41a59db5:
 
     # au "W-What are you doing...?"
-    au ""
+    au "Щ-що робиш...?"
 
 # game/script.rpy:15689
 translate uk_UA yourroom_04647ceb:
@@ -30502,7 +30504,7 @@ translate uk_UA yourroom_bcc88864:
 translate uk_UA yourroom_48fc288b:
 
     # c "What's up?"
-    c ""
+    c "Як ти?"
 
 # game/script.rpy:15879
 translate uk_UA yourroom_3c1394a6:
@@ -30526,7 +30528,7 @@ translate uk_UA yourroom_3a6ca30e:
 translate uk_UA yourroom_e0bd6f85:
 
     # l "Yay!"
-    l ""
+    l "Ура!"
 
 # game/script.rpy:15890
 translate uk_UA yourroom_13b33f1b:
@@ -30580,7 +30582,7 @@ translate uk_UA yourroom_8cdcc6b5:
 translate uk_UA yourroom_aef814fa:
 
     # k "Hey [name]..."
-    k ""
+    k "Привіт [name]..."
 
 # game/script.rpy:15941
 translate uk_UA yourroom_dbd62e86:
@@ -31066,7 +31068,7 @@ translate uk_UA yourroom_f608aba3:
 translate uk_UA yourroom_48fc288b_1:
 
     # c "What's up?"
-    c ""
+    c "Як ти?"
 
 # game/script.rpy:16127
 translate uk_UA yourroom_95178dc8:
@@ -31498,7 +31500,7 @@ translate uk_UA yourroomcontinued_f031ff0d:
 translate uk_UA yourroomcontinued_2ec38837:
 
     # c "Hey, what's up?"
-    c ""
+    c "Привіт, як ти?"
 
 # game/script.rpy:16434
 translate uk_UA yourroomcontinued_726ecd76:
@@ -32170,7 +32172,7 @@ translate uk_UA visitgirls_1adbd49b:
 translate uk_UA visitgirls_cab32668:
 
     # em "Let's get out of here..."
-    em ""
+    em "Ідем звідси..."
 
 # game/script.rpy:16807
 translate uk_UA visitgirls_e02bf1fc:
@@ -33256,7 +33258,7 @@ translate uk_UA bot_sick_12180139:
 translate uk_UA bot_sick_6e3b615a:
 
     # ally "Yes! So let's do it!"
-    ally ""
+    ally "Так! То ж давай!"
 
 # game/script.rpy:17581
 translate uk_UA bot_sick_6e632587:
@@ -34876,7 +34878,7 @@ translate uk_UA bot_sick_eb3f131c:
 translate uk_UA bot_sick_2c694e69:
 
     # ally "Yay!"
-    ally ""
+    ally "Ура!"
 
 # game/script.rpy:17955
 translate uk_UA bot_sick_279bb989:
@@ -44428,7 +44430,7 @@ translate uk_UA bot_uni_e07f6791:
 translate uk_UA bot_uni_cf142be1:
 
     # kim "I'd love a breakfast bagel! Let's do it!"
-    kim ""
+    kim "Я не проти бублика на сніданок! Давай!"
 
 # game/script.rpy:20663
 translate uk_UA bot_uni_cbaf9751:
@@ -46420,7 +46422,7 @@ translate uk_UA bot_mardom_0f943ea2:
 translate uk_UA bot_mardom_8c3fd8ed:
 
     # m "What's up? I like the new look."
-    m ""
+    m "Як ти? Мені подобається твій новий стиль."
 
 # game/script.rpy:21151
 translate uk_UA bot_mardom_42096e9d:
@@ -48946,7 +48948,7 @@ translate uk_UA botwake_b85a7f09:
 translate uk_UA botwake_45cfb12b:
 
     # e "What's up?"
-    e ""
+    e "Як ти?"
 
 # game/script.rpy:21843
 translate uk_UA botwake_23f9b9ca:
@@ -52606,7 +52608,7 @@ translate uk_UA botcasual_4e8c7062:
 translate uk_UA botcasual_32ce1d18:
 
     # bot "Yay!"
-    bot ""
+    bot "Ура!"
 
 # game/script.rpy:22858
 translate uk_UA botcasual_5103dc73:
@@ -58030,7 +58032,7 @@ translate uk_UA botsink_ecf18235:
 translate uk_UA botsink_39dae445:
 
     # k "What's up?"
-    k ""
+    k "Як ти?"
 
 # game/script.rpy:24656
 translate uk_UA botsink_404a24ea:
@@ -58114,7 +58116,7 @@ translate uk_UA botcity_0c000bcd:
 translate uk_UA botcity_32ce1d18:
 
     # bot "Yay!"
-    bot ""
+    bot "Ура!"
 
 # game/script.rpy:24686
 translate uk_UA botcity_0885f60d:
@@ -62674,7 +62676,7 @@ translate uk_UA kalifix1_ecd64e10:
 translate uk_UA kalifix1_55838880:
 
     # k "Hey, what's up?"
-    k ""
+    k "Привіт, як ти?"
 
 # game/script.rpy:26023
 translate uk_UA kalifix1_5f3250de:
@@ -62686,7 +62688,7 @@ translate uk_UA kalifix1_5f3250de:
 translate uk_UA kalifix1_5f7753ab:
 
     # k "Oh, sure... you're having issues?"
-    k ""
+    k "О, звісно... а в тебе що, проблеми?"
 
 # game/script.rpy:26025
 translate uk_UA kalifix1_23810ec6:
@@ -63088,7 +63090,7 @@ translate uk_UA bot_maria_08d011ff:
 translate uk_UA bot_maria_5c81d692:
 
     # m "Then let's do it! Let's see how big your tits can get!"
-    m ""
+    m "Ну давай! Глянем наскільки великими можуть стати твої груди!"
 
 # game/script.rpy:26115
 translate uk_UA bot_maria_29455cc1:
@@ -69538,7 +69540,7 @@ translate uk_UA bdsmgirls_58ed2edb:
 translate uk_UA bdsmgirls_39dae445:
 
     # k "What's up?"
-    k ""
+    k "Як ти?"
 
 # game/script.rpy:28637
 translate uk_UA bdsmgirls_8cb9bb83_3:
@@ -69568,7 +69570,7 @@ translate uk_UA bdsmgirls_15d91217:
 translate uk_UA bdsmgirls_39dae445_1:
 
     # k "What's up?"
-    k ""
+    k "Як ти?"
 
 # game/script.rpy:28648
 translate uk_UA bdsmgirls_8cb9bb83_4:
@@ -69598,7 +69600,7 @@ translate uk_UA bdsmgirls_2da14442:
 translate uk_UA bdsmgirls_39dae445_2:
 
     # k "What's up?"
-    k ""
+    k "Як ти?"
 
 # game/script.rpy:28659
 translate uk_UA bdsmgirls_8cb9bb83_5:
@@ -69628,7 +69630,7 @@ translate uk_UA bdsmgirls_509dbeb9:
 translate uk_UA bdsmgirls_39dae445_3:
 
     # k "What's up?"
-    k ""
+    k "Як ти?"
 
 # game/script.rpy:28671
 translate uk_UA bdsmgirls_8cb9bb83_6:
@@ -70078,7 +70080,7 @@ translate uk_UA bdsmgirls_3b80352e:
 translate uk_UA bdsmgirls_6e56b9c6:
 
     # bot "Y-Yeah! Let's do it!"
-    bot ""
+    bot "А-Ага! Давай!"
 
 # game/script.rpy:28887
 translate uk_UA bdsmgirls_62cd3c65_2:
@@ -74212,7 +74214,7 @@ translate uk_UA linsidefuck_a6a1696f:
 translate uk_UA linsidefuck_b738628b:
 
     # l "Ahhh... Hahhh... Heheh... Did I make you feel good [linoname]?"
-    l ""
+    l "Аа... Хаа... Хіхі... Вам було приємно, [linoname]?"
 
 # game/script.rpy:30687
 translate uk_UA linsidefuck_4fcfb92e:
@@ -74302,7 +74304,7 @@ translate uk_UA linsidefuck_72cfa825:
 translate uk_UA linsidefuck_dee09fb4:
 
     # l "Ahhh... Hahhh... Heheh... We came together [linoname]..."
-    l ""
+    l "Аа... Хаа... Хіхі... [linoname], ми разом кінчили..."
 
 # game/script.rpy:30721
 translate uk_UA linsidefuck_ee66be4a:
@@ -78202,7 +78204,7 @@ translate uk_UA mooncall_769b6392:
 translate uk_UA mooncall_0fc25940:
 
     # c "Nothing, what's up?"
-    c ""
+    c "Нічого, ти як?"
 
 # game/script.rpy:33226
 translate uk_UA mooncall_06b24f4d:
@@ -82162,7 +82164,7 @@ translate uk_UA lustsystem_bf96246c:
 translate uk_UA lustsystem_48fc288b:
 
     # c "What's up?"
-    c ""
+    c "Як ти?"
 
 # game/script.rpy:35105
 translate uk_UA lustsystem_421aa746:
@@ -82546,7 +82548,7 @@ translate uk_UA klq_f5d6eb0a:
 translate uk_UA klq_728bd460:
 
     # a "Hey [name]..."
-    a ""
+    a "Привіт [name]..."
 
 # game/script.rpy:35335
 translate uk_UA klq_24c7ada5:
@@ -88892,7 +88894,7 @@ translate uk_UA strings:
 
     # game/script.rpy:4785
     old "Maybe later."
-    new ""
+    new "Можливо пізніше."
 
     # game/script.rpy:4819
     old "Sure"
@@ -88900,7 +88902,7 @@ translate uk_UA strings:
 
     # game/script.rpy:4819
     old "Maybe later"
-    new ""
+    new "Можливо пізніше."
 
     # game/script.rpy:4841
     old "Bring your swimsuit"
@@ -89080,7 +89082,7 @@ translate uk_UA strings:
 
     # game/script.rpy:6436
     old "What's up?"
-    new ""
+    new "Як ти?"
 
     # game/script.rpy:6436
     old "I'm too busy right now."
@@ -89136,7 +89138,7 @@ translate uk_UA strings:
 
     # game/script.rpy:6833
     old "Let's do it!"
-    new ""
+    new "Давай!"
 
     # game/script.rpy:6833
     old "Not right now..."
@@ -92868,7 +92870,7 @@ translate uk_UA twin_door_menu_8c2babf2:
 translate uk_UA twin_door_menu_9fa8a0f8:
 
     # em "Hey [name]!"
-    em ""
+    em "Привіт [name]!"
 
 # game/script.rpy:5586
 translate uk_UA twin_door_menu_6c493eb8:
@@ -92910,7 +92912,7 @@ translate uk_UA twin_door_menu_391847f1:
 translate uk_UA twin_door_menu_fb58dff5:
 
     # f "Hey [name], what's up?"
-    f ""
+    f "Привіт, [name], як ти?"
 
 # game/script.rpy:5614
 translate uk_UA twin_door_menu_717a4d9f:
@@ -93030,7 +93032,7 @@ translate uk_UA twin_door_menu_ecf18235:
 translate uk_UA twin_door_menu_5a1f9fa0:
 
     # em "Oh! Hey [name], what's up?"
-    em ""
+    em "О! Привіт, [name], як ти?"
 
 # game/script.rpy:5672
 translate uk_UA twin_door_menu_c7349818:
@@ -93054,7 +93056,7 @@ translate uk_UA twin_door_menu_2a7783ff:
 translate uk_UA twin_door_menu_b4563824:
 
     # f "Hey [name]~"
-    f ""
+    f "Привіт [name]~"
 
 # game/script.rpy:5689
 translate uk_UA twin_door_menu_6c493eb8_1:
@@ -93444,7 +93446,7 @@ translate uk_UA twin_door_menu_52341a1c:
 translate uk_UA twin_door_menu_6a506300:
 
     # c "Maybe later."
-    c ""
+    c "Можливо пізніше."
 
 # game/script.rpy:5944
 translate uk_UA twin_door_menu_3a55d2f2:
@@ -93480,7 +93482,7 @@ translate uk_UA twin_door_menu_c6c78500:
 translate uk_UA twin_door_menu_48fc288b:
 
     # c "What's up?"
-    c ""
+    c "Як ти?"
 
 # game/script.rpy:5972
 translate uk_UA twin_door_menu_ca0d6b15:
@@ -94746,7 +94748,7 @@ translate uk_UA kali_door_menu_760620a7:
 translate uk_UA kali_door_menu_2619b356:
 
     # k "Hey [name], what's up?"
-    k ""
+    k "Привіт [name], як ти?"
 
 # game/script.rpy:7914
 translate uk_UA kali_door_menu_ff32eb99:
@@ -95478,7 +95480,7 @@ translate uk_UA ash_door_menu_7d3420e5:
 translate uk_UA ash_door_menu_dd719b78:
 
     # a "[name]! Let's go to the beach!"
-    a ""
+    a "[name]! Давай підемо на пляж!"
 
 # game/script.rpy:8917
 translate uk_UA ash_door_menu_297d93f3_1:
@@ -95544,7 +95546,7 @@ translate uk_UA ash_door_menu_f7c6d3eb:
 translate uk_UA ash_door_menu_ab6d79f7:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Привііт [name]! Як ти?"
 
 # game/script.rpy:8963
 translate uk_UA ash_door_menu_6c493eb8:
@@ -95562,7 +95564,7 @@ translate uk_UA ash_door_menu_e786a439:
 translate uk_UA ash_door_menu_ab6d79f7_1:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Привііт [name]! Як ти?"
 
 # game/script.rpy:8975
 translate uk_UA ash_door_menu_6c493eb8_1:
@@ -95580,7 +95582,7 @@ translate uk_UA ash_door_menu_e786a439_1:
 translate uk_UA ash_door_menu_ab6d79f7_2:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Привііт [name]! Як ти?"
 
 # game/script.rpy:8987
 translate uk_UA ash_door_menu_6c493eb8_2:
@@ -95598,7 +95600,7 @@ translate uk_UA ash_door_menu_e786a439_2:
 translate uk_UA ash_door_menu_ab6d79f7_3:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Привііт [name]! Як ти?"
 
 # game/script.rpy:8999
 translate uk_UA ash_door_menu_6c493eb8_3:
@@ -95664,7 +95666,7 @@ translate uk_UA ash_door_menu_7c633c07:
 translate uk_UA ash_door_menu_ab6d79f7_4:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Привііт [name]! Як ти?"
 
 # game/script.rpy:9037
 translate uk_UA ash_door_menu_6c493eb8_4:
@@ -100020,7 +100022,7 @@ translate uk_UA bern_tourney_d1acec5f:
 translate uk_UA bern_tourney_c9ab3c0d:
 
     # jes "YAY!"
-    jes ""
+    jes "УРА!"
 
 # game/script.rpy:13772
 translate uk_UA bern_tourney_d8a309cd:
@@ -100866,7 +100868,7 @@ translate uk_UA bern_tourney_d1acec5f_1:
 translate uk_UA bern_tourney_c9ab3c0d_1:
 
     # jes "YAY!"
-    jes ""
+    jes "УРА!"
 
 # game/script.rpy:14072
 translate uk_UA bern_tourney_b4dbbdd1:
