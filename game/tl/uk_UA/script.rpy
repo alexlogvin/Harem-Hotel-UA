@@ -3696,1273 +3696,1273 @@ translate uk_UA barupgrade_672dcfcb:
 translate uk_UA barupgrade_a3a77ace:
 
     # e "Getting this many rowdy sports fans drunk is bound to cause damage though, so be prepared. Especially for tourney day..."
-    e ""
+    e "Проте будьте готові до того, що якщо велика кількість уболівальників напються - проблем не уникнути. Особливо у день змагань..."
 
 # game/script.rpy:3525
 translate uk_UA sportsmenu_3d05d562:
 
     # "Wings, nuts, nachos, popcorn, pretzels, chips, water bottles, etc. People love to snack while being entertained. It may not seem expensive to the patron at first, but lucky it adds up..."
-    ""
+    "Курячі крильця, горішки, начоси, поп-корн, прецелі, чіпси, бутильована вода, та ні. Люди люблять закуски під час розваг. Спочатку витрати можуть здатись невеликими, але вони є..."
 
 # game/script.rpy:3529
 translate uk_UA sportsmenu_885254ba:
 
     # e "Very well."
-    e ""
+    e "Чудово."
 
 # game/script.rpy:3534
 translate uk_UA sportsmenu_22936f84:
 
     # e "Congratulations! We are officially prepared for Sports Day!"
-    e ""
+    e "Мої вітання! Ми офіційно готові до спортивного дня!"
 
 # game/script.rpy:3535
 translate uk_UA sportsmenu_e97a16f4:
 
     # e "With your initial investment in place, we can now expect to see profits soaring in within the next few weeks. Make sure you pay attention to your weekly report."
-    e ""
+    e "З вашими інвестиціями ми можемо очікувати на протязі наступних декількох тижнів стрімкий ріст прибутку. Звертайте увагу на щотижневі фінансові звіти."
 
 # game/script.rpy:3536
 translate uk_UA sportsmenu_4496a591:
 
     # e "Oh, and don't expect to be able to visit the bar sunday evenings anymore. It will be packed, I recommend leaving the work to your employees..."
-    e ""
+    e "О, і в неділю вам найімовірніше не вдасться відвідати бар. Через його завантаженість, краще покладіться на ваш персонал..."
 
 # game/script.rpy:3544
 translate uk_UA sportsmenu_bb22c8cb:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3549
 translate uk_UA sportsmenu_05335707:
 
     # "You need TVs, obviously."
-    ""
+    "Вам, очевидно, необхідні телевізори."
 
 # game/script.rpy:3554
 translate uk_UA sportsmenu_f5c6dd37:
 
     # e "Of course, I'll place the order immediately."
-    e ""
+    e "Звісно, я негайно зроблю замовлення."
 
 # game/script.rpy:3558
 translate uk_UA sportsmenu_3ba747dd:
 
     # "One TV has been bought! Three more may be purchased. \nThe order will arrive tomorrow morning, and will be installed for you."
-    ""
+    "Один телевізор був придбаний! Ще можна придбати три. \nЗамовлення приїде завтра зранку, і все для вас буде встановлено."
 
 # game/script.rpy:3560
 translate uk_UA sportsmenu_cc643b27:
 
     # "Two TVs have been bought! Two more may be purchased. \nThe order will arrive tomorrow morning, and will be installed for you."
-    ""
+    "Два телевізори були придбані! Ще можна придбати два. \nЗамовлення приїде завтра зранку, і все для вас буде встановлено."
 
 # game/script.rpy:3562
 translate uk_UA sportsmenu_4a3a8b19:
 
     # "Three TVs have been bought! One more may be purchased. \nThe order will arrive tomorrow morning, and will be installed for you."
-    ""
+    "Три телевізори були придбані! Ще можна придбати один. \nЗамовлення приїде завтра зранку, і все для вас буде встановлено."
 
 # game/script.rpy:3564
 translate uk_UA sportsmenu_c1ace87f:
 
     # "All TVs have been bought! \nThe order will arrive tomorrow morning, and will be installed for you."
-    ""
+    "Всі телевізори були придбані! \nЗамовлення приїде завтра зранку, і все для вас буде встановлено."
 
 # game/script.rpy:3567
 translate uk_UA sportsmenu_22936f84_1:
 
     # e "Congratulations! We are officially prepared for Sports Day!"
-    e ""
+    e "Мої вітання! Ми офіційно готові до спортивного дня!"
 
 # game/script.rpy:3568
 translate uk_UA sportsmenu_e97a16f4_1:
 
     # e "With your initial investment in place, we can now expect to see profits soaring in within the next few weeks. Make sure you pay attention to your weekly report."
-    e ""
+    e "З вашими інвестиціями ми можемо очікувати на протязі наступних декількох тижнів стрімкий ріст прибутку. Звертайте увагу на щотижневі фінансові звіти."
 
 # game/script.rpy:3569
 translate uk_UA sportsmenu_4496a591_1:
 
     # e "Oh, and don't expect to be able to visit the bar sunday evenings anymore. It will be packed, I recommend leaving the work to your employees..."
-    e ""
+    e "О, і в неділю вам найімовірніше не вдасться відвідати бар. Через його завантаженість, краще покладіться на ваш персонал..."
 
 # game/script.rpy:3576
 translate uk_UA sportsmenu_bb22c8cb_1:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3580
 translate uk_UA sportsmenu_1c8e11b4:
 
     # "Contract musicians to play at your bar. Every crowd needs live entertainment."
-    ""
+    "Найміть музикінтав, щоб грали у вашому барі. Будь-яка публіка потребує живої музики."
 
 # game/script.rpy:3584
 translate uk_UA sportsmenu_01d49e87:
 
     # e "Live performers? Oh, I'm so excited! Right away, [name]!"
-    e ""
+    e "Жива музика? О, я в захваті! Вже, [name], замовляю!"
 
 # game/script.rpy:3589
 translate uk_UA sportsmenu_22936f84_2:
 
     # e "Congratulations! We are officially prepared for Sports Day!"
-    e ""
+    e "Мої вітання! Ми офіційно готові до спортивного дня!"
 
 # game/script.rpy:3590
 translate uk_UA sportsmenu_e97a16f4_2:
 
     # e "With your initial investment in place, we can now expect to see profits soaring in within the next few weeks. Make sure you pay attention to your weekly report."
-    e ""
+    e "З вашими інвестиціями ми можемо очікувати на протязі наступних декількох тижнів стрімкий ріст прибутку. Звертайте увагу на щотижневі фінансові звіти."
 
 # game/script.rpy:3591
 translate uk_UA sportsmenu_4496a591_2:
 
     # e "Oh, and don't expect to be able to visit the bar sunday evenings anymore. It will be packed, I recommend leaving the work to your employees..."
-    e ""
+    e "О, і в неділю вам найімовірніше не вдасться відвідати бар. Через його завантаженість, краще покладіться на ваш персонал..."
 
 # game/script.rpy:3598
 translate uk_UA sportsmenu_bb22c8cb_2:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3602
 translate uk_UA sportsmenu_409df091:
 
     # "Dart boards, ping pong balls, etc. Something to do between games."
-    ""
+    "Цілі для дартсу, м'ячики для настільного тенісу, та ін. Заняття для клієнтів між змаганнями."
 
 # game/script.rpy:3606
 translate uk_UA sportsmenu_6b7f6efb:
 
     # e "Very well. I'll place the order."
-    e ""
+    e "Чудово. Зроблю замовлення."
 
 # game/script.rpy:3611
 translate uk_UA sportsmenu_22936f84_3:
 
     # e "Congratulations! We are officially prepared for Sports Day!"
-    e ""
+    e "Мої вітання! Ми офіційно готові до спортивного дня!"
 
 # game/script.rpy:3612
 translate uk_UA sportsmenu_e97a16f4_3:
 
     # e "With your initial investment in place, we can now expect to see profits soaring in within the next few weeks. Make sure you pay attention to your weekly report."
-    e ""
+    e "З вашими інвестиціями ми можемо очікувати на протязі наступних декількох тижнів стрімкий ріст прибутку. Звертайте увагу на щотижневі фінансові звіти."
 
 # game/script.rpy:3613
 translate uk_UA sportsmenu_4496a591_3:
 
     # e "Oh, and don't expect to be able to visit the bar sunday evenings anymore. It will be packed, I recommend leaving the work to your employees..."
-    e ""
+    e "О, і в неділю вам найімовірніше не вдасться відвідати бар. Через його завантаженість, краще покладіться на ваш персонал..."
 
 # game/script.rpy:3621
 translate uk_UA sportsmenu_bb22c8cb_3:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3627
 translate uk_UA sportsmenu_6ebcd83a:
 
     # "It's expensive to advertise in the sports industry, but we need to make it clear to everyone that YOUR bar is THE bar to go to for sports day, and ensure they know where to come during tournament season."
-    ""
+    "В спортивному бізнесі реклама дорога, але ми маємо показати, що сам ВАШ бає є ТИМ баром, куди варто піти у день спорту і впевнитись, що всі знають куди іти в сезон змагань."
 
 # game/script.rpy:3631
 translate uk_UA sportsmenu_9ca1872b:
 
     # e "Very well, I will contact a few advertisement agencies immediately."
-    e ""
+    e "Чудово, я негайно звяжусь з кількома рекламними агенствами."
 
 # game/script.rpy:3636
 translate uk_UA sportsmenu_22936f84_4:
 
     # e "Congratulations! We are officially prepared for Sports Day!"
-    e ""
+    e "Мої вітання! Ми офіційно готові до спортивного дня!"
 
 # game/script.rpy:3637
 translate uk_UA sportsmenu_e97a16f4_4:
 
     # e "With your initial investment in place, we can now expect to see profits soaring in within the next few weeks. Make sure you pay attention to your weekly report."
-    e ""
+    e "З вашими інвестиціями ми можемо очікувати на протязі наступних декількох тижнів стрімкий ріст прибутку. Звертайте увагу на щотижневі фінансові звіти."
 
 # game/script.rpy:3638
 translate uk_UA sportsmenu_4496a591_4:
 
     # e "Oh, and don't expect to be able to visit the bar sunday evenings anymore. It will be packed, I recommend leaving the work to your employees..."
-    e ""
+    e "О, і в неділю вам найімовірніше не вдасться відвідати бар. Через його завантаженість, краще покладіться на ваш персонал..."
 
 # game/script.rpy:3645
 translate uk_UA sportsmenu_bb22c8cb_4:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3655
 translate uk_UA sportsmenu_60f61b20:
 
     # "More seats, more patrons, more money."
-    ""
+    "Більше місць - більше відвідувачів - більше прибутку."
 
 # game/script.rpy:3661
 translate uk_UA sportsmenu_bbf87a91:
 
     # e "Very well! I'll order more chairs immediately."
-    e ""
+    e "Чудово! Негайно замовлю додаткові крісла."
 
 # game/script.rpy:3666
 translate uk_UA sportsmenu_bb22c8cb_5:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3672
 translate uk_UA bardrinks_731a8906:
 
     # "Aged whisky is sure to bring in alcohol connoisseurs, resulting in them wanting to judge all of your product."
-    ""
+    "Витримане віскі обовязково має привернути увагу поціновувачів, і можливо вони захочуть оцінити решту вашої продукції."
 
 # game/script.rpy:3678
 translate uk_UA bardrinks_54e8cbaf:
 
     # e "Very well! I'll set things up immediately."
-    e ""
+    e "Чудово! Я негайно все організую."
 
 # game/script.rpy:3683
 translate uk_UA bardrinks_bb22c8cb:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3687
 translate uk_UA bardrinks_559cb611:
 
     # "Wines have an average of 12 percent alcohol, and are fairly expensive. Guaranteed to bring more snobby patrons."
-    ""
+    "Вина, в середньому, мають вміст із 12-а процентами алкоголю і досить не дешеві. Обовязково притягнуть більше відвідувачів снобів."
 
 # game/script.rpy:3693
 translate uk_UA bardrinks_54e8cbaf_1:
 
     # e "Very well! I'll set things up immediately."
-    e ""
+    e "Чудово! Я негайно все організую."
 
 # game/script.rpy:3698
 translate uk_UA bardrinks_bb22c8cb_1:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3702
 translate uk_UA bardrinks_9ff8bd09:
 
     # "Tequila has an average of 50 percent alcohol, but the effects are likely just knock people out and make them wet themselves more often."
-    ""
+    "Текіла, в середньому, має вміст з 50-а процентами алкоголю, а як результат клієнти будуть більше відключатись і мочитись."
 
 # game/script.rpy:3708
 translate uk_UA bardrinks_54e8cbaf_2:
 
     # e "Very well! I'll set things up immediately."
-    e ""
+    e "Чудово! Я негайно все організую."
 
 # game/script.rpy:3713
 translate uk_UA bardrinks_bb22c8cb_2:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3717
 translate uk_UA bardrinks_a4ed1a4a:
 
     # "Vodka has an average of 67 percent alcohol, and isn't very expensive. Guaranteed to be the cause of bar fights."
-    ""
+    "Горілка, в середньому, має вміст з 67-а процентами алкоголю та досить дешева. Обов'язково призводить до барних бійок."
 
 # game/script.rpy:3723
 translate uk_UA bardrinks_54e8cbaf_3:
 
     # e "Very well! I'll set things up immediately."
-    e ""
+    e "Чудово! Я негайно все організую."
 
 # game/script.rpy:3728
 translate uk_UA bardrinks_bb22c8cb_3:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3732
 translate uk_UA bardrinks_0a5892a2:
 
     # "Gin has an average of 36 percent alcohol. While the alcohol percentage is high, the berries cause a soothing reaction. Guaranteed to cause sleepiness."
-    ""
+    "Джин, в середньому, має вміст з 36-а процентами алкоголю. Не зважаючи на високий вміст алкоголю ягоди мають заспокоюючий ефект. Призводить до сонливості."
 
 # game/script.rpy:3738
 translate uk_UA bardrinks_54e8cbaf_4:
 
     # e "Very well! I'll set things up immediately."
-    e ""
+    e "Чудово! Я негайно все організую."
 
 # game/script.rpy:3743
 translate uk_UA bardrinks_bb22c8cb_4:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3747
 translate uk_UA bardrinks_14cdd496:
 
     # "Cider has an average of 5 percent alcohol. Sure to bring in some jolly fellows."
-    ""
+    "Сидр, в середньому, має вміст з 5-а процентами алкоголю. Привертає увагу веселих відвідувачів."
 
 # game/script.rpy:3753
 translate uk_UA bardrinks_54e8cbaf_5:
 
     # e "Very well! I'll set things up immediately."
-    e ""
+    e "Чудово! Я негайно все організую."
 
 # game/script.rpy:3758
 translate uk_UA bardrinks_bb22c8cb_5:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3762
 translate uk_UA bardrinks_3cb1a198:
 
     # "Spirits have an average of 50 percent alcohol, but are very expensive. Guaranteed more money, but may result in more bar fights."
-    ""
+    "Міцні алкогольні напої, в середньому, мають вміст з 50-а процентами алкоголю, але вони дуже дорогі. Обовязково збільшить рибуток, але також чекайте барних бійок."
 
 # game/script.rpy:3768
 translate uk_UA bardrinks_54e8cbaf_6:
 
     # e "Very well! I'll set things up immediately."
-    e ""
+    e "Чудово! Я негайно все організую."
 
 # game/script.rpy:3773
 translate uk_UA bardrinks_bb22c8cb_6:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3781
 translate uk_UA bardrinks_b9d6b2c2:
 
     # "The Cat Maid Outfit is both cute and sexy! Sure to draw attention!"
-    ""
+    "Костюм кішки-покоївки є одночасно і милим і сексуальним! Обов'язково притягує увагу!"
 
 # game/script.rpy:3782
 translate uk_UA bardrinks_f465daa1:
 
     # c "This could be good for Moon... I'll have to train her before she can use it though."
-    c ""
+    c "Це може знадобитись для Мун... Але перед тим, як вона це надіне, її треба буде навчити."
 
 # game/script.rpy:3786
 translate uk_UA bardrinks_5da4f0e8:
 
     # e "Very well!"
-    e ""
+    e "Добре!"
 
 # game/script.rpy:3787
 translate uk_UA bardrinks_9e870068:
 
     # "You acquired Moon's Cat Maid Outfit!"
-    ""
+    "Ви придбали костюм кішки-покоївки для Мун!"
 
 # game/script.rpy:3792
 translate uk_UA bardrinks_1d180219:
 
     # c "I don't have enough money for that..."
-    c ""
+    c "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3801
 translate uk_UA bartraining_f5d0a14f:
 
     # "Training must be done in the mornings, when the bar is it's least busy."
-    ""
+    "Навчання має відбуватись зранку, коли у барі найменша завантаженість."
 
 # game/script.rpy:3809
 translate uk_UA bartraining_f5d0a14f_1:
 
     # "Training must be done in the mornings, when the bar is it's least busy."
-    ""
+    "Навчання має відбуватись зранку, коли у барі найменша завантаженість."
 
 # game/script.rpy:3817
 translate uk_UA bartraining_f5d0a14f_2:
 
     # "Training must be done in the mornings, when the bar is it's least busy."
-    ""
+    "Навчання має відбуватись зранку, коли у барі найменша завантаженість."
 
 # game/script.rpy:3825
 translate uk_UA bartraining_870ee9c8:
 
     # c "I need to buy her Maid Cat Outfit first."
-    c ""
+    c "Спочатку мені треба придбати їй костюм кішки-покоївки."
 
 # game/script.rpy:3828
 translate uk_UA bartraining_f5d0a14f_3:
 
     # "Training must be done in the mornings, when the bar is it's least busy."
-    ""
+    "Навчання має відбуватись зранку, коли у барі найменша завантаженість."
 
 # game/script.rpy:3838
 translate uk_UA bartraining_8e95d97b:
 
     # "It's about time Bart learns how to be a decent bartender..."
-    ""
+    "Час навчити Барта, як правильно має поводити себе бармен..."
 
 # game/script.rpy:3841
 translate uk_UA bartraining_2f720e80:
 
     # e "Very well! I'll hire a bartender trainer right away."
-    e ""
+    e "Чудово! Я негайно найму тренера з барменства."
 
 # game/script.rpy:3849
 translate uk_UA bartraining_bb22c8cb:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3853
 translate uk_UA bartraining_1793bfdc:
 
     # "Mixology training will encourage the bartender to come up with their own unique alcohol mixes patrons can't get anywhere else."
-    ""
+    "Уроки міксології заохотять бармена до створення власних алкогольних сумішів, які відвідувачі більше ніде не знайдуть."
 
 # game/script.rpy:3856
 translate uk_UA bartraining_e8e07a0d:
 
     # e "Very well! I'll hire a mixologist trainer right away."
-    e ""
+    e "Чудово! Я негайно найму тренера з міксології."
 
 # game/script.rpy:3864
 translate uk_UA bartraining_bb22c8cb_1:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3872
 translate uk_UA ellenmusic_d703fe80:
 
     # "The surround sound system will ensure all parts of the bar will equally receive the optimal volume of music, encouraging patrons to sit wherever they like."
-    ""
+    "Система об'ємного звуку забезпечить рівномірно оптимальний рівень звуку у всіх закутхак бару, що дасть можливість відвідувачам вибирати будь-яке місце за смаком."
 
 # game/script.rpy:3876
 translate uk_UA ellenmusic_52c9645c:
 
     # e "Very well! I'll get the surround sound system set up immediately."
-    e ""
+    e "Чудово! Я негайно замовлю встановлення системи об'ємного звуку."
 
 # game/script.rpy:3882
 translate uk_UA ellenmusic_bb22c8cb:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3888
 translate uk_UA ellenmusic_fccd04f8:
 
     # e "Would you like to listen to it before you buy it?"
-    e ""
+    e "Бажаєте послухати перед тим як купляти?"
 
 # game/script.rpy:3897
 translate uk_UA ellenmusic_81f616cd:
 
     # e "So, would you like to buy it?"
-    e ""
+    e "То ж, бажаєте придбати цю музику?"
 
 # game/script.rpy:3900
 translate uk_UA ellenmusic_5da4f0e8:
 
     # e "Very well!"
-    e ""
+    e "Добре!"
 
 # game/script.rpy:3904
 translate uk_UA ellenmusic_6406a8d5:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Бажаєте ввімкнути цю музику в барі?"
 
 # game/script.rpy:3907
 translate uk_UA ellenmusic_7b519c4a:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:3917
 translate uk_UA ellenmusic_7b519c4a_1:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:3925
 translate uk_UA ellenmusic_6406a8d5_1:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Бажаєте ввімкнути цю музику в барі?"
 
 # game/script.rpy:3928
 translate uk_UA ellenmusic_7b519c4a_2:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:3937
 translate uk_UA ellenmusic_7b519c4a_3:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:3942
 translate uk_UA ellenmusic_fccd04f8_1:
 
     # e "Would you like to listen to it before you buy it?"
-    e ""
+    e "Бажаєте послухати перед тим як купляти?"
 
 # game/script.rpy:3951
 translate uk_UA ellenmusic_81f616cd_1:
 
     # e "So, would you like to buy it?"
-    e ""
+    e "То ж, бажаєте придбати цю музику?"
 
 # game/script.rpy:3954
 translate uk_UA ellenmusic_5da4f0e8_1:
 
     # e "Very well!"
-    e ""
+    e "Добре!"
 
 # game/script.rpy:3958
 translate uk_UA ellenmusic_6406a8d5_2:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Бажаєте ввімкнути цю музику в барі?"
 
 # game/script.rpy:3961
 translate uk_UA ellenmusic_7b519c4a_4:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:3970
 translate uk_UA ellenmusic_7b519c4a_5:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:3978
 translate uk_UA ellenmusic_6406a8d5_3:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Бажаєте ввімкнути цю музику в барі?"
 
 # game/script.rpy:3981
 translate uk_UA ellenmusic_7b519c4a_6:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:3991
 translate uk_UA ellenmusic_7b519c4a_7:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:3994
 translate uk_UA ellenmusic_bb22c8cb_1:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:3998
 translate uk_UA ellenmusic_fccd04f8_2:
 
     # e "Would you like to listen to it before you buy it?"
-    e ""
+    e "Бажаєте послухати перед тим як купляти?"
 
 # game/script.rpy:4007
 translate uk_UA ellenmusic_81f616cd_2:
 
     # e "So, would you like to buy it?"
-    e ""
+    e "То ж, бажаєте придбати цю музику?"
 
 # game/script.rpy:4010
 translate uk_UA ellenmusic_5da4f0e8_2:
 
     # e "Very well!"
-    e ""
+    e "Добре!"
 
 # game/script.rpy:4014
 translate uk_UA ellenmusic_6406a8d5_4:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Бажаєте ввімкнути цю музику в барі?"
 
 # game/script.rpy:4017
 translate uk_UA ellenmusic_7b519c4a_8:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4027
 translate uk_UA ellenmusic_7b519c4a_9:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4035
 translate uk_UA ellenmusic_6406a8d5_5:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Бажаєте ввімкнути цю музику в барі?"
 
 # game/script.rpy:4038
 translate uk_UA ellenmusic_7b519c4a_10:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4047
 translate uk_UA ellenmusic_7b519c4a_11:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4050
 translate uk_UA ellenmusic_bb22c8cb_2:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:4054
 translate uk_UA ellenmusic_fccd04f8_3:
 
     # e "Would you like to listen to it before you buy it?"
-    e ""
+    e "Бажаєте послухати перед тим як купляти?"
 
 # game/script.rpy:4063
 translate uk_UA ellenmusic_81f616cd_3:
 
     # e "So, would you like to buy it?"
-    e ""
+    e "То ж, бажаєте придбати цю музику?"
 
 # game/script.rpy:4066
 translate uk_UA ellenmusic_5da4f0e8_3:
 
     # e "Very well!"
-    e ""
+    e "Добре!"
 
 # game/script.rpy:4070
 translate uk_UA ellenmusic_6406a8d5_6:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Бажаєте ввімкнути цю музику в барі?"
 
 # game/script.rpy:4073
 translate uk_UA ellenmusic_7b519c4a_12:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4083
 translate uk_UA ellenmusic_7b519c4a_13:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4091
 translate uk_UA ellenmusic_6406a8d5_7:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Бажаєте ввімкнути цю музику в барі?"
 
 # game/script.rpy:4094
 translate uk_UA ellenmusic_7b519c4a_14:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4103
 translate uk_UA ellenmusic_7b519c4a_15:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4106
 translate uk_UA ellenmusic_bb22c8cb_3:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:4110
 translate uk_UA ellenmusic_fccd04f8_4:
 
     # e "Would you like to listen to it before you buy it?"
-    e ""
+    e "Бажаєте послухати перед тим як купляти?"
 
 # game/script.rpy:4119
 translate uk_UA ellenmusic_81f616cd_4:
 
     # e "So, would you like to buy it?"
-    e ""
+    e "То ж, бажаєте придбати цю музику?"
 
 # game/script.rpy:4122
 translate uk_UA ellenmusic_5da4f0e8_4:
 
     # e "Very well!"
-    e ""
+    e "Добре!"
 
 # game/script.rpy:4126
 translate uk_UA ellenmusic_6406a8d5_8:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Бажаєте ввімкнути цю музику в барі?"
 
 # game/script.rpy:4129
 translate uk_UA ellenmusic_7b519c4a_16:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4139
 translate uk_UA ellenmusic_7b519c4a_17:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4147
 translate uk_UA ellenmusic_6406a8d5_9:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Бажаєте ввімкнути цю музику в барі?"
 
 # game/script.rpy:4150
 translate uk_UA ellenmusic_7b519c4a_18:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4159
 translate uk_UA ellenmusic_7b519c4a_19:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4162
 translate uk_UA ellenmusic_bb22c8cb_4:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:4166
 translate uk_UA ellenmusic_fccd04f8_5:
 
     # e "Would you like to listen to it before you buy it?"
-    e ""
+    e "Бажаєте послухати перед тим як купляти?"
 
 # game/script.rpy:4175
 translate uk_UA ellenmusic_81f616cd_5:
 
     # e "So, would you like to buy it?"
-    e ""
+    e "То ж, бажаєте придбати цю музику?"
 
 # game/script.rpy:4178
 translate uk_UA ellenmusic_5da4f0e8_5:
 
     # e "Very well!"
-    e ""
+    e "Добре!"
 
 # game/script.rpy:4182
 translate uk_UA ellenmusic_6406a8d5_10:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Бажаєте ввімкнути цю музику в барі?"
 
 # game/script.rpy:4185
 translate uk_UA ellenmusic_7b519c4a_20:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4195
 translate uk_UA ellenmusic_7b519c4a_21:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4203
 translate uk_UA ellenmusic_6406a8d5_11:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Бажаєте ввімкнути цю музику в барі?"
 
 # game/script.rpy:4206
 translate uk_UA ellenmusic_7b519c4a_22:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4215
 translate uk_UA ellenmusic_7b519c4a_23:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Добре, [name], гарного дня."
 
 # game/script.rpy:4218
 translate uk_UA ellenmusic_bb22c8cb_5:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:4232
 translate uk_UA cellad_5a57c11f:
 
     # e "Very well! We'll start advertising immediately!"
-    e ""
+    e "Добре! Негайно почнемо рекламну кампанію!"
 
 # game/script.rpy:4235
 translate uk_UA cellad_63cb3757:
 
     # "Spending money on advertisements is a great way to bring in more patrons! The more money you spend, the more money you'll get!"
-    ""
+    "Замовлення реклами - хороший спосіб притягнути додаткових відвідувачів! Чим більше витратите на рекламу -  тим більше відвідувачів отримаєте!"
 
 # game/script.rpy:4240
 translate uk_UA cellad_bb22c8cb:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:4243
 translate uk_UA cellad_c71cdaaf:
 
     # "I'm already advertising this."
-    ""
+    "Я вже замовив цю рекламу."
 
 # game/script.rpy:4246
 translate uk_UA cellad_40df535c:
 
     # "I'm already advertising something else."
-    ""
+    "Я вже замовив іншу рекламу."
 
 # game/script.rpy:4256
 translate uk_UA tvad_5a57c11f:
 
     # e "Very well! We'll start advertising immediately!"
-    e ""
+    e "Добре! Негайно почнемо рекламну кампанію!"
 
 # game/script.rpy:4259
 translate uk_UA tvad_63cb3757:
 
     # "Spending money on advertisements is a great way to bring in more patrons! The more money you spend, the more money you'll get!"
-    ""
+    "Замовлення реклами - хороший спосіб притягнути додаткових відвідувачів! Чим більше витратите на рекламу -  тим більше відвідувачів отримаєте!"
 
 # game/script.rpy:4264
 translate uk_UA tvad_bb22c8cb:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:4267
 translate uk_UA tvad_c71cdaaf:
 
     # "I'm already advertising this."
-    ""
+    "Я вже замовив цю рекламу."
 
 # game/script.rpy:4270
 translate uk_UA tvad_40df535c:
 
     # "I'm already advertising something else."
-    ""
+    "Я вже замовив іншу рекламу."
 
 # game/script.rpy:4280
 translate uk_UA billad_5a57c11f:
 
     # e "Very well! We'll start advertising immediately!"
-    e ""
+    e "Добре! Негайно почнемо рекламну кампанію!"
 
 # game/script.rpy:4283
 translate uk_UA billad_63cb3757:
 
     # "Spending money on advertisements is a great way to bring in more patrons! The more money you spend, the more money you'll get!"
-    ""
+    "Замовлення реклами - хороший спосіб притягнути додаткових відвідувачів! Чим більше витратите на рекламу -  тим більше відвідувачів отримаєте!"
 
 # game/script.rpy:4288
 translate uk_UA billad_bb22c8cb:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:4291
 translate uk_UA billad_c71cdaaf:
 
     # "I'm already advertising this."
-    ""
+    "Я вже замовив цю рекламу."
 
 # game/script.rpy:4294
 translate uk_UA billad_40df535c:
 
     # "I'm already advertising something else."
-    ""
+    "Я вже замовив іншу рекламу."
 
 # game/script.rpy:4299
 translate uk_UA billad_388554f6:
 
     # e "Very well, I'll pull out on all of the advertisements."
-    e ""
+    e "Добре, я відмовлюсь від всіх реклам."
 
 # game/script.rpy:4308
 translate uk_UA billad_016e0056:
 
     # e "Oh, someone is finally taking an interest in the old garden, wonderful!"
-    e ""
+    e "О, хтось накінець зацікавився старим садом, чудово!"
 
 # game/script.rpy:4309
 translate uk_UA billad_22b443a4:
 
     # e "With this money, we'll be able to buy furnishing for the seating area. Some tables, chairs, lighting, and so on."
-    e ""
+    e "Ми зможемо придбати меблі для зони відпочинку за ці гроші. Декілька столів, крісел, освітлення, і т. д."
 
 # game/script.rpy:4310
 translate uk_UA billad_7f94ef9f:
 
     # c "Add raised garden beds to the list too. Lin wants to grow a few flowers."
-    c ""
+    c "Додай ще також до списку підвісну клумби. Лін хотіла вирощувати квіти."
 
 # game/script.rpy:4311
 translate uk_UA billad_18d0696a:
 
     # e "We can absolutely do that. The renovation should take no longer than three or four days. Would you still like to make this purchase?"
-    e ""
+    e "Ми можемо це також зробити. Ремонт мав би зайняти не довше трьох чи чотирьох днів. Все ще бажаєте зробити це замовлення?"
 
 # game/script.rpy:4315
 translate uk_UA billad_afbfe99f:
 
     # c "I don't have enough money for that."
-    c ""
+    c "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:4319
 translate uk_UA billad_eb6036c8:
 
     # e "Very well! I'll make the necessary phone calls right away."
-    e ""
+    e "Добре! Негайно зроблю необхідні дзвінки."
 
 # game/script.rpy:4329
 translate uk_UA billad_68732bea:
 
     # e "Oh! The bar? I'm so happy you're finally buying it!"
-    e ""
+    e "О! Бар? Як я рада, що ви накінець його купляєте!"
 
 # game/script.rpy:4330
 translate uk_UA billad_b17a8e70:
 
     # e "Before it was depredated, I loved hanging out in there. So many interesting people would come by!"
-    e ""
+    e "Я любила там проводити час, ще до того як його знищили. Там буває стільки цікавих людей!"
 
 # game/script.rpy:4331
 translate uk_UA billad_a256b1a2:
 
     # e "And some of us girls would get a little tipsy from time to time... Haha..."
-    e ""
+    e "І дехто з дівчат інколи трохи напивались... Хіхі..."
 
 # game/script.rpy:4333
 translate uk_UA billad_78070575:
 
     # e "In any case, I'll contact a construction agency, they should have it done by tomorrow morning."
-    e ""
+    e "У всякому разі, я звяжусь з забудівельником, вони мали б завершити роботу до завтрашнього ранку."
 
 # game/script.rpy:4334
 translate uk_UA billad_97db9582:
 
     # e "I should warn you though, the bar is going to be fairly bare bones at the beginning, you may even lose some money. But once you start buying high quality alcohol and training the staff, it will definitely give you profits!"
-    e ""
+    e "Про мушу вас попередити, спочатку бар буде трохи пустим, можливо навіть збитковим. Але, як тільки ви купите високоякісний алкоголь і натренуєте обслуговуючий персонал, він точно буде приносити прибуток!"
 
 # game/script.rpy:4335
 translate uk_UA billad_3e09066e:
 
     # e "Speaking of that, the bar has a variety of upgrades you can purchase. From entertainment like music, to top shelf spirits."
-    e ""
+    e "До речі, бар має ряд оновлень, які ви можете придбати. Від розваг, таких як музика, до високоякісного алкоголю."
 
 # game/script.rpy:4336
 translate uk_UA billad_5e109c46:
 
     # e "You may also want to advertise the bar once you have all of these upgrades. It'll cost a pretty penny, but the profits should be worth it!"
-    e ""
+    e "Також ви зможете рекламувати бар, як тільки завершите всі оновлення. Реклама зовсім не дешева, але прибуток від неї того вартий!"
 
 # game/script.rpy:4337
 translate uk_UA billad_dec1967e:
 
     # e "You'll get an earnings report every Monday as well."
-    e ""
+    e "Кожного понеділка ви будете отримувати фінансовий звіт."
 
 # game/script.rpy:4338
 translate uk_UA billad_659d6faf:
 
     # e "Oh, and don't worry about hiring staff, I'll do all of that work."
-    e ""
+    e "І не хвилюйтесь за найм обслуговуючого персоналу, цю роботу я візьму на себе."
 
 # game/script.rpy:4339
 translate uk_UA billad_755696db:
 
     # e "Well, I'll get to it then!"
-    e ""
+    e "Що ж, тоді я візьмусь до роботи!"
 
 # game/script.rpy:4345
 translate uk_UA billad_bb22c8cb_1:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:4350
 translate uk_UA billad_d94e9fd4:
 
     # e "Oh, a completely new building? Well, we have the property space for it, so why not."
-    e ""
+    e "О, зовсім нова будівля? Що ж, в нас є вільний майданчик для цього, то ж чом би й ні."
 
 # game/script.rpy:4351
 translate uk_UA billad_fd73721e:
 
     # e "I'll contact a carpentry agency right away, but a building this size may take a couple days."
-    e ""
+    e "Негайно звернусь до столярного агенства, але будова такого розміру може зайняти кілька днів."
 
 # game/script.rpy:4357
 translate uk_UA billad_afbfe99f_1:
 
     # c "I don't have enough money for that."
-    c ""
+    c "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:4362
 translate uk_UA billad_9ddf83d0:
 
     # e "Oh you're interested in expanding the hotel? Very well, I'll contact a construction company right away! Everything should be done first thing in the morning!"
-    e ""
+    e "О, ви зацікавлені в розширенні готелю? Чудово, негайно звяжусь з забудівельником! До завтрашнього ранку все мало бу бути готово!"
 
 # game/script.rpy:4368
 translate uk_UA billad_afbfe99f_2:
 
     # c "I don't have enough money for that."
-    c ""
+    c "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:4373
 translate uk_UA billad_d1a6d63b:
 
     # e "Ohh~ The dungeon? I see you have some special plans for someone... Very well, I'll contact the cleaners. Everything should be ready in a couple of hours!"
-    e ""
+    e "Оо~ Підземелля? Бачу у вас особливі плани на декого... Що ж, звяжусь з клініговою компанією. За кілька годин все буде завершено!"
 
 # game/script.rpy:4379
 translate uk_UA billad_db28ec1d:
 
     # "I don't have enough money for that."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:4386
 translate uk_UA barmusic_9344e54c:
 
     # c "I need to buy all the music in order to shuffle them."
-    c ""
+    c "Мені треба купити всю музику, щоб вона грала в перемішку."
 
 # game/script.rpy:4391
 translate uk_UA barmusic_af3765f7:
 
     # e "Very well, the music will be shuffled."
-    e ""
+    e "Добре, музика буде грати в перемішку."
 
 # game/script.rpy:4398
 translate uk_UA barmusic_b6d90cbe:
 
     # e "Very well, the music will not be shuffled. What music would you like to play?"
-    e ""
+    e "Добре, музика не буде грати в перемішку. Яку саме музику тоді включити в барі?"
 
 # game/script.rpy:4403
 translate uk_UA barmusic_3b406df6:
 
     # e "Very well, the music has been changed."
-    e ""
+    e "Добре, музика змінена."
 
 # game/script.rpy:4407
 translate uk_UA barmusic_3b406df6_1:
 
     # e "Very well, the music has been changed."
-    e ""
+    e "Добре, музика змінена."
 
 # game/script.rpy:4411
 translate uk_UA barmusic_3b406df6_2:
 
     # e "Very well, the music has been changed."
-    e ""
+    e "Добре, музика змінена."
 
 # game/script.rpy:4415
 translate uk_UA barmusic_3b406df6_3:
 
     # e "Very well, the music has been changed."
-    e ""
+    e "Добре, музика змінена."
 
 # game/script.rpy:4419
 translate uk_UA barmusic_3b406df6_4:
 
     # e "Very well, the music has been changed."
-    e ""
+    e "Добре, музика змінена."
 
 # game/script.rpy:4423
 translate uk_UA barmusic_3b406df6_5:
 
     # e "Very well, the music has been changed."
-    e ""
+    e "Добре, музика змінена."
 
 # game/script.rpy:4430
 translate uk_UA barmusic_75357321:
 
     # e "Are you sure? There's no backing out once you accept his challenge."
-    e ""
+    e "Ви впевнені? Як тільки ви приймете це змагання - назад шляху вже не буде."
 
 # game/script.rpy:4433
 translate uk_UA barmusic_1221f234:
 
     # e "Very well, I'll contact him right away."
-    e ""
+    e "Добре, негайно звяжусь з ним."
 
 # game/script.rpy:4436
 translate uk_UA barmusic_5099ecbb:
 
     # e "Alright, just let me know when you're ready."
-    e ""
+    e "Добре, дайте знати, коли будете готові."
 
 # game/script.rpy:4476
 translate uk_UA prefloor2_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Вже пізно... Мені пора в ліжко."
 
 # game/script.rpy:4492
 translate uk_UA floor2_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Вже пізно... Мені пора в ліжко."
 
 # game/script.rpy:4521
 translate uk_UA floor2menu_35e2ae73:
 
     # "You are here."
-    ""
+    "Ви тут."
 
 # game/script.rpy:4530
 translate uk_UA floor2menu_7344295e:
 
     # c "I need to buy this upgrade first."
-    c ""
+    c "Спочатку я маю придбати це оновлення."
 
 # game/script.rpy:4542
 translate uk_UA floor2menu_ecf18235:
 
     # "*knock knock knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:4543
 translate uk_UA floor2menu_9d7c40b2:
 
     # "You hear nothing but silence. You're not even sure if she's in there..."
-    ""
+    "Ви чуєте лише тишу. Ви не впевнені, чи вона взагалі там є..."
 
 # game/script.rpy:4546
 translate uk_UA floor2menu_ecf18235_1:
 
     # "*knock knock knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:4547
 translate uk_UA floor2menu_9d7c40b2_1:
 
     # "You hear nothing but silence. You're not even sure if she's in there..."
-    ""
+    "Ви чуєте лише тишу. Ви не впевнені, чи вона взагалі там є..."
 
 # game/script.rpy:4551
 translate uk_UA floor2menu_398870a2:
 
     # m "AAAHHH! MMMMN!"
-    m ""
+    m "ААА! МММ!"
 
 # game/script.rpy:4552
 translate uk_UA floor2menu_233808d7:
 
     # "It sounds like something is going on in Maria's room..."
-    ""
+    "Схоже, що щось в апартаментах Марії відбувається..."
 
 # game/script.rpy:4558
 translate uk_UA floor2menu_4f1016b8:
 
     # c "She's not back yet."
-    c ""
+    c "Вона ще не повернулась."
 
 # game/script.rpy:4563
 translate uk_UA floor2menu_d3aa724f:
 
     # bot "Go away! I hate you!"
-    bot ""
+    bot "Іди звідси! Я тебе ненавиджу!"
 
 # game/script.rpy:4564
 translate uk_UA floor2menu_4b987723:
 
     # c "I should raise her obedience in the kitchen."
-    c ""
+    c "Треба підняти її повиховувати на кухні."
 
 # game/script.rpy:4568
 translate uk_UA floor2menu_b5f50750:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:4569
 translate uk_UA floor2menu_14e9f18f:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Скорше за все вона десь на кухні."
 
 # game/script.rpy:4574
 translate uk_UA floor2menu_b5f50750_1:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:4575
 translate uk_UA floor2menu_14e9f18f_1:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Скорше за все вона десь на кухні."
 
 # game/script.rpy:4582
 translate uk_UA floor2menu_cc425e1b:
 
     # "I should raise Lin's friendship."
-    ""
+    "Мені треба більше подружитись з Лін."
 
 # game/script.rpy:4584
 translate uk_UA floor2menu_b5f50750_2:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:4585
 translate uk_UA floor2menu_0f1ab147:
 
     # c "I think I saw her heading to the kitchen."
-    c ""
+    c "Здається, я бачив, як вона шла на кухню."
 
 # game/script.rpy:4590
 translate uk_UA floor2menu_b5f50750_3:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:4591
 translate uk_UA floor2menu_8fbd983c:
 
     # c "She's probably taking a shower."
-    c ""
+    c "Вона мабуть в душі."
 
 # game/script.rpy:4597
 translate uk_UA floor2menu_b5f50750_4:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:4598
 translate uk_UA floor2menu_947378e7:
@@ -4974,7 +4974,7 @@ translate uk_UA floor2menu_947378e7:
 translate uk_UA floor2menu_b5f50750_5:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:4605
 translate uk_UA floor2menu_947378e7_1:
@@ -4986,7 +4986,7 @@ translate uk_UA floor2menu_947378e7_1:
 translate uk_UA floor2menu_b5f50750_6:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:4610
 translate uk_UA floor2menu_3590981d:
@@ -4998,7 +4998,7 @@ translate uk_UA floor2menu_3590981d:
 translate uk_UA floor2menu_b5f50750_7:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:4615
 translate uk_UA floor2menu_4663eb93:
@@ -5412,7 +5412,7 @@ translate uk_UA floor2menu_053432b7:
 translate uk_UA floor2menu_b5f50750_8:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:4805
 translate uk_UA floor2menu_d3681452:
@@ -6144,7 +6144,7 @@ translate uk_UA floor2menu_c872e953:
 translate uk_UA floor2menu_b5f50750_9:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5127
 translate uk_UA floor2menu_883e5c6a:
@@ -6156,7 +6156,7 @@ translate uk_UA floor2menu_883e5c6a:
 translate uk_UA floor2menu_b5f50750_10:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5132
 translate uk_UA floor2menu_d19e7f54:
@@ -6348,7 +6348,7 @@ translate uk_UA floor2menu_c872e953_1:
 translate uk_UA floor2menu_b5f50750_11:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5223
 translate uk_UA floor2menu_26e9581e:
@@ -6396,7 +6396,7 @@ translate uk_UA floor2menu_f2317453_1:
 translate uk_UA floor2menu_b5f50750_12:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5252
 translate uk_UA floor2menu_883e5c6a_1:
@@ -6408,7 +6408,7 @@ translate uk_UA floor2menu_883e5c6a_1:
 translate uk_UA floor2menu_b5f50750_13:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5259
 translate uk_UA floor2menu_f3e9fbf0:
@@ -6420,7 +6420,7 @@ translate uk_UA floor2menu_f3e9fbf0:
 translate uk_UA floor2menu_b5f50750_14:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5266
 translate uk_UA floor2menu_b2619f63:
@@ -6432,7 +6432,7 @@ translate uk_UA floor2menu_b2619f63:
 translate uk_UA floor2menu_b5f50750_15:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5270
 translate uk_UA floor2menu_b2619f63_1:
@@ -6444,7 +6444,7 @@ translate uk_UA floor2menu_b2619f63_1:
 translate uk_UA floor2menu_b5f50750_16:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5274
 translate uk_UA floor2menu_eaff4787:
@@ -6456,7 +6456,7 @@ translate uk_UA floor2menu_eaff4787:
 translate uk_UA floor2menu_b5f50750_17:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5278
 translate uk_UA floor2menu_eaff4787_1:
@@ -6468,7 +6468,7 @@ translate uk_UA floor2menu_eaff4787_1:
 translate uk_UA floor2menu_b5f50750_18:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5283
 translate uk_UA floor2menu_cce1e909:
@@ -6690,7 +6690,7 @@ translate uk_UA floor2menu_0f8ff4c5_1:
 translate uk_UA floor2menu_ecf18235_2:
 
     # "*knock knock knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:5413
 translate uk_UA floor2menu_5a1f9fa0:
@@ -6930,25 +6930,25 @@ translate uk_UA floor2menu_01f4104e:
 translate uk_UA floor2menu_b5f50750_19:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5600
 translate uk_UA floor2menu_8fbd983c_1:
 
     # c "She's probably taking a shower."
-    c ""
+    c "Вона мабуть в душі."
 
 # game/script.rpy:5605
 translate uk_UA floor2menu_ecf18235_3:
 
     # "*knock knock knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:5606
 translate uk_UA floor2menu_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:5607
 translate uk_UA floor2menu_67be6078:
@@ -6960,19 +6960,19 @@ translate uk_UA floor2menu_67be6078:
 translate uk_UA floor2menu_b5f50750_20:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5616
 translate uk_UA floor2menu_d888dd4d:
 
     # c "She's probably hanging around the Hotel."
-    c ""
+    c "Скорше за все вона десь на кухні."
 
 # game/script.rpy:5620
 translate uk_UA floor2menu_b5f50750_21:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5621
 translate uk_UA floor2menu_8de1cedf:
@@ -6984,7 +6984,7 @@ translate uk_UA floor2menu_8de1cedf:
 translate uk_UA floor2menu_b5f50750_22:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5626
 translate uk_UA floor2menu_5e2afc49:
@@ -7002,7 +7002,7 @@ translate uk_UA floor2menu_6c7c4c87:
 translate uk_UA floor2menu_b5f50750_23:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5634
 translate uk_UA floor2menu_60264095:
@@ -7014,7 +7014,7 @@ translate uk_UA floor2menu_60264095:
 translate uk_UA floor2menu_b5f50750_24:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5641
 translate uk_UA floor2menu_98129289:
@@ -7026,7 +7026,7 @@ translate uk_UA floor2menu_98129289:
 translate uk_UA floor2menu_b5f50750_25:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5645
 translate uk_UA floor2menu_0755b1d6:
@@ -7038,7 +7038,7 @@ translate uk_UA floor2menu_0755b1d6:
 translate uk_UA floor2menu_b5f50750_26:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5649
 translate uk_UA floor2menu_0755b1d6_1:
@@ -7050,7 +7050,7 @@ translate uk_UA floor2menu_0755b1d6_1:
 translate uk_UA floor2menu_ecf18235_4:
 
     # "*knock knock knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:5653
 translate uk_UA floor2menu_d772e35e:
@@ -7332,13 +7332,13 @@ translate uk_UA floor2menu_63bc906d:
 translate uk_UA prefloor1_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Вже пізно... Мені пора в ліжко."
 
 # game/script.rpy:5855
 translate uk_UA lobby_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Вже пізно... Мені пора в ліжко."
 
 # game/script.rpy:5898
 translate uk_UA lobby_a914fa92:
@@ -7368,7 +7368,7 @@ translate uk_UA lobby_1a7aa153:
 translate uk_UA lobby_25361873:
 
     # "*knock knock knock*\nThere's no answer"
-    ""
+    "*стук-стук-стук*\nНіякої відповіді"
 
 # game/script.rpy:5917
 translate uk_UA lobby_d4760284:
@@ -7386,7 +7386,7 @@ translate uk_UA lobby_45724055:
 translate uk_UA lobby_ecf18235:
 
     # "*knock knock knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:5927
 translate uk_UA lobby_8dabd932:
@@ -7404,25 +7404,25 @@ translate uk_UA lobby_d86f4520:
 translate uk_UA lobby_b5f50750:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5933
 translate uk_UA lobby_14e9f18f:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Скорше за все вона десь на кухні."
 
 # game/script.rpy:5937
 translate uk_UA lobby_b5f50750_1:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5938
 translate uk_UA lobby_14e9f18f_1:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Скорше за все вона десь на кухні."
 
 # game/script.rpy:5944
 translate uk_UA lobby_cdb5456b:
@@ -7476,19 +7476,19 @@ translate uk_UA lobby_ee958cfe:
 translate uk_UA lobby_b5f50750_2:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5967
 translate uk_UA lobby_8fbd983c:
 
     # c "She's probably taking a shower."
-    c ""
+    c "Вона мабуть в душі."
 
 # game/script.rpy:5972
 translate uk_UA lobby_b5f50750_3:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5973
 translate uk_UA lobby_a7a6f948:
@@ -7518,7 +7518,7 @@ translate uk_UA lobby_c892196f:
 translate uk_UA lobby_b5f50750_4:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5989
 translate uk_UA lobby_cce1e909:
@@ -7530,7 +7530,7 @@ translate uk_UA lobby_cce1e909:
 translate uk_UA lobby_b5f50750_5:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:5997
 translate uk_UA lobby_dc05cf42:
@@ -7818,7 +7818,7 @@ translate uk_UA lobby_89a5ece5:
 translate uk_UA lobby_ecf18235_1:
 
     # "*knock knock knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:6142
 translate uk_UA lobby_885f04e7:
@@ -7884,7 +7884,7 @@ translate uk_UA lobby_2d92837f:
 translate uk_UA lobby_b5f50750_6:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:6182
 translate uk_UA lobby_f024350a:
@@ -8556,7 +8556,7 @@ translate uk_UA lobby_1a77f02c:
 translate uk_UA lobby_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:6391
 translate uk_UA lobby_206f92d0:
@@ -9000,49 +9000,49 @@ translate uk_UA floor1menu_7344295e_1:
 translate uk_UA floor1menu_b5f50750:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:6638
 translate uk_UA floor1menu_14e9f18f:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Скорше за все вона десь на кухні."
 
 # game/script.rpy:6643
 translate uk_UA floor1menu_b5f50750_1:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:6644
 translate uk_UA floor1menu_14e9f18f_1:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Скорше за все вона десь на кухні."
 
 # game/script.rpy:6648
 translate uk_UA floor1menu_b5f50750_2:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:6649
 translate uk_UA floor1menu_14e9f18f_2:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Скорше за все вона десь на кухні."
 
 # game/script.rpy:6653
 translate uk_UA floor1menu_b5f50750_3:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:6654
 translate uk_UA floor1menu_8fbd983c:
 
     # c "She's probably taking a shower."
-    c ""
+    c "Вона мабуть в душі."
 
 # game/script.rpy:6657
 translate uk_UA floor1menu_62b8b64d:
@@ -9060,13 +9060,13 @@ translate uk_UA floor1menu_62b8b64d_1:
 translate uk_UA floor1menu_b5f50750_4:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:6666
 translate uk_UA floor1menu_14e9f18f_3:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Скорше за все вона десь на кухні."
 
 # game/script.rpy:6669
 translate uk_UA floor1menu_f965d7b1:
@@ -9096,7 +9096,7 @@ translate uk_UA floor1menu_50666834:
 translate uk_UA floor1menu_b5f50750_5:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:6684
 translate uk_UA floor1menu_1e29f957:
@@ -9120,7 +9120,7 @@ translate uk_UA floor1menu_46cc20a7:
 translate uk_UA floor1menu_e8978145:
 
     # "*knock knock knock* \nThere's no answer... I haven't seen her around the hotel much in the mornings recently. She must be in here..."
-    ""
+    "*стук-стук-стук* \nНіякої відповіді... Останнім часом я ніде її не бачив зранку. Вона мала б бути тут..."
 
 # game/script.rpy:6699
 translate uk_UA floor1menu_4cf88512:
@@ -9264,7 +9264,7 @@ translate uk_UA floor1menu_f65eb918:
 translate uk_UA floor1menu_ecf18235:
 
     # "*knock knock knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:6749
 translate uk_UA floor1menu_64f65bc7:
@@ -9282,7 +9282,7 @@ translate uk_UA floor1menu_1756dfb5:
 translate uk_UA floor1menu_82822a0c:
 
     # l "..."
-    l ""
+    l "..."
 
 # game/script.rpy:6752
 translate uk_UA floor1menu_c6c955e3:
@@ -9294,7 +9294,7 @@ translate uk_UA floor1menu_c6c955e3:
 translate uk_UA floor1menu_ecf18235_1:
 
     # "*knock knock knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:6756
 translate uk_UA floor1menu_ac58f6ff:
@@ -9318,7 +9318,7 @@ translate uk_UA floor1menu_33f1b40c:
 translate uk_UA floor1menu_ecf18235_2:
 
     # "*knock knock knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:6768
 translate uk_UA floor1menu_e9c8d1ae:
@@ -9726,13 +9726,13 @@ translate uk_UA floor1menu_d2e7f990:
 translate uk_UA floor1menu_b5f50750_6:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:7080
 translate uk_UA floor1menu_14e9f18f_4:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Скорше за все вона десь на кухні."
 
 # game/script.rpy:7091
 translate uk_UA floor1menu_2a087c62:
@@ -9786,19 +9786,19 @@ translate uk_UA floor1menu_b4c7db9b:
 translate uk_UA floor1menu_b5f50750_7:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:7113
 translate uk_UA floor1menu_14e9f18f_5:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Скорше за все вона десь на кухні."
 
 # game/script.rpy:7117
 translate uk_UA floor1menu_b5f50750_8:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:7118
 translate uk_UA floor1menu_9e083317:
@@ -9810,13 +9810,13 @@ translate uk_UA floor1menu_9e083317:
 translate uk_UA floor1menu_b5f50750_9:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:7127
 translate uk_UA floor1menu_8fbd983c_1:
 
     # c "She's probably taking a shower."
-    c ""
+    c "Вона мабуть в душі."
 
 # game/script.rpy:7140
 translate uk_UA floor1menu_a90fb508:
@@ -9918,7 +9918,7 @@ translate uk_UA floor1menu_335c3c89_1:
 translate uk_UA floor1menu_b5f50750_10:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:7227
 translate uk_UA floor1menu_2f12ff34:
@@ -9990,7 +9990,7 @@ translate uk_UA floor1menu_53972221:
 translate uk_UA floor1menu_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/script.rpy:7272
 translate uk_UA floor1menu_1c8122ca:
@@ -10026,7 +10026,7 @@ translate uk_UA floor1menu_53972221_1:
 translate uk_UA floor1menu_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/script.rpy:7282
 translate uk_UA floor1menu_1c8122ca_1:
@@ -10116,7 +10116,7 @@ translate uk_UA floor1menu_a6a56d9d:
 translate uk_UA floor1menu_b5f50750_11:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:7331
 translate uk_UA floor1menu_c8a554e6:
@@ -10128,7 +10128,7 @@ translate uk_UA floor1menu_c8a554e6:
 translate uk_UA floor1menu_b5f50750_12:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:7335
 translate uk_UA floor1menu_c8a554e6_1:
@@ -10152,7 +10152,7 @@ translate uk_UA floor1menu_edd070f8:
 translate uk_UA floor1menu_cc425e1b:
 
     # "I should raise Lin's friendship."
-    ""
+    "Мені треба більше подружитись з Лін."
 
 # game/script.rpy:7394
 translate uk_UA floor1menu_4b91ac6a:
@@ -10314,7 +10314,7 @@ translate uk_UA kcreep_e0876ff0:
 translate uk_UA kcreep_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:7493
 translate uk_UA kcreep_798bba3f:
@@ -10326,7 +10326,7 @@ translate uk_UA kcreep_798bba3f:
 translate uk_UA kcreep_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:7496
 translate uk_UA kcreep_26c4af3a:
@@ -10338,7 +10338,7 @@ translate uk_UA kcreep_26c4af3a:
 translate uk_UA kcreep_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:7499
 translate uk_UA kcreep_954f38e0:
@@ -10572,7 +10572,7 @@ translate uk_UA kcreep_7390c3cc:
 translate uk_UA kcreep_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/script.rpy:7563
 translate uk_UA kcreep_2392584c:
@@ -10878,13 +10878,13 @@ translate uk_UA kcreep_335c3c89_1:
 translate uk_UA kcreep_b5f50750:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:7763
 translate uk_UA kcreep_14e9f18f:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Скорше за все вона десь на кухні."
 
 # game/script.rpy:7773
 translate uk_UA kcreep_9194e4fd:
@@ -10938,13 +10938,13 @@ translate uk_UA kcreep_13b286d1:
 translate uk_UA kcreep_b5f50750_1:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:7795
 translate uk_UA kcreep_14e9f18f_1:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Скорше за все вона десь на кухні."
 
 # game/script.rpy:7807
 translate uk_UA kcreep_6193f5a5:
@@ -11196,7 +11196,7 @@ translate uk_UA kcreep_c875c4e9:
 translate uk_UA kcreep_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:7923
 translate uk_UA kcreep_850fee5c:
@@ -11256,7 +11256,7 @@ translate uk_UA kcreep_5e0490b4:
 translate uk_UA kcreep_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:7941
 translate uk_UA kcreep_efbe9aa8:
@@ -11316,7 +11316,7 @@ translate uk_UA kcreep_cfa07ee0:
 translate uk_UA kcreep_bb8e4b4e_1:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:7957
 translate uk_UA kcreep_850fee5c_1:
@@ -11352,19 +11352,19 @@ translate uk_UA kcreep_7beea144:
 translate uk_UA kcreep_b5f50750_2:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:7976
 translate uk_UA kcreep_8fbd983c:
 
     # c "She's probably taking a shower."
-    c ""
+    c "Вона мабуть в душі."
 
 # game/script.rpy:7988
 translate uk_UA kcreep_b5f50750_3:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:7989
 translate uk_UA kcreep_2f12ff34:
@@ -11376,7 +11376,7 @@ translate uk_UA kcreep_2f12ff34:
 translate uk_UA kcreep_b5f50750_4:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:7994
 translate uk_UA kcreep_4663eb93:
@@ -11400,7 +11400,7 @@ translate uk_UA kcreep_d78f3154:
 translate uk_UA kcreep_b5f50750_5:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:8010
 translate uk_UA kcreep_407d26d4:
@@ -11412,7 +11412,7 @@ translate uk_UA kcreep_407d26d4:
 translate uk_UA kcreep_b5f50750_6:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*стук-стук-стук* \n Ніякої відповіді"
 
 # game/script.rpy:8015
 translate uk_UA kcreep_f8bfb49c:
@@ -11610,7 +11610,7 @@ translate uk_UA kcreep_79f15a1e:
 translate uk_UA kcreep_bb8e4b4e_2:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:8166
 translate uk_UA kcreep_f5b7e8db:
@@ -11982,7 +11982,7 @@ translate uk_UA explore_bernie2_dd353530:
 translate uk_UA explore_bernie2_2a5463be:
 
     # woman "..."
-    woman ""
+    woman "..."
 
 # game/script.rpy:8393
 translate uk_UA explore_bernie2_2096dc2a:
@@ -12114,7 +12114,7 @@ translate uk_UA explore_bernie2_800390ad:
 translate uk_UA explore_bernie2_2a5463be_1:
 
     # woman "..."
-    woman ""
+    woman "..."
 
 # game/script.rpy:8424
 translate uk_UA explore_bernie2_09ee4cbd:
@@ -13668,7 +13668,7 @@ translate uk_UA expl_beach0_908662f5:
 translate uk_UA expl_beach0_2e580f23:
 
     # crowd "..."
-    crowd ""
+    crowd "..."
 
 # game/script.rpy:8866
 translate uk_UA expl_beach0_3e51eea7:
@@ -13722,7 +13722,7 @@ translate uk_UA expl_beach0_15ef8a49:
 translate uk_UA expl_beach0_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:8881
 translate uk_UA expl_beach0_ee6b0373:
@@ -13968,7 +13968,7 @@ translate uk_UA expl_beach2_5da3d183:
 translate uk_UA expl_beach2_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:8961
 translate uk_UA expl_beach2_f2d214cd:
@@ -14220,7 +14220,7 @@ translate uk_UA expl_beach2_d93a38fc:
 translate uk_UA expl_beach2_3c8db32d:
 
     # sl "..."
-    sl ""
+    sl "..."
 
 # game/script.rpy:9011
 translate uk_UA expl_beach2_d8fbea13:
@@ -18432,7 +18432,7 @@ translate uk_UA out_cont3_1_94ae5c8f:
 translate uk_UA out_cont3_1_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:10640
 translate uk_UA out_cont3_1_42087ffc:
@@ -18972,7 +18972,7 @@ translate uk_UA explore_cafe2_aeaa75f8:
 translate uk_UA explore_cafe2_7611efb4:
 
     # ba "..."
-    ba ""
+    ba "..."
 
 # game/script.rpy:10796
 translate uk_UA explore_cafe2_5b0849c7:
@@ -19002,7 +19002,7 @@ translate uk_UA explore_cafe2_412f5ba7:
 translate uk_UA explore_cafe2_5e7a1541:
 
     # eri "..."
-    eri ""
+    eri "..."
 
 # game/script.rpy:10802
 translate uk_UA explore_cafe2_421c39f8:
@@ -19086,7 +19086,7 @@ translate uk_UA explore_cafe2_3784857a:
 translate uk_UA explore_cafe2_5e7a1541_1:
 
     # eri "..."
-    eri ""
+    eri "..."
 
 # game/script.rpy:10826
 translate uk_UA explore_cafe2_716cf652:
@@ -19374,7 +19374,7 @@ translate uk_UA explore_cafe2_8ace57ea:
 translate uk_UA explore_cafe2_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:10904
 translate uk_UA explore_cafe2_1d24a28f:
@@ -19650,7 +19650,7 @@ translate uk_UA explore_cafe3_b67db028:
 translate uk_UA explore_cafe3_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:10978
 translate uk_UA explore_cafe3_380bb67e:
@@ -20550,7 +20550,7 @@ translate uk_UA needy_help_9ef7f32f:
 translate uk_UA needy_help_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:11228
 translate uk_UA needy_help_111d51aa:
@@ -21438,7 +21438,7 @@ translate uk_UA explore_slums2_43ab276d:
 translate uk_UA explore_slums2_e505717b:
 
     # cook "..."
-    cook ""
+    cook "..."
 
 # game/script.rpy:11470
 translate uk_UA explore_slums2_ee7b1359:
@@ -21450,7 +21450,7 @@ translate uk_UA explore_slums2_ee7b1359:
 translate uk_UA explore_slums2_e505717b_1:
 
     # cook "..."
-    cook ""
+    cook "..."
 
 # game/script.rpy:11474
 translate uk_UA explore_slums2_aec640ee:
@@ -21474,7 +21474,7 @@ translate uk_UA explore_slums2_bf84394a:
 translate uk_UA explore_slums2_e505717b_2:
 
     # cook "..."
-    cook ""
+    cook "..."
 
 # game/script.rpy:11480
 translate uk_UA explore_slums2_990993db:
@@ -21936,7 +21936,7 @@ translate uk_UA explore_slums1_3a357538:
 translate uk_UA explore_slums1_08d07d74:
 
     # felf "..."
-    felf ""
+    felf "..."
 
 # game/script.rpy:11597
 translate uk_UA explore_slums1_0c508083:
@@ -22350,7 +22350,7 @@ translate uk_UA explore_slums1_875c529f:
 translate uk_UA out_cont1_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Вже пізно... Мені пора в ліжко."
 
 # game/script.rpy:11716
 translate uk_UA out1_4dfa2424:
@@ -22554,7 +22554,7 @@ translate uk_UA deliverdone_875c529f:
 translate uk_UA out_cont2_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Вже пізно... Мені пора в ліжко."
 
 # game/script.rpy:11864
 translate uk_UA out_cont2_ebd627da:
@@ -22596,7 +22596,7 @@ translate uk_UA out2_9938580d:
 translate uk_UA out_cont3_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Вже пізно... Мені пора в ліжко."
 
 # game/script.rpy:11929
 translate uk_UA out_cont3_1e3c7470:
@@ -24126,7 +24126,7 @@ translate uk_UA shower_fc874b26:
 translate uk_UA shower_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:12812
 translate uk_UA shower_f567e3b6:
@@ -24540,7 +24540,7 @@ translate uk_UA prekitchen_55238324:
 translate uk_UA prekitchen_82822a0c:
 
     # l "..."
-    l ""
+    l "..."
 
 # game/script.rpy:13096
 translate uk_UA prekitchen_0c1dfb49:
@@ -26796,7 +26796,7 @@ translate uk_UA kitchen_548a4937:
 translate uk_UA kitchen_82822a0c:
 
     # l "..."
-    l ""
+    l "..."
 
 # game/script.rpy:14064
 translate uk_UA kitchen_09e538c0:
@@ -27180,7 +27180,7 @@ translate uk_UA kitchen_ec91435a:
 translate uk_UA kitchen_82822a0c_1:
 
     # l "..."
-    l ""
+    l "..."
 
 # game/script.rpy:14192
 translate uk_UA kitchen_ec91435a_1:
@@ -28536,7 +28536,7 @@ translate uk_UA springkali2_514a1a70:
 translate uk_UA springkali_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/script.rpy:15175
 translate uk_UA springkali_7620e9e9:
@@ -29370,7 +29370,7 @@ translate uk_UA yourroom_d9bb9d3d:
 translate uk_UA yourroom_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:15476
 translate uk_UA yourroom_35fbe7c1:
@@ -29730,7 +29730,7 @@ translate uk_UA yourroom_5010fc91:
 translate uk_UA yourroom_f153aa4f:
 
     # au "..."
-    au ""
+    au "..."
 
 # game/script.rpy:15640
 translate uk_UA yourroom_aceac124:
@@ -29748,7 +29748,7 @@ translate uk_UA yourroom_09d07f0c:
 translate uk_UA yourroom_f153aa4f_1:
 
     # au "..."
-    au ""
+    au "..."
 
 # game/script.rpy:15644
 translate uk_UA yourroom_a91a16fe:
@@ -29898,7 +29898,7 @@ translate uk_UA yourroom_56dc427f:
 translate uk_UA yourroom_f153aa4f_2:
 
     # au "..."
-    au ""
+    au "..."
 
 # game/script.rpy:15678
 translate uk_UA yourroom_eae502f4:
@@ -30876,7 +30876,7 @@ translate uk_UA yourroom_ea2fae0c:
 translate uk_UA yourroom_98fe1475:
 
     # "*KNOCK KNOCK KNOCK*"
-    ""
+    "*ГРЮК-ГРЮК-ГРЮК*"
 
 # game/script.rpy:16051
 translate uk_UA yourroom_757416b3:
@@ -31002,7 +31002,7 @@ translate uk_UA yourroom_af1bd270:
 translate uk_UA yourroom_ecf18235:
 
     # "*knock knock knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:16099
 translate uk_UA yourroom_80b12547:
@@ -31434,7 +31434,7 @@ translate uk_UA yourroomcontinued_69487f22:
 translate uk_UA yourroomcontinued_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:16414
 translate uk_UA yourroomcontinued_b352fa14:
@@ -31602,7 +31602,7 @@ translate uk_UA yourroomcontinued_9dff41bf:
 translate uk_UA yourroomcontinued_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:16476
 translate uk_UA yourroomcontinued_94dd80e7:
@@ -32208,7 +32208,7 @@ translate uk_UA elftown_ef4d05a3:
 translate uk_UA elftown_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Вже пізно... Мені пора в ліжко."
 
 # game/script.rpy:16935
 translate uk_UA elftown_c4353d4b:
@@ -32226,7 +32226,7 @@ translate uk_UA elftown_b71f3b04:
 translate uk_UA elfbed_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Вже пізно... Мені пора в ліжко."
 
 # game/script.rpy:17003
 translate uk_UA elfatspa_f0417fe4:
@@ -32526,7 +32526,7 @@ translate uk_UA bot_sick_93e270f8:
 translate uk_UA bot_sick_516b562e:
 
     # "..." with ssshake
-    "" with ssshake
+    "..." with ssshake
 
 # game/script.rpy:17416
 translate uk_UA bot_sick_8ff7c553:
@@ -32556,7 +32556,7 @@ translate uk_UA bot_sick_ad74601f:
 translate uk_UA bot_sick_516b562e_1:
 
     # "..." with ssshake
-    "" with ssshake
+    "..." with ssshake
 
 # game/script.rpy:17423
 translate uk_UA bot_sick_8ff7c553_1:
@@ -32610,7 +32610,7 @@ translate uk_UA bot_sick_7bd5e9dc:
 translate uk_UA bot_sick_516b562e_2:
 
     # "..." with ssshake
-    "" with ssshake
+    "..." with ssshake
 
 # game/script.rpy:17434
 translate uk_UA bot_sick_8ff7c553_2:
@@ -32724,7 +32724,7 @@ translate uk_UA bot_sick_b20c4c00:
 translate uk_UA bot_sick_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:17460
 translate uk_UA bot_sick_c1048161:
@@ -32736,7 +32736,7 @@ translate uk_UA bot_sick_c1048161:
 translate uk_UA bot_sick_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:17462
 translate uk_UA bot_sick_9d9ac403:
@@ -33414,7 +33414,7 @@ translate uk_UA bot_sick_7bd5e9dc_2:
 translate uk_UA bot_sick_c868e390_1:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:17616
 translate uk_UA bot_sick_479d998b:
@@ -33486,7 +33486,7 @@ translate uk_UA bot_sick_cf2b2ba0:
 translate uk_UA bot_sick_c868e390_2:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:17630
 translate uk_UA bot_sick_8003682a:
@@ -33780,7 +33780,7 @@ translate uk_UA bot_sick_ad22bc57:
 translate uk_UA bot_sick_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:17694
 translate uk_UA bot_sick_d5cee910:
@@ -33792,7 +33792,7 @@ translate uk_UA bot_sick_d5cee910:
 translate uk_UA bot_sick_d19f855d_2:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:17696
 translate uk_UA bot_sick_212b0b38:
@@ -33804,7 +33804,7 @@ translate uk_UA bot_sick_212b0b38:
 translate uk_UA bot_sick_d19f855d_3:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:17699
 translate uk_UA bot_sick_471a9ce2:
@@ -33960,7 +33960,7 @@ translate uk_UA bot_sick_f760670a:
 translate uk_UA bot_sick_eaf47e04:
 
     # ally "..." with ssshake
-    ally "" with ssshake
+    ally "..." with ssshake
 
 # game/script.rpy:17735
 translate uk_UA bot_sick_90c8a8ff:
@@ -34254,7 +34254,7 @@ translate uk_UA bot_sick_00b2649a:
 translate uk_UA bot_sick_6f1c2e76:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17794
 translate uk_UA bot_sick_dc0379bc:
@@ -34320,7 +34320,7 @@ translate uk_UA bot_sick_0090dd16:
 translate uk_UA bot_sick_c868e390_3:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:17811
 translate uk_UA bot_sick_3490cfd2:
@@ -34332,7 +34332,7 @@ translate uk_UA bot_sick_3490cfd2:
 translate uk_UA bot_sick_c868e390_4:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:17814
 translate uk_UA bot_sick_c025a936:
@@ -34350,7 +34350,7 @@ translate uk_UA bot_sick_6ad423b7:
 translate uk_UA bot_sick_c868e390_5:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:17819
 translate uk_UA bot_sick_83394b2d:
@@ -34482,7 +34482,7 @@ translate uk_UA bot_sick_8d589cf3:
 translate uk_UA bot_sick_6f1c2e76_1:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17857
 translate uk_UA bot_sick_d5cc59ae:
@@ -34494,7 +34494,7 @@ translate uk_UA bot_sick_d5cc59ae:
 translate uk_UA bot_sick_d19f855d_4:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:17862
 translate uk_UA bot_sick_c400ad79:
@@ -34518,7 +34518,7 @@ translate uk_UA bot_sick_d45bd050_1:
 translate uk_UA bot_sick_d19f855d_5:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:17866
 translate uk_UA bot_sick_33f766fc:
@@ -34548,7 +34548,7 @@ translate uk_UA bot_sick_8dca4758:
 translate uk_UA bot_sick_6f1c2e76_2:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17873
 translate uk_UA bot_sick_7f44af6e:
@@ -34560,7 +34560,7 @@ translate uk_UA bot_sick_7f44af6e:
 translate uk_UA bot_sick_6f1c2e76_3:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17875
 translate uk_UA bot_sick_13bbb8ac:
@@ -34602,7 +34602,7 @@ translate uk_UA bot_sick_593696cc:
 translate uk_UA bot_sick_6f1c2e76_4:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17889
 translate uk_UA bot_sick_9886b2c7:
@@ -34704,7 +34704,7 @@ translate uk_UA bot_sick_2b419ec6:
 translate uk_UA bot_sick_6f1c2e76_5:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17914
 translate uk_UA bot_sick_ebbcff47:
@@ -34740,7 +34740,7 @@ translate uk_UA bot_sick_197c5956:
 translate uk_UA bot_sick_c868e390_6:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:17921
 translate uk_UA bot_sick_bd3550ab_1:
@@ -34818,7 +34818,7 @@ translate uk_UA bot_sick_343d4d13:
 translate uk_UA bot_sick_6f1c2e76_6:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17936
 translate uk_UA bot_sick_400f1aec:
@@ -34848,7 +34848,7 @@ translate uk_UA bot_sick_394be2eb:
 translate uk_UA bot_sick_6f1c2e76_7:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17944
 translate uk_UA bot_sick_1961e60b:
@@ -35082,19 +35082,19 @@ translate uk_UA bot_connect_25b01218:
 translate uk_UA bot_connect_6f1c2e76:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:18010
 translate uk_UA bot_connect_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:18012
 translate uk_UA bot_connect_c868e390_1:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:18013
 translate uk_UA bot_connect_3d18f86f:
@@ -37890,7 +37890,7 @@ translate uk_UA bot_cyberspace_99b970b7:
 translate uk_UA bot_cyberspace_6f1c2e76:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:18743
 translate uk_UA bot_cyberspace_72da34d6:
@@ -39390,7 +39390,7 @@ translate uk_UA bot_washingmachine_0a367690:
 translate uk_UA bot_washingmachine_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:19109
 translate uk_UA bot_washingmachine_a9dcb042:
@@ -39462,7 +39462,7 @@ translate uk_UA bot_washingmachine_7c7cc526:
 translate uk_UA bot_washingmachine_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:19129
 translate uk_UA bot_washingmachine_2c85377b:
@@ -39558,7 +39558,7 @@ translate uk_UA bot_partition_cb2af794:
 translate uk_UA bot_partition_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:19218
 translate uk_UA bot_partition_4100622b:
@@ -39672,7 +39672,7 @@ translate uk_UA bot_partition_9ff15a09:
 translate uk_UA bot_partition_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:19245
 translate uk_UA bot_partition_8e9aad0e:
@@ -39714,7 +39714,7 @@ translate uk_UA bot_partition_41274681:
 translate uk_UA bot_partition_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:19256
 translate uk_UA bot_partition_15cd499f:
@@ -39882,7 +39882,7 @@ translate uk_UA bot_partition_8f185ef1:
 translate uk_UA bot_partition_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19288
 translate uk_UA bot_partition_dec75b5e:
@@ -39960,7 +39960,7 @@ translate uk_UA bot_partition_9f8360e3:
 translate uk_UA bot_partition_c868e390_1:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19305
 translate uk_UA bot_partition_013f9993:
@@ -40116,7 +40116,7 @@ translate uk_UA bot_partition_438b2ee3:
 translate uk_UA bot_partition_c868e390_2:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19335
 translate uk_UA bot_partition_1f1282d1:
@@ -40152,13 +40152,13 @@ translate uk_UA bot_partition_bc1520c3:
 translate uk_UA bot_partition_d19f855d_2:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:19341
 translate uk_UA bot_partition_c868e390_3:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19342
 translate uk_UA bot_partition_1e02e411:
@@ -40194,13 +40194,13 @@ translate uk_UA bot_partition_2c6c52a3:
 translate uk_UA bot_partition_c868e390_4:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19351
 translate uk_UA bot_partition_c868e390_5:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19352
 translate uk_UA bot_partition_34461a50_2:
@@ -40248,7 +40248,7 @@ translate uk_UA bot_partition_3869fc2b:
 translate uk_UA bot_partition_c868e390_6:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19362
 translate uk_UA bot_partition_242c9ddc:
@@ -40368,7 +40368,7 @@ translate uk_UA bot_partition_7098ab58:
 translate uk_UA bot_partition_c868e390_7:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19390
 translate uk_UA bot_partition_7a8cf364:
@@ -40458,7 +40458,7 @@ translate uk_UA bot_partition_86beb750:
 translate uk_UA bot_partition_c868e390_8:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19408
 translate uk_UA bot_partition_2e82c363:
@@ -41076,7 +41076,7 @@ translate uk_UA bot_nightmares_ca75f0dc:
 translate uk_UA bot_nightmares_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:19771
 translate uk_UA bot_nightmares_5034455a:
@@ -41346,7 +41346,7 @@ translate uk_UA bot_nightmares_09e400bc:
 translate uk_UA bot_nightmares_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:19911
 translate uk_UA bot_nightmares_fc382a5d:
@@ -41460,7 +41460,7 @@ translate uk_UA bot_nightmares_85dbb9cd:
 translate uk_UA bot_nightmares_bb8e4b4e_1:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:19949
 translate uk_UA bot_nightmares_f6e335f3:
@@ -41472,7 +41472,7 @@ translate uk_UA bot_nightmares_f6e335f3:
 translate uk_UA bot_nightmares_bb8e4b4e_2:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:19953
 translate uk_UA bot_nightmares_25e36009:
@@ -41484,7 +41484,7 @@ translate uk_UA bot_nightmares_25e36009:
 translate uk_UA bot_nightmares_bb8e4b4e_3:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:19956
 translate uk_UA bot_nightmares_6e24930c:
@@ -41496,7 +41496,7 @@ translate uk_UA bot_nightmares_6e24930c:
 translate uk_UA bot_nightmares_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:19958
 translate uk_UA bot_nightmares_07a30a9a:
@@ -41514,7 +41514,7 @@ translate uk_UA bot_nightmares_2bb7f662:
 translate uk_UA bot_nightmares_a20cefa7_2:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:19961
 translate uk_UA bot_nightmares_31d4e144:
@@ -41538,7 +41538,7 @@ translate uk_UA bot_nightmares_f3000c60:
 translate uk_UA bot_nightmares_a20cefa7_3:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:19965
 translate uk_UA bot_nightmares_4947de56:
@@ -41586,7 +41586,7 @@ translate uk_UA bot_nightmares_9c6a3de0:
 translate uk_UA bot_nightmares_a20cefa7_4:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:19976
 translate uk_UA bot_nightmares_8e9aad0e:
@@ -41610,7 +41610,7 @@ translate uk_UA bot_nightmares_8c7ef502:
 translate uk_UA bot_nightmares_bb8e4b4e_4:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:19996
 translate uk_UA bot_socialize_121559d1:
@@ -42906,7 +42906,7 @@ translate uk_UA bot_socialize_d6951809:
 translate uk_UA bot_socialize_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:20281
 translate uk_UA bot_socialize_1e1f60df:
@@ -42918,7 +42918,7 @@ translate uk_UA bot_socialize_1e1f60df:
 translate uk_UA bot_socialize_c868e390_1:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:20284
 translate uk_UA bot_socialize_e274d8e8:
@@ -42984,7 +42984,7 @@ translate uk_UA bot_socialize_b13c9548:
 translate uk_UA bot_socialize_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:20297
 translate uk_UA bot_socialize_2197a5bf:
@@ -42996,7 +42996,7 @@ translate uk_UA bot_socialize_2197a5bf:
 translate uk_UA bot_socialize_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:20320
 translate uk_UA bot_uni_53013321:
@@ -43140,7 +43140,7 @@ translate uk_UA bot_uni_93682ed5:
 translate uk_UA bot_uni_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:20346
 translate uk_UA bot_uni_0eaffc8b:
@@ -43506,7 +43506,7 @@ translate uk_UA bot_uni_148f3ab0:
 translate uk_UA bot_uni_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:20426
 translate uk_UA bot_uni_3d18f86f:
@@ -45918,7 +45918,7 @@ translate uk_UA bot_tech_891fd5ea:
 translate uk_UA bot_tech_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:21001
 translate uk_UA bot_tech_faa21de0:
@@ -48864,7 +48864,7 @@ translate uk_UA botwake_e6eb6e6f:
 translate uk_UA botwake_cbfde8c0:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21820
 translate uk_UA botwake_9f795a14:
@@ -48918,7 +48918,7 @@ translate uk_UA botwake_d8becd3a:
 translate uk_UA botwake_cbfde8c0_1:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21835
 translate uk_UA botwake_73af9b2c:
@@ -49098,7 +49098,7 @@ translate uk_UA botwake_cb0cd674:
 translate uk_UA botwake_cbfde8c0_2:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21877
 translate uk_UA botwake_f263ea45:
@@ -49266,7 +49266,7 @@ translate uk_UA botwake_005ad8e4:
 translate uk_UA botwake_cbfde8c0_3:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21915
 translate uk_UA botwake_d0ed13f8:
@@ -49278,7 +49278,7 @@ translate uk_UA botwake_d0ed13f8:
 translate uk_UA botwake_cbfde8c0_4:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21919
 translate uk_UA botwake_515014bd:
@@ -49338,7 +49338,7 @@ translate uk_UA botwake_f12bb701:
 translate uk_UA botwake_cbfde8c0_5:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21934
 translate uk_UA botwake_cff7b08c:
@@ -49368,7 +49368,7 @@ translate uk_UA botwake_a4a19968:
 translate uk_UA botwake_cbfde8c0_6:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21943
 translate uk_UA botwake_08011ed1:
@@ -49440,19 +49440,19 @@ translate uk_UA botwake_bb4a072b:
 translate uk_UA botwake_cbfde8c0_7:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21962
 translate uk_UA botwake_63c8a1f4:
 
     # yg "......"
-    yg ""
+    yg "......"
 
 # game/script.rpy:21963
 translate uk_UA botwake_87f9bcea:
 
     # yg "........."
-    yg ""
+    yg "........."
 
 # game/script.rpy:21964
 translate uk_UA botwake_d4e0bde2:
@@ -49488,7 +49488,7 @@ translate uk_UA botwake_000b549c:
 translate uk_UA botwake_cbfde8c0_8:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21973
 translate uk_UA botwake_77d62823:
@@ -49632,7 +49632,7 @@ translate uk_UA botwake_d94ec54e:
 translate uk_UA botwake_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22013
 translate uk_UA botwake_cdc92e52:
@@ -49662,7 +49662,7 @@ translate uk_UA botwake_1e61d6ae:
 translate uk_UA botwake_c868e390_1:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22020
 translate uk_UA botwake_1d07591b:
@@ -49698,7 +49698,7 @@ translate uk_UA botwake_8a283fab:
 translate uk_UA botwake_c868e390_2:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22028
 translate uk_UA botwake_67119944:
@@ -49734,7 +49734,7 @@ translate uk_UA botwake_fb49da99:
 translate uk_UA botwake_c868e390_3:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22037
 translate uk_UA botwake_e0fc7781:
@@ -49752,7 +49752,7 @@ translate uk_UA botwake_3e2f20c2:
 translate uk_UA botwake_cbfde8c0_9:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:22043
 translate uk_UA botwake_3479c855:
@@ -49872,19 +49872,19 @@ translate uk_UA botwake_975b99e7:
 translate uk_UA botwake_cbfde8c0_10:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:22071
 translate uk_UA botwake_63c8a1f4_1:
 
     # yg "......"
-    yg ""
+    yg "......"
 
 # game/script.rpy:22072
 translate uk_UA botwake_87f9bcea_1:
 
     # yg "........."
-    yg ""
+    yg "........."
 
 # game/script.rpy:22075
 translate uk_UA botwake_8e588b7e:
@@ -49968,7 +49968,7 @@ translate uk_UA botwake_4ac76c85:
 translate uk_UA botwake_cbfde8c0_11:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:22096
 translate uk_UA botwake_acb019d2:
@@ -50070,7 +50070,7 @@ translate uk_UA botwake_8bb662e3:
 translate uk_UA botwake_cbfde8c0_12:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:22125
 translate uk_UA botwake_2dda576a:
@@ -50496,7 +50496,7 @@ translate uk_UA botwake_4894e5e4:
 translate uk_UA botwake_c868e390_4:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22227
 translate uk_UA botwake_16e552f9:
@@ -50550,7 +50550,7 @@ translate uk_UA botwake_e53945e5:
 translate uk_UA botwake_c868e390_5:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22240
 translate uk_UA botwake_377a52d6:
@@ -50574,25 +50574,25 @@ translate uk_UA botwake_edc7da54:
 translate uk_UA botwake_cbfde8c0_13:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:22246
 translate uk_UA botwake_63c8a1f4_2:
 
     # yg "......"
-    yg ""
+    yg "......"
 
 # game/script.rpy:22247
 translate uk_UA botwake_87f9bcea_2:
 
     # yg "........."
-    yg ""
+    yg "........."
 
 # game/script.rpy:22248
 translate uk_UA botwake_3b2fd2d5:
 
     # yg "*sigh*..."
-    yg ""
+    yg "*зітхання*..."
 
 # game/script.rpy:22249
 translate uk_UA botwake_d751beee:
@@ -50622,7 +50622,7 @@ translate uk_UA botwake_b0fa1b62:
 translate uk_UA botwake_3b2fd2d5_1:
 
     # yg "*sigh*..."
-    yg ""
+    yg "*зітхання*..."
 
 # game/script.rpy:22254
 translate uk_UA botwake_9300ae49:
@@ -50634,7 +50634,7 @@ translate uk_UA botwake_9300ae49:
 translate uk_UA botwake_cbfde8c0_14:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:22256
 translate uk_UA botwake_68220ea3:
@@ -50664,7 +50664,7 @@ translate uk_UA botwake_455fd608:
 translate uk_UA botwake_cbfde8c0_15:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:22261
 translate uk_UA botwake_f0a2db26:
@@ -50706,13 +50706,13 @@ translate uk_UA botwake_a774a064:
 translate uk_UA botwake_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:22275
 translate uk_UA botwake_0fd4d656:
 
     # "......"
-    ""
+    "......"
 
 # game/script.rpy:22277
 translate uk_UA botwake_0bb87674:
@@ -50988,7 +50988,7 @@ translate uk_UA botwake_13ac3056:
 translate uk_UA botwake_c868e390_6:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22349
 translate uk_UA botwake_d5378ffe:
@@ -51090,7 +51090,7 @@ translate uk_UA botwake_2e8df3cf:
 translate uk_UA botwake_c868e390_7:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22384
 translate uk_UA botwake_c27a5639:
@@ -51138,7 +51138,7 @@ translate uk_UA botwake_f66b3aed:
 translate uk_UA botwake_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:22397
 translate uk_UA botwake_1a534192:
@@ -52092,7 +52092,7 @@ translate uk_UA bothuman_eb4656ea:
 translate uk_UA bothuman_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:22695
 translate uk_UA bothuman_e58876f6:
@@ -52350,7 +52350,7 @@ translate uk_UA bothuman_54fb8d07:
 translate uk_UA bothuman_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22758
 translate uk_UA bothuman_125557b9:
@@ -52728,7 +52728,7 @@ translate uk_UA botcasual_97ca0b98:
 translate uk_UA botcasual_53013321:
 
     # bot "*sigh*..."
-    bot ""
+    bot "*зітхання*..."
 
 # game/script.rpy:22885
 translate uk_UA botcasual_38c3e2c0:
@@ -54360,7 +54360,7 @@ translate uk_UA botbot_8b9ed45f:
 translate uk_UA botbot_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:23638
 translate uk_UA botbot_98c6c118:
@@ -54444,7 +54444,7 @@ translate uk_UA botbot_a7b8aeb3:
 translate uk_UA botbot_c868e390_1:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:23655
 translate uk_UA botbot_dcc3b862:
@@ -54480,7 +54480,7 @@ translate uk_UA botbot_3c69610a:
 translate uk_UA botbot_c868e390_2:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:23662
 translate uk_UA botbot_02e0c01c:
@@ -54510,7 +54510,7 @@ translate uk_UA botbot_b1e25271:
 translate uk_UA botbot_c868e390_3:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:23667
 translate uk_UA botbot_65dbe2a5:
@@ -54600,7 +54600,7 @@ translate uk_UA botbot_bb00a52c_1:
 translate uk_UA botbot_c868e390_4:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:23684
 translate uk_UA botbot_f0e73d59:
@@ -54654,7 +54654,7 @@ translate uk_UA botbot_17298270:
 translate uk_UA botbot_c868e390_5:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:23694
 translate uk_UA botbot_812fc82f:
@@ -54720,7 +54720,7 @@ translate uk_UA botbeach_c9086937:
 translate uk_UA botbeach_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:23719
 translate uk_UA botbeach_2a7f9c9d:
@@ -54840,7 +54840,7 @@ translate uk_UA botbeach_4348f888:
 translate uk_UA botbeach_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:23752
 translate uk_UA botbeach_ed847e67:
@@ -55398,7 +55398,7 @@ translate uk_UA botbeach_92a3480f:
 translate uk_UA botbeach_c868e390_1:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:23891
 translate uk_UA botbeach_b7d55b25:
@@ -55686,7 +55686,7 @@ translate uk_UA bot_firstdate_2964d5b1:
 translate uk_UA bot_firstdate_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:23970
 translate uk_UA bot_firstdate_ad6396b6:
@@ -55944,7 +55944,7 @@ translate uk_UA bot_firstdate_06ed4d90:
 translate uk_UA bot_firstdate_c868e390_1:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:24032
 translate uk_UA bot_firstdate_e1518886:
@@ -58026,7 +58026,7 @@ translate uk_UA botsink_46370be4:
 translate uk_UA botsink_ecf18235:
 
     # "*knock knock knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:24655
 translate uk_UA botsink_39dae445:
@@ -59664,7 +59664,7 @@ translate uk_UA botspring_680585b7:
 translate uk_UA botspring_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:25166
 translate uk_UA botspring_fb1d364a:
@@ -63336,7 +63336,7 @@ translate uk_UA bot_maria_99acf1a8:
 translate uk_UA bot_maria_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script.rpy:26170
 translate uk_UA bot_maria_ae9bc70f:
@@ -63822,7 +63822,7 @@ translate uk_UA bot_small_choice_cfd5e9ad:
 translate uk_UA bot_small_choice_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:26288
 translate uk_UA bot_small_choice_ab0e9a11:
@@ -64398,7 +64398,7 @@ translate uk_UA botsobbing_db709228:
 translate uk_UA botsobbing_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:26444
 translate uk_UA botsobbing_601ddbc9:
@@ -67410,7 +67410,7 @@ translate uk_UA botcafemilk1_4935619e:
 translate uk_UA botcafemilk1_7611efb4:
 
     # ba "..."
-    ba ""
+    ba "..."
 
 # game/script.rpy:27839
 translate uk_UA botcafemilk1_56da8855:
@@ -68682,7 +68682,7 @@ translate uk_UA elpin_c50678c4:
 translate uk_UA elpin_72a33094:
 
     # e "..."
-    e ""
+    e "..."
 
 # game/script.rpy:28325
 translate uk_UA elpin_c36d17b9:
@@ -77586,7 +77586,7 @@ translate uk_UA laundryroom_07f9f9e3:
 translate uk_UA laundryroom_82822a0c:
 
     # l "..."
-    l ""
+    l "..."
 
 # game/script.rpy:32058
 translate uk_UA laundryroom_06c7cd49:
@@ -78264,7 +78264,7 @@ translate uk_UA barintro_4e8c7062:
 translate uk_UA barintro_9855b61d:
 
     # e "Very well! Follow me."
-    e ""
+    e "Добре! Ідіть за мною."
 
 # game/script.rpy:33293
 translate uk_UA barintro_a51b8166:
@@ -80886,7 +80886,7 @@ translate uk_UA linlttt_547ef9b9:
 translate uk_UA linlttt_82822a0c:
 
     # l "..."
-    l ""
+    l "..."
 
 # game/script.rpy:34615
 translate uk_UA linlttt_34c3792b:
@@ -81744,7 +81744,7 @@ translate uk_UA kali_publicwalk_e664e478:
 translate uk_UA kali_publicwalk_721fff29:
 
     # k "......"
-    k ""
+    k "......"
 
 # game/script.rpy:34917
 translate uk_UA kali_publicwalk_5b2cef46:
@@ -82230,7 +82230,7 @@ translate uk_UA klust2_88cab472:
 translate uk_UA kali_insp_737fc1d1:
 
     # k "..." nointeract
-    k "" nointeract
+    k "..." nointeract
 
 # game/script.rpy:35136
 translate uk_UA kali_insp_8d76e954:
@@ -82248,7 +82248,7 @@ translate uk_UA kali_insp_050a61aa:
 translate uk_UA kali_insp_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/script.rpy:35147
 translate uk_UA kali_insp_1f4d33e2:
@@ -82482,7 +82482,7 @@ translate uk_UA kali_insp_2421eaf2:
 translate uk_UA kali_insp_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/script.rpy:35279
 translate uk_UA kali_insp_dddf4275:
@@ -82740,7 +82740,7 @@ translate uk_UA alt2_c61c9377:
 translate uk_UA ash_insp_92050d9b:
 
     # a "..." nointeract
-    a "" nointeract
+    a "..." nointeract
 
 # game/script.rpy:35412
 translate uk_UA ash_insp_3b311620:
@@ -83334,7 +83334,7 @@ translate uk_UA llt2_7bf19640:
 translate uk_UA lin_insp_551ce3a1:
 
     # l "..." nointeract
-    l "" nointeract
+    l "..." nointeract
 
 # game/script.rpy:35705
 translate uk_UA lin_insp_c62d4272:
@@ -83346,7 +83346,7 @@ translate uk_UA lin_insp_c62d4272:
 translate uk_UA lin_insp_82822a0c:
 
     # l "..."
-    l ""
+    l "..."
 
 # game/script.rpy:35711
 translate uk_UA lin_insp_88b4a088:
@@ -83778,7 +83778,7 @@ translate uk_UA lin_insp_891b2487:
 translate uk_UA lin_insp_82822a0c_1:
 
     # l "..."
-    l ""
+    l "..."
 
 # game/script.rpy:35936
 translate uk_UA lin_insp_d21347be:
@@ -84072,7 +84072,7 @@ translate uk_UA mlt2_46c7c676:
 translate uk_UA mar_insp_9e56b4f0:
 
     # m "..." nointeract
-    m "" nointeract
+    m "..." nointeract
 
 # game/script.rpy:36054
 translate uk_UA mar_insp_7f7f012f:
@@ -87360,7 +87360,7 @@ translate uk_UA bot_lust_doggy1_19a7039b:
 translate uk_UA bot_lust_doggy1_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:37541
 translate uk_UA bot_lust_doggy1_96c8109c:
@@ -87408,7 +87408,7 @@ translate uk_UA passout_6d392464:
 translate uk_UA passout_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:37666
 translate uk_UA passout_3825e709:
@@ -87432,7 +87432,7 @@ translate uk_UA passout_14d3b642:
 translate uk_UA passout_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:37671
 translate uk_UA passout_a3852345:
@@ -89066,7 +89066,7 @@ translate uk_UA strings:
 
     # game/script.rpy:6316
     old "..."
-    new ""
+    new "..."
 
     # game/script.rpy:6316
     old "Offer to pay"
@@ -91256,19 +91256,19 @@ translate uk_UA ellen_moneytalk_97bfda76:
 translate uk_UA ellenmusic_bb22c8cb_6:
 
     # "I don't have enough money for that..."
-    ""
+    "В мене для цього не достатньо фінансів..."
 
 # game/script.rpy:4679
 translate uk_UA floor2menu_4899d092:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:4685
 translate uk_UA floor2menu_4899d092_1:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:4693
 translate uk_UA floor2menu_e1b9da91:
@@ -91280,37 +91280,37 @@ translate uk_UA floor2menu_e1b9da91:
 translate uk_UA floor2menu_4899d092_2:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:4701
 translate uk_UA floor2menu_4899d092_3:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:4708
 translate uk_UA floor2menu_4899d092_4:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:4715
 translate uk_UA floor2menu_4899d092_5:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:4720
 translate uk_UA floor2menu_4899d092_6:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:4725
 translate uk_UA floor2menu_4899d092_7:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:4729
 translate uk_UA floor2menu_b0a60ef9:
@@ -92162,7 +92162,7 @@ translate uk_UA bottalk15_c872e953:
 translate uk_UA bottalk15_4899d092:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5174
 translate uk_UA bottalk15_883e5c6a:
@@ -92174,7 +92174,7 @@ translate uk_UA bottalk15_883e5c6a:
 translate uk_UA bottalk15_4899d092_1:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5179
 translate uk_UA bottalk15_d19e7f54:
@@ -92366,7 +92366,7 @@ translate uk_UA bottalk15_c872e953_1:
 translate uk_UA bottalk15_4899d092_2:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5270
 translate uk_UA bottalk15_26e9581e:
@@ -92732,7 +92732,7 @@ translate uk_UA twin_door_menu_f2317453:
 translate uk_UA twin_door_menu_4899d092:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5510
 translate uk_UA twin_door_menu_883e5c6a:
@@ -92744,7 +92744,7 @@ translate uk_UA twin_door_menu_883e5c6a:
 translate uk_UA twin_door_menu_4899d092_1:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5517
 translate uk_UA twin_door_menu_f3e9fbf0:
@@ -92756,7 +92756,7 @@ translate uk_UA twin_door_menu_f3e9fbf0:
 translate uk_UA twin_door_menu_4899d092_2:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5524
 translate uk_UA twin_door_menu_b2619f63:
@@ -92768,7 +92768,7 @@ translate uk_UA twin_door_menu_b2619f63:
 translate uk_UA twin_door_menu_4899d092_3:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5528
 translate uk_UA twin_door_menu_b2619f63_1:
@@ -92780,7 +92780,7 @@ translate uk_UA twin_door_menu_b2619f63_1:
 translate uk_UA twin_door_menu_4899d092_4:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5532
 translate uk_UA twin_door_menu_eaff4787:
@@ -92792,7 +92792,7 @@ translate uk_UA twin_door_menu_eaff4787:
 translate uk_UA twin_door_menu_4899d092_5:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5536
 translate uk_UA twin_door_menu_eaff4787_1:
@@ -92804,7 +92804,7 @@ translate uk_UA twin_door_menu_eaff4787_1:
 translate uk_UA twin_door_menu_4899d092_6:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5541
 translate uk_UA twin_door_menu_cce1e909:
@@ -93026,7 +93026,7 @@ translate uk_UA twin_door_menu_0f8ff4c5_1:
 translate uk_UA twin_door_menu_ecf18235:
 
     # "*knock knock knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:5671
 translate uk_UA twin_door_menu_5a1f9fa0:
@@ -93266,25 +93266,25 @@ translate uk_UA twin_door_menu_01f4104e:
 translate uk_UA twin_door_menu_4899d092_7:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5858
 translate uk_UA twin_door_menu_8fbd983c:
 
     # c "She's probably taking a shower."
-    c ""
+    c "Вона мабуть в душі."
 
 # game/script.rpy:5863
 translate uk_UA twin_door_menu_ecf18235_1:
 
     # "*knock knock knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:5864
 translate uk_UA twin_door_menu_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:5865
 translate uk_UA twin_door_menu_67be6078:
@@ -93296,19 +93296,19 @@ translate uk_UA twin_door_menu_67be6078:
 translate uk_UA twin_door_menu_4899d092_8:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5874
 translate uk_UA twin_door_menu_d888dd4d:
 
     # c "She's probably hanging around the Hotel."
-    c ""
+    c "Скорше за все вона десь на кухні."
 
 # game/script.rpy:5878
 translate uk_UA twin_door_menu_4899d092_9:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5879
 translate uk_UA twin_door_menu_8de1cedf:
@@ -93320,7 +93320,7 @@ translate uk_UA twin_door_menu_8de1cedf:
 translate uk_UA twin_door_menu_4899d092_10:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5884
 translate uk_UA twin_door_menu_5e2afc49:
@@ -93338,7 +93338,7 @@ translate uk_UA twin_door_menu_c1900f15:
 translate uk_UA twin_door_menu_4899d092_11:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5892
 translate uk_UA twin_door_menu_60264095:
@@ -93350,7 +93350,7 @@ translate uk_UA twin_door_menu_60264095:
 translate uk_UA twin_door_menu_4899d092_12:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5899
 translate uk_UA twin_door_menu_98129289:
@@ -93362,7 +93362,7 @@ translate uk_UA twin_door_menu_98129289:
 translate uk_UA twin_door_menu_4899d092_13:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5903
 translate uk_UA twin_door_menu_0755b1d6:
@@ -93374,7 +93374,7 @@ translate uk_UA twin_door_menu_0755b1d6:
 translate uk_UA twin_door_menu_4899d092_14:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:5907
 translate uk_UA twin_door_menu_0755b1d6_1:
@@ -93386,7 +93386,7 @@ translate uk_UA twin_door_menu_0755b1d6_1:
 translate uk_UA twin_door_menu_ecf18235_2:
 
     # "*knock knock knock*"
-    ""
+    "*стук-стук-стук*"
 
 # game/script.rpy:5911
 translate uk_UA twin_door_menu_d772e35e:
@@ -93674,13 +93674,13 @@ translate uk_UA twin_door_menu_63bc906d:
 translate uk_UA lobby_4899d092:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:6199
 translate uk_UA lobby_4899d092_1:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:6214
 translate uk_UA lobby_c40c0b31:
@@ -93692,31 +93692,31 @@ translate uk_UA lobby_c40c0b31:
 translate uk_UA lobby_4899d092_2:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:6234
 translate uk_UA lobby_4899d092_3:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:6250
 translate uk_UA lobby_4899d092_4:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:6258
 translate uk_UA lobby_4899d092_5:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:6262
 translate uk_UA lobby_4899d092_6:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:6263
 translate uk_UA lobby_dc05cf42_1:
@@ -93740,7 +93740,7 @@ translate uk_UA lobby_e2e31378:
 translate uk_UA lobby_4899d092_7:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:6458
 translate uk_UA lobby_7ea0f986:
@@ -93752,37 +93752,37 @@ translate uk_UA lobby_7ea0f986:
 translate uk_UA floor1menu_4899d092:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:6910
 translate uk_UA floor1menu_4899d092_1:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:6915
 translate uk_UA floor1menu_4899d092_2:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:6920
 translate uk_UA floor1menu_4899d092_3:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:6932
 translate uk_UA floor1menu_4899d092_4:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:6950
 translate uk_UA floor1menu_4899d092_5:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:6971
 translate uk_UA floor1menu_9276acc8:
@@ -93818,25 +93818,25 @@ translate uk_UA floor1menu_43eefbf0_1:
 translate uk_UA floor1menu_4899d092_6:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:7390
 translate uk_UA floor1menu_4899d092_7:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:7395
 translate uk_UA floor1menu_4899d092_8:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:7404
 translate uk_UA floor1menu_4899d092_9:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:7419
 translate uk_UA floor1menu_055f200d:
@@ -94598,7 +94598,7 @@ translate uk_UA kali_door_menu_335c3c89:
 translate uk_UA kali_door_menu_4899d092:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:7845
 translate uk_UA kali_door_menu_2f12ff34:
@@ -94670,7 +94670,7 @@ translate uk_UA kali_door_menu_53972221:
 translate uk_UA kali_door_menu_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/script.rpy:7890
 translate uk_UA kali_door_menu_1c8122ca:
@@ -94706,7 +94706,7 @@ translate uk_UA kali_door_menu_53972221_1:
 translate uk_UA kali_door_menu_82091822_1:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/script.rpy:7900
 translate uk_UA kali_door_menu_1c8122ca_1:
@@ -94796,7 +94796,7 @@ translate uk_UA kali_door_menu_a6a56d9d:
 translate uk_UA kali_door_menu_4899d092_1:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:7949
 translate uk_UA kali_door_menu_c8a554e6:
@@ -94808,7 +94808,7 @@ translate uk_UA kali_door_menu_c8a554e6:
 translate uk_UA kali_door_menu_4899d092_2:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:7953
 translate uk_UA kali_door_menu_c8a554e6_1:
@@ -94958,13 +94958,13 @@ translate uk_UA kali_door_menu_6be9093a:
 translate uk_UA kcreep_4899d092:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:8432
 translate uk_UA kcreep_4899d092_1:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:8551
 translate uk_UA ash_door_menu_daa3b98e:
@@ -95132,19 +95132,19 @@ translate uk_UA ash_door_menu_dbcd7255:
 translate uk_UA ash_door_menu_4899d092:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:8685
 translate uk_UA ash_door_menu_8fbd983c:
 
     # c "She's probably taking a shower."
-    c ""
+    c "Вона мабуть в душі."
 
 # game/script.rpy:8697
 translate uk_UA ash_door_menu_4899d092_1:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:8698
 translate uk_UA ash_door_menu_2f12ff34:
@@ -95156,7 +95156,7 @@ translate uk_UA ash_door_menu_2f12ff34:
 translate uk_UA ash_door_menu_4899d092_2:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:8703
 translate uk_UA ash_door_menu_4663eb93:
@@ -95180,7 +95180,7 @@ translate uk_UA ash_door_menu_d78f3154:
 translate uk_UA ash_door_menu_4899d092_3:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:8719
 translate uk_UA ash_door_menu_407d26d4:
@@ -95192,7 +95192,7 @@ translate uk_UA ash_door_menu_407d26d4:
 translate uk_UA ash_door_menu_4899d092_4:
 
     # "*knock knock knock* \nThere's no answer"
-    ""
+    "*стук-стук-стук* \nНіякої відповіді"
 
 # game/script.rpy:8724
 translate uk_UA ash_door_menu_f8bfb49c:
@@ -95396,7 +95396,7 @@ translate uk_UA ash_door_menu_79f15a1e:
 translate uk_UA ash_door_menu_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:8882
 translate uk_UA ash_door_menu_f5b7e8db:
@@ -95870,7 +95870,7 @@ translate uk_UA explore_park1_4630888b:
 translate uk_UA explore_park1_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:9134
 translate uk_UA explore_park1_84f9e298:
@@ -95942,7 +95942,7 @@ translate uk_UA ghost_search_5eb22751:
 translate uk_UA ghost_search_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:9163
 translate uk_UA ghost_search_f08067fe:
@@ -95996,7 +95996,7 @@ translate uk_UA ghost_search_2d60303d:
 translate uk_UA ghost_search_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:9174
 translate uk_UA ghost_search_a0ef0d85:
@@ -96020,7 +96020,7 @@ translate uk_UA ghost_search_1a2a4516:
 translate uk_UA ghost_search_d19f855d_2:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:9179
 translate uk_UA ghost_search_783e7d75:
@@ -96062,7 +96062,7 @@ translate uk_UA ghost_search_fd6db638:
 translate uk_UA ghost_search_d19f855d_3:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:9189
 translate uk_UA ghost_search_ad531ee1:
@@ -96332,7 +96332,7 @@ translate uk_UA park_hless_talk_a1a71e28:
 translate uk_UA park_hless_talk_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:9277
 translate uk_UA park_hless_talk_6c9796d5:
@@ -96386,7 +96386,7 @@ translate uk_UA explore_park0_cff8b9a7:
 translate uk_UA explore_park0_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:9302
 translate uk_UA explore_park0_7de87c50:
@@ -97130,7 +97130,7 @@ translate uk_UA explore_bernie3_cdb3afd5:
 translate uk_UA explore_bernie3_5e7a1541:
 
     # eri "..."
-    eri ""
+    eri "..."
 
 # game/script.rpy:9536
 translate uk_UA explore_bernie3_8f08e577:
@@ -97154,7 +97154,7 @@ translate uk_UA explore_bernie3_dea393b9:
 translate uk_UA explore_bernie3_5e7a1541_1:
 
     # eri "..."
-    eri ""
+    eri "..."
 
 # game/script.rpy:9541
 translate uk_UA explore_bernie3_8f08e577_1:
@@ -98972,7 +98972,7 @@ translate uk_UA explore_slums3_62a95fc5:
 translate uk_UA explore_slums3_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:12916
 translate uk_UA explore_slums3_69b8ae57:
@@ -99146,7 +99146,7 @@ translate uk_UA explore_slums3_c75e9d20:
 translate uk_UA explore_slums3_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:12964
 translate uk_UA explore_slums3_203ba8ea:
@@ -99236,7 +99236,7 @@ translate uk_UA explore_slums3_02d77648:
 translate uk_UA explore_slums3_d19f855d_2:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:12990
 translate uk_UA explore_slums3_04ed7c82:
@@ -99284,7 +99284,7 @@ translate uk_UA explore_slums3_75c9bb6c:
 translate uk_UA explore_slums3_d19f855d_3:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:13000
 translate uk_UA explore_slums3_16ca8708:
@@ -99338,7 +99338,7 @@ translate uk_UA explore_slums3_bf239484:
 translate uk_UA explore_slums3_d19f855d_4:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:13018
 translate uk_UA explore_slums3_00995afe:
@@ -99656,7 +99656,7 @@ translate uk_UA bern_tourney_36a91247:
 translate uk_UA bern_tourney_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:13627
 translate uk_UA bern_tourney_fbbf8db5:
@@ -102692,7 +102692,7 @@ translate uk_UA bot_sleep_first_efdb7c98:
 translate uk_UA bot_ism_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:20395
 translate uk_UA bot_ism_f9546358:
@@ -102716,7 +102716,7 @@ translate uk_UA bot_ism_a7af8f63:
 translate uk_UA bot_ism_53013321:
 
     # bot "*sigh*..."
-    bot ""
+    bot "*зітхання*..."
 
 # game/script.rpy:20400
 translate uk_UA bot_ism_becf509b:
@@ -102992,7 +102992,7 @@ translate uk_UA bot_ism_ae2626af:
 translate uk_UA bot_ism_6f1c2e76:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:20470
 translate uk_UA bot_ism_cb46b26d:
@@ -103070,7 +103070,7 @@ translate uk_UA bot_ism_de4ca469:
 translate uk_UA bot_ism_6f1c2e76_1:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:20493
 translate uk_UA bot_ism_9ff32b57:
@@ -103304,7 +103304,7 @@ translate uk_UA bot_ism_f8b73674:
 translate uk_UA bot_ism_6f1c2e76_2:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:20551
 translate uk_UA bot_ism_ed4cda73:
@@ -104312,7 +104312,7 @@ translate uk_UA bot_casual_053432b7:
 translate uk_UA bot_casual_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:26033
 translate uk_UA bot_casual_9d48a26d:
@@ -104330,7 +104330,7 @@ translate uk_UA bot_casual_5f9d21b8:
 translate uk_UA bot_casual_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:26036
 translate uk_UA bot_casual_7708c0bb:
@@ -104744,7 +104744,7 @@ translate uk_UA bot_first_anal_99f70c83:
 translate uk_UA bot_first_anal_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:26133
 translate uk_UA bot_first_anal_bf6f5e9b:
@@ -104786,7 +104786,7 @@ translate uk_UA bot_first_anal_7bb4821a:
 translate uk_UA bot_first_anal_bb8e4b4e_1:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:26141
 translate uk_UA bot_first_anal_adda9323:
@@ -107012,7 +107012,7 @@ translate uk_UA botbeach_fb6c998b:
 translate uk_UA botbeach_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:28098
 translate uk_UA botbeach_acd534d5:
@@ -107426,7 +107426,7 @@ translate uk_UA botbeach_561f46a4:
 translate uk_UA botbeach_d19f855d_2:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:28190
 translate uk_UA botbeach_5c2c289f:
@@ -107456,7 +107456,7 @@ translate uk_UA botbeach_014a7230:
 translate uk_UA botbeach_c868e390_2:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:28198
 translate uk_UA botbeach_104ea4ec:
@@ -108182,7 +108182,7 @@ translate uk_UA bot_origins_9d6b8718:
 translate uk_UA bot_origins_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:28523
 translate uk_UA bot_origins_030b7e1d:
@@ -108422,7 +108422,7 @@ translate uk_UA botcity_d51c01c3:
 translate uk_UA botcity_46cc94c1:
 
     # adroid "..."
-    adroid ""
+    adroid "..."
 
 # game/script.rpy:29140
 translate uk_UA botcity_f9bd6701:
@@ -109490,7 +109490,7 @@ translate uk_UA botspring_a1d5e735:
 translate uk_UA botspring_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:29454
 translate uk_UA botspring_078d6705:
@@ -109682,7 +109682,7 @@ translate uk_UA botspring_bb8a917d:
 translate uk_UA botspring_c868e390_1:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:29521
 translate uk_UA botspring_7eab1496:
