@@ -4968,7 +4968,7 @@ translate uk_UA floor2menu_b5f50750_4:
 translate uk_UA floor2menu_947378e7:
 
     # c "I think I saw her heading to Kali's room."
-    c ""
+    c "Здається, я бачив як вона йшла до кімнати Калі."
 
 # game/script.rpy:4604
 translate uk_UA floor2menu_b5f50750_5:
@@ -4980,7 +4980,7 @@ translate uk_UA floor2menu_b5f50750_5:
 translate uk_UA floor2menu_947378e7_1:
 
     # c "I think I saw her heading to Kali's room."
-    c ""
+    c "Здається, я бачив як вона йшла до кімнати Калі."
 
 # game/script.rpy:4609
 translate uk_UA floor2menu_b5f50750_6:
@@ -4992,7 +4992,7 @@ translate uk_UA floor2menu_b5f50750_6:
 translate uk_UA floor2menu_3590981d:
 
     # c "I think I saw her going into the hot springs."
-    c ""
+    c "Здається, я бачив як вона йшла до гарячих джерел."
 
 # game/script.rpy:4614
 translate uk_UA floor2menu_b5f50750_7:
@@ -5004,25 +5004,25 @@ translate uk_UA floor2menu_b5f50750_7:
 translate uk_UA floor2menu_4663eb93:
 
     # c "I think I saw her heading to the laundry room."
-    c ""
+    c "Здається, я бачив як вона йшла до пральні."
 
 # game/script.rpy:4621
 translate uk_UA floor2menu_debbd9b2:
 
     # c "[botname] is in the kitchen right now."
-    c ""
+    c "[botname] зараз на кухні."
 
 # game/script.rpy:4624
 translate uk_UA floor2menu_31abc389:
 
     # c "I think I saw [botname] heading towards Kali's room."
-    c ""
+    c "Здається, я бачив як [botname] йшла до кімнати Калі."
 
 # game/script.rpy:4630
 translate uk_UA floor2menu_ac90ad65:
 
     # bot "Come in!"
-    bot ""
+    bot "Заходьте!"
 
 # game/script.rpy:4635
 translate uk_UA floor2menu_3125404d:
@@ -9048,13 +9048,13 @@ translate uk_UA floor1menu_8fbd983c:
 translate uk_UA floor1menu_62b8b64d:
 
     # "Lin is in the kitchen right now."
-    ""
+    "Лін зараз на кухні."
 
 # game/script.rpy:6661
 translate uk_UA floor1menu_62b8b64d_1:
 
     # "Lin is in the kitchen right now."
-    ""
+    "Лін зараз на кухні."
 
 # game/script.rpy:6665
 translate uk_UA floor1menu_b5f50750_4:
