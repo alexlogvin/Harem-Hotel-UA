@@ -5034,367 +5034,367 @@ translate uk_UA floor2menu_3125404d:
 translate uk_UA floor2menu_a9e0c1ae:
 
     # c "I need to wait for Maria."
-    c ""
+    c "Мушу почекати Марію."
 
 # game/script.rpy:4643
 translate uk_UA floor2menu_e09cc6d8:
 
     # c "I need to buy the Human Kit on the computer."
-    c ""
+    c "Треба купити Людський Набір через комп'ютер."
 
 # game/script.rpy:4650
 translate uk_UA floor2menu_5cd044bf:
 
     # bot "Did you get it!?"
-    bot ""
+    bot "Ти це дістав?"
 
 # game/script.rpy:4651
 translate uk_UA floor2menu_9aa7a3a2:
 
     # c "I did."
-    c ""
+    c "Так."
 
 # game/script.rpy:4652
 translate uk_UA floor2menu_d6040254:
 
     # bot "Yay! I'll try it on!"
-    bot ""
+    bot "Ура! Я це спробую!"
 
 # game/script.rpy:4660
 translate uk_UA floor2menu_6417464d:
 
     # bot "Hello [botown]! Could you take me to eat somewhere?"
-    bot ""
+    bot "Привіт [botown]! Не хочеш мене кудись зводити поїсти?"
 
 # game/script.rpy:4661
 translate uk_UA floor2menu_daaab86f:
 
     # c "Eat?"
-    c ""
+    c "Поїсти?"
 
 # game/script.rpy:4664
 translate uk_UA floor2menu_e418d1d4:
 
     # bot "I know it's weird, but Lin made me something spicy! And it was amazing!"
-    bot ""
+    bot "Знаю, звучить дивно, але Лін зробила мені дещо пікантне! І це було неймовірно!"
 
 # game/script.rpy:4665
 translate uk_UA floor2menu_67b7ed66:
 
     # c "You could taste it?"
-    c ""
+    c "Ти можеш відчувати смак?"
 
 # game/script.rpy:4668
 translate uk_UA floor2menu_0317b340:
 
     # bot "No, I can't taste, [botown], but I can feel! I felt my mouth all tingly!"
-    bot ""
+    bot "Ні, [botown], смак я не відчуваю, але я можу просто відчувати! В мене було поколююче відчуття в роті!"
 
 # game/script.rpy:4669
 translate uk_UA floor2menu_943da464:
 
     # bot "So what do you think [botown]? Can you take me somewhere?"
-    bot ""
+    bot "То що, [botown]? Відвезеш мене кудись?"
 
 # game/script.rpy:4672
 translate uk_UA floor2menu_b86dedc9:
 
     # bot "Yay! Thank you so much [botown]! I can't wait to drive in your car again!"
-    bot ""
+    bot "Ура! Дуже тобі дякую, [botown]! Не можу дочекатись ще однієї поїздки твоїм автомобілем!"
 
 # game/script.rpy:4677
 translate uk_UA floor2menu_ba070653:
 
-    # bot "I really want to go, [botown]..."
-    bot ""
+    # bot "I really want to go, ..."
+    bot "[botown], мені справді треба йти..."
 
 # game/script.rpy:4683
 translate uk_UA floor2menu_c9680a30:
 
     # bot "Hello [botown]!"
-    bot ""
+    bot "Привіт [botown]!"
 
 # game/script.rpy:4686
 translate uk_UA floor2menu_4a3f67f2:
 
     # bot "[botown]... Now that you're my administrator, you know you can tell me do to anything and I would have to do what you said, right...?"
-    bot ""
+    bot "[botown]... Оскільки ти зараз мій адміністратор, все, що ти скажеш, я змущена виконати, вірно...?"
 
 # game/script.rpy:4687
 translate uk_UA floor2menu_fdbf00f6:
 
     # bot "Like, I don't know..."
-    bot ""
+    bot "Наприклад, навіть не знаю..."
 
 # game/script.rpy:4688
 translate uk_UA floor2menu_45aea3f5:
 
     # bot "You could tell me to get down on all fours to fuck my ass and I would have no choice but to obey!"
-    bot ""
+    bot "Ти можеш сказати мені стати на четвереньки, щоб трахнути мене в зад, і я буду змушена підкоритись!"
 
 # game/script.rpy:4689
 translate uk_UA floor2menu_58b860f9:
 
     # c "Couldn't I have done that before?"
-    c ""
+    c "Хіба раніше я не міг так зробити?"
 
 # game/script.rpy:4690
 translate uk_UA floor2menu_4cb4c033:
 
     # bot "{size=-10}{i}Shhh! Play along [botown]!{/i}{/size}"
-    bot ""
+    bot "{size=-10}{i}Шш! [botown], підіграй мені!{/i}{/size}"
 
 # game/script.rpy:4693
 translate uk_UA floor2menu_4e48e980:
 
     # bot "My butt has never been used before [botown]! And I definitely want to keep it like that!"
-    bot ""
+    bot "[botown], мій зад ще ніхто до цього не використовував! І я хочу, щоб всее так і залишилось!"
 
 # game/script.rpy:4696
 translate uk_UA floor2menu_e9f678be:
 
     # bot "Sooo... Don't you ever make me do that!"
-    bot ""
+    bot "Томуу... Ніколи не проси мене цього!"
 
 # game/script.rpy:4697
 translate uk_UA floor2menu_4cda3cef:
 
     # bot "Because... Because it would feel really good for you! It's very tight, and always clean!"
-    bot ""
+    bot "Тому що... Тому що для тебе це буде надто добре! Там дуже вузько і завжди чисто!"
 
 # game/script.rpy:4700
 translate uk_UA floor2menu_f0c97895:
 
     # bot "But would it feel good for me? I don't want to find out! A penis definitely doesn't belong there!"
-    bot ""
+    bot "Але чи буде мені від цього добре? Не хочу цього дізнаватись! Пенісу явно там не місце!"
 
 # game/script.rpy:4701
 translate uk_UA floor2menu_45aee14e:
 
     # bot "You know that, right? It would be very naughty!"
-    bot ""
+    bot "Ти ж це знаєш, так? Це було б дуже не гарно!"
 
 # game/script.rpy:4702
 translate uk_UA floor2menu_18f2d1ae:
 
     # bot "And..."
-    bot ""
+    bot "І..."
 
 # game/script.rpy:4705
 translate uk_UA floor2menu_5a462831:
 
     # bot "And... {size=-10}{i}And, um... And...{/i}{/size} And it would be too tight! {size=-10}{i}Did I already mention that?{/i}{/size}"
-    bot ""
+    bot "І... {size=-10}{i}І, ем... І...{/i}{/size} І це було б надто тісно! {size=-10}{i}Я це вже згадувала?{/i}{/size}"
 
 # game/script.rpy:4706
 translate uk_UA floor2menu_7077dba0:
 
     # bot "{size=-10}{i}Ummmm... Hm. What else... I probably should have planned this better...{/i}{/size}"
-    bot ""
+    bot "{size=-10}{i}Емм... Хм. Що ще... Треба було краще до цього підготуватись...{/i}{/size}"
 
 # game/script.rpy:4711
 translate uk_UA floor2menu_00a6134a:
 
     # bot "*gasp*! Oh! Oh no! I don't have any choice do I! Oh well... I have to obey!"
-    bot ""
+    bot "*вдих*! О! О ні! В мене ж немає вибору! Що ж... Мушу підкоритись!"
 
 # game/script.rpy:4713
 translate uk_UA floor2menu_c3472e19:
 
     # bot "Wait! Before we start, I want to take off my mask!"
-    bot ""
+    bot "Зачекай! Переше ніж почати, хочу зняти маску!"
 
 # game/script.rpy:4715
 translate uk_UA floor2menu_5f4911e2:
 
     # bot "Okay! You can fuck me now."
-    bot ""
+    bot "Добре, можеш тепер мене трахнути."
 
 # game/script.rpy:4718
 translate uk_UA floor2menu_7cb42ce3:
 
     # bot "Hnnn, it's okay [botown]! You don't need to be gentle. It doesn't hurt me."
-    bot ""
+    bot "Нн, нічого [botown]! Не треба бути зі мною ніжним. Мене це не болить."
 
 # game/script.rpy:4719
 translate uk_UA floor2menu_47fcb1c6:
 
     # bot "Just jam it in, [botown]! You can be as rough as you want!"
-    bot ""
+    bot "[botown], просто впихни його всередину! Можеш бути настільки грубим, наскільки забажаєш!"
 
 # game/script.rpy:4721
 translate uk_UA floor2menu_8a3c4b8a:
 
     # bot "Ahh! Hnn!"
-    bot ""
+    bot "Ах! Нн!"
 
 # game/script.rpy:4722
 translate uk_UA floor2menu_8087233f:
 
     # bot "It feels good, right? It's a completely different texture! Ribbed for his pleasure, hehe!"
-    bot ""
+    bot "Добре, правда? Там зовсім інша текстура! Ребриста для його задоволення, хіхі!"
 
 # game/script.rpy:4723
 translate uk_UA floor2menu_03874dee:
 
     # bot "Nnn! It feels really good for me, too!"
-    bot ""
+    bot "Нн! Мені також дуже приємно!"
 
 # game/script.rpy:4724
 translate uk_UA floor2menu_0396201b:
 
     # bot "Ahhh! Mmmm! [botown]!"
-    bot ""
+    bot "Аах! Мм! [botown]!"
 
 # game/script.rpy:4727
 translate uk_UA floor2menu_9cc78dcb:
 
     # bot "Hahh! Mmm! You can't take it, right? It feels so good? Mmm!"
-    bot ""
+    bot "Хаа! Мм! Ти ж не можеш більше витримати? Так добре? Мм!"
 
 # game/script.rpy:4728
 translate uk_UA floor2menu_f59479b5:
 
     # bot "[botown]! Ahh! [botown], yes! Fuck my ass hard!"
-    bot ""
+    bot "[botown]! Аа! Так, [botown]! Жорстко трахай мій зад!"
 
 # game/script.rpy:4729
 translate uk_UA floor2menu_29c1d9cd:
 
     # bot "[botown]! I want you to cum inside... I want you to cum inside!"
-    bot ""
+    bot "[botown]! Хочу, щоб ти кінчив всередину... Хочу, щоб ти кінчив всередину!"
 
 # game/script.rpy:4731
 translate uk_UA floor2menu_428b93a4:
 
     # bot "Treat me like your personal cum dumpster and cum inside!!!"
-    bot ""
+    bot "Використовуй мене як спермобак і кінчи всередину!!!"
 
 # game/script.rpy:4735
 translate uk_UA floor2menu_d45b331b:
 
     # bot "AHHH!" with ssshake
-    bot "" with ssshake
+    bot "ААА!" with ssshake
 
 # game/script.rpy:4736
 translate uk_UA floor2menu_0e33a937:
 
     # bot "NNN! HAH!" with ssshake
-    bot "" with ssshake
+    bot "НН! АХ!" with ssshake
 
 # game/script.rpy:4737
 translate uk_UA floor2menu_9390cd46:
 
     # bot "Fill me up, [botown]!!!" with ssshake
-    bot "" with ssshake
+    bot "Заповни мене, [botown]!!!" with ssshake
 
 # game/script.rpy:4739
 translate uk_UA floor2menu_62e50ac5:
 
     # bot "Ahhh... Hahhh... That was amazing!"
-    bot ""
+    bot "Аа... Хаа... Це було неймовірно!"
 
 # game/script.rpy:4743
 translate uk_UA floor2menu_842c6a7c:
 
     # bot "Ahhnnn!!!" with ssshake
-    bot "" with ssshake
+    bot "Аанн!!!" with ssshake
 
 # game/script.rpy:4744
 translate uk_UA floor2menu_147a8e34:
 
     # bot "Ahhh, [botown]... Your cum feels so warm..."
-    bot ""
+    bot "Аа, [botown]... Твоя сперма така тепла..."
 
 # game/script.rpy:4749
 translate uk_UA floor2menu_96ec7f09:
 
     # bot "Phew... That was fun!"
-    bot ""
+    bot "Ух... Було весело!"
 
 # game/script.rpy:4750
 translate uk_UA floor2menu_3a57fec1:
 
     # c "I'm surprised it wasn't uncomfortable for your first time."
-    c ""
+    c "Я здивований, що тобі було добре з першого разу."
 
 # game/script.rpy:4752
 translate uk_UA floor2menu_fc01ad95:
 
     # bot "That's really simple! My anus isn't real. I don't need food, after all."
-    bot ""
+    bot "Тут все просто! Мій анус не справжній. Зрештою, я не потребую їжї."
 
 # game/script.rpy:4754
 translate uk_UA floor2menu_3de4c05d:
 
     # bot "I guess you could think of my anus as a fleshlight, or an onahole. It's only purpose is pleasure..."
-    bot ""
+    bot "Можеш вважати мій анус якимось ліхтариком, чи мастурдіркою. Його єдине призначення - задоволення..."
 
 # game/script.rpy:4756
 translate uk_UA floor2menu_34ee2709:
 
     # bot "Your grandfather thought it would be nice to have a realistic texture, like my vagina, and a crazy texture! That's why he made my anus!"
-    bot ""
+    bot "Твій дідусь вважав, що було б краще мати реалістичну текстуру, як в моїй піхві, і божевільну текстуру! Тому він і зробив мені анус!"
 
 # game/script.rpy:4757
 translate uk_UA floor2menu_5bcf3e80:
 
     # bot "Maybe anus isn't the right word... You could call it a fuck hole! That's its only purpose after all!"
-    bot ""
+    bot "Можливо анус не дуже доречне слово... Можеш називати його траходіркою! Зрештою це його єдине призначення!"
 
 # game/script.rpy:4758
 translate uk_UA floor2menu_19fe25e0:
 
     # bot "You could even switch out the textures if you found some!"
-    bot ""
+    bot "Можеш навіть замінити текстуру, якщо знайдеш заміну!"
 
 # game/script.rpy:4760
 translate uk_UA floor2menu_49a2107b:
 
     # bot "That was really fun, [botown]... I hope we can do it again sometime."
-    bot ""
+    bot "[botown], це було неймовірно весело... Надіюсь, згодом, ми це повторимо."
 
 # game/script.rpy:4767
 translate uk_UA floor2menu_00dc9b11:
 
     # bot "What!? It didn't work!?"
-    bot ""
+    bot "Що!? Не спрацювало!?"
 
 # game/script.rpy:4779
 translate uk_UA floor2menu_f24a38ee:
 
     # bot "[botown]!"
-    bot ""
+    bot "[botown]!"
 
 # game/script.rpy:4782
 translate uk_UA floor2menu_a59b3321:
 
     # bot "Now that my body is water proof, I'd like to go to the beach!"
-    bot ""
+    bot "Тепер, коли моє тіло водонепроникне, я хочу на пляж!"
 
 # game/script.rpy:4783
 translate uk_UA floor2menu_67a88a4a:
 
     # bot "Humans look like they have so much fun in the water, and I want to have fun as well!"
-    bot ""
+    bot "Схоже, що люди дуже люблять розважатись у воді, а я хочу так само розважатись!"
 
 # game/script.rpy:4784
 translate uk_UA floor2menu_d7285aee:
 
     # bot "What do you think [botown]?"
-    bot ""
+    bot "[botown], що скажеш?"
 
 # game/script.rpy:4789
 translate uk_UA floor2menu_3279b834:
 
     # bot "Thank you [botown]! I can't wait!"
-    bot ""
+    bot "Дякую [botown]! Чекаю з нетерпінням!"
 
 # game/script.rpy:4792
 translate uk_UA floor2menu_e46786b9:
 
     # bot "I'll change right away!"
-    bot ""
+    bot "Негайно перевдягнусь!"
 
 # game/script.rpy:4794
 translate uk_UA floor2menu_d11a3a5b:
