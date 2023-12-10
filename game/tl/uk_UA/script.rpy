@@ -5400,7 +5400,7 @@ translate uk_UA floor2menu_e46786b9:
 translate uk_UA floor2menu_d11a3a5b:
 
     # "You and [botname] hop in your car and drive to the beach..."
-    ""
+    "Ви з [botname] заскочили в автомобіль і поїхали на пляж..."
 
 # game/script.rpy:4797
 translate uk_UA floor2menu_053432b7:
@@ -5454,7 +5454,7 @@ translate uk_UA floor2menu_fa65583a:
 translate uk_UA floor2menu_ce5329ec:
 
     # "You and [botname] hop in your car and begin your journey to the city."
-    ""
+    "Ви з [botname] заскочили в автомобіль і поїхали в місто."
 
 # game/script.rpy:4826
 translate uk_UA floor2menu_423b9f7f:
@@ -7104,7 +7104,7 @@ translate uk_UA floor2menu_7b1290bf:
 translate uk_UA floor2menu_52341a1c:
 
     # "You hop in your car and make your way to Caliber city..."
-    ""
+    "Ви заскочили в автомобіль і поїхали в місто Калібер..."
 
 # game/script.rpy:5681
 translate uk_UA floor2menu_6a506300:
@@ -10224,7 +10224,7 @@ translate uk_UA floor1menu_1e95f2d8:
 translate uk_UA floor1menu_79c1e312:
 
     # "You and Kali hop in your car and drive to the airport. After an hour's ride you arrive. You find a seat on the plane and sit next to Kali."
-    ""
+    "Ви з Калі заскочили в автомобіль і поїхали в аеропорт. Після годинної поїздки ви прибули. Ви знайшли місця і сіли поруч з Калі."
 
 # game/script.rpy:7446
 translate uk_UA floor1menu_bab8ce2c:
@@ -23184,7 +23184,7 @@ translate uk_UA nextfrontdoor_e440bb7f:
 translate uk_UA nextfrontdoor_51328170:
 
     # "You both hop in your car and begin your ride back to the hotel. Even though it was only a 20 minute drive, Nia slept for most of it. After waking her up, you head inside..."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в поїхали до готелю. Нія проспала всю дорогу, не зважаючи на те, що це була 20и хвилинна поїздка. Ви її розбудили і разом пішли всередину..."
 
 # game/script.rpy:12322
 translate uk_UA nextfrontdoor_701b551d:
@@ -23208,7 +23208,7 @@ translate uk_UA nextfrontdoor_da7cb2b7:
 translate uk_UA nextfrontdoor_d6ac40af:
 
     # "You both hop in your car and begin your ride back to the hotel. The ride is nothing but silent aside from the glances Sylvia keeps giving you when she hopes you're not able to see."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в поїхали до готелю. Дорога була мовчазна, хіба що крім декількох моментів, коли Сильвія дивилась на вас, коли їх здавалось, що ви цього не помічаєте."
 
 # game/script.rpy:12326
 translate uk_UA nextfrontdoor_b0d2ce86:
@@ -23238,7 +23238,7 @@ translate uk_UA nextfrontdoor_4afa3344:
 translate uk_UA nextfrontdoor_8ddb1176:
 
     # "You both hop in your car and begin your ride back to the hotel. Your ride is mostly boring aside from the glances Ann keeps giving your crotch. She tries to make it obvious she's looking."
-    ""
+    "Ви обоє заскочили в автомобіль і поїхали в поїхали до готелю. Дорога була скучна, хіба що крім декількох моментів, коли Енн заглядала вам між ноги. Це був дуже очевидний натяк."
 
 # game/script.rpy:12342
 translate uk_UA nextfrontdoor_fb04dc12:
@@ -91466,7 +91466,7 @@ translate uk_UA floor2menu_50a4a16f:
 translate uk_UA floor2menu_120920d9:
 
     # "You and [botname] hop in your car and begin your journey to the city, but instead of driving there, you decide to take the train together."
-    ""
+    "Ви з [botname] заскочили в автомобіль і поїхали в місто, але по дорозі ви пересіли в поїзд і продовжили подорож поїздом."
 
 # game/script.rpy:4831
 translate uk_UA floor2menu_00ec9354:
@@ -93440,7 +93440,7 @@ translate uk_UA twin_door_menu_7b1290bf:
 translate uk_UA twin_door_menu_52341a1c:
 
     # "You hop in your car and make your way to Caliber city..."
-    ""
+    "Ви заскочили в автомобіль і поїхали в місто Калібер..."
 
 # game/script.rpy:5939
 translate uk_UA twin_door_menu_6a506300:
@@ -94916,7 +94916,7 @@ translate uk_UA kali_door_menu_1e95f2d8:
 translate uk_UA kali_door_menu_79c1e312:
 
     # "You and Kali hop in your car and drive to the airport. After an hour's ride you arrive. You find a seat on the plane and sit next to Kali."
-    ""
+    "Ви з Калі заскочили в автомобіль і поїхали в аеропорт. Після годинної поїздки ви прибули. Ви знайшли місця і сіли поруч з Калі."
 
 # game/script.rpy:8078
 translate uk_UA kali_door_menu_bab8ce2c:
