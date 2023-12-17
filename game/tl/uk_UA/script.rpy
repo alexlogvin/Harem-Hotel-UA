@@ -4032,7 +4032,7 @@ translate uk_UA bardrinks_bb22c8cb_5:
 translate uk_UA bardrinks_3cb1a198:
 
     # "Spirits have an average of 50 percent alcohol, but are very expensive. Guaranteed more money, but may result in more bar fights."
-    "Міцні алкогольні напої, в середньому, мають вміст з 50-а процентами алкоголю, але вони дуже дорогі. Обовязково збільшить рибуток, але також чекайте барних бійок."
+    "Міцні алкогольні напої, в середньому, мають вміст з 50-а процентами алкоголю, але вони дуже дорогі. Обовязково збільшить прибуток, але також чекайте барних бійок."
 
 # game/script.rpy:3768
 translate uk_UA bardrinks_54e8cbaf_6:
@@ -4146,7 +4146,7 @@ translate uk_UA bartraining_bb22c8cb_1:
 translate uk_UA ellenmusic_d703fe80:
 
     # "The surround sound system will ensure all parts of the bar will equally receive the optimal volume of music, encouraging patrons to sit wherever they like."
-    "Система об'ємного звуку забезпечить рівномірно оптимальний рівень звуку у всіх закутхак бару, що дасть можливість відвідувачам вибирати будь-яке місце за смаком."
+    "Система об'ємного звуку забезпечить рівномірно оптимальний рівень звуку у всіх закутках бару, що дасть можливість відвідувачам вибирати будь-яке місце за смаком."
 
 # game/script.rpy:3876
 translate uk_UA ellenmusic_52c9645c:
@@ -4626,7 +4626,7 @@ translate uk_UA billad_22b443a4:
 translate uk_UA billad_7f94ef9f:
 
     # c "Add raised garden beds to the list too. Lin wants to grow a few flowers."
-    c "Додай ще також до списку підвісну клумби. Лін хотіла вирощувати квіти."
+    c "Додай ще також до списку підвісні клумби. Лін хотіла вирощувати квіти."
 
 # game/script.rpy:4311
 translate uk_UA billad_18d0696a:
@@ -4674,7 +4674,7 @@ translate uk_UA billad_78070575:
 translate uk_UA billad_97db9582:
 
     # e "I should warn you though, the bar is going to be fairly bare bones at the beginning, you may even lose some money. But once you start buying high quality alcohol and training the staff, it will definitely give you profits!"
-    e "Про мушу вас попередити, спочатку бар буде трохи пустим, можливо навіть збитковим. Але, як тільки ви купите високоякісний алкоголь і натренуєте обслуговуючий персонал, він точно буде приносити прибуток!"
+    e "Проте мушу вас попередити, спочатку бар буде трохи пустим, можливо навіть збитковим. Але, як тільки ви купите високоякісний алкоголь і натренуєте обслуговуючий персонал, він точно буде приносити прибуток!"
 
 # game/script.rpy:4335
 translate uk_UA billad_3e09066e:
@@ -4746,7 +4746,7 @@ translate uk_UA billad_afbfe99f_2:
 translate uk_UA billad_d1a6d63b:
 
     # e "Ohh~ The dungeon? I see you have some special plans for someone... Very well, I'll contact the cleaners. Everything should be ready in a couple of hours!"
-    e "Оо~ Підземелля? Бачу у вас особливі плани на декого... Що ж, звяжусь з клініговою компанією. За кілька годин все буде завершено!"
+    e "Оо~ Підземелля? Бачу у вас особливі плани на декого... Що ж, звяжусь з клінінговою компанією. За кілька годин все буде завершено!"
 
 # game/script.rpy:4379
 translate uk_UA billad_db28ec1d:
@@ -45984,7 +45984,7 @@ translate uk_UA bot_tech_f863fd35:
 translate uk_UA bot_tech_23b3709c:
 
     # linds "That's ridiculous... I should raise your fee for that..."
-    linds "Без безглуздо... Я мала б підняти тобі плату за таке..."
+    linds "Це безглуздо... Я мала б підняти тобі плату за таке..."
 
 # game/script.rpy:21019
 translate uk_UA bot_tech_6f60caf4_1:
