@@ -5700,85 +5700,85 @@ translate uk_UA floor2menu_9cc9e4f7:
 translate uk_UA floor2menu_697668e2:
 
     # bot "Wow! It's so cute! I would love to try this on!"
-    bot ""
+    bot "Ого! Воно таке миле! Я хочу це приміряти!"
 
 # game/script.rpy:4935
 translate uk_UA floor2menu_34e05bae:
 
     # "[botname] goes into her room and changes her clothes to her newly bought veil outfit..."
-    ""
+    "[botname] іде до себе в кімнату і перевдягається у свій новенький одяг з вуаллю..."
 
 # game/script.rpy:4936
 translate uk_UA floor2menu_ac90ad65_3:
 
     # bot "Come in!"
-    bot ""
+    bot "Заходь!"
 
 # game/script.rpy:4938
 translate uk_UA floor2menu_5ef55ec2:
 
     # bot "How do you like it [botown]?"
-    bot ""
+    bot "[botown], тобі подобається?"
 
 # game/script.rpy:4942
 translate uk_UA floor2menu_3daf2f3b:
 
     # bot "I think it's so beautiful!"
-    bot ""
+    bot "Воно таке гарне!"
 
 # game/script.rpy:4944
 translate uk_UA floor2menu_64818b74:
 
     # bot "So, um..."
-    bot ""
+    bot "Тому, м..."
 
 # game/script.rpy:4945
 translate uk_UA floor2menu_ef73e3f4:
 
     # bot "Did you want to... test it out...?"
-    bot ""
+    bot "Хочеш... випробувати його...?"
 
 # game/script.rpy:4948
 translate uk_UA floor2menu_161e4c76:
 
     # bot "Heheh... Okay..."
-    bot ""
+    bot "Хіхі... Добре..."
 
 # game/script.rpy:4951
 translate uk_UA floor2menu_19b1fe09:
 
     # bot "Oh... Okay. Maybe next time..."
-    bot ""
+    bot "О... Добре. Можливо іншого разу..."
 
 # game/script.rpy:4957
 translate uk_UA floor2menu_d1ada058_1:
 
     # bot "Hello [botown], was there something you needed?"
-    bot ""
+    bot "Привіт, [botown], ти щось хотів?"
 
 # game/script.rpy:4958
 translate uk_UA floor2menu_6c493eb8_1:
 
     # c "I bought this for you."
-    c ""
+    c "Я купив тобі це."
 
 # game/script.rpy:4962
 translate uk_UA floor2menu_1e429923:
 
     # bot "W-What is that!? I can't wear that!"
-    bot ""
+    bot "Щ-Що це!? Я не можу таке носити!"
 
 # game/script.rpy:4963
 translate uk_UA floor2menu_5415e8f2:
 
     # "[botname]'s sluttiness is too low..."
-    ""
+    "Розпуста у [botname] надто низька."
 
 # game/script.rpy:4968
 translate uk_UA floor2menu_1e429923_1:
 
     # bot "W-What is that!? I can't wear that!"
-    bot ""
+    bot "Щ-Що це!? Я не можу таке носити!"
 
 # game/script.rpy:4969
 translate uk_UA floor2menu_9cc9e4f7_1:
@@ -5790,73 +5790,73 @@ translate uk_UA floor2menu_9cc9e4f7_1:
 translate uk_UA floor2menu_8a736f24:
 
     # bot "That's... a very slutty outfit [botown]..."
-    bot ""
+    bot "[botown], це... дуже шлюховате вбрання..."
 
 # game/script.rpy:4978
 translate uk_UA floor2menu_f9624506:
 
     # bot "And... It even comes with a slut module... Do you really want me to wear this?"
-    bot ""
+    bot "І... Тут ще присутній модуль розпущеності... Ти справді хочеш, щоб я це наділа?"
 
 # game/script.rpy:4979
 translate uk_UA floor2menu_9d9fb6df:
 
     # c "I do."
-    c ""
+    c "Так."
 
 # game/script.rpy:4980
 translate uk_UA floor2menu_c4099483:
 
     # bot "Well..."
-    bot ""
+    bot "Що ж..."
 
 # game/script.rpy:4983
 translate uk_UA floor2menu_c6f4f62f:
 
     # bot "Okay! I'll try it on for you!"
-    bot ""
+    bot "Добре! Я надіну це для тебе!"
 
 # game/script.rpy:4984
 translate uk_UA floor2menu_ff2da85a:
 
     # bot "The slut module will also change both my appearance and personality, so don't be shocked!"
-    bot ""
+    bot "Модуль розпущеності також змінить мій вигляд і поведінку, так що не дивуйся!"
 
 # game/script.rpy:4986
 translate uk_UA floor2menu_06268ed4:
 
     # "[botname] goes into her room and changes her clothes to her newly bought slut outfit, and inserts the slut module..."
-    ""
+    "[botname] іде до себе в кімнату і перевдягається у свій новенький шлюшковате вбрання, а також вставляє модуль розпущеності..."
 
 # game/script.rpy:4987
 translate uk_UA floor2menu_d8bd047c:
 
     # bot "Come in..."
-    bot ""
+    bot "Заходь..."
 
 # game/script.rpy:4989
 translate uk_UA floor2menu_472c7122:
 
     # bot "I'm so slutty!"
-    bot ""
+    bot "Я така розпусна!"
 
 # game/script.rpy:4991
 translate uk_UA floor2menu_47fcfe2c:
 
     # bot "You like it right? I'm ready for sex!"
-    bot ""
+    bot "Тобі ж це подобається, правда? Я готова до сексу!"
 
 # game/script.rpy:4995
 translate uk_UA floor2menu_b2455bf4:
 
     # bot "Hey, you want to have sex right? We have to!"
-    bot ""
+    bot "Гей, ти ж хочеш сексу, так? У нас мусить бути секс!"
 
 # game/script.rpy:4998
 translate uk_UA floor2menu_2f320cf7:
 
     # bot "I can't wait!"
-    bot ""
+    bot "Чекаю з нетерпінням!"
 
 # game/script.rpy:5001
 translate uk_UA floor2menu_fdf60f66:
@@ -5868,277 +5868,277 @@ translate uk_UA floor2menu_fdf60f66:
 translate uk_UA floor2menu_717b76fb:
 
     # bot "Hello [botown]."
-    bot ""
+    bot "Привіт [botown]."
 
 # game/script.rpy:5009
 translate uk_UA floor2menu_13a8e15f:
 
     # c "I got you something."
-    c ""
+    c "Я щось маю для тебе."
 
 # game/script.rpy:5012
 translate uk_UA floor2menu_39f95f9c:
 
     # bot "Really? What is it?"
-    bot ""
+    bot "Справді? Що?"
 
 # game/script.rpy:5013
 translate uk_UA floor2menu_e8e359f3:
 
     # c "An egg vibe."
-    c ""
+    c "Віброяйце."
 
 # game/script.rpy:5014
 translate uk_UA floor2menu_c4b82cf3:
 
     # bot "Egg vibe? What does it do?"
-    bot ""
+    bot "Віброяйце? А для чого воно?"
 
 # game/script.rpy:5015
 translate uk_UA floor2menu_8b132956:
 
     # c "It's a toy, you put it inside of you."
-    c ""
+    c "Це іграшка, ти маєш її запхати в себе."
 
 # game/script.rpy:5018
 translate uk_UA floor2menu_f693b7fb:
 
     # bot "O-Oh... I see. I don't know if I'll ever use it..."
-    bot ""
+    bot "Оо... Ясно. Не знаю чи я буду нею користуватись взагалі..."
 
 # game/script.rpy:5021
 translate uk_UA floor2menu_fd0ab07b:
 
-    # bot "But thank you for thinking of me [botown]!"
-    bot ""
+    # bot "But thank you for thinking of me!"
+    bot "Але дякую, [botown], що подумав про мене!"
 
 # game/script.rpy:5023
 translate uk_UA floor2menu_69e9a139:
 
     # "New scenes for [botname] have been unlocked!"
-    ""
+    "Нові сцени були відкриті для [botname]!"
 
 # game/script.rpy:5029
 translate uk_UA floor2menu_717b76fb_1:
 
     # bot "Hello [botown]."
-    bot ""
+    bot "Привіт [botown]."
 
 # game/script.rpy:5030
 translate uk_UA floor2menu_f25e56eb:
 
     # c "I got you an upgrade."
-    c ""
+    c "Я маю для тебе апгрейд."
 
 # game/script.rpy:5033
 translate uk_UA floor2menu_49f3bed6:
 
     # bot "Really? Thank you so much [botown]! What is it?"
-    bot ""
+    bot "Справді? [botown], дуже дякую! Що ж це?"
 
 # game/script.rpy:5034
 translate uk_UA floor2menu_a1f4b92f:
 
     # c "A breast reduction module. It'll let you reduce your breast size for much longer."
-    c ""
+    c "Модуль зменшення грудей. Він дозволить тобі зменшувати розмір грудей на довший час."
 
 # game/script.rpy:5035
 translate uk_UA floor2menu_b0c0e2d5:
 
     # bot "Wow! Thank you [botown]! I'll install it right away!"
-    bot ""
+    bot "Вау! Дякую [botown]! Я негайно його встановлю!"
 
 # game/script.rpy:5037
 translate uk_UA floor2menu_69e9a139_1:
 
     # "New scenes for [botname] have been unlocked!"
-    ""
+    "Нові сцени були відкриті для [botname]!"
 
 # game/script.rpy:5043
 translate uk_UA floor2menu_717b76fb_2:
 
     # bot "Hello [botown]."
-    bot ""
+    bot "Привіт [botown]."
 
 # game/script.rpy:5044
 translate uk_UA floor2menu_f25e56eb_1:
 
     # c "I got you an upgrade."
-    c ""
+    c "Я маю для тебе апгрейд."
 
 # game/script.rpy:5047
 translate uk_UA floor2menu_49f3bed6_1:
 
     # bot "Really? Thank you so much [botown]! What is it?"
-    bot ""
+    bot "Справді? [botown], дуже дякую! Що ж це?"
 
 # game/script.rpy:5048
 translate uk_UA floor2menu_03038626:
 
     # c "A breast expansion module. It'll let you expand your breast size for much longer."
-    c ""
+    c "Модуль збільшення грудей. Він дозволить тобі збільшувати розмір грудей на довший час."
 
 # game/script.rpy:5049
 translate uk_UA floor2menu_b0c0e2d5_1:
 
     # bot "Wow! Thank you [botown]! I'll install it right away!"
-    bot ""
+    bot "Вау! Дякую [botown]! Я негайно його встановлю!"
 
 # game/script.rpy:5051
 translate uk_UA floor2menu_69e9a139_2:
 
     # "New scenes for [botname] have been unlocked!"
-    ""
+    "Нові сцени були відкриті для [botname]!"
 
 # game/script.rpy:5057
 translate uk_UA floor2menu_717b76fb_3:
 
     # bot "Hello [botown]."
-    bot ""
+    bot "Привіт [botown]."
 
 # game/script.rpy:5058
 translate uk_UA floor2menu_f25e56eb_2:
 
     # c "I got you an upgrade."
-    c ""
+    c "Я маю для тебе апгрейд."
 
 # game/script.rpy:5061
 translate uk_UA floor2menu_49f3bed6_2:
 
     # bot "Really? Thank you so much [botown]! What is it?"
-    bot ""
+    bot "Справді? [botown], дуже дякую! Що ж це?"
 
 # game/script.rpy:5062
 translate uk_UA floor2menu_9dc120df:
 
     # c "A lactation module. It'll allow you to lactate."
-    c ""
+    c "Модуль лактації. Він дозволить тобі виділяти молоко."
 
 # game/script.rpy:5063
 translate uk_UA floor2menu_b0c0e2d5_2:
 
     # bot "Wow! Thank you [botown]! I'll install it right away!"
-    bot ""
+    bot "Вау! Дякую [botown]! Я негайно його встановлю!"
 
 # game/script.rpy:5065
 translate uk_UA floor2menu_69e9a139_3:
 
     # "New scenes for [botname] have been unlocked!"
-    ""
+    "Нові сцени були відкриті для [botname]!"
 
 # game/script.rpy:5072
 translate uk_UA floor2menu_70611b73:
 
     # bot "How can I serve you [botown]?"
-    bot ""
+    bot "[botown], чим я можу тобі прислужити?"
 
 # game/script.rpy:5073
 translate uk_UA floor2menu_c4ee6296:
 
     # c "I want to learn more about you, what commands do you come with?"
-    c ""
+    c "Я хочу більше про тебе дізнатись, які команди ти підтримуєш?"
 
 # game/script.rpy:5076
 translate uk_UA floor2menu_19c291ac:
 
     # bot "Y-You want to learn more about me? Of course!"
-    bot ""
+    bot "Т-Ти хочеш більше про мене дізнатись? Звісно!"
 
 # game/script.rpy:5079
 translate uk_UA floor2menu_81066478:
 
     # bot "But... my commands aren't accessible to me... I'm sorry [botown]..."
-    bot ""
+    bot "Але... команди, які я підтримую мені не доступні... Вибач [botown]..."
 
 # game/script.rpy:5080
 translate uk_UA floor2menu_bfde9788:
 
     # c "Is there a manual somewhere?"
-    c ""
+    c "Є десь інструкція?"
 
 # game/script.rpy:5083
 translate uk_UA floor2menu_fce0b2ec:
 
     # bot "Oh yeah! There is!"
-    bot ""
+    bot "О так! Є!"
 
 # game/script.rpy:5086
 translate uk_UA floor2menu_cc523c2d:
 
     # bot "But, *sigh*... Ellen has it..."
-    bot ""
+    bot "Але, *вдох*... Вона в Елен..."
 
 # game/script.rpy:5087
 translate uk_UA floor2menu_aa530d68:
 
     # c "Great, let's go get it."
-    c ""
+    c "Чудово, ідем її візьмемо."
 
 # game/script.rpy:5088
 translate uk_UA floor2menu_010e4eca:
 
     # bot "Yes [botown]..."
-    bot ""
+    bot "Так [botown]..."
 
 # game/script.rpy:5098
 translate uk_UA floor2menu_b030b23e:
 
     # bot "Y-Yes [botown]?"
-    bot ""
+    bot "Т-Так [botown]?"
 
 # game/script.rpy:5099
 translate uk_UA floor2menu_7912f6be:
 
     # c "Come with me, I want to introduce you to everyone else living here."
-    c ""
+    c "Ідем зі мною, я хочу тебе познайомити зі всіма, хто тут живе."
 
 # game/script.rpy:5102
 translate uk_UA floor2menu_83f4a26b:
 
     # bot "Everyone else...? Can't I just sit in my room and be on the internet all day? I don't really like talking to people..."
-    bot ""
+    bot "Зі всіма...? Чому я не можу весь день просто сидіти в кімнаті і зависати в інтернеті? Я не дуже люблю спілкуватись з людьми..."
 
 # game/script.rpy:5103
 translate uk_UA floor2menu_7e33664c:
 
     # c "You're going to have to meet them eventually. Come on, it won't be that bad."
-    c ""
+    c "Тобі так чи інакше доведеться з ними познайомитись. Ідем, це не буде складно."
 
 # game/script.rpy:5106
 translate uk_UA floor2menu_010e4eca_1:
 
     # bot "Yes [botown]..."
-    bot ""
+    bot "Так [botown]..."
 
 # game/script.rpy:5110
 translate uk_UA floor2menu_20fb46ed:
 
     # bot "Go away! *sob*"
-    bot ""
+    bot "Іди звідси! *шмарк*"
 
 # game/script.rpy:5111
 translate uk_UA floor2menu_96ac885b:
 
     # c "[botname], are you okay in there?"
-    c ""
+    c "[botname], з тобою все добре?"
 
 # game/script.rpy:5112
 translate uk_UA floor2menu_343aec03:
 
     # bot "I'm fine! Go away! *sob*"
-    bot ""
+    bot "Все чудово! Іди звідси! *шмарк*"
 
 # game/script.rpy:5113
 translate uk_UA floor2menu_29175253:
 
     # "You use your master key to unlock the door, and enter the room."
-    ""
+    "Ви використали свій унікальний ключ, щоб відімкнути кімнату, і увійшли."
 
 # game/script.rpy:5120
 translate uk_UA floor2menu_c872e953:
 
     # "Nobody lives here... yet."
-    ""
+    "Тут ніхто не живе... поки що."
 
 # game/script.rpy:5126
 translate uk_UA floor2menu_b5f50750_9:
@@ -6150,7 +6150,7 @@ translate uk_UA floor2menu_b5f50750_9:
 translate uk_UA floor2menu_883e5c6a:
 
     # c "They're probably hanging around the hotel."
-    c ""
+    c "Вони, мабуть, десь вештаються у готелі."
 
 # game/script.rpy:5131
 translate uk_UA floor2menu_b5f50750_10:
@@ -6162,43 +6162,43 @@ translate uk_UA floor2menu_b5f50750_10:
 translate uk_UA floor2menu_d19e7f54:
 
     # c "They're probably taking a shower."
-    c ""
+    c "Вони, мабуть, приймають душ."
 
 # game/script.rpy:5139
 translate uk_UA floor2menu_28ea64e9:
 
     # f "Go away!"
-    f ""
+    f "Іди звідси!"
 
 # game/script.rpy:5140
 translate uk_UA floor2menu_18eb791a:
 
     # em "We don't want to talk!"
-    em ""
+    em "Ми не бажаємо говорити!"
 
 # game/script.rpy:5143
 translate uk_UA floor2menu_bc0039ed:
 
     # c "I bought you a gift."
-    c ""
+    c "У купив тобі подарунок."
 
 # game/script.rpy:5146
 translate uk_UA floor2menu_c9d164ca:
 
     # f "Really?"
-    f ""
+    f "Справді?"
 
 # game/script.rpy:5147
 translate uk_UA floor2menu_7cdc3eb6:
 
     # c "Here you go."
-    c ""
+    c "Ось."
 
 # game/script.rpy:5148
 translate uk_UA floor2menu_9fc696f9:
 
     # f "Oh... thanks, I guess..."
-    f ""
+    f "О... дякую, мабуть..."
 
 # game/script.rpy:5152
 translate uk_UA floor2menu_0cd4823e:
