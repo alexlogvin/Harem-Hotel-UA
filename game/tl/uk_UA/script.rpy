@@ -5406,7 +5406,7 @@ translate uk_UA floor2menu_d11a3a5b:
 translate uk_UA floor2menu_053432b7:
 
     # bot "Okay!"
-    bot ""
+    bot "Добре!"
 
 # game/script.rpy:4804
 translate uk_UA floor2menu_b5f50750_8:
@@ -5418,7 +5418,7 @@ translate uk_UA floor2menu_b5f50750_8:
 translate uk_UA floor2menu_d3681452:
 
     # c "Hmmm... Where could she be? I better ask Lin."
-    c ""
+    c "Хмм... Де ж вона? Краще спитаю Лін."
 
 # game/script.rpy:4811
 translate uk_UA floor2menu_c817e13f:
@@ -9804,7 +9804,7 @@ translate uk_UA floor1menu_b5f50750_8:
 translate uk_UA floor1menu_9e083317:
 
     # c "Hmm, where could she be?"
-    c ""
+    c "Хм, де ж вона?"
 
 # game/script.rpy:7126
 translate uk_UA floor1menu_b5f50750_9:
@@ -98774,7 +98774,7 @@ translate uk_UA explore_slums3_5ee02096:
 translate uk_UA explore_slums3_8f8f1e78:
 
     # c "Where could she be..."
-    c ""
+    c "Де ж вона?"
 
 # game/script.rpy:12864
 translate uk_UA explore_slums3_2658ba9a:
