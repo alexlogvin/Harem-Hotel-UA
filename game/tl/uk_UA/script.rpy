@@ -5424,31 +5424,31 @@ translate uk_UA floor2menu_d3681452:
 translate uk_UA floor2menu_c817e13f:
 
     # bot "[botown]! I was just coming to see you!"
-    bot ""
+    bot "[botown]!  Я якраз збиралась побачитись з тобою!"
 
 # game/script.rpy:4814
 translate uk_UA floor2menu_3b85ab66:
 
     # bot "Can you take me to the city? Please please please pleeeeeease?"
-    bot ""
+    bot "Можеш мене відвезти в місто? Будь ласка, будь ласка, будь ласка, будь лаааааска?"
 
 # game/script.rpy:4817
 translate uk_UA floor2menu_e71da562:
 
     # bot "I really want to see everything! I saw some pictures of a tower and it looked so big!"
-    bot ""
+    bot "Мен дуже кортить все побачити! Я переглядала картинки вежі і вона виглядає такою великою!"
 
 # game/script.rpy:4818
 translate uk_UA floor2menu_70d6be21:
 
     # bot "Pleeeeease?"
-    bot ""
+    bot "Будь лааааска?"
 
 # game/script.rpy:4823
 translate uk_UA floor2menu_fa65583a:
 
     # bot "YES! I knew you'd take me! Let's go!"
-    bot ""
+    bot "ТАК! Я знала що ти погодишся! Поїхали!"
 
 # game/script.rpy:4825
 translate uk_UA floor2menu_ce5329ec:
@@ -5460,13 +5460,13 @@ translate uk_UA floor2menu_ce5329ec:
 translate uk_UA floor2menu_423b9f7f:
 
     # "[botname] acts like a kid in a candy store, she loves looking at all of the fauna and species of trees, the cars, the people, the birds, flowers, signs... The list goes on."
-    ""
+    "[botname] поводиться як дитина в кондитерській, вона з захопленням розглядає всю фауну, дерева, автомобілі, людей, пташок, квіти, дорожні знаки... Можна продовжувати без кінця."
 
 # game/script.rpy:4827
 translate uk_UA floor2menu_c12a4fb6:
 
     # "Soon enough, the horizon breaks into a vista of sprawling towers. [botname]'s eyes twinkle at the sight. As you get closer, the towers get bigger, and so do her eyes..."
-    ""
+    "Незабаром зза горизонту визирає краєвид довжелезних веж. Очі [botname] блищать від видовища. Чим ближче ми наближаємось до веж - тим більшими вони стають, так само як і її очі..."
 
 # game/script.rpy:4832
 translate uk_UA floor2menu_39f56e41:
@@ -5478,217 +5478,217 @@ translate uk_UA floor2menu_39f56e41:
 translate uk_UA floor2menu_bbe38fd9:
 
     # bot "Hello [botown]! Did you need something?"
-    bot ""
+    bot "Привіт [botown]! Ти щось хотів?"
 
 # game/script.rpy:4839
 translate uk_UA floor2menu_dd598a90:
 
     # c "Interested in taking a break at the hot springs?"
-    c ""
+    c "Що скажеш на рахунок відпочинку у гарячих джерелах?"
 
 # game/script.rpy:4840
 translate uk_UA floor2menu_d1c204c5:
 
     # bot "I would love to! I don't think I've ever explored that part of the hotel!"
-    bot ""
+    bot "Залюбки! Мені здається, що я в цю частину готелю ще не захоодила!"
 
 # game/script.rpy:4844
 translate uk_UA floor2menu_1e11c6f3:
 
     # bot "Oh, right! Meet you there!"
-    bot ""
+    bot "О, вірно! Там і зустрінемось!"
 
 # game/script.rpy:4849
 translate uk_UA floor2menu_17047811:
 
     # bot "N-Nothing!? I can't do that!"
-    bot ""
+    bot "Н-Нічого!? Я цього не зроблю!"
 
 # game/script.rpy:4854
 translate uk_UA floor2menu_d1a7e383:
 
     # bot "Nothing...?"
-    bot ""
+    bot "Нічого...?"
 
 # game/script.rpy:4857
 translate uk_UA floor2menu_02529d95:
 
     # bot "Uh, sure! I guess I don't mind!"
-    bot ""
+    bot "У, гаразд! Думаю, я не проти!"
 
 # game/script.rpy:4862
 translate uk_UA floor2menu_ac90ad65_1:
 
     # bot "Come in!"
-    bot ""
+    bot "Заходь!"
 
 # game/script.rpy:4868
 translate uk_UA floor2menu_7b044aea:
 
     # bot "[botown], could I ask you a favor?"
-    bot ""
+    bot "[botown], можу я попросити тебе про послугу?"
 
 # game/script.rpy:4869
 translate uk_UA floor2menu_df72d121:
 
     # c "What's that?"
-    c ""
+    c "Що це?"
 
 # game/script.rpy:4870
 translate uk_UA floor2menu_809be560:
 
     # bot "Did you know that my manufacturer makes upgrades for me? Well they do! And I was thinking you could get the breast expansion module for me~"
-    bot ""
+    bot "Ти знав, що компанія, що виготовляє мою модель, також робить апгрейди для мене? Так-ьак! Я тут подумала, чи не міг би ти купити модуль розширення розміру грудей для мене~"
 
 # game/script.rpy:4871
 translate uk_UA floor2menu_1525a3fe:
 
     # bot "B-But don't read into it! It's definitely not for sexual purposes!"
-    bot ""
+    bot "А-Але не подумай нічого такого! Це не для сексуальних цілей!"
 
 # game/script.rpy:4872
 translate uk_UA floor2menu_ac2bb9eb:
 
     # c "Well... alright, I'll get it."
-    c ""
+    c "Ну... добре, я придбаю цей модуль."
 
 # game/script.rpy:4873
 translate uk_UA floor2menu_fc6171e5:
 
     # bot "Thank you!"
-    bot ""
+    bot "Дякую!"
 
 # game/script.rpy:4876
 translate uk_UA floor2menu_36ed5e98:
 
     # bot "Come in~~~!"
-    bot ""
+    bot "Заходь~~~!"
 
 # game/script.rpy:4885
 translate uk_UA floor2menu_ac90ad65_2:
 
     # bot "Come in!"
-    bot ""
+    bot "Заходь!"
 
 # game/script.rpy:4887
 translate uk_UA floor2menu_abd62f78:
 
     # bot "Hello [botown]! Can I help you with anything?"
-    bot ""
+    bot "Привіт [botown]! Чим можу тобі допомогти?"
 
 # game/script.rpy:4888
 translate uk_UA floor2menu_5b3b2ec3:
 
     # c "I'd like to take you out. We'll go somewhere in Caliber, maybe grab something to eat.\n...Do you eat?"
-    c ""
+    c "Яхочу тебе взяти на прогулянку. Поїдемо кудись у Калібері, можливо візьмемо щось поїсти.\n...Ти взагалі їш?"
 
 # game/script.rpy:4890
 translate uk_UA floor2menu_7c2a6bc3:
 
     # bot "Oh, um... [botown] that's very nice of you, but..."
-    bot ""
+    bot "О, м... [botown], дуже мило з твого боку, але..."
 
 # game/script.rpy:4891
 translate uk_UA floor2menu_7ed7b36f:
 
     # bot "Well... *sigh*... I just don't think I'm ready."
-    bot ""
+    bot "Ну... *вдох*... Я не впевнена чи я готова до цього."
 
 # game/script.rpy:4892
 translate uk_UA floor2menu_bb00a52c:
 
     # c "What do you mean?"
-    c ""
+    c "Що ти маєш на увазі?"
 
 # game/script.rpy:4893
 translate uk_UA floor2menu_8d2f17db:
 
     # bot "The hotel and everyone inside are already so much to consider. You have no idea how complex it is for me to understand so many dynamic social connections at once. It can be very overwhelming for me at times..."
-    bot ""
+    bot "Враховувати всіх і все у готелі - для мене цього вже забагато. Ти уяви не маєш, як для мене складно зрозуміти одночасно стільки динамічних соціальних зв'язків. Інколи для мене це стає нестерпним..."
 
 # game/script.rpy:4894
 translate uk_UA floor2menu_dfe7af99:
 
     # c "You don't have to consider random people in the same way you do your close friends. In fact, it's fine to forget them the moment they leave your sight."
-    c ""
+    c "Тобі не потрібно враховувати звязки з незнайомцями на тому самому рівні, що і з друзями. Насправді їх можна забути, як тільки вони покидають поле зору."
 
 # game/script.rpy:4895
 translate uk_UA floor2menu_2bf4855f:
 
     # bot "R-Really? That seems so wasteful though..."
-    bot ""
+    bot "С-Справді? Звучить якось надлишково..."
 
 # game/script.rpy:4896
 translate uk_UA floor2menu_ad842c39:
 
     # bot "But I'm sorry... the answer is still no. For now...\nI've never been outside this hotel before so... I just need time."
-    bot ""
+    bot "Але вибач... відповід все ще ні. Поки що...\nЯ ще ніколи не була за межами готелу, тому... Мені потрібний час."
 
 # game/script.rpy:4897
 translate uk_UA floor2menu_2b248946:
 
     # c "That's fine, I understand... I'd still like to take you on a date though."
-    c ""
+    c "Нічого, я розумію... Проте, я все ще хочу тебе зводити на побачення."
 
 # game/script.rpy:4900
 translate uk_UA floor2menu_49a507ba:
 
     # bot "The garden! That's the perfect spot for a date, don't you think? No one is using it right now!"
-    bot ""
+    bot "Сад! Ідеальне місце для побачення, хіба ні? Зараз там нікого немає!"
 
 # game/script.rpy:4901
 translate uk_UA floor2menu_2be14845:
 
     # c "Sure. I'll meet you there in an hour."
-    c ""
+    c "Звичайно. Зустрінемось там через годину."
 
 # game/script.rpy:4902
 translate uk_UA floor2menu_01334364:
 
     # bot "Okay! See you!"
-    bot ""
+    bot "Добре! Побачимось!"
 
 # game/script.rpy:4907
 translate uk_UA floor2menu_9171ffd2:
 
     # bot "Maybe that garden could be developed into something? We really do need somewhere nice in the hotel to hang out..."
-    bot ""
+    bot "Чи можна сад переробити у щось? Нам в готелі дійсно бракує затишного кутка..."
 
 # game/script.rpy:4908
 translate uk_UA floor2menu_f3acaaf7:
 
     # c "Hmm, you're right. I think I'll do that."
-    c ""
+    c "Хм, твоя правда. Думаю, що так і зроблю."
 
 # game/script.rpy:4909
 translate uk_UA floor2menu_fa02676d:
 
     # bot "Okay! Let me know when you're ready!"
-    bot ""
+    bot "Добре! Дай знати, як будеш готовий!"
 
 # game/script.rpy:4915
 translate uk_UA floor2menu_36ed5e98_1:
 
     # bot "Come in~~~!"
-    bot ""
+    bot "Заходь~~~!"
 
 # game/script.rpy:4921
 translate uk_UA floor2menu_d1ada058:
 
     # bot "Hello [botown], was there something you needed?"
-    bot ""
+    bot "Привіт, [botown], ти чогось хотів?"
 
 # game/script.rpy:4922
 translate uk_UA floor2menu_6c493eb8:
 
     # c "I bought this for you."
-    c ""
+    c "Я купив тобі ось це."
 
 # game/script.rpy:4926
 translate uk_UA floor2menu_3d632b58:
 
     # bot "[botown]... I can't wear that! It shows my face a little..."
-    bot ""
+    bot "[botown]... Я не можу це носити! Так трохи видно моє лице..."
 
 # game/script.rpy:4927
 translate uk_UA floor2menu_9cc9e4f7:
