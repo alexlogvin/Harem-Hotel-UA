@@ -5694,7 +5694,7 @@ translate uk_UA floor2menu_3d632b58:
 translate uk_UA floor2menu_9cc9e4f7:
 
     # "I need to raise [botname]'s friendship.."
-    ""
+    "Мені треба більше подружитись з [botname].."
 
 # game/script.rpy:4933
 translate uk_UA floor2menu_697668e2:
@@ -5784,7 +5784,7 @@ translate uk_UA floor2menu_1e429923_1:
 translate uk_UA floor2menu_9cc9e4f7_1:
 
     # "I need to raise [botname]'s friendship.."
-    ""
+    "Мені треба більше подружитись з [botname].."
 
 # game/script.rpy:4975
 translate uk_UA floor2menu_8a736f24:
@@ -6606,7 +6606,7 @@ translate uk_UA floor2menu_0f8ff4c5:
 translate uk_UA floor2menu_91f54ec9:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Мені треба більше зблизитись з нею."
 
 # game/script.rpy:5371
 translate uk_UA floor2menu_ec051238:
@@ -7260,7 +7260,7 @@ translate uk_UA floor2menu_a26a2ff1:
 translate uk_UA floor2menu_f86e57cb:
 
     # c "I need to raise Lin's friendship."
-    c ""
+    c "Мені треба більше подружитись з Лін."
 
 # game/script.rpy:5748
 translate uk_UA floor2menu_233c7e25:
@@ -7554,13 +7554,13 @@ translate uk_UA lobby_83827bcd:
 translate uk_UA lobby_138ce778:
 
     # "I need to raise Kali's friendship..."
-    ""
+    "Мені треба більше подружитись з Калі..."
 
 # game/script.rpy:6021
 translate uk_UA lobby_140ea060:
 
     # "I need to raise Ashley's friendship..."
-    ""
+    "Мені треба більше подружитись з Ешлі..."
 
 # game/script.rpy:6025
 translate uk_UA lobby_7dd348f9:
@@ -8892,7 +8892,7 @@ translate uk_UA lobby_35886396:
 translate uk_UA lobby_ad8a7a05:
 
     # "I need to raise her relationship level."
-    ""
+    "Мені треба більше зблизитись з нею."
 
 # game/script.rpy:6559
 translate uk_UA lobby_05082d8a:
@@ -10242,7 +10242,7 @@ translate uk_UA floor1menu_b5687cd2:
 translate uk_UA floor1menu_61ee96a1:
 
     # "I need to raise Lin's friendship."
-    ""
+    "Мені треба більше подружитись з Лін."
 
 # game/script.rpy:7469
 translate uk_UA floor1menu_1726adcc:
@@ -25182,7 +25182,7 @@ translate uk_UA botkchoice_fdfecbe6:
 translate uk_UA botkchoice_91f54ec9:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Мені треба більше зблизитись з нею."
 
 # game/script.rpy:13363
 translate uk_UA botkchoice_2961ab75_1:
@@ -25278,7 +25278,7 @@ translate uk_UA botkchoice_dec301e5:
 translate uk_UA botkchoice_ad8a7a05:
 
     # "I need to raise her relationship level."
-    ""
+    "Мені треба більше зблизитись з нею."
 
 # game/script.rpy:13419
 translate uk_UA botkchoice_2c89295d:
@@ -25290,7 +25290,7 @@ translate uk_UA botkchoice_2c89295d:
 translate uk_UA botkchoice_ad8a7a05_1:
 
     # "I need to raise her relationship level."
-    ""
+    "Мені треба більше зблизитись з нею."
 
 # game/script.rpy:13423
 translate uk_UA botkchoice_2f707dad:
@@ -25356,7 +25356,7 @@ translate uk_UA botkchoice_93110405:
 translate uk_UA botkchoice_91f54ec9_1:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Мені треба більше зблизитись з нею."
 
 # game/script.rpy:13459
 translate uk_UA botkchoice_cf9bd410:
@@ -25614,7 +25614,7 @@ translate uk_UA botkchoice_b73c8534:
 translate uk_UA botkchoice_91f54ec9_2:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Мені треба більше зблизитись з нею."
 
 # game/script.rpy:13632
 translate uk_UA sylkitchen_talk_32c319ca:
@@ -27504,7 +27504,7 @@ translate uk_UA linkchoice_04aff45b:
 translate uk_UA linkchoice_91f54ec9:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Мені треба більше зблизитись з нею."
 
 # game/script.rpy:14485
 translate uk_UA linkchoice_938d174b:
@@ -27642,7 +27642,7 @@ translate uk_UA linkchoice_49555ecd:
 translate uk_UA linkchoice_91f54ec9_1:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Мені треба більше зблизитись з нею."
 
 # game/script.rpy:14686
 translate uk_UA linkchoice_1ec56910:
@@ -27654,7 +27654,7 @@ translate uk_UA linkchoice_1ec56910:
 translate uk_UA linkchoice_91f54ec9_2:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Мені треба більше зблизитись з нею."
 
 # game/script.rpy:14692
 translate uk_UA linkchoice_9888278b:
@@ -28182,7 +28182,7 @@ translate uk_UA linkchoice_e5ef308e:
 translate uk_UA linkchoice_91f54ec9_3:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Мені треба більше зблизитись з нею."
 
 # game/script.rpy:14985
 translate uk_UA linkchoice_c71ada8f:
@@ -65412,7 +65412,7 @@ translate uk_UA botinteract_46076bb3:
 translate uk_UA botinteract_91f54ec9:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Мені треба більше зблизитись з нею."
 
 # game/script.rpy:26784
 translate uk_UA botinteract_e57c10ca:
@@ -65466,7 +65466,7 @@ translate uk_UA botinteract_f07f21e9:
 translate uk_UA botinteract_5a689c80:
 
     # "I need to raise her Obedience..."
-    ""
+    "Мені треба повиховувати її..."
 
 # game/script.rpy:26852
 translate uk_UA botinteract_f510cf68:
@@ -65658,7 +65658,7 @@ translate uk_UA botoutfits_6a339a9b:
 translate uk_UA botoutfits_91f54ec9:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Мені треба більше зблизитись з нею."
 
 # game/script.rpy:27109
 translate uk_UA botoutfits_0137d238:
@@ -84396,7 +84396,7 @@ translate uk_UA mar_insp_18e2b71f:
 translate uk_UA mar_insp_ab2011b1:
 
     # c "I need to raise her exhibitionism."
-    c ""
+    c "Мені треба розвивати ексгібіціонізм в ній."
 
 # game/script.rpy:36207
 translate uk_UA mar_insp_05fffb24:
@@ -85086,7 +85086,7 @@ translate uk_UA breastsize2_6ec996d0:
 translate uk_UA breastsize2_b19bc8d2:
 
     # "I need to raise her friendship."
-    ""
+    "Мені треба більше подружитись з нею."
 
 # game/script.rpy:36852
 translate uk_UA breastsize2_16c23f58:
@@ -91682,7 +91682,7 @@ translate uk_UA bottalk15_3d632b58:
 translate uk_UA bottalk15_9acde169:
 
     # "I need to raise [botname]'s relationship level.."
-    ""
+    "Мені треба більше зблизитись з [botname].."
 
 # game/script.rpy:4926
 translate uk_UA bottalk15_5ec297e3:
@@ -91712,7 +91712,7 @@ translate uk_UA bottalk15_3d632b58_1:
 translate uk_UA bottalk15_9acde169_1:
 
     # "I need to raise [botname]'s relationship level.."
-    ""
+    "Мені треба більше зблизитись з [botname].."
 
 # game/script.rpy:4972
 translate uk_UA bottalk15_d1ada058:
@@ -91748,7 +91748,7 @@ translate uk_UA bottalk15_1e429923_1:
 translate uk_UA bottalk15_9acde169_2:
 
     # "I need to raise [botname]'s relationship level.."
-    ""
+    "Мені треба більше зблизитись з [botname].."
 
 # game/script.rpy:4990
 translate uk_UA bottalk15_8a736f24:
@@ -92942,7 +92942,7 @@ translate uk_UA twin_door_menu_0f8ff4c5:
 translate uk_UA twin_door_menu_91f54ec9:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Мені треба більше зблизитись з нею."
 
 # game/script.rpy:5629
 translate uk_UA twin_door_menu_ec051238:
@@ -93602,7 +93602,7 @@ translate uk_UA twin_door_menu_a26a2ff1:
 translate uk_UA twin_door_menu_45e4a3f8:
 
     # c "I need to raise Lin's relationship level."
-    c ""
+    c "Мені треба більше зблизитись з Лін."
 
 # game/script.rpy:6010
 translate uk_UA twin_door_menu_233c7e25:
@@ -93728,13 +93728,13 @@ translate uk_UA lobby_dc05cf42_1:
 translate uk_UA lobby_69496c61:
 
     # "I need to raise Kali's relationship level..."
-    ""
+    "Мені треба більше зблизитись з Калі."
 
 # game/script.rpy:6287
 translate uk_UA lobby_e2e31378:
 
     # "I need to raise Ashley's relationship level..."
-    ""
+    "Мені треба більше зблизитись з Ешлі."
 
 # game/script.rpy:6448
 translate uk_UA lobby_4899d092_7:
@@ -94934,7 +94934,7 @@ translate uk_UA kali_door_menu_b5687cd2:
 translate uk_UA kali_door_menu_16fc52c3:
 
     # "I need to raise Lin's relationship level."
-    ""
+    "Мені треба більше зблизитись з Лін."
 
 # game/script.rpy:8101
 translate uk_UA kali_door_menu_1726adcc:
