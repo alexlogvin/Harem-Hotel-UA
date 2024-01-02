@@ -5424,7 +5424,7 @@ translate uk_UA floor2menu_d3681452:
 translate uk_UA floor2menu_c817e13f:
 
     # bot "[botown]! I was just coming to see you!"
-    bot "[botown]!  Я якраз збиралась побачитись з тобою!"
+    bot "[botown]! Я якраз збиралась побачитись з тобою!"
 
 # game/script.rpy:4814
 translate uk_UA floor2menu_3b85ab66:
@@ -5538,7 +5538,7 @@ translate uk_UA floor2menu_df72d121:
 translate uk_UA floor2menu_809be560:
 
     # bot "Did you know that my manufacturer makes upgrades for me? Well they do! And I was thinking you could get the breast expansion module for me~"
-    bot "Ти знав, що компанія, що виготовляє мою модель, також робить апгрейди для мене? Так-ьак! Я тут подумала, чи не міг би ти купити модуль розширення розміру грудей для мене~"
+    bot "Ти знав, що компанія, що виготовляє мою модель, також робить апгрейди для мене? Так-так! Я тут подумала, чи не міг би ти купити модуль розширення розміру грудей для мене~"
 
 # game/script.rpy:4871
 translate uk_UA floor2menu_1525a3fe:
@@ -5580,7 +5580,7 @@ translate uk_UA floor2menu_abd62f78:
 translate uk_UA floor2menu_5b3b2ec3:
 
     # c "I'd like to take you out. We'll go somewhere in Caliber, maybe grab something to eat.\n...Do you eat?"
-    c "Яхочу тебе взяти на прогулянку. Поїдемо кудись у Калібері, можливо візьмемо щось поїсти.\n...Ти взагалі їш?"
+    c "Я хочу тебе взяти на прогулянку. Поїдемо кудись у Калібері, можливо візьмемо щось поїсти.\n...Ти взагалі їси?"
 
 # game/script.rpy:4890
 translate uk_UA floor2menu_7c2a6bc3:
@@ -5826,7 +5826,7 @@ translate uk_UA floor2menu_ff2da85a:
 translate uk_UA floor2menu_06268ed4:
 
     # "[botname] goes into her room and changes her clothes to her newly bought slut outfit, and inserts the slut module..."
-    "[botname] іде до себе в кімнату і перевдягається у свій новенький шлюшковате вбрання, а також вставляє модуль розпущеності..."
+    "[botname] іде до себе в кімнату і перевдягається у свіє новеньке шлюшковате вбрання, а також вставляє модуль розпущеності..."
 
 # game/script.rpy:4987
 translate uk_UA floor2menu_d8bd047c:
@@ -6180,7 +6180,7 @@ translate uk_UA floor2menu_18eb791a:
 translate uk_UA floor2menu_bc0039ed:
 
     # c "I bought you a gift."
-    c "У купив тобі подарунок."
+    c "Я купив тобі подарунок."
 
 # game/script.rpy:5146
 translate uk_UA floor2menu_c9d164ca:
