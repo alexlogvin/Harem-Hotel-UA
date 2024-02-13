@@ -5826,7 +5826,7 @@ translate uk_UA floor2menu_ff2da85a:
 translate uk_UA floor2menu_06268ed4:
 
     # "[botname] goes into her room and changes her clothes to her newly bought slut outfit, and inserts the slut module..."
-    "[botname] іде до себе в кімнату і перевдягається у свіє новеньке шлюшковате вбрання, а також вставляє модуль розпущеності..."
+    "[botname] іде до себе в кімнату і перевдягається у своє новеньке шлюшковате вбрання, а також вставляє модуль розпущеності..."
 
 # game/script.rpy:4987
 translate uk_UA floor2menu_d8bd047c:
