@@ -1,214 +1,214 @@
-﻿# TODO: Translation updated at 2022-12-11 22:14
+# TODO: Translation updated at 2022-12-11 22:14
 
 # game/scripts/ash_events.rpy:26
 translate uk_UA ash_fe_repeatable_298b7646:
 
     # a "I hope you've been saving up for us~"
-    a ""
+    a "Сподіваюся, ти відкладав гроші для нас~"
 
 # game/scripts/ash_events.rpy:27
 translate uk_UA ash_fe_repeatable_a2d15e96:
 
     # f "Why does she always go first...? I want to go first..."
-    f ""
+    f "Чому вона завжди йде першою...? Я хочу йти першою..."
 
 # game/scripts/ash_events.rpy:28
 translate uk_UA ash_fe_repeatable_98c0e2fb:
 
     # em "Just be patient, Felicity."
-    em ""
+    em "Просто будь терплячою, Фелісіті."
 
 # game/scripts/ash_events.rpy:30
 translate uk_UA ash_fe_repeatable_7fc83e47:
 
     # a "Hehe~ put it in, put it in~!"
-    a ""
+    a "Хехе~ вставляй, вставляй~!"
 
 # game/scripts/ash_events.rpy:31
 translate uk_UA ash_fe_repeatable_480af6de:
 
     # em "Don't keep us waiting~"
-    em ""
+    em "Не змушуй нас чекати~"
 
 # game/scripts/ash_events.rpy:33
 translate uk_UA ash_fe_repeatable_acaf5cc1:
 
     # a "Hnnngh!"
-    a ""
+    a "Ннннгх!"
 
 # game/scripts/ash_events.rpy:34
 translate uk_UA ash_fe_repeatable_b5f20eb3:
 
     # f "Fuck, that looks like it feels good..."
-    f ""
+    f "Бляха, схоже, це приємно..."
 
 # game/scripts/ash_events.rpy:36
 translate uk_UA ash_fe_repeatable_e2194aa3:
 
     # a "Hmngh~! Aaaah~! Yes, yes!"
-    a ""
+    a "Хмнгх~! Аааах~! Так, так!"
 
 # game/scripts/ash_events.rpy:37
 translate uk_UA ash_fe_repeatable_f08a034e:
 
     # em "*sigh*... I wish that were me."
-    em ""
+    em "*зітхає*... Хотіла б це бути я."
 
 # game/scripts/ash_events.rpy:38
 translate uk_UA ash_fe_repeatable_6497a262:
 
     # a "Mmmh~ Fuck me, fuck me, fuck meee~!"
-    a ""
+    a "Мммх~ Трахни мене, трахни мене, трахни менеее~!"
 
 # game/scripts/ash_events.rpy:41
 translate uk_UA ash_fe_repeatable_8e9350c7:
 
     # a "Haaah! Aah~! Yes! Look into my eyes as you FUCK me! MMMH~! Yes, yes, yes!!"
-    a ""
+    a "Хааах! Аах~! Так! Дивись мені в очі, коли ти ТРАХАЄШ мене! МММХ~! Так, так, так!!"
 
 # game/scripts/ash_events.rpy:42
 translate uk_UA ash_fe_repeatable_39e2d2ca:
 
     # em "Oh my god, can you hear how wet she is? Fuck..."
-    em ""
+    em "Боже, ти чуєш, яка вона мокра? Бляха..."
 
 # game/scripts/ash_events.rpy:43
 translate uk_UA ash_fe_repeatable_166abeb9:
 
     # a "Hehe~ hnnng! Cum inside me, [name]! Fill my fucking pussy! MMMH!"
-    a ""
+    a "Хехе~ хнннг! Кінчи в мене, [name]! Наповни мою пісічку! МММХ!"
 
 # game/scripts/ash_events.rpy:44
 translate uk_UA ash_fe_repeatable_64aa9d71:
 
     # f "You're so greedy, Ash."
-    f ""
+    f "Ти така жадібна, Еш."
 
 # game/scripts/ash_events.rpy:45
 translate uk_UA ash_fe_repeatable_6c5eed09:
 
     # a "Cum in me, cum in me, cum in me~!"
-    a ""
+    a "Кінчай в мене, кінчай в мене, кінчай в мене~!"
 
 # game/scripts/ash_events.rpy:47
 translate uk_UA ash_fe_repeatable_3de39c11:
 
     # a "Haaahg~! Aaaagh!" with ssshake
-    a "" with ssshake
+    a "Хааахг~! Аааагх!" with ssshake
 
 # game/scripts/ash_events.rpy:48
 translate uk_UA ash_fe_repeatable_e013c43a:
 
     # a "Fuck, fuuuuck! More~!" with ssshake
-    a "" with ssshake
+    a "Трахай, трахаааай! Ще~!" with ssshake
 
 # game/scripts/ash_events.rpy:49
 translate uk_UA ash_fe_repeatable_1bd14f0c:
 
     # a "Mmh~! Don't stop, don't stop~!" with ssshake
-    a "" with ssshake
+    a "Ммх~! Не зупиняйся, не зупиняйся~!" with ssshake
 
 # game/scripts/ash_events.rpy:51
 translate uk_UA ash_fe_repeatable_e8904907:
 
     # a "Hehe~ so much cum! Thank you~"
-    a ""
+    a "Хехе~ стільки сперми! Дякую тобі~"
 
 # game/scripts/ash_events.rpy:53
 translate uk_UA ash_fe_repeatable_a4a69c25:
 
     # c "Nnnh..." with ssshake
-    c "" with ssshake
+    c "Нннх..." with ssshake
 
 # game/scripts/ash_events.rpy:54
 translate uk_UA ash_fe_repeatable_b78b842e:
 
     # f "It's our turn now..."
-    f ""
+    f "Тепер наша черга..."
 
 # game/scripts/ash_events.rpy:55
 translate uk_UA ash_fe_repeatable_7a89c26c:
 
     # em "Finally!"
-    em ""
+    em "Нарешті!"
 
 # game/scripts/ash_events.rpy:57
 translate uk_UA ash_fe_repeatable_c0d454db:
 
     # em "Ahh, fuuuck~"
-    em ""
+    em "Ахх, бляхааа~"
 
 # game/scripts/ash_events.rpy:58
 translate uk_UA ash_fe_repeatable_432dbf26:
 
     # f "Haaahg~! Nnnh, so big...!"
-    f ""
+    f "Хааахг~! Нннх, такий великий...!"
 
 # game/scripts/ash_events.rpy:59
 translate uk_UA ash_fe_repeatable_9ec8a69b:
 
     # em "You're so good at this, [name]~ I should make you my seat more often..."
-    em ""
+    em "У тебе так добре виходить, [name]~ я повинна частіше робити тебе своїм кріслом..."
 
 # game/scripts/ash_events.rpy:62
 translate uk_UA ash_fe_repeatable_905581a0:
 
     # em "Ohhh, fuck...! Faster...! Mmmh, mmmh! Fuck...! Don't stop licking my pussy...!"
-    em ""
+    em "Оххх, бляха...! Швидше...! Мммх, мммх! Бляха...! Не припиняй лизати мою пісічку!"
 
 # game/scripts/ash_events.rpy:63
 translate uk_UA ash_fe_repeatable_e0a4b362:
 
     # f "Mmmmgh! Fuck!"
-    f ""
+    f "Ммммгх! Бляха!"
 
 # game/scripts/ash_events.rpy:65
 translate uk_UA ash_fe_repeatable_275e5bf9:
 
     # f "Fuck, fuck, fuck! MMMH! Yes! That feels so fucking good~!"
-    f ""
+    f "Бляха, бляха, бляха! МММХ! Так! Це так до біса добре~!"
 
 # game/scripts/ash_events.rpy:66
 translate uk_UA ash_fe_repeatable_4553951e:
 
     # a "Hehe~ someone's having a little too much fun..."
-    a ""
+    a "Хехе~, хтось занадто багато розважається..."
 
 # game/scripts/ash_events.rpy:67
 translate uk_UA ash_fe_repeatable_c046710b:
 
     # em "Ohh fuck...! Nnnh! Yes...!"
-    em ""
+    em "Ох, бляха...! Нннх! Так...!"
 
 # game/scripts/ash_events.rpy:68
 translate uk_UA ash_fe_repeatable_bea71886:
 
     # f "Mmmh~! Nnngh~! Yeah, I think I'm gonna cum! Mmmmmmhhh~!"
-    f ""
+    f "Мммх~! Нннгх~! Так, здається, я зараз кінчу! Ммммммхххх~!"
 
 # game/scripts/ash_events.rpy:69
 translate uk_UA ash_fe_repeatable_c43f5373:
 
     # a "Do iiiit!"
-    a ""
+    a "Зроби цеееее!"
 
 # game/scripts/ash_events.rpy:72
 translate uk_UA ash_fe_repeatable_afff943c:
 
     # f "Fuck, fuck~! Nnnh! Don't stop~!"
-    f ""
+    f "Бляха, бляха~! Нннх! Не зупиняйся~!"
 
 # game/scripts/ash_events.rpy:73
 translate uk_UA ash_fe_repeatable_227a0566:
 
     # f "Fuck! I'm cumming~! Nnnh! I'm gonna cum~! Fuck, fuck, fuck~! Don't stop! NNNH!"
-    f ""
+    f "Бляха! Я кінчаю~! Нннх! Я зараз кінчу~! Бляха, бляха, бляха~! Не зупиняйся! НННХ!"
 
 # game/scripts/ash_events.rpy:75
 translate uk_UA ash_fe_repeatable_098cd9c1:
 
     # f "AH, AAAAAHG~!" with sshake
-    f "" with sshake
+    f "АХ, АААААХГ~!" with sshake
 
 # game/scripts/ash_events.rpy:76
 translate uk_UA ash_fe_repeatable_2af2037a:
@@ -220,19 +220,19 @@ translate uk_UA ash_fe_repeatable_2af2037a:
 translate uk_UA ash_fe_repeatable_7fcf3623:
 
     # a "Hehe~ she can't even control herself!" with ssshake
-    a "" with ssshake
+    a "Хехе~ вона навіть не може себе контролювати!" with ssshake
 
 # game/scripts/ash_events.rpy:79
 translate uk_UA ash_fe_repeatable_27805175:
 
     # f "Nnnh... haahh... fuck..."
-    f ""
+    f "Нннх... хаахх... бляха..."
 
 # game/scripts/ash_events.rpy:80
 translate uk_UA ash_fe_repeatable_ddd3bd7e:
 
     # f "That was... so goooood~"
-    f ""
+    f "Це було... так доооообре~"
 
 # game/scripts/ash_events.rpy:82
 translate uk_UA ash_fe_repeatable_45be0941:
@@ -244,373 +244,373 @@ translate uk_UA ash_fe_repeatable_45be0941:
 translate uk_UA ash_fe_repeatable_869c82a6:
 
     # f "That was amazing..."
-    f ""
+    f "Це було дивовижно..."
 
 # game/scripts/ash_events.rpy:85
 translate uk_UA ash_fe_repeatable_2da956d8:
 
     # f "Thanks for inviting us, Ash..."
-    f ""
+    f "Дякуємо за запрошення, Еш..."
 
 # game/scripts/ash_events.rpy:86
 translate uk_UA ash_fe_repeatable_a1af588a:
 
     # a "No problem~"
-    a ""
+    a "Без проблем~"
 
 # game/scripts/ash_events.rpy:99
 translate uk_UA ash_fe_foursome_c1c504ea:
 
     # a "Oh! There you are~"
-    a ""
+    a "О! Ось ти де~"
 
 # game/scripts/ash_events.rpy:100
 translate uk_UA ash_fe_foursome_8550aaac:
 
     # em "It's about time you showed up..."
-    em ""
+    em "Саме тоді, коли ти з'явився..."
 
 # game/scripts/ash_events.rpy:103
 translate uk_UA ash_fe_foursome_b18817e4:
 
     # c "Oh, what is this?"
-    c ""
+    c "О, що це?"
 
 # game/scripts/ash_events.rpy:104
 translate uk_UA ash_fe_foursome_e01ffb78:
 
     # f "What does it look like? Get over here!"
-    f ""
+    f "А на що це схоже? Йди сюди!"
 
 # game/scripts/ash_events.rpy:105
 translate uk_UA ash_fe_foursome_4c22db3c:
 
     # a "Don't keep me waiting..."
-    a ""
+    a "Не змушуй мене чекати..."
 
 # game/scripts/ash_events.rpy:107
 translate uk_UA ash_fe_foursome_eec9c0d6:
 
     # a "Are you hard yet? I want you deeeep inside me~"
-    a ""
+    a "В тебе вже стоїть? Я хочу тебе глиииибоко всередині мене."
 
 # game/scripts/ash_events.rpy:108
 translate uk_UA ash_fe_foursome_b95ef2c2:
 
     # f "Ashley might have dibs on your cum, but don't forget us..."
-    f ""
+    f "Ешлі, можливо, і має право на твою сперму, але не забувай про нас..."
 
 # game/scripts/ash_events.rpy:109
 translate uk_UA ash_fe_foursome_6125d69d:
 
     # em "Heheh, I hope you're prepared..."
-    em ""
+    em "Хехех, сподіваюся ти готовий..."
 
 # game/scripts/ash_events.rpy:111
 translate uk_UA ash_fe_foursome_56f4c9cd:
 
     # a "Aah~"
-    a ""
+    a "Аах~"
 
 # game/scripts/ash_events.rpy:112
 translate uk_UA ash_fe_foursome_470770e4:
 
     # f "Hey, you're not allowed to cum before fucking us, okay?"
-    f ""
+    f "Хей, тобі не можна кінчати перед тим, як трахати нас, ясно?"
 
 # game/scripts/ash_events.rpy:113
 translate uk_UA ash_fe_foursome_efeb2197:
 
     # em "Are you sure you're going to be able to take it all, Ash? It doesn't look like it's going to fit."
-    em ""
+    em "Ти впевнена, що зможеш все це взяти, Еш? Не схоже, що воно влізе."
 
 # game/scripts/ash_events.rpy:114
 translate uk_UA ash_fe_foursome_c71b36a5:
 
     # a "Yes, I can take it!"
-    a ""
+    a "Так, я витримаю!"
 
 # game/scripts/ash_events.rpy:115
 translate uk_UA ash_fe_foursome_47438dc7:
 
     # f "It was her idea, after all..."
-    f ""
+    f "Зрештою, це була її ідея..."
 
 # game/scripts/ash_events.rpy:116
 translate uk_UA ash_fe_foursome_51f3cc2b:
 
     # em "Hurry~ We can't wait all day."
-    em ""
+    em "Поспішай~ Ми не можемо чекати цілий день."
 
 # game/scripts/ash_events.rpy:118
 translate uk_UA ash_fe_foursome_d6a0ab39:
 
     # a "Haaahg~!"
-    a ""
+    a "Хааахг~!"
 
 # game/scripts/ash_events.rpy:119
 translate uk_UA ash_fe_foursome_e1b94f46:
 
     # em "Wow, it actually went in... I'm still surprised every time it happens."
-    em ""
+    em "Ого, він справді увійшов... Я досі дивуюся щоразу, коли це трапляється."
 
 # game/scripts/ash_events.rpy:120
 translate uk_UA ash_fe_foursome_a235475e:
 
     # f "I know! And I thought I was petite."
-    f ""
+    f "Я знаю! І я думала, що я маленька."
 
 # game/scripts/ash_events.rpy:122
 translate uk_UA ash_fe_foursome_286c90f2:
 
     # a "Hmngh~! Aaaah~!"
-    a ""
+    a "Хмнгх~! Аааах~!"
 
 # game/scripts/ash_events.rpy:123
 translate uk_UA ash_fe_foursome_8354f027:
 
     # f "Heheh, are you happy now Ash? I couldn't get you to shut up about it earlier."
-    f ""
+    f "Хе-хе, тепер ти щаслива, Еш? Я не міг змусити тебе замовкнути про це раніше."
 
 # game/scripts/ash_events.rpy:124
 translate uk_UA ash_fe_foursome_1d767d5a:
 
     # a "Hehe~ Yes, nnh! Yes!"
-    a ""
+    a "Хехе~ Так, ннх! Так!"
 
 # game/scripts/ash_events.rpy:125
 translate uk_UA ash_fe_foursome_ed8394db:
 
     # em "*sigh*... that looks like it feels so good!"
-    em ""
+    em "*зітхає*... схоже, це так приємно!"
 
 # game/scripts/ash_events.rpy:126
 translate uk_UA ash_fe_foursome_19f17d81:
 
     # a "It does! Mmmh~ Fuck me, fuck me, fuck meee~!"
-    a ""
+    a "Так і є! Мммх~ Трахни мене, трахни мене, трахни менеее~!"
 
 # game/scripts/ash_events.rpy:129
 translate uk_UA ash_fe_foursome_8e9350c7:
 
     # a "Haaah! Aah~! Yes! Look into my eyes as you FUCK me! MMMH~! Yes, yes, yes!!"
-    a ""
+    a "Хааах! Аах~! Так! Дивись мені в очі, коли ти ТРАХАЄШ мене! МММХ~! Так, так, так!!"
 
 # game/scripts/ash_events.rpy:130
 translate uk_UA ash_fe_foursome_fe0b361f:
 
     # em "Oh my god, can you hear how wet she is already? Fuck..."
-    em ""
+    em "Боже, чуєш, яка вона вже мокра? Бляха..."
 
 # game/scripts/ash_events.rpy:131
 translate uk_UA ash_fe_foursome_0557a8ad:
 
     # f "I know! It must be some kind of gift."
-    f ""
+    f "Я знаю! Це, мабуть, якийсь подарунок."
 
 # game/scripts/ash_events.rpy:132
 translate uk_UA ash_fe_foursome_166abeb9:
 
     # a "Hehe~ hnnng! Cum inside me, [name]! Fill my fucking pussy! MMMH!"
-    a ""
+    a "Хехе~ хнннг! Кінчи в мене, [name]! Наповни мою пісічку! МММХ!"
 
 # game/scripts/ash_events.rpy:133
 translate uk_UA ash_fe_foursome_afc18fb0:
 
     # f "Hey, don't be greedy!"
-    f ""
+    f "Ей, не будь жадібним!"
 
 # game/scripts/ash_events.rpy:134
 translate uk_UA ash_fe_foursome_6c5eed09:
 
     # a "Cum in me, cum in me, cum in me~!"
-    a ""
+    a "Кінчай в мене, кінчай в мене, кінчай в мене~!"
 
 # game/scripts/ash_events.rpy:136
 translate uk_UA ash_fe_foursome_3de39c11:
 
     # a "Haaahg~! Aaaagh!" with ssshake
-    a "" with ssshake
+    a "Хааахг~! Аааагх!" with ssshake
 
 # game/scripts/ash_events.rpy:137
 translate uk_UA ash_fe_foursome_45fcd687:
 
     # em "Hey! You're not supposed to cum yet!" with ssshake
-    em "" with ssshake
+    em "Хей! Тобі ще не можна кінчати!" with ssshake
 
 # game/scripts/ash_events.rpy:138
 translate uk_UA ash_fe_foursome_1bd14f0c:
 
     # a "Mmh~! Don't stop, don't stop~!" with ssshake
-    a "" with ssshake
+    a "Ммх~! Не зупиняйся, не зупиняйся~!" with ssshake
 
 # game/scripts/ash_events.rpy:140
 translate uk_UA ash_fe_foursome_02ac0384:
 
     # a "Hehe~ so much cum!"
-    a ""
+    a "Хехе~, стільки сперми!"
 
 # game/scripts/ash_events.rpy:141
 translate uk_UA ash_fe_foursome_b22ad62d:
 
     # f "Ashley! That wasn't the deal..."
-    f ""
+    f "Ешлі! Ми так не домовлялися..."
 
 # game/scripts/ash_events.rpy:142
 translate uk_UA ash_fe_foursome_58b954d7:
 
     # a "Sorry~ but doesn't that look like so much cum? I'm so happy!"
-    a ""
+    a "Вибач~ але хіба це не виглядає як багато сперми? Я така щаслива!"
 
 # game/scripts/ash_events.rpy:144
 translate uk_UA ash_fe_foursome_795b86c0:
 
     # c "Nnnh..."
-    c ""
+    c "Нннх..."
 
 # game/scripts/ash_events.rpy:145
 translate uk_UA ash_fe_foursome_bd614213:
 
     # em "[name]~... don't tell me you're done already..."
-    em ""
+    em "[name]~... тільки не кажи, що ти вже кінчив..."
 
 # game/scripts/ash_events.rpy:147
 translate uk_UA ash_fe_foursome_732b976f:
 
     # f "He might be done, but his cock isn't~"
-    f ""
+    f "Він, може, і закінчив, але його член - ні~"
 
 # game/scripts/ash_events.rpy:148
 translate uk_UA ash_fe_foursome_f04c8fd0:
 
     # em "Oh, you're right! This guy looks ready as ever!"
-    em ""
+    em "О, ти права! Він виглядає готовим, як ніколи!"
 
 # game/scripts/ash_events.rpy:149
 translate uk_UA ash_fe_foursome_93653170:
 
     # f "Dibs on his cock!"
-    f ""
+    f "Чур його член!"
 
 # game/scripts/ash_events.rpy:150
 translate uk_UA ash_fe_foursome_1f362b51:
 
     # em "Fine, I'll take his face!"
-    em ""
+    em "Гаразд, я візьму його обличчя!"
 
 # game/scripts/ash_events.rpy:152
 translate uk_UA ash_fe_foursome_bdee38a0:
 
     # em "Open up~\nHeheh, I've been waiting for this..."
-    em ""
+    em "Відчиняй~\nХе-хе, я чекав на це..."
 
 # game/scripts/ash_events.rpy:154
 translate uk_UA ash_fe_foursome_a2b4986c:
 
     # f "Fuck, your cock is still so hard... I wouldn't expect less from a boyfriend of mine."
-    f ""
+    f "Бляха, твій член все ще такий твердий... Від свого хлопця я не очікувала меншого."
 
 # game/scripts/ash_events.rpy:155
 translate uk_UA ash_fe_foursome_64b10a1e:
 
     # a "That's a part of what makes him so great~"
-    a ""
+    a "Це частина того, що робить його таким чудовим~"
 
 # game/scripts/ash_events.rpy:156
 translate uk_UA ash_fe_foursome_dde3bed5:
 
     # em "Ahh... nnh, that feels good, [name]..."
-    em ""
+    em "Ахх... ннх, як приємно, [name]..."
 
 # game/scripts/ash_events.rpy:157
 translate uk_UA ash_fe_foursome_2364dd82:
 
     # f "Are you already having fun back there? I guess I should get to it then, hm?"
-    f ""
+    f "Ти вже розважаєшся там? Тоді, гадаю, мені варто приступити до справи, хм?"
 
 # game/scripts/ash_events.rpy:159
 translate uk_UA ash_fe_foursome_c0d454db:
 
     # em "Ahh, fuuuck~"
-    em ""
+    em "Ахх, бляхааа~"
 
 # game/scripts/ash_events.rpy:160
 translate uk_UA ash_fe_foursome_432dbf26:
 
     # f "Haaahg~! Nnnh, so big...!"
-    f ""
+    f "Хааахг~! Нннх, такий великий...!"
 
 # game/scripts/ash_events.rpy:161
 translate uk_UA ash_fe_foursome_4ea8c4b9:
 
     # em "You really know how to use your tongue, hm? Heheh..."
-    em ""
+    em "А ти справді вмієш використовувати язик, га? Хехе..."
 
 # game/scripts/ash_events.rpy:162
 translate uk_UA ash_fe_foursome_df992812:
 
     # a "Haah... ahhh... your cum won't stay in, [name]... mmmh..."
-    a ""
+    a "Хаах... аххх... твоя сперма не залишиться всередині, [name]... мммх..."
 
 # game/scripts/ash_events.rpy:165
 translate uk_UA ash_fe_foursome_905581a0:
 
     # em "Ohhh, fuck...! Faster...! Mmmh, mmmh! Fuck...! Don't stop licking my pussy...!"
-    em ""
+    em "Оххх, бляха...! Швидше...! Мммх, мммх! Бляха...! Не припиняй лизати мою пісічку!"
 
 # game/scripts/ash_events.rpy:166
 translate uk_UA ash_fe_foursome_e0a4b362:
 
     # f "Mmmmgh! Fuck!"
-    f ""
+    f "Ммммгх! Бляха!"
 
 # game/scripts/ash_events.rpy:168
 translate uk_UA ash_fe_foursome_275e5bf9:
 
     # f "Fuck, fuck, fuck! MMMH! Yes! That feels so fucking good~!"
-    f ""
+    f "Бляха, бляха, бляха! ММММ! Так! Це так до біса добре~!"
 
 # game/scripts/ash_events.rpy:169
 translate uk_UA ash_fe_foursome_4553951e:
 
     # a "Hehe~ someone's having a little too much fun..."
-    a ""
+    a "Хехе~, хтось занадто багато розважається..."
 
 # game/scripts/ash_events.rpy:170
 translate uk_UA ash_fe_foursome_c046710b:
 
     # em "Ohh fuck...! Nnnh! Yes...!"
-    em ""
+    em "Ох, бляха...! Нннх! Так...!"
 
 # game/scripts/ash_events.rpy:171
 translate uk_UA ash_fe_foursome_bea71886:
 
     # f "Mmmh~! Nnngh~! Yeah, I think I'm gonna cum! Mmmmmmhhh~!"
-    f ""
+    f "Мммх~! Нннгх~! Так, здається, я зараз кінчу! Ммммммхххх~!"
 
 # game/scripts/ash_events.rpy:172
 translate uk_UA ash_fe_foursome_c43f5373:
 
     # a "Do iiiit!"
-    a ""
+    a "Зроби цеееее!"
 
 # game/scripts/ash_events.rpy:175
 translate uk_UA ash_fe_foursome_afff943c:
 
     # f "Fuck, fuck~! Nnnh! Don't stop~!"
-    f ""
+    f "Бляха, бляха~! Нннх! Не зупиняйся~!"
 
 # game/scripts/ash_events.rpy:176
 translate uk_UA ash_fe_foursome_227a0566:
 
     # f "Fuck! I'm cumming~! Nnnh! I'm gonna cum~! Fuck, fuck, fuck~! Don't stop! NNNH!"
-    f ""
+    f "Бляха! Я кінчаю~! Нннх! Я зараз кінчу~! Бляха, бляха, бляха~! Не зупиняйся! НННХ!"
 
 # game/scripts/ash_events.rpy:178
 translate uk_UA ash_fe_foursome_098cd9c1:
 
     # f "AH, AAAAAHG~!" with sshake
-    f "" with sshake
+    f "АХ, АААААХГ~!" with sshake
 
 # game/scripts/ash_events.rpy:179
 translate uk_UA ash_fe_foursome_2af2037a:
@@ -622,19 +622,19 @@ translate uk_UA ash_fe_foursome_2af2037a:
 translate uk_UA ash_fe_foursome_7fcf3623:
 
     # a "Hehe~ she can't even control herself!" with ssshake
-    a "" with ssshake
+    a "Хехе~ вона навіть не може себе контролювати!" with ssshake
 
 # game/scripts/ash_events.rpy:182
 translate uk_UA ash_fe_foursome_27805175:
 
     # f "Nnnh... haahh... fuck..."
-    f ""
+    f "Нннх... хаахх... бляха..."
 
 # game/scripts/ash_events.rpy:183
 translate uk_UA ash_fe_foursome_ddd3bd7e:
 
     # f "That was... so goooood~"
-    f ""
+    f "Це було... так доооообре~"
 
 # game/scripts/ash_events.rpy:185
 translate uk_UA ash_fe_foursome_ab3ba3e6:
@@ -646,37 +646,37 @@ translate uk_UA ash_fe_foursome_ab3ba3e6:
 translate uk_UA ash_fe_foursome_a85f2c3a:
 
     # f "You... win? What do you mean you win?"
-    f ""
+    f "Ти... виграв? Що значить виграв?"
 
 # game/scripts/ash_events.rpy:187
 translate uk_UA ash_fe_foursome_04fdf37b:
 
     # em "I made him cum, so I win!"
-    em ""
+    em "Я довела його до оргазму, тож я перемогла!"
 
 # game/scripts/ash_events.rpy:189
 translate uk_UA ash_fe_foursome_ce5a28e8:
 
     # f "What? He came inside me...?"
-    f ""
+    f "Що? Він кінчив в мене...?"
 
 # game/scripts/ash_events.rpy:191
 translate uk_UA ash_fe_foursome_cd17c5bd:
 
     # em "Yep! And it was my pussy that did it, not yours."
-    em ""
+    em "Так! І це зробила моя пісічка, а не твоя."
 
 # game/scripts/ash_events.rpy:193
 translate uk_UA ash_fe_foursome_4c9ecfa7:
 
     # f "You're trying to gaslight me... hnnn..."
-    f ""
+    f "Ти намагаєшся мене обдурити... хннн..."
 
 # game/scripts/ash_events.rpy:195
 translate uk_UA ash_fe_foursome_b9d26be5:
 
     # a "Aww, are you sleepy? Was it too much...?"
-    a ""
+    a "Авв, ти сонна? Це було занадто...?"
 
 # game/scripts/ash_events.rpy:197
 translate uk_UA ash_fe_foursome_6fd1168e:
@@ -694,97 +694,97 @@ translate uk_UA ash_fe_foursome_0c2d706c:
 translate uk_UA ash_fe_foursome_605c8ab3:
 
     # cia "You guys ever miss home sometimes...?"
-    cia ""
+    cia "Ви, друзі, коли-небудь сумуєте за домом?"
 
 # game/scripts/ash_events.rpy:211
 translate uk_UA ash_fe_foursome_4948578e:
 
     # runa "Yeah... a lot more recently..."
-    runa ""
+    runa "Так... зовсім недавно..."
 
 # game/scripts/ash_events.rpy:212
 translate uk_UA ash_fe_foursome_3ddf1a38:
 
     # zoia "I don't see why we can't have some fun with that one. He seems pretty open minded..."
-    zoia ""
+    zoia "Не бачу, чому б нам не розважитися з ним. Він здається досить відкритим..."
 
 # game/scripts/ash_events.rpy:213
 translate uk_UA ash_fe_foursome_da218afb:
 
     # cia "His cock is bigger than we are, Zoia..."
-    cia ""
+    cia "У нього член більший, ніж у нас, Зоє..."
 
 # game/scripts/ash_events.rpy:214
 translate uk_UA ash_fe_foursome_c5665681:
 
     # runa "Technically speaking, insertion isn't a requirement for sex..."
-    runa ""
+    runa "Технічно кажучи, введення не є обов'язковою умовою для сексу..."
 
 # game/scripts/ash_events.rpy:215
 translate uk_UA ash_fe_foursome_962664dd:
 
     # zoia "Runa gets it! I'm sure we could find a way."
-    zoia ""
+    zoia "Руна зрозуміла! Я впевнений, ми знайдемо спосіб."
 
 # game/scripts/ash_events.rpy:422
 translate uk_UA ash_hangout_01_9b6460f9:
 
     # a "I always enjoy spending time with you, no matter what we do. I never thought I would be able to see another person like that. Other than Ren..."
-    a ""
+    a "Мені завжди приємно проводити з тобою час, що б ми не робили. Я ніколи не думала, що зможу побачити іншу таку людину. Крім Рен..."
 
 # game/scripts/ash_events.rpy:425
 translate uk_UA ash_hangout_01_5287f310:
 
     # a "You do? Really? Thank you so much!"
-    a ""
+    a "Справді? Дуже вам дякую!"
 
 # game/scripts/ash_events.rpy:426
 translate uk_UA ash_hangout_01_d5d1c902:
 
     # c "You don't have to thank me. The feeling is mutual, that's all."
-    c ""
+    c "Можеш не дякувати. Почуття взаємне, ось і все."
 
 # game/scripts/ash_events.rpy:428
 translate uk_UA ash_hangout_01_ff9c357e:
 
     # a "It's just... well, I never really felt very loved as a child... I didn't think I was very worthy of it..."
-    a ""
+    a "Просто... ну, я ніколи не відчувала, що мене дуже любили в дитинстві... Я не думала, що я цього варта..."
 
 # game/scripts/ash_events.rpy:430
 translate uk_UA ash_hangout_01_96020ddc:
 
     # a "So, when you say that, it makes me really happy! Thank you!"
-    a ""
+    a "Тому, коли ти так говориш, я дуже радію! Дякую тобі!"
 
 # game/scripts/ash_events.rpy:433
 translate uk_UA ash_hangout_01_ba8b68a2:
 
     # a "No, not really... I've had a few acquaintances, but nothing solid... nothing lasting..."
-    a ""
+    a "Ні, не дуже... У мене було кілька знайомих, але нічого серйозного... нічого тривалого..."
 
 # game/scripts/ash_events.rpy:434
 translate uk_UA ash_hangout_01_a8e059fd:
 
     # a "Maria used to be the only person I would call a friend, but we've only really gotten close since she moved in."
-    a ""
+    a "Раніше Марія була єдиною людиною, яку я могла назвати подругою, але ми по-справжньому зблизилися лише після того, як вона переїхала до мене."
 
 # game/scripts/ash_events.rpy:437
 translate uk_UA ash_hangout_01_bf7a4f48:
 
     # a "Now I like spending time with just about everyone in the hotel! Maria and I have gotten a lot closer, and Felicity and Emma are nice too."
-    a ""
+    a "Тепер мені подобається проводити час майже з усіма в готелі! Ми з Марією стали набагато ближчими, а Фелісіті та Емма теж дуже милі."
 
 # game/scripts/ash_events.rpy:439
 translate uk_UA ash_hangout_01_c9edc255:
 
     # a "Sometimes at night... I think about the person I was when I first moved in the hotel. *sigh*, I'm surprised most of them still tolerate me. I never thought they would be my friends one day..."
-    a ""
+    a "Іноді вночі... я думаю про те, якою я була, коли вперше оселилася в готелі. *зітхає* Дивно, що більшість з них досі мене терплять. Я ніколи не думала, що колись вони стануть моїми друзями..."
 
 # game/scripts/ash_events.rpy:440
 translate uk_UA ash_hangout_01_42b9dd73:
 
     # a "It might not seem like it, but I'm honestly a very loyal person. I would take a bullet for my friends, if it meant saving their lives. My friends are all I have, and I would protect them in any way I could."
-    a ""
+    a "Може здатися, що це не так, але насправді я дуже віддана людина. Я готова отримати кулю за своїх друзів, якщо це врятує їм життя. Мої друзі - це все, що у мене є, і я буду захищати їх у будь-який спосіб."
 
 # game/scripts/ash_events.rpy:441
 translate uk_UA ash_hangout_01_ead8c508:
