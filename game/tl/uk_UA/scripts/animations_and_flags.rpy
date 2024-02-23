@@ -4,29 +4,29 @@ translate uk_UA strings:
 
     # game/scripts/animations_and_flags.rpy:6
     old "Sun"
-    new ""
+    new "Нд"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Mon"
-    new ""
+    new "Пн"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Tue"
-    new ""
+    new "Вт"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Wed"
-    new ""
+    new "Ср"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Thu"
-    new ""
+    new "Чт"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Fri"
-    new ""
+    new "Пт"
 
     # game/scripts/animations_and_flags.rpy:6
     old "Sat"
-    new ""
+    new "Сб"
 
