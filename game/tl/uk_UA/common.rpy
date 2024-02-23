@@ -1,126 +1,126 @@
-﻿# TODO: Translation updated at 2022-12-11 22:15
+# TODO: Translation updated at 2022-12-11 22:15
 
 translate uk_UA strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new ""
+    new "Само озвучування вимкнено."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new ""
+    new "Увімкнено озвучення буфера обміну."
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new ""
+    new "Увімкнено автоматичне озвучення."
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new ""
+    new "бар"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new ""
+    new "вибрано"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new ""
+    new "область перегляду"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new ""
+    new "горизонтальна прокрутка"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new ""
+    new "вертикальна прокрутка"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new ""
+    new "активувати"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new ""
+    new "деактивувати"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new ""
+    new "збільшити"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new ""
+    new "зменшити"
 
     # renpy/common/00accessibility.rpy:138
     old "Font Override"
-    new ""
+    new "Перевизначення шрифту"
 
     # renpy/common/00accessibility.rpy:142
     old "Default"
-    new ""
+    new "За замовчуванням"
 
     # renpy/common/00accessibility.rpy:146
     old "DejaVu Sans"
-    new ""
+    new "DejaVu Sans"
 
     # renpy/common/00accessibility.rpy:150
     old "Opendyslexic"
-    new ""
+    new "Opendyslexic"
 
     # renpy/common/00accessibility.rpy:156
     old "Text Size Scaling"
-    new ""
+    new "Масштабування розміру тексту"
 
     # renpy/common/00accessibility.rpy:162
     old "Reset"
-    new ""
+    new "Скинути налаштування"
 
     # renpy/common/00accessibility.rpy:168
     old "Line Spacing Scaling"
-    new ""
+    new "Масштабування міжрядкового інтервалу"
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
-    new ""
+    new "Висококонтрастний текст"
 
     # renpy/common/00accessibility.rpy:182
     old "Enable"
-    new ""
+    new "Увімкнути"
 
     # renpy/common/00accessibility.rpy:186
     old "Disable"
-    new ""
+    new "Вимкнути"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
-    new ""
+    new "Само озвучування"
 
     # renpy/common/00accessibility.rpy:197
     old "Off"
-    new ""
+    new "Вимкнено"
 
     # renpy/common/00accessibility.rpy:201
     old "Text-to-speech"
-    new ""
+    new "Перетворення тексту в мовлення"
 
     # renpy/common/00accessibility.rpy:205
     old "Clipboard"
-    new ""
+    new "Буфер обміну"
 
     # renpy/common/00accessibility.rpy:209
     old "Debug"
-    new ""
+    new "Відладка"
 
     # renpy/common/00accessibility.rpy:215
     old "Self-Voicing Volume Drop"
-    new ""
+    new "Зниження гучності при само озвучуванні"
 
     # renpy/common/00accessibility.rpy:224
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new ""
+    new "Опції цього меню призначені для покращення доступності. Вони можуть працювати не з усіма іграми, а деякі комбінації опцій можуть зробити гру неможливою для гри. Це не є проблемою гри або рушія. Для досягнення найкращих результатів при зміні шрифтів намагайтеся зберігати розмір тексту таким, яким він був спочатку."
 
     # renpy/common/00accessibility.rpy:229
     old "Return"
-    new ""
+    new "Назад"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -288,19 +288,19 @@ translate uk_UA strings:
 
     # renpy/common/00action_file.rpy:497
     old "Delete slot [text]"
-    new ""
+    new "Видалити слот [text]"
 
     # renpy/common/00action_file.rpy:576
     old "File page auto"
-    new ""
+    new "Автоматична сторінка файлу"
 
     # renpy/common/00action_file.rpy:578
     old "File page quick"
-    new ""
+    new "Швидко завантажити сторінку"
 
     # renpy/common/00action_file.rpy:580
     old "File page [text]"
-    new ""
+    new "Сторінка файлу [text]"
 
     # renpy/common/00action_file.rpy:638
     old "Page {}"
@@ -308,39 +308,39 @@ translate uk_UA strings:
 
     # renpy/common/00action_file.rpy:638
     old "Automatic saves"
-    new ""
+    new "Автоматичне збереження"
 
     # renpy/common/00action_file.rpy:638
     old "Quick saves"
-    new ""
+    new "Швидкі збереження"
 
     # renpy/common/00action_file.rpy:779
     old "Next file page."
-    new ""
+    new "Наступна сторінка файлу."
 
     # renpy/common/00action_file.rpy:851
     old "Previous file page."
-    new ""
+    new "Попередня сторінка файлу."
 
     # renpy/common/00action_file.rpy:912
     old "Quick save complete."
-    new ""
+    new "Швидке збереження завершено."
 
     # renpy/common/00action_file.rpy:930
     old "Quick save."
-    new ""
+    new "Швидке збереження."
 
     # renpy/common/00action_file.rpy:949
     old "Quick load."
-    new ""
+    new "Швидке завантаження."
 
     # renpy/common/00action_other.rpy:375
     old "Language [text]"
-    new ""
+    new "Мова [text]"
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
-    new ""
+    new "Інтерактивний режисер тут не ввімкнений."
 
     # renpy/common/00director.rpy:1481
     old "⬆"
@@ -352,7 +352,7 @@ translate uk_UA strings:
 
     # renpy/common/00director.rpy:1551
     old "Done"
-    new ""
+    new "Зроблено."
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
@@ -384,19 +384,19 @@ translate uk_UA strings:
 
     # renpy/common/00director.rpy:1631
     old "Change"
-    new ""
+    new "Змінити"
 
     # renpy/common/00director.rpy:1633
     old "Add"
-    new ""
+    new "Додати"
 
     # renpy/common/00director.rpy:1636
     old "Cancel"
-    new ""
+    new "Скасувати"
 
     # renpy/common/00director.rpy:1639
     old "Remove"
-    new ""
+    new "Видалити"
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
@@ -432,43 +432,43 @@ translate uk_UA strings:
 
     # renpy/common/00gui.rpy:423
     old "Are you sure?"
-    new ""
+    new "Ти впевнений?"
 
     # renpy/common/00gui.rpy:424
     old "Are you sure you want to delete this save?"
-    new ""
+    new "Ти впевнений, що хочеш видалити це збереження?"
 
     # renpy/common/00gui.rpy:425
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "Ти впевнений, що хочеш перезаписати збереження?"
 
     # renpy/common/00gui.rpy:426
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "При завантаженні буде втрачено незбережений прогрес.\nТи впевнений, що хочеш це зробити?"
 
     # renpy/common/00gui.rpy:427
     old "Are you sure you want to quit?"
-    new ""
+    new "Ти впевнений, що хочеш вийти?"
 
     # renpy/common/00gui.rpy:428
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "Ти впевнений, що хочеш повернутися до головного меню?\nЦе призведе до втрати незбереженого прогресу."
 
     # renpy/common/00gui.rpy:429
     old "Are you sure you want to end the replay?"
-    new ""
+    new "Ти впевнений, що хочеш завершити відтворення?"
 
     # renpy/common/00gui.rpy:430
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "Ти впевнений, що хочеш почати пропускати?"
 
     # renpy/common/00gui.rpy:431
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "Ти впевнений, що хочеш перейти до наступного варіанту?"
 
     # renpy/common/00gui.rpy:432
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "Ти впевнений, що хочеш пропустити невидимий діалог до наступного вибору?"
 
     # renpy/common/00keymap.rpy:306
     old "Failed to save screenshot as %s."
@@ -480,7 +480,7 @@ translate uk_UA strings:
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
-    new ""
+    new "Режим пропуску"
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
@@ -488,123 +488,123 @@ translate uk_UA strings:
 
     # renpy/common/00preferences.rpy:254
     old "display"
-    new ""
+    new "дисплей"
 
     # renpy/common/00preferences.rpy:266
     old "transitions"
-    new ""
+    new "переходи"
 
     # renpy/common/00preferences.rpy:275
     old "skip transitions"
-    new ""
+    new "пропускати переходи"
 
     # renpy/common/00preferences.rpy:277
     old "video sprites"
-    new ""
+    new "відео спрайти"
 
     # renpy/common/00preferences.rpy:286
     old "show empty window"
-    new ""
+    new "показати порожнє вікно"
 
     # renpy/common/00preferences.rpy:295
     old "text speed"
-    new ""
+    new "швидкість тексту"
 
     # renpy/common/00preferences.rpy:303
     old "joystick"
-    new ""
+    new "джойстик"
 
     # renpy/common/00preferences.rpy:303
     old "joystick..."
-    new ""
+    new "джойстик..."
 
     # renpy/common/00preferences.rpy:310
     old "skip"
-    new ""
+    new "пропустити"
 
     # renpy/common/00preferences.rpy:313
     old "skip unseen [text]"
-    new ""
+    new "пропустити невидимі [text]"
 
     # renpy/common/00preferences.rpy:318
     old "skip unseen text"
-    new ""
+    new "пропустити невидимий текст"
 
     # renpy/common/00preferences.rpy:320
     old "begin skipping"
-    new ""
+    new "починати пропускати"
 
     # renpy/common/00preferences.rpy:324
     old "after choices"
-    new ""
+    new "після виборів"
 
     # renpy/common/00preferences.rpy:331
     old "skip after choices"
-    new ""
+    new "пропустити після вибору"
 
     # renpy/common/00preferences.rpy:333
     old "auto-forward time"
-    new ""
+    new "автоматичне перемотування часу"
 
     # renpy/common/00preferences.rpy:347
     old "auto-forward"
-    new ""
+    new "автоперемотка"
 
     # renpy/common/00preferences.rpy:354
     old "Auto forward"
-    new ""
+    new "Перемотка вперед"
 
     # renpy/common/00preferences.rpy:357
     old "auto-forward after click"
-    new ""
+    new "автоперемотка після кліку"
 
     # renpy/common/00preferences.rpy:366
     old "automatic move"
-    new ""
+    new "автоматичне переміщення"
 
     # renpy/common/00preferences.rpy:375
     old "wait for voice"
-    new ""
+    new "зачекати на голос"
 
     # renpy/common/00preferences.rpy:384
     old "voice sustain"
-    new ""
+    new "підтримка голосу"
 
     # renpy/common/00preferences.rpy:393
     old "self voicing"
-    new ""
+    new "само озвучування"
 
     # renpy/common/00preferences.rpy:402
     old "self voicing volume drop"
-    new ""
+    new "зниження гучності само озвучування"
 
     # renpy/common/00preferences.rpy:410
     old "clipboard voicing"
-    new ""
+    new "озвучення буфера обміну"
 
     # renpy/common/00preferences.rpy:419
     old "debug voicing"
-    new ""
+    new "відладка озвучення"
 
     # renpy/common/00preferences.rpy:428
     old "emphasize audio"
-    new ""
+    new "підкреслити звук"
 
     # renpy/common/00preferences.rpy:437
     old "rollback side"
-    new ""
+    new "сторона відкату"
 
     # renpy/common/00preferences.rpy:447
     old "gl powersave"
-    new ""
+    new "gl powersave"
 
     # renpy/common/00preferences.rpy:453
     old "gl framerate"
-    new ""
+    new "gl framerate"
 
     # renpy/common/00preferences.rpy:456
     old "gl tearing"
-    new ""
+    new "gl tearing"
 
     # renpy/common/00preferences.rpy:459
     old "font transform"
