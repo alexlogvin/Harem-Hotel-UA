@@ -4,5 +4,5 @@ translate uk_UA strings:
 
     # game/scripts/gallery.rpy:244
     old "Others"
-    new ""
+    new "Інші"
 
