@@ -256,7 +256,7 @@ translate uk_UA code_65b679a4_14:
 translate uk_UA code_567e6a97:
 
     # "This code will max out all of Ashley's stats as of the current update. This will skip all story. Are you sure?"
-    "Цей код максимально збільшить всю статистику Ешлі станом на поточне оновлення. Це пропустить всю історію. Ти впевнений?"
+    "Цей код максимально збільшить всю статистику Ешлі станом на поточне оновлення. Це пропустить всю історію. Ви впевнені?"
 
 # game/scripts/input_code.rpy:593
 translate uk_UA code_65b679a4_15:
