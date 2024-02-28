@@ -16,7 +16,7 @@ translate uk_UA strings:
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new "бар"
+    new "bar"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
