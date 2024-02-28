@@ -34,7 +34,7 @@ translate uk_UA phone_calls_ce323476:
 translate uk_UA phone_calls_7e2aca1e:
 
     # z "I'm frigging horny!!!!"
-    z "Я до біса збуджений!!!!"
+    z "Я до біса збуджена!!!!"
 
 # game/smartphone/example.rpy:76
 translate uk_UA phone_calls_b6f1a873:
@@ -58,7 +58,7 @@ translate uk_UA phone_calls_517f589c:
 translate uk_UA smartphone_chat_hi_69e71318:
 
     # text "I should get closer to [girlname] first."
-    text "Спочатку я повинен наблизитися до [girlname]."
+    text "Спочатку я повинен зблизитися з [girlname]."
 
 # game/smartphone/example.rpy:149
 translate uk_UA phone_incomming_call_7543ea61:
@@ -94,7 +94,7 @@ translate uk_UA phone_incomming_call_ce323476:
 translate uk_UA phone_incomming_call_7e2aca1e:
 
     # z "I'm frigging horny!!!!"
-    z "Я до біса збуджений!!!!"
+    z "Я до біса збуджена!!!!"
 
 # game/smartphone/example.rpy:160
 translate uk_UA phone_incomming_call_b6f1a873:
