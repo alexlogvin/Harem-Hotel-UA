@@ -4,7 +4,7 @@ translate uk_UA strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "Само озвучування вимкнено."
+    new "Автоматичне озвучення вимкнено."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
@@ -92,7 +92,7 @@ translate uk_UA strings:
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
-    new "Само озвучування"
+    new "Автоматичне озвучення"
 
     # renpy/common/00accessibility.rpy:197
     old "Off"
@@ -116,7 +116,7 @@ translate uk_UA strings:
 
     # renpy/common/00accessibility.rpy:224
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "Опції цього меню призначені для покращення доступності. Вони можуть працювати не з усіма іграми, а деякі комбінації опцій можуть зробити гру неможливою для гри. Це не є проблемою гри або рушія. Для досягнення найкращих результатів при зміні шрифтів намагайтеся зберігати розмір тексту таким, яким він був спочатку."
+    new "Опції цього меню призначені для покращення доступності. Вони можуть працювати не з усіма іграми, а деякі комбінації опцій можуть зробити гру неможливою для гри. Це не є проблемою гри чи ігрової платформи. Для досягнення найкращих результатів при зміні шрифтів намагайтеся зберігати розмір тексту близьким до оригіналу."
 
     # renpy/common/00accessibility.rpy:229
     old "Return"
@@ -304,7 +304,7 @@ translate uk_UA strings:
 
     # renpy/common/00action_file.rpy:638
     old "Page {}"
-    new ""
+    new "Сторінка {}"
 
     # renpy/common/00action_file.rpy:638
     old "Automatic saves"
@@ -432,43 +432,43 @@ translate uk_UA strings:
 
     # renpy/common/00gui.rpy:423
     old "Are you sure?"
-    new "Ти впевнений?"
+    new "Ви впевнені?"
 
     # renpy/common/00gui.rpy:424
     old "Are you sure you want to delete this save?"
-    new "Ти впевнений, що хочеш видалити це збереження?"
+    new "Ви впевнені, що хочете видалити це збереження?"
 
     # renpy/common/00gui.rpy:425
     old "Are you sure you want to overwrite your save?"
-    new "Ти впевнений, що хочеш перезаписати збереження?"
+    new "Ви впевнені, що хочете перезаписати збереження?"
 
     # renpy/common/00gui.rpy:426
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "При завантаженні буде втрачено незбережений прогрес.\nТи впевнений, що хочеш це зробити?"
+    new "При завантаженні буде втрачено незбережений прогрес.\nВи впевнені, що хочете це зробити?"
 
     # renpy/common/00gui.rpy:427
     old "Are you sure you want to quit?"
-    new "Ти впевнений, що хочеш вийти?"
+    new "Ви впевнені, що хочете вийти?"
 
     # renpy/common/00gui.rpy:428
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Ти впевнений, що хочеш повернутися до головного меню?\nЦе призведе до втрати незбереженого прогресу."
+    new "Ви впевнені, що хочете повернутися до головного меню?\nЦе призведе до втрати незбереженого прогресу."
 
     # renpy/common/00gui.rpy:429
     old "Are you sure you want to end the replay?"
-    new "Ти впевнений, що хочеш завершити відтворення?"
+    new "Ви впевнені, що хочете завершити відтворення?"
 
     # renpy/common/00gui.rpy:430
     old "Are you sure you want to begin skipping?"
-    new "Ти впевнений, що хочеш почати пропускати?"
+    new "Ви впевнені, що хочете почати пропускати?"
 
     # renpy/common/00gui.rpy:431
     old "Are you sure you want to skip to the next choice?"
-    new "Ти впевнений, що хочеш перейти до наступного варіанту?"
+    new "Ви впевнені, що хочете перейти до наступного варіанту?"
 
     # renpy/common/00gui.rpy:432
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Ти впевнений, що хочеш пропустити невидимий діалог до наступного вибору?"
+    new "Ви впевнені, що хочете пропустити раніше не прочитаний діалог до наступного вибору?"
 
     # renpy/common/00keymap.rpy:306
     old "Failed to save screenshot as %s."
@@ -524,11 +524,11 @@ translate uk_UA strings:
 
     # renpy/common/00preferences.rpy:313
     old "skip unseen [text]"
-    new "пропустити невидимі [text]"
+    new "пропустити раніше не прочитане [text]"
 
     # renpy/common/00preferences.rpy:318
     old "skip unseen text"
-    new "пропустити невидимий текст"
+    new "пропустити раніше не прочитаний текст"
 
     # renpy/common/00preferences.rpy:320
     old "begin skipping"
@@ -536,7 +536,7 @@ translate uk_UA strings:
 
     # renpy/common/00preferences.rpy:324
     old "after choices"
-    new "після виборів"
+    new "після вибору"
 
     # renpy/common/00preferences.rpy:331
     old "skip after choices"
