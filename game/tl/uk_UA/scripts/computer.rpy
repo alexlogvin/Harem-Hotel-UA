@@ -4,7 +4,7 @@
 translate uk_UA computer_7703385a:
 
     # "You tried to use the computer, but the image you have selected for the pc wallpaper is missing from the game files."
-    "Ти спробував скористатися комп'ютером, але зображення, яке ти вибрав для шпалер комп'ютера, відсутнє у файлах гри."
+    "Ви спробували скористатися комп'ютером, але зображення, яке ви обрали для шпалер комп'ютера, відсутнє у файлах гри."
 
 # game/scripts/computer.rpy:150
 translate uk_UA patreon_6025b173:
