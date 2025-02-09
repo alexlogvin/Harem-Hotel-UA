@@ -3654,3 +3654,343 @@ translate uk_UA strings:
     old "Chinese"
     new ""
 
+# TODO: Translation updated at 2025-02-09 00:44
+
+translate uk_UA strings:
+
+    # game/scripts/screens.rpy:2614
+    old "{alpha=-0}{u}{size=-5}Total Progress{/size}{/u}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2617
+    old "{alpha=-0}{size=-5}[progress_display]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2625
+    old "{alpha=-0}{u}{size=-5}Quest Goals{/size}{/u}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2637
+    old "{b}Completed!{/b}"
+    new ""
+
+    # game/scripts/screens.rpy:2639
+    old "{alpha=-0}{size=-5}{u}[goal_name]{/u}{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2642
+    old "{alpha=-0}{size=-5}Progress: [goal_progress]/[goal_target]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2651
+    old "{alpha=-0}{u}{size=-5}Quest Rewards{/size}{/u}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2657
+    old "{alpha=-0}{size=-5}[reward_name] x[reward_amount]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2762
+    old "{alpha=-0}{u}{size=-5}Fertilizers{/size}{/u}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2766
+    old "{alpha=-0}{size=-5}[fertilizer_name!t]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2773
+    old "{alpha=-0}{u}{size=-5}Bug Sprays{/size}{/u}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2777
+    old "{alpha=-0}{size=-5}[bug_spray_name!t]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2789
+    old "{alpha=-0}{u}{size=-5}Garden Crops{/size}{/u}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2793
+    old "{alpha=-0}{size=-5}[crop_name!t]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2801
+    old "{alpha=-0}{u}{size=-5}Seed Packs{/size}{/u}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2805
+    old "{alpha=-0}{size=-5}[seed_name!t]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2813
+    old "{alpha=-0}{u}{size=-5}Shroom Juice{/size}{/u}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:2816
+    old "{alpha=-0}{size=-5}Juzi x[shroom_juice_count]{/size}{/alpha}"
+    new ""
+
+    # game/scripts/screens.rpy:8184
+    old "Dates & Affection"
+    new ""
+
+    # game/scripts/screens.rpy:8211
+    old "Sluttiness & Lust"
+    new ""
+
+    # game/scripts/screens.rpy:8239
+    old "Exploring Caliber"
+    new ""
+
+    # game/scripts/screens.rpy:8267
+    old "Pinups & Profits"
+    new ""
+
+    # game/scripts/screens.rpy:8295
+    old "The Bar & The Waitress"
+    new ""
+
+    # game/scripts/screens.rpy:8351
+    old "The Garden"
+    new ""
+
+    # game/scripts/screens.rpy:8358
+    old "The farmable garden is a great way to make income! In the future, you may even be able to hire someone to manage it for you."
+    new ""
+
+    # game/scripts/screens.rpy:8359
+    old "For now, it's up to you to develop the skills needed to make a successful and efficient business selling crops. After the hotel gets their share, of course!"
+    new ""
+
+    # game/scripts/screens.rpy:8360
+    old "Most crops are made to be sold, but some will have effects when given to one of the main characters. From aphrodesiacs, to nice gifts."
+    new ""
+
+    # game/scripts/screens.rpy:8385
+    old "Crops must be tended to daily until you find someone to manage it for you. Until then, you must water them and tend to the bugs if they pop up. Fertilizing each plot will also speed things up."
+    new ""
+
+    # game/scripts/screens.rpy:8386
+    old "Basic soil plots are prone to bugs and disease, which will slow down growth. The better your plot, the faster your plants will grow."
+    new ""
+
+    # game/scripts/screens.rpy:8387
+    old "Some crops can only be grown on upgraded plots. You'll start with basic crops like potatoes, and move up to advanced (and profitable) elvish crops with various effects."
+    new ""
+
+    # game/scripts/screens.rpy:8416
+    old "But you will need seeds before you can start! You can find the garden shop at The Park, in the Residential District."
+    new ""
+
+    # game/scripts/screens.rpy:8417
+    old "If you're feeling generous, you may even participate in the Food Drive. Donating crops to those in need will also provide rewards!"
+    new ""
+
+    # game/scripts/screens.rpy:8418
+    old "Enjoy!"
+    new ""
+
+    # game/scripts/screens.rpy:8440
+    old "Bowling Tournaments"
+    new ""
+
+    # game/scripts/screens.rpy:8467
+    old "BDSM Tips"
+    new ""
+
+    # game/scripts/screens.rpy:8492
+    old "Garden Tips"
+    new ""
+
+    # game/scripts/screens.rpy:8517
+    old "Last Time with Ashley"
+    new ""
+
+    # game/scripts/screens.rpy:8524
+    old "You and Ashley go to Lowtown, a dangerous city in the sewers under Caliber inhabited by the unwanted of all types. After asking around, you find Rasha of Tijara, a greedy Tindi salesman working for the Blue Dragons willing to tell you what he knows of Ms. Ren for a price."
+    new ""
+
+    # game/scripts/screens.rpy:8541
+    old "Ashley's Story in v0.16"
+    new ""
+
+    # game/scripts/screens.rpy:8569
+    old "Ashley's Story in v0.14"
+    new ""
+
+    # game/scripts/screens.rpy:8597
+    old "Ashley's Story in v0.13"
+    new ""
+
+    # game/scripts/screens.rpy:8625
+    old "Ashley's Story in v0.12"
+    new ""
+
+    # game/scripts/screens.rpy:8654
+    old "Last Time with Maria"
+    new ""
+
+    # game/scripts/screens.rpy:8661
+    old "Maria trains with her friends in the bar, building skills to use on her next mission."
+    new ""
+
+    # game/scripts/screens.rpy:8679
+    old "Maria's Story in v0.16"
+    new ""
+
+    # game/scripts/screens.rpy:8707
+    old "Maria's Story in v0.15"
+    new ""
+
+    # game/scripts/screens.rpy:8714
+    old "Maria and Nia plot to save a rare elf by any means necessary. Maria undergoes basic survival/combat training, and although slow at first, Maria eventually improves while Nia showcases the potential of her training on you."
+    new ""
+
+    # game/scripts/screens.rpy:8735
+    old "Maria's Story in v0.14, Part 2"
+    new ""
+
+    # game/scripts/screens.rpy:8763
+    old "Maria's Story in v0.14, Part 1"
+    new ""
+
+    # game/scripts/screens.rpy:8792
+    old "Last Time with Kali"
+    new ""
+
+    # game/scripts/screens.rpy:8799
+    old "Kali is surprised by a flight to Corpus by private jet. Her father buys her a new apartment near her new job, and her step-mother Mariella visits with groceries, and a new look."
+    new ""
+
+    # game/scripts/screens.rpy:8816
+    old "Kali's Story in v0.16"
+    new ""
+
+    # game/scripts/screens.rpy:8844
+    old "Kali's Story in v0.15"
+    new ""
+
+    # game/scripts/screens.rpy:8872
+    old "Kali's Story in v0.14"
+    new ""
+
+    # game/scripts/screens.rpy:8900
+    old "Kali's Story in v0.13"
+    new ""
+
+    # game/scripts/screens.rpy:8928
+    old "Last Time with Lin, Part 2"
+    new ""
+
+    # game/scripts/screens.rpy:8935
+    old "Wishing for change, Lin stages a protest in Caliber alone. Things get hectic as the news picks it up and more people - and police - join. With [botname]'s help, everything seems to be going well until the government releases Archon."
+    new ""
+
+    # game/scripts/screens.rpy:8952
+    old "Last Time with Lin, Part 1"
+    new ""
+
+    # game/scripts/screens.rpy:8959
+    old "Planning something big, Lin prepares a dinner for most of the hotel. After and emotional moment, Lin thanks everyone for the good times they've all shared together."
+    new ""
+
+    # game/scripts/screens.rpy:8981
+    old "Lin's Story in v0.15"
+    new ""
+
+    # game/scripts/screens.rpy:9009
+    old "Lin's Story in v0.14"
+    new ""
+
+    # game/scripts/screens.rpy:9037
+    old "Lin's Story in v0.13"
+    new ""
+
+    # game/scripts/screens.rpy:9065
+    old "Lin's Story in v0.12"
+    new ""
+
+    # game/scripts/screens.rpy:9094
+    old "Last Time with [botname]"
+    new ""
+
+    # game/scripts/screens.rpy:9101
+    old "Wishing to build a future for her people, [botname] develops Cyberspace and teaches Ally everything that is needed to know about it."
+    new ""
+
+    # game/scripts/screens.rpy:9147
+    old "[botname]'s Story in v0.15"
+    new ""
+
+    # game/scripts/screens.rpy:9175
+    old "[botname]'s Story in v0.14"
+    new ""
+
+    # game/scripts/screens.rpy:9203
+    old "[botname]'s Story in v0.13"
+    new ""
+
+    # game/scripts/screens.rpy:9233
+    old "Last Time with Felicity & Emma"
+    new ""
+
+    # game/scripts/screens.rpy:9240
+    old "Felicity and Emma interrupt you while consulting Ellen about improving the security of the hotel to spend some lovely time with you."
+    new ""
+
+    # game/scripts/screens.rpy:9257
+    old "Felicity & Emma's Story in v0.16, Part 2"
+    new ""
+
+    # game/scripts/screens.rpy:9285
+    old "Felicity & Emma's Story in v0.16, Part 1"
+    new ""
+
+    # game/scripts/screens.rpy:9313
+    old "Felicity & Emma's Story in v0.15"
+    new ""
+
+    # game/scripts/screens.rpy:9341
+    old "Felicity & Emma's Story in v0.14"
+    new ""
+
+    # game/scripts/screens.rpy:9371
+    old "Last Time with Autumn"
+    new ""
+
+    # game/scripts/screens.rpy:9378
+    old "Elder Delilah harshly reeducates a group of elves as Autumn and Hazel are promoted to the role of Initiates and expected to fill the void Saint Abby left by using the same harsh methods to reeducate elves. Though one familiar elf decides to rebel by shocking Hazel and running away."
+    new ""
+
+    # game/scripts/screens.rpy:9395
+    old "Autumn's story in v0.16, Part 4"
+    new ""
+
+    # game/scripts/screens.rpy:9423
+    old "Autumn's story in v0.16, Part 3"
+    new ""
+
+    # game/scripts/screens.rpy:9451
+    old "Autumn's story in v0.16, Part 2"
+    new ""
+
+    # game/scripts/screens.rpy:9479
+    old "Autumn's story in v0.16, Part 1"
+    new ""
+
+    # game/scripts/screens.rpy:10455
+    old "{color=#8C8C8C}<Left{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:10457
+    old "<Left"
+    new ""
+
+    # game/scripts/screens.rpy:10460
+    old "{color=#8C8C8C}Right>{/color}"
+    new ""
+
+    # game/scripts/screens.rpy:10462
+    old "Right>"
+    new ""
+

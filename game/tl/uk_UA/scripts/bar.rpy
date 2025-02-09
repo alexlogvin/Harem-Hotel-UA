@@ -18102,3 +18102,51 @@ translate uk_UA strings:
     old "You can call me Mr. Moon."
     new ""
 
+# TODO: Translation updated at 2025-02-09 00:44
+
+# game/scripts/bar.rpy:2562
+translate uk_UA drinking2_a212d911:
+
+    # "You don't have any Elvish Hops to deliver."
+    ""
+
+# game/scripts/bar.rpy:2565
+translate uk_UA drinking2_b30e9ba2:
+
+    # m "Great! Now we'll save money on buying beer!"
+    m ""
+
+# game/scripts/bar.rpy:2567
+translate uk_UA drinking2_665c7d94:
+
+    # "You gained $[elvish_hops_value]!"
+    ""
+
+# game/scripts/bar.rpy:2669
+translate uk_UA drinking_a212d911:
+
+    # "You don't have any Elvish Hops to deliver."
+    ""
+
+# game/scripts/bar.rpy:2672
+translate uk_UA drinking_733b300d:
+
+    # bart "Great! Thanks boss. We can save money on buying beer now!"
+    bart ""
+
+# game/scripts/bar.rpy:2674
+translate uk_UA drinking_665c7d94:
+
+    # "You gained $[elvish_hops_value]!"
+    ""
+
+translate uk_UA strings:
+
+    # game/scripts/bar.rpy:2488
+    old "{color=#8C8C8C}Deliver Elvish Hops{/color}"
+    new ""
+
+    # game/scripts/bar.rpy:2488
+    old "Deliver Elvish Hops {color=#30EA3C}(+$[elvish_hops_value]){/color}"
+    new ""
+

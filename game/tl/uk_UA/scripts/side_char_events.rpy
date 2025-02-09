@@ -45494,3 +45494,3981 @@ translate uk_UA strings:
     old "Fuck Ami"
     new ""
 
+# TODO: Translation updated at 2025-02-09 00:44
+
+# game/scripts/side_char_events.rpy:769
+translate uk_UA jin_story6_1b4f2402:
+
+    # j "Just go away..."
+    j ""
+
+# game/scripts/side_char_events.rpy:770
+translate uk_UA jin_story6_5be642d0:
+
+    # l "Please Jinny, you can't stay like this all day."
+    l ""
+
+# game/scripts/side_char_events.rpy:772
+translate uk_UA jin_story6_7e9ecbed:
+
+    # c "Hey-"
+    c ""
+
+# game/scripts/side_char_events.rpy:773
+translate uk_UA jin_story6_255ce76c:
+
+    # j "TURN IT OFF!!!" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:774
+translate uk_UA jin_story6_33d6c806:
+
+    # l "Ah, [linoname], please keep the light off for now. It's bothering her..."
+    l ""
+
+# game/scripts/side_char_events.rpy:776
+translate uk_UA jin_story6_bab25ea7:
+
+    # j "{i}Just go away, I want to sleep...{/i}"
+    j ""
+
+# game/scripts/side_char_events.rpy:777
+translate uk_UA jin_story6_bc27a43e:
+
+    # l "You've done nothing but sleep for days, Jinny...!"
+    l ""
+
+# game/scripts/side_char_events.rpy:778
+translate uk_UA jin_story6_b4fa3fc0:
+
+    # j "..."
+    j ""
+
+# game/scripts/side_char_events.rpy:780
+translate uk_UA jin_story6_45e2c8a5:
+
+    # l "{i}I don't know what to do... I thought taking her off those drugs would bring her back, but...{/i}"
+    l ""
+
+# game/scripts/side_char_events.rpy:781
+translate uk_UA jin_story6_a954960e:
+
+    # c "{i}She's going through withdrawal symptoms. She probably lost her libido too, which was the only way she could have any fun.{/i}"
+    c ""
+
+# game/scripts/side_char_events.rpy:783
+translate uk_UA jin_story6_efb732e3:
+
+    # l "{i}But I've tried to invite her to dinner, or a nice walk on the beach, or even a movie. She just doesn't want to have any fun...{/i}"
+    l ""
+
+# game/scripts/side_char_events.rpy:784
+translate uk_UA jin_story6_dfbd3913:
+
+    # c "{i}She probably can't have any fun at all right now. What she needs is something to take her mind off things until the symptoms pass.{/i}"
+    c ""
+
+# game/scripts/side_char_events.rpy:785
+translate uk_UA jin_story6_38f711a6:
+
+    # l "{i}Are you sure she won't be like this forever? Maybe she really does need those drugs...{/i}"
+    l ""
+
+# game/scripts/side_char_events.rpy:786
+translate uk_UA jin_story6_d51eff29:
+
+    # c "{i}I've seen this before, the brain will always return to equilibrium with enough time. It's what happens in between that really sucks...{/i}"
+    c ""
+
+# game/scripts/side_char_events.rpy:787
+translate uk_UA jin_story6_f9673a0b:
+
+    # c "{i}I know what she can do! She can tend to the garden. That will give her a reason to wake up every morning, a reason to see tomorrow, and give her goals.{/i}"
+    c ""
+
+# game/scripts/side_char_events.rpy:789
+translate uk_UA jin_story6_cb17dd79:
+
+    # l "*gasp*! Oh, it's perfect!"
+    l ""
+
+# game/scripts/side_char_events.rpy:790
+translate uk_UA jin_story6_d958d5a0:
+
+    # j "SHUT UP!" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:792
+translate uk_UA jin_story6_da0b66dc:
+
+    # l "Jinny! We have a job for you~"
+    l ""
+
+# game/scripts/side_char_events.rpy:793
+translate uk_UA jin_story6_57a64f64:
+
+    # j "Fuck off!"
+    j ""
+
+# game/scripts/side_char_events.rpy:794
+translate uk_UA jin_story6_33cc62db:
+
+    # l "You can garden, Jinny! Don't you remember teaching me to garden as a child?"
+    l ""
+
+# game/scripts/side_char_events.rpy:795
+translate uk_UA jin_story6_d0097193:
+
+    # j "The only way I'm leaving this bed is if you force me..."
+    j ""
+
+# game/scripts/side_char_events.rpy:796
+translate uk_UA jin_story6_5a141414:
+
+    # l "Don't be like that, Jinny..."
+    l ""
+
+# game/scripts/side_char_events.rpy:799
+translate uk_UA jinny6choice_1cadd9e1:
+
+    # j "Suck my dick!"
+    j ""
+
+# game/scripts/side_char_events.rpy:800
+translate uk_UA jinny6choice_b1978d7e:
+
+    # l "*gasp*!"
+    l ""
+
+# game/scripts/side_char_events.rpy:803
+translate uk_UA jinny6choice_9380cb4c:
+
+    # j "I fucking dare you! Maybe my next master will actually treat me right!"
+    j ""
+
+# game/scripts/side_char_events.rpy:804
+translate uk_UA jinny6choice_c9861826:
+
+    # l "Jinny..."
+    l ""
+
+# game/scripts/side_char_events.rpy:807
+translate uk_UA jinny6choice_546281ca:
+
+    # j "Bullshit! Not falling for it!"
+    j ""
+
+# game/scripts/side_char_events.rpy:810
+translate uk_UA jinny6choice_d3c01138:
+
+    # c "Excuse me, Lin."
+    c ""
+
+# game/scripts/side_char_events.rpy:812
+translate uk_UA jinny6choice_efdfa5a6:
+
+    # l "What are you...?"
+    l ""
+
+# game/scripts/side_char_events.rpy:813
+translate uk_UA jinny6choice_7149cf3c:
+
+    # j "AGH! HEY!!!" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:815
+translate uk_UA jinny6choice_61ee814d:
+
+    # j "LET ME GO!" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:816
+translate uk_UA jinny6choice_f97052f7:
+
+    # l "It's for your own good, Jinny..."
+    l ""
+
+# game/scripts/side_char_events.rpy:818
+translate uk_UA jinny6choice_4d882e32:
+
+    # j "Noooooooooo...! Just let me sleep...!" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:822
+translate uk_UA jinny6choice_ec44b45d:
+
+    # j "What the hell? I wasn't actually giving you permission."
+    j ""
+
+# game/scripts/side_char_events.rpy:823
+translate uk_UA jinny6choice_7f2eaf34:
+
+    # l "Jinny, will you help me with the garden? Pleeeease?"
+    l ""
+
+# game/scripts/side_char_events.rpy:824
+translate uk_UA jinny6choice_dbb43edc:
+
+    # j "I'm exhausted, I don't want to work!"
+    j ""
+
+# game/scripts/side_char_events.rpy:825
+translate uk_UA jinny6choice_fae64c09:
+
+    # c "I carried you here."
+    c ""
+
+# game/scripts/side_char_events.rpy:827
+translate uk_UA jinny6choice_cf71ac45:
+
+    # l "Come on, Jinny. Do you want to feel like this forever?"
+    l ""
+
+# game/scripts/side_char_events.rpy:828
+translate uk_UA jinny6choice_133deb92:
+
+    # j "Of course not! That's why I want my drugs back!"
+    j ""
+
+# game/scripts/side_char_events.rpy:829
+translate uk_UA jinny6choice_6819a237:
+
+    # l "You don't need drugs to enjoy life..."
+    l ""
+
+# game/scripts/side_char_events.rpy:830
+translate uk_UA jinny6choice_585fbfa3:
+
+    # j "I've been taking those drugs for decades, Lin, decades! Yes, I do fucking need them!"
+    j ""
+
+# game/scripts/side_char_events.rpy:831
+translate uk_UA jinny6choice_b1b2175c:
+
+    # l "Th-The symptoms will, um, w-withdraw...?"
+    l ""
+
+# game/scripts/side_char_events.rpy:832
+translate uk_UA jinny6choice_ebcfbc46:
+
+    # c "She's trying to say you'll feel better soon, Jin. Just keep it up. You're doing great."
+    c ""
+
+# game/scripts/side_char_events.rpy:834
+translate uk_UA jinny6choice_ed5be064:
+
+    # j "You have no idea what it's like!"
+    j ""
+
+# game/scripts/side_char_events.rpy:835
+translate uk_UA jinny6choice_82822a0c:
+
+    # l "..."
+    l ""
+
+# game/scripts/side_char_events.rpy:837
+translate uk_UA jinny6choice_7b99ae65:
+
+    # l "{i}I don't know if this will work, [linoname]...{/i}"
+    l ""
+
+# game/scripts/side_char_events.rpy:838
+translate uk_UA jinny6choice_46aeb038:
+
+    # c "She just needs something to focus on."
+    c ""
+
+# game/scripts/side_char_events.rpy:840
+translate uk_UA jinny6choice_00bace35:
+
+    # j "{i}Fucking bullshit...\nNobody understands me...\nWhat is my life coming to?\nWhat the fuck am I even doing here?{/i}"
+    j ""
+
+# game/scripts/side_char_events.rpy:842
+translate uk_UA jinny6choice_0e2b3de8:
+
+    # j "Uuuuuuuugh...!\nMy fucking head!\nShut up! Shut up!"
+    j ""
+
+# game/scripts/side_char_events.rpy:843
+translate uk_UA jinny6choice_00adeaa0:
+
+    # j "Life was so much easier before this shit...! I never had to think a day in my life...!"
+    j ""
+
+# game/scripts/side_char_events.rpy:845
+translate uk_UA jinny6choice_7abd8f6d:
+
+    # j "Fucking tomatoes..."
+    j ""
+
+# game/scripts/side_char_events.rpy:846
+translate uk_UA jinny6choice_08f53f85:
+
+    # j "Want me to farm this shit? Put it on some fucking steak for me..."
+    j ""
+
+# game/scripts/side_char_events.rpy:848
+translate uk_UA jinny6choice_e664f950:
+
+    # l "I can do that for you, Jinny. If you'll grow them..."
+    l ""
+
+# game/scripts/side_char_events.rpy:849
+translate uk_UA jinny6choice_665e901a:
+
+    # j "What?\nYou can't cook steak."
+    j ""
+
+# game/scripts/side_char_events.rpy:850
+translate uk_UA jinny6choice_d56b16d1:
+
+    # l "I'm actually a decent cook now."
+    l ""
+
+# game/scripts/side_char_events.rpy:851
+translate uk_UA jinny6choice_65410524:
+
+    # j "Well there's no way he's going to pay me in steaks to grow his food! I'm a fucking slave, it's not worth it."
+    j ""
+
+# game/scripts/side_char_events.rpy:852
+translate uk_UA jinny6choice_1b230813:
+
+    # l "Jinny... you are worth it."
+    l ""
+
+# game/scripts/side_char_events.rpy:853
+translate uk_UA jinny6choice_b4fa3fc0:
+
+    # j "..."
+    j ""
+
+# game/scripts/side_char_events.rpy:859
+translate uk_UA jinny6choice_c2de25b4:
+
+    # j "I suppose I could be... if my service is good enough."
+    j ""
+
+# game/scripts/side_char_events.rpy:860
+translate uk_UA jinny6choice_dab5d9f3:
+
+    # l "So you'll do it??"
+    l ""
+
+# game/scripts/side_char_events.rpy:861
+translate uk_UA jinny6choice_69e6f116:
+
+    # j "Sure..."
+    j ""
+
+# game/scripts/side_char_events.rpy:862
+translate uk_UA jinny6choice_88467288:
+
+    # l "Thank you, Jinny! You'll love it, I know it!"
+    l ""
+
+# game/scripts/side_char_events.rpy:864
+translate uk_UA jinny6choice_46da5d01:
+
+    # c "Then it's settled?"
+    c ""
+
+# game/scripts/side_char_events.rpy:865
+translate uk_UA jinny6choice_012e7aee:
+
+    # l "Yes! She'll do it, [linoname]!"
+    l ""
+
+# game/scripts/side_char_events.rpy:866
+translate uk_UA jinny6choice_b5af0a81:
+
+    # j "I'll start now, but I want a steak tomorrow."
+    j ""
+
+# game/scripts/side_char_events.rpy:867
+translate uk_UA jinny6choice_bb64efeb:
+
+    # c "That's no problem."
+    c ""
+
+# game/scripts/side_char_events.rpy:868
+translate uk_UA jinny6choice_6cbadde0:
+
+    # j "I'll teach her the basics! Don't worry about us!"
+    j ""
+
+# game/scripts/side_char_events.rpy:869
+translate uk_UA jinny6choice_faf2a64d:
+
+    # c "Okay, good luck you two."
+    c ""
+
+# game/scripts/side_char_events.rpy:880
+translate uk_UA jin_story7_494bd02b:
+
+    # j "*sigh*... It's such a hot day..."
+    j ""
+
+# game/scripts/side_char_events.rpy:881
+translate uk_UA jin_story7_c619f81c:
+
+    # j "I miss the AC... I miss my bed... I miss being treated like a queen..."
+    j ""
+
+# game/scripts/side_char_events.rpy:883
+translate uk_UA jin_story7_7308792f:
+
+    # j "{i}Hmph... How could the same people who have destroyed so much, create such amazing fruits and vegetables? And with such short lifespans, they would hardly see the fruits of their own labor.{/i}"
+    j ""
+
+# game/scripts/side_char_events.rpy:884
+translate uk_UA jin_story7_8a3543ae:
+
+    # j "{i}Everything they've brought over is so big and juicy... everything I've tried to modify has... been a failure.{/i}"
+    j ""
+
+# game/scripts/side_char_events.rpy:886
+translate uk_UA jin_story7_f5220501:
+
+    # j "Urgh! Shut up! Shut up! Why won't my head shut up!?" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:888
+translate uk_UA jin_story7_58c758aa:
+
+    # j "My head is full of bullshit now... who cares about modifying crops?"
+    j ""
+
+# game/scripts/side_char_events.rpy:890
+translate uk_UA jin_story7_e99583a1:
+
+    # j "*sigh*...\nMy third harvest. Do I feel accomplished yet? Not really..."
+    j ""
+
+# game/scripts/side_char_events.rpy:891
+translate uk_UA jin_story7_9c333bc7:
+
+    # j "At least I don't feel the urge to use as much as I used to. I just feel dead inside now... yay."
+    j ""
+
+# game/scripts/side_char_events.rpy:892
+translate uk_UA jin_story7_ad9fcac5:
+
+    # j "*sigh*, the rest need time to grow. I guess I should bring these in..."
+    j ""
+
+# game/scripts/side_char_events.rpy:894
+translate uk_UA jin_story7_a60604f2:
+
+    # l "I'm so proud of you, Jinny!"
+    l ""
+
+# game/scripts/side_char_events.rpy:895
+translate uk_UA jin_story7_d653fce6:
+
+    # j "Ugh, Lin..."
+    j ""
+
+# game/scripts/side_char_events.rpy:896
+translate uk_UA jin_story7_fccdb9e9:
+
+    # l "You've harvested tomatoes, cabbages, and now even this!"
+    l ""
+
+# game/scripts/side_char_events.rpy:897
+translate uk_UA jin_story7_e8a78ca5:
+
+    # j "Lin, I'm not doing this to be patronized by my little sister... just stop."
+    j ""
+
+# game/scripts/side_char_events.rpy:898
+translate uk_UA jin_story7_8276b576:
+
+    # l "But I'm serious! You're doing so well! It's almost like old times!"
+    l ""
+
+# game/scripts/side_char_events.rpy:900
+translate uk_UA jin_story7_25cca232:
+
+    # j "We were both children, Lin, I will never be that person again, and neither will you. We've gone through too much."
+    j ""
+
+# game/scripts/side_char_events.rpy:901
+translate uk_UA jin_story7_ddd17724:
+
+    # j "The truth is, I don't know who I am without that stuff. I don't know who I am without sex! And now I can't even get wet, it's fucking bullshit!"
+    j ""
+
+# game/scripts/side_char_events.rpy:902
+translate uk_UA jin_story7_d9fdaf77:
+
+    # l "It will all get better in time, Jinny, I promise! You should have some faith in [name], he has a good heart."
+    l ""
+
+# game/scripts/side_char_events.rpy:904
+translate uk_UA jin_story7_189a47ab:
+
+    # l "And I know you're not that person anymore, Jinny, it just makes me happy to capture a memory of our past."
+    l ""
+
+# game/scripts/side_char_events.rpy:905
+translate uk_UA jin_story7_89fad048:
+
+    # l "If anything, I'm excited to join you on this journey of self-discovery. It's like you said; who are you without that stuff?"
+    l ""
+
+# game/scripts/side_char_events.rpy:906
+translate uk_UA jin_story7_94849b46:
+
+    # j "Right now... tired."
+    j ""
+
+# game/scripts/side_char_events.rpy:907
+translate uk_UA jin_story7_1ad995df:
+
+    # j "Move, Lin. I need to get these yumyums inside."
+    j ""
+
+# game/scripts/side_char_events.rpy:909
+translate uk_UA jin_story7_199d54cb:
+
+    # l "Yumyums?"
+    l ""
+
+# game/scripts/side_char_events.rpy:910
+translate uk_UA jin_story7_34a6073b:
+
+    # j "Yeah?"
+    j ""
+
+# game/scripts/side_char_events.rpy:911
+translate uk_UA jin_story7_996a01e1:
+
+    # l "Hahah! Those are onions, Jinny! O-N-I-O-N-S!"
+    l ""
+
+# game/scripts/side_char_events.rpy:913
+translate uk_UA jin_story7_5d4a0370:
+
+    # j "Everyone calls them yumyums...!"
+    j ""
+
+# game/scripts/side_char_events.rpy:914
+translate uk_UA jin_story7_29b53e68:
+
+    # l "How do you not know what they're called Jinny? Hahaha!"
+    l ""
+
+# game/scripts/side_char_events.rpy:915
+translate uk_UA jin_story7_501115dc:
+
+    # j "Do you think I order my own food!? Fuck off!"
+    j ""
+
+# game/scripts/side_char_events.rpy:917
+translate uk_UA jin_story7_482046e7:
+
+    # j "Rrrgh!"
+    j ""
+
+# game/scripts/side_char_events.rpy:918
+translate uk_UA jin_story7_570ac838:
+
+    # l "{i}Heheh, sorry Jinny...!{/i}"
+    l ""
+
+# game/scripts/side_char_events.rpy:920
+translate uk_UA jin_story7_c2d07f44:
+
+    # j "What... is this?"
+    j ""
+
+# game/scripts/side_char_events.rpy:921
+translate uk_UA jin_story7_9b7c4450:
+
+    # l "It's your steak, Jinny! A promise is a promise~"
+    l ""
+
+# game/scripts/side_char_events.rpy:922
+translate uk_UA jin_story7_9e44b8f4:
+
+    # j "You guys really made me a steak for growing your food?"
+    j ""
+
+# game/scripts/side_char_events.rpy:923
+translate uk_UA jin_story7_bba8125e:
+
+    # l "And I even used the tomatoes and cabbage you grew!"
+    l ""
+
+# game/scripts/side_char_events.rpy:924
+translate uk_UA jin_story7_532bdbdb:
+
+    # j "Is that a cocktail as well? Oh... you guys, that's so sweet!"
+    j ""
+
+# game/scripts/side_char_events.rpy:926
+translate uk_UA jin_story7_20c626f5:
+
+    # j "Mmhm!"
+    j ""
+
+# game/scripts/side_char_events.rpy:927
+translate uk_UA jin_story7_4d7c79e7:
+
+    # l "Heheh, what do you think, Jinny?"
+    l ""
+
+# game/scripts/side_char_events.rpy:928
+translate uk_UA jin_story7_6c98ec16:
+
+    # j "Amazingggg~!!!"
+    j ""
+
+# game/scripts/side_char_events.rpy:929
+translate uk_UA jin_story7_327c2040:
+
+    # c "You deserve it."
+    c ""
+
+# game/scripts/side_char_events.rpy:930
+translate uk_UA jin_story7_ad910e2c:
+
+    # j "Thank you, thank you, thank you~! It was so worth it...!"
+    j ""
+
+# game/scripts/side_char_events.rpy:938
+translate uk_UA jin_story8_ebdacc96:
+
+    # j "Oh, hello you two."
+    j ""
+
+# game/scripts/side_char_events.rpy:939
+translate uk_UA jin_story8_c4d15bc5:
+
+    # l "Jinny! Such a bountiful harvest today~"
+    l ""
+
+# game/scripts/side_char_events.rpy:940
+translate uk_UA jin_story8_06fe5205:
+
+    # c "Good job!"
+    c ""
+
+# game/scripts/side_char_events.rpy:941
+translate uk_UA jin_story8_b5f0f66f:
+
+    # j "Thanks, I guess. I'm starting to get used to it..."
+    j ""
+
+# game/scripts/side_char_events.rpy:942
+translate uk_UA jin_story8_bd80ff3b:
+
+    # j "By the way, [name], I started composting our leftovers. So I'm collecting fertilizer now."
+    j ""
+
+# game/scripts/side_char_events.rpy:943
+translate uk_UA jin_story8_e1f5a4c5:
+
+    # c "Oh perfect."
+    c ""
+
+# game/scripts/side_char_events.rpy:944
+translate uk_UA jin_story8_f704b09f:
+
+    # j "Yeah, so you'll be getting more crops to sell from now on."
+    j ""
+
+# game/scripts/side_char_events.rpy:946
+translate uk_UA jin_story8_f465763f:
+
+    # l "You're already so much better at it than me, Jinny!"
+    l ""
+
+# game/scripts/side_char_events.rpy:947
+translate uk_UA jin_story8_9b96ca3b:
+
+    # j "I've had more experience, that's all. Mom was a botanist. She taught me a few things."
+    j ""
+
+# game/scripts/side_char_events.rpy:949
+translate uk_UA jin_story8_220a6482:
+
+    # l "She was?? I don't remember that!"
+    l ""
+
+# game/scripts/side_char_events.rpy:950
+translate uk_UA jin_story8_6016a654:
+
+    # j "Yeah. It took a lot of effort, but I dug up some old memories of her. I think she was trying to form hybrid crops or something..."
+    j ""
+
+# game/scripts/side_char_events.rpy:951
+translate uk_UA jin_story8_652f019c:
+
+    # j "Either way, she knew what each plant needs and how to tell. I guess some of it rubbed off..."
+    j ""
+
+# game/scripts/side_char_events.rpy:952
+translate uk_UA jin_story8_821ade2f:
+
+    # l "That's amazing, Jinny! You have to tell me more!"
+    l ""
+
+# game/scripts/side_char_events.rpy:953
+translate uk_UA jin_story8_1f998f2d:
+
+    # j "I suppose..."
+    j ""
+
+# game/scripts/side_char_events.rpy:955
+translate uk_UA jin_story8_3825386e:
+
+    # mush "KSSSSH!" with ssshake
+    mush "" with ssshake
+
+# game/scripts/side_char_events.rpy:956
+translate uk_UA jin_story8_eaf358a5:
+
+    # l "AAAH!"
+    l ""
+
+# game/scripts/side_char_events.rpy:957
+translate uk_UA jin_story8_dc36788d:
+
+    # c "What the hell?"
+    c ""
+
+# game/scripts/side_char_events.rpy:958
+translate uk_UA jin_story8_b42c2873:
+
+    # j "Again!?"
+    j ""
+
+# game/scripts/side_char_events.rpy:960
+translate uk_UA jin_story8_95d772df:
+
+    # mush "KSSH! KSSSSH!"
+    mush ""
+
+# game/scripts/side_char_events.rpy:961
+translate uk_UA jin_story8_e67ab405:
+
+    # j "I've got it..."
+    j ""
+
+# game/scripts/side_char_events.rpy:963
+translate uk_UA jin_story8_d04119f0:
+
+    # mush "KSSSSSSH! KSSH!"
+    mush ""
+
+# game/scripts/side_char_events.rpy:965
+translate uk_UA jin_story8_a3cda1ce:
+
+    # mush "KSHKK-!" with ssshake
+    mush "" with ssshake
+
+# game/scripts/side_char_events.rpy:966
+translate uk_UA jin_story8_57a64f64:
+
+    # j "Fuck off!"
+    j ""
+
+# game/scripts/side_char_events.rpy:968
+translate uk_UA jin_story8_e5ddd976:
+
+    # l "So scary... where did it come from?"
+    l ""
+
+# game/scripts/side_char_events.rpy:969
+translate uk_UA jin_story8_defe4310:
+
+    # j "It's nothing... myconids are so slow, they're not even a threat. So long as they don't bite you. But they just kinda... pop out of nowhere."
+    j ""
+
+# game/scripts/side_char_events.rpy:970
+translate uk_UA jin_story8_99fa5919:
+
+    # c "What happens if you get bit?"
+    c ""
+
+# game/scripts/side_char_events.rpy:971
+translate uk_UA jin_story8_574efb99:
+
+    # j "You trip balls and gotta go to the hospital. Or you could die."
+    j ""
+
+# game/scripts/side_char_events.rpy:973
+translate uk_UA jin_story8_af80ea4b:
+
+    # j "People actually harvest them for Shroom Juice to process into drugs, you know. We get enough of them out here that we could actually make some money selling them."
+    j ""
+
+# game/scripts/side_char_events.rpy:974
+translate uk_UA jin_story8_d0ae06d2:
+
+    # c "Is that so?"
+    c ""
+
+# game/scripts/side_char_events.rpy:975
+translate uk_UA jin_story8_e1333e89:
+
+    # l "No way! We can't sell drugs! The whole point of you gardening is to get you away from drugs!"
+    l ""
+
+# game/scripts/side_char_events.rpy:977
+translate uk_UA jin_story8_7af499b0:
+
+    # j "Hey, shroom juice has never been my drug of choice, okay? I'm only telling [name] in case he wants some extra money."
+    j ""
+
+# game/scripts/side_char_events.rpy:978
+translate uk_UA jin_story8_839923b2:
+
+    # j "It's not like it hurts anyone... in moderation."
+    j ""
+
+# game/scripts/side_char_events.rpy:979
+translate uk_UA jin_story8_8d03f8ca:
+
+    # l "I don't know, I don't like any drugs..."
+    l ""
+
+# game/scripts/side_char_events.rpy:981
+translate uk_UA jin_story8_85181c21:
+
+    # j "I'd have to burn their bodies otherwise. They're a nuisance, they eat everything, we might as well make use of them."
+    j ""
+
+# game/scripts/side_char_events.rpy:982
+translate uk_UA jin_story8_959e6219:
+
+    # c "Is it legal?"
+    c ""
+
+# game/scripts/side_char_events.rpy:983
+translate uk_UA jin_story8_27a46419:
+
+    # j "The myconid essence itself is. In other words, we can collect it."
+    j ""
+
+# game/scripts/side_char_events.rpy:987
+translate uk_UA jin_story8_1717a429:
+
+    # j "Sure, I'll collect it for you. It's up to you to find a buyer though."
+    j ""
+
+# game/scripts/side_char_events.rpy:988
+translate uk_UA jin_story8_f3fc244f:
+
+    # l "So long as it stays far away from this hotel..."
+    l ""
+
+# game/scripts/side_char_events.rpy:991
+translate uk_UA jin_story8_43f4ee3c:
+
+    # j "Alright, I guess I'll keep burning them."
+    j ""
+
+# game/scripts/side_char_events.rpy:992
+translate uk_UA jin_story8_b33871d4:
+
+    # l "You can't put them in the composter?"
+    l ""
+
+# game/scripts/side_char_events.rpy:993
+translate uk_UA jin_story8_3560aed0:
+
+    # j "No, they would just taint the soil."
+    j ""
+
+# game/scripts/side_char_events.rpy:994
+translate uk_UA jin_story8_d747aae4:
+
+    # l "Well... it's the right choice, I think."
+    l ""
+
+# game/scripts/side_char_events.rpy:996
+translate uk_UA jin_story8_1d28f94e:
+
+    # l "But thank you for defending our garden, Jinny! I definitely couldn't do it myself..."
+    l ""
+
+# game/scripts/side_char_events.rpy:997
+translate uk_UA jin_story8_e361725b:
+
+    # j "Sure you could, it's not that hard."
+    j ""
+
+# game/scripts/side_char_events.rpy:998
+translate uk_UA jin_story8_930689be:
+
+    # l "Only because you're so good at it!"
+    l ""
+
+# game/scripts/side_char_events.rpy:999
+translate uk_UA jin_story8_8772ea58:
+
+    # j "Hah, thanks..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1001
+translate uk_UA jin_story8_dcb7abaf:
+
+    # c "Hey Jin, how are you feeling? I'm thinking you deserve something nice. How about we all get some drinks at Bernie's?"
+    c ""
+
+# game/scripts/side_char_events.rpy:1002
+translate uk_UA jin_story8_964223ab:
+
+    # j "Who is Bernie?\nFuck it, I don't even care, that would be amazing right now!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1003
+translate uk_UA jin_story8_bfbc9475:
+
+    # l "That sounds so fun! Let's go!"
+    l ""
+
+# game/scripts/side_char_events.rpy:1004
+translate uk_UA jin_story8_009f1fd1:
+
+    # j "Let me just get these vegetables inside and shower, I'll be fast."
+    j ""
+
+# game/scripts/side_char_events.rpy:1006
+translate uk_UA jin_story8_7d2cd5ba:
+
+    # "Once Jin is ready, you drive Lin and Jin to Bernie's Bowling Bar."
+    ""
+
+# game/scripts/side_char_events.rpy:1008
+translate uk_UA jin_story8_c9f8eaad:
+
+    # j "Ohhh, this place is amazing! I've seen this in movies before, it's called bowling right?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1009
+translate uk_UA jin_story8_8305e3a1:
+
+    # l "It is~ Oh my gosh, I can't believe we get to play together! My two favorite people~!"
+    l ""
+
+# game/scripts/side_char_events.rpy:1011
+translate uk_UA jin_story8_10a81ec2:
+
+    # bartender "Woah woah woah, you can't bring your elves in here without a chain."
+    bartender ""
+
+# game/scripts/side_char_events.rpy:1014
+translate uk_UA jin_story8_6010e8f4:
+
+    # bartender "Check the sign, buddy. It's the law."
+    bartender ""
+
+# game/scripts/side_char_events.rpy:1016
+translate uk_UA jin_story8_7bd22f0e:
+
+    # bartender "No elves shall be unchained outside of the master's property."
+    bartender ""
+
+# game/scripts/side_char_events.rpy:1017
+translate uk_UA jin_story8_0510d370:
+
+    # bartender "No chain, no entry."
+    bartender ""
+
+# game/scripts/side_char_events.rpy:1019
+translate uk_UA jin_story8_53eb834a:
+
+    # bartender "No chain, no entry. Check the sign, buddy."
+    bartender ""
+
+# game/scripts/side_char_events.rpy:1021
+translate uk_UA jin_story8_e9f4f6b1:
+
+    # bartender "It's the law. No elves shall be unchained outside of the master's property."
+    bartender ""
+
+# game/scripts/side_char_events.rpy:1023
+translate uk_UA jin_story8_2f06e5b1:
+
+    # bartender "Are you trying to bribe me with $20? A lawsuit is gonna cost a lot more than that."
+    bartender ""
+
+# game/scripts/side_char_events.rpy:1025
+translate uk_UA jin_story8_8ae142b9:
+
+    # bartender "Check the sign, buddy. No chain, no entry."
+    bartender ""
+
+# game/scripts/side_char_events.rpy:1026
+translate uk_UA jin_story8_9bb856e5:
+
+    # bartender "It's just the law. No elves shall be unchained outside of the master's property."
+    bartender ""
+
+# game/scripts/side_char_events.rpy:1028
+translate uk_UA jin_story8_d6de836b:
+
+    # c "Come on, I'm a regular customer here. We're not gonna cause any issues, and we'll buy a lot of drinks!"
+    c ""
+
+# game/scripts/side_char_events.rpy:1029
+translate uk_UA jin_story8_7179ee6c:
+
+    # bartender "Man, if anyone complains..."
+    bartender ""
+
+# game/scripts/side_char_events.rpy:1030
+translate uk_UA jin_story8_aa1a7c6b:
+
+    # c "Then we'll leave. No issue."
+    c ""
+
+# game/scripts/side_char_events.rpy:1032
+translate uk_UA jin_story8_5f009935:
+
+    # bartender "{i}*sigh*... you better not get me in trouble.{/i}"
+    bartender ""
+
+# game/scripts/side_char_events.rpy:1033
+translate uk_UA jin_story8_f5790e0e:
+
+    # bartender "Go ahead. Take lane 10. I'll get six drinks started for you."
+    bartender ""
+
+# game/scripts/side_char_events.rpy:1034
+translate uk_UA jin_story8_318363aa:
+
+    # c "Hah, sounds good."
+    c ""
+
+# game/scripts/side_char_events.rpy:1035
+translate uk_UA jin_story8_683c3a36:
+
+    # l "Thank you~"
+    l ""
+
+# game/scripts/side_char_events.rpy:1037
+translate uk_UA jin_story8_dfcefb6c:
+
+    # l "*huff, huff*\nI got it...!\nSlow and steady...\n...Wins the race...!"
+    l ""
+
+# game/scripts/side_char_events.rpy:1038
+translate uk_UA jin_story8_19c7812c:
+
+    # j "Hmhmhm..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1040
+translate uk_UA jin_story8_ec702ded:
+
+    # l "Nnngh...!"
+    l ""
+
+# game/scripts/side_char_events.rpy:1042
+translate uk_UA jin_story8_ffda2519:
+
+    # l "Agh!" with ssshake
+    l "" with ssshake
+
+# game/scripts/side_char_events.rpy:1044
+translate uk_UA jin_story8_ba7c3a56:
+
+    # l "*gasp*! Yes! It's lined up!"
+    l ""
+
+# game/scripts/side_char_events.rpy:1046
+translate uk_UA jin_story8_235b49b2:
+
+    # l "It's going! It's going! Go, go, go!"
+    l ""
+
+# game/scripts/side_char_events.rpy:1048
+translate uk_UA jin_story8_ee152105:
+
+    # l "Don't stop! Yes, yes! Keep going! You can do it...!"
+    l ""
+
+# game/scripts/side_char_events.rpy:1050
+translate uk_UA jin_story8_041840a7:
+
+    # j "{i}Still full of hope, aren't you little one...{/i}"
+    j ""
+
+# game/scripts/side_char_events.rpy:1052
+translate uk_UA jin_story8_e0234959:
+
+    # j "{i}(Something I lost a long time ago...){/i}"
+    j ""
+
+# game/scripts/side_char_events.rpy:1054
+translate uk_UA jin_story8_198c66e6:
+
+    # j "These drinks are so good, [name]! Thanks."
+    j ""
+
+# game/scripts/side_char_events.rpy:1055
+translate uk_UA jin_story8_75f3c2a2:
+
+    # c "Worth the labor of gardening?"
+    c ""
+
+# game/scripts/side_char_events.rpy:1056
+translate uk_UA jin_story8_9f70902c:
+
+    # j "Oh absolutely. You're spoiling me!\nI'm going to drink as much as I can today, I haven't been drunk in years."
+    j ""
+
+# game/scripts/side_char_events.rpy:1057
+translate uk_UA jin_story8_a0add461:
+
+    # c "Don't overdo it."
+    c ""
+
+# game/scripts/side_char_events.rpy:1058
+translate uk_UA jin_story8_8dbe70ac:
+
+    # j "Why nooot? Maybe I want to overdo it."
+    j ""
+
+# game/scripts/side_char_events.rpy:1061
+translate uk_UA jin_story8_98751edc:
+
+    # l "Aaaah! I did it! Did you see that, Jinny? My first time!"
+    l ""
+
+# game/scripts/side_char_events.rpy:1062
+translate uk_UA jin_story8_7575f2ad:
+
+    # j "Hahah, good job, Lin..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1064
+translate uk_UA jin_story8_9e7f5a6b:
+
+    # l "It's your turn, Jinny!"
+    l ""
+
+# game/scripts/side_char_events.rpy:1065
+translate uk_UA jin_story8_a33d4654:
+
+    # j "Sure, just let me finish this drink first."
+    j ""
+
+# game/scripts/side_char_events.rpy:1066
+translate uk_UA jin_story8_df703cbc:
+
+    # l "Heyyy, you're not going to become an alcoholic, are you..."
+    l ""
+
+# game/scripts/side_char_events.rpy:1067
+translate uk_UA jin_story8_29b712de:
+
+    # j "Of course not! We just promised the guy to buy a lot of drinks. I'm a woman of her word."
+    j ""
+
+# game/scripts/side_char_events.rpy:1068
+translate uk_UA jin_story8_f89c11f8:
+
+    # l "Mhm..."
+    l ""
+
+# game/scripts/side_char_events.rpy:1069
+translate uk_UA jin_story8_cd387da7:
+
+    # j "Relax Lin, I'm actually starting to enjoy life again~"
+    j ""
+
+# game/scripts/side_char_events.rpy:1070
+translate uk_UA jin_story8_d80db94b:
+
+    # l "Really?"
+    l ""
+
+# game/scripts/side_char_events.rpy:1071
+translate uk_UA jin_story8_ba8a4908:
+
+    # j "Yeah, I mean... life doesn't seem so bad after all. Especially if we still get to have fun sometimes!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1072
+translate uk_UA jin_story8_289604ae:
+
+    # l "So gardening has been helping after all?"
+    l ""
+
+# game/scripts/side_char_events.rpy:1073
+translate uk_UA jin_story8_1e27d416:
+
+    # j "It helps me focus... it gets my mind off things. The past few weeks have been tough, but, it's just a hill to climb. I think I'm almost over it now."
+    j ""
+
+# game/scripts/side_char_events.rpy:1074
+translate uk_UA jin_story8_a054e8cf:
+
+    # l "Aww, I'm so glad to hear that, Jinny!"
+    l ""
+
+# game/scripts/side_char_events.rpy:1075
+translate uk_UA jin_story8_1bf2acd7:
+
+    # c "I'm proud of you, Jin."
+    c ""
+
+# game/scripts/side_char_events.rpy:1076
+translate uk_UA jin_story8_a89e1bcf:
+
+    # j "Thanks..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1078
+translate uk_UA jin_story8_a139da77:
+
+    # "After an hour of drinking and bowling, Jin is thoroughly smashed and full of life. You decide to bring her home before she causes any issues."
+    ""
+
+# game/scripts/side_char_events.rpy:1080
+translate uk_UA jin_story8_f738fa4c:
+
+    # j "Nnnngh... thanks... you guys are the best..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1081
+translate uk_UA jin_story8_4a18d12d:
+
+    # l "Goodnight Jinny~ I'll let you sleep a bit."
+    l ""
+
+# game/scripts/side_char_events.rpy:1082
+translate uk_UA jin_story8_209a82e9:
+
+    # c "Sleep well, you deserve it."
+    c ""
+
+# game/scripts/side_char_events.rpy:1083
+translate uk_UA jin_story8_c618bafe:
+
+    # j "Mmmh, thaaanks..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1095
+translate uk_UA jin_story9_41c00a12:
+
+    # j "Urgh!\n{i}Dammit, where is it...!?{/i}"
+    j ""
+
+# game/scripts/side_char_events.rpy:1096
+translate uk_UA jin_story9_4bbb9fc7:
+
+    # c "Jin...?"
+    c ""
+
+# game/scripts/side_char_events.rpy:1098
+translate uk_UA jin_story9_ec65c2b6:
+
+    # j "Huh!? H-Hi..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1099
+translate uk_UA jin_story9_a13e276c:
+
+    # c "What are you doing..."
+    c ""
+
+# game/scripts/side_char_events.rpy:1100
+translate uk_UA jin_story9_cb759311:
+
+    # j "Uh, Lin wants a pair of your underwear."
+    j ""
+
+# game/scripts/side_char_events.rpy:1101
+translate uk_UA jin_story9_297d93f3:
+
+    # c "What?"
+    c ""
+
+# game/scripts/side_char_events.rpy:1102
+translate uk_UA jin_story9_792eed62:
+
+    # j "She misses you and can't sleep."
+    j ""
+
+# game/scripts/side_char_events.rpy:1104
+translate uk_UA jin_story9_b6054796:
+
+    # c "Jin... stop, I know what you're doing."
+    c ""
+
+# game/scripts/side_char_events.rpy:1105
+translate uk_UA jin_story9_45673f00:
+
+    # j "Ugh! Come on, I just wanted half a pill! Just something to take the edge off!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1106
+translate uk_UA jin_story9_ed85ec73:
+
+    # j "You don't know what it's like! I can barely sleep, I get depressed randomly, I'll just throw up in the morning for no reason!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1107
+translate uk_UA jin_story9_5aee664d:
+
+    # j "Please, can I just have a little? I just want it to stop..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1108
+translate uk_UA jin_story9_d7536b83:
+
+    # c "Jin... I thought you were doing so well."
+    c ""
+
+# game/scripts/side_char_events.rpy:1109
+translate uk_UA jin_story9_7cd24c4e:
+
+    # j "There's only so much a hobby can do, [name]! I can't ignore insomnia, I can't ignore depression!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1110
+translate uk_UA jin_story9_f6bf87ee:
+
+    # c "*sigh*... I understand."
+    c ""
+
+# game/scripts/side_char_events.rpy:1111
+translate uk_UA jin_story9_ad3b49b6:
+
+    # j "Please, [name]? Please?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1112
+translate uk_UA jin_story9_0c4607e4:
+
+    # c "Jin, I flushed the bottle a long time ago."
+    c ""
+
+# game/scripts/side_char_events.rpy:1114
+translate uk_UA jin_story9_8f7e5def:
+
+    # j "WHAT!?!?" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:1115
+translate uk_UA jin_story9_315e9643:
+
+    # c "I thought you got through it, you were doing so well."
+    c ""
+
+# game/scripts/side_char_events.rpy:1117
+translate uk_UA jin_story9_60accd78:
+
+    # j "I can't believe you-! URGH! Fuck! FUCK!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1118
+translate uk_UA jin_story9_fbfc28ef:
+
+    # c "Jin, I want to help, that's why I'm doing this."
+    c ""
+
+# game/scripts/side_char_events.rpy:1120
+translate uk_UA jin_story9_d5e2b6c0:
+
+    # j "THEN GET ME MORE! NOW!!!" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:1121
+translate uk_UA jin_story9_dfe60a17:
+
+    # c "I'm not going to do that, Jin. We can't reverse your progress."
+    c ""
+
+# game/scripts/side_char_events.rpy:1122
+translate uk_UA jin_story9_ab07f58d:
+
+    # j "FUCK YOU!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1123
+translate uk_UA jin_story9_10782355:
+
+    # c "Jin, Jin, calm down. I don't know what I can do to help, but... I think I know someone who might."
+    c ""
+
+# game/scripts/side_char_events.rpy:1124
+translate uk_UA jin_story9_edd17c6f:
+
+    # j "Unless they have my drugs, I don't care!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1125
+translate uk_UA jin_story9_455c8327:
+
+    # c "You want this feeling to stop, right? Then come with me."
+    c ""
+
+# game/scripts/side_char_events.rpy:1126
+translate uk_UA jin_story9_d13e0c90:
+
+    # j "Urgh... Fine!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1129
+translate uk_UA jin_story9_295b9e4c:
+
+    # c "Looks like she's still awake..."
+    c ""
+
+# game/scripts/side_char_events.rpy:1130
+translate uk_UA jin_story9_a45035e9:
+
+    # j "Who are we talking to?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1132
+translate uk_UA jin_story9_bd4d3cfc:
+
+    # "*knock, knock, knock*"
+    ""
+
+# game/scripts/side_char_events.rpy:1133
+translate uk_UA jin_story9_0f943ea2:
+
+    # m "Come in!"
+    m ""
+
+# game/scripts/side_char_events.rpy:1135
+translate uk_UA jin_story9_6f95a8d1:
+
+    # m "[name]! Jin? What's up?"
+    m ""
+
+# game/scripts/side_char_events.rpy:1136
+translate uk_UA jin_story9_78e37763:
+
+    # c "Hey, I could use some advice."
+    c ""
+
+# game/scripts/side_char_events.rpy:1138
+translate uk_UA jin_story9_fd63127e:
+
+    # m "Sure, what's going on?"
+    m ""
+
+# game/scripts/side_char_events.rpy:1139
+translate uk_UA jin_story9_25beef9b:
+
+    # c "Well, you know something about drug addiction, right?"
+    c ""
+
+# game/scripts/side_char_events.rpy:1141
+translate uk_UA jin_story9_896177e5:
+
+    # m "Excuse me?"
+    m ""
+
+# game/scripts/side_char_events.rpy:1142
+translate uk_UA jin_story9_5b2367e1:
+
+    # c "I mean, you've partied when you were younger, right?"
+    c ""
+
+# game/scripts/side_char_events.rpy:1143
+translate uk_UA jin_story9_ff37c2d3:
+
+    # m "I better not have been the first person you came to for drug advice..."
+    m ""
+
+# game/scripts/side_char_events.rpy:1144
+translate uk_UA jin_story9_b0b33a66:
+
+    # c "Eh..."
+    c ""
+
+# game/scripts/side_char_events.rpy:1146
+translate uk_UA jin_story9_d999292c:
+
+    # m "I've never been addicted to anything, but *sigh*, yeah... I mean you're not wrong. Tell me."
+    m ""
+
+# game/scripts/side_char_events.rpy:1147
+translate uk_UA jin_story9_1202542c:
+
+    # c "You know about Jin's transformation, right?"
+    c ""
+
+# game/scripts/side_char_events.rpy:1148
+translate uk_UA jin_story9_e07c1e6b:
+
+    # m "Yeah, Lin told me about taking her off those drugs."
+    m ""
+
+# game/scripts/side_char_events.rpy:1150
+translate uk_UA jin_story9_1792b38a:
+
+    # m "You're addicted to them?"
+    m ""
+
+# game/scripts/side_char_events.rpy:1151
+translate uk_UA jin_story9_3c70f956:
+
+    # j "I just want a little! So I can go to fucking sleep and stop being depressed all the time."
+    j ""
+
+# game/scripts/side_char_events.rpy:1152
+translate uk_UA jin_story9_26547dcc:
+
+    # m "Okay, you're addicted to them."
+    m ""
+
+# game/scripts/side_char_events.rpy:1153
+translate uk_UA jin_story9_f1a1bb22:
+
+    # j "Whatever!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1155
+translate uk_UA jin_story9_074a09fd:
+
+    # m "I'm guessing you don't want to give her any, right?"
+    m ""
+
+# game/scripts/side_char_events.rpy:1156
+translate uk_UA jin_story9_56d0beb3:
+
+    # c "That's right."
+    c ""
+
+# game/scripts/side_char_events.rpy:1157
+translate uk_UA jin_story9_78fd1535:
+
+    # m "Okay...\nThe way I see it, you have two options."
+    m ""
+
+# game/scripts/side_char_events.rpy:1158
+translate uk_UA jin_story9_d751a3ef:
+
+    # m "You can give her sleeping pills and knock her out every time she can't sleep or gets depressed; which may form a whole new addiction..."
+    m ""
+
+# game/scripts/side_char_events.rpy:1159
+translate uk_UA jin_story9_42ec7b56:
+
+    # m "Or, you can give her some tinu."
+    m ""
+
+# game/scripts/side_char_events.rpy:1160
+translate uk_UA jin_story9_26029610:
+
+    # c "What? You want her to smoke elf weed? I don't want her to replace one drug with another."
+    c ""
+
+# game/scripts/side_char_events.rpy:1161
+translate uk_UA jin_story9_a645200d:
+
+    # m "Listen, it's not the same as the stuff you can get at home. It just relaxes you and makes you sleepy. Some drugs do help people, [name]."
+    m ""
+
+# game/scripts/side_char_events.rpy:1162
+translate uk_UA jin_story9_ca0dc59c:
+
+    # j "Yeah, but I don't smoke..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1164
+translate uk_UA jin_story9_a2f70e6a:
+
+    # m "Well you might want to start. At least until your side effects wear off. It's not addictive like the other stuff you were taking."
+    m ""
+
+# game/scripts/side_char_events.rpy:1165
+translate uk_UA jin_story9_5e0231e5:
+
+    # j "...You promise it will help?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1166
+translate uk_UA jin_story9_7b5029f0:
+
+    # m "As far as I know, it doesn't work any different on elves."
+    m ""
+
+# game/scripts/side_char_events.rpy:1167
+translate uk_UA jin_story9_858a4842:
+
+    # j "...Whatever, I'll try anything."
+    j ""
+
+# game/scripts/side_char_events.rpy:1168
+translate uk_UA jin_story9_95ae4177:
+
+    # m "Cool."
+    m ""
+
+# game/scripts/side_char_events.rpy:1169
+translate uk_UA jin_story9_1ae4d5e5:
+
+    # c "But where am I-"
+    c ""
+
+# game/scripts/side_char_events.rpy:1171
+translate uk_UA jin_story9_391709aa:
+
+    # c "Maria?"
+    c ""
+
+# game/scripts/side_char_events.rpy:1173
+translate uk_UA jin_story9_443f755e:
+
+    # m "Here, take it."
+    m ""
+
+# game/scripts/side_char_events.rpy:1174
+translate uk_UA jin_story9_4e249f5b:
+
+    # j "Oh, thank you."
+    j ""
+
+# game/scripts/side_char_events.rpy:1175
+translate uk_UA jin_story9_82761da6:
+
+    # c "...Are you serious?"
+    c ""
+
+# game/scripts/side_char_events.rpy:1177
+translate uk_UA jin_story9_1a0c3bfd:
+
+    # m "Hehe, what? Sometimes I like to stay up late and chill."
+    m ""
+
+# game/scripts/side_char_events.rpy:1178
+translate uk_UA jin_story9_fec4ba40:
+
+    # c "We never said you could smoke indoors."
+    c ""
+
+# game/scripts/side_char_events.rpy:1179
+translate uk_UA jin_story9_dc228e3b:
+
+    # m "But you never said I couldn't! Hah! It's not in the contract!"
+    m ""
+
+# game/scripts/side_char_events.rpy:1180
+translate uk_UA jin_story9_9a2385f8:
+
+    # m "Besides, if I do smoke, I usually do it in the hot springs. It's really nice at night."
+    m ""
+
+# game/scripts/side_char_events.rpy:1181
+translate uk_UA jin_story9_e9ed4809:
+
+    # j "I think I'll do just that right now. This better work... thanks."
+    j ""
+
+# game/scripts/side_char_events.rpy:1182
+translate uk_UA jin_story9_b784fd45:
+
+    # m "Have fun you two~"
+    m ""
+
+# game/scripts/side_char_events.rpy:1185
+translate uk_UA jin_story9_d2240b88:
+
+    # j "*sigh*... This better work..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1186
+translate uk_UA jin_story9_2420d954:
+
+    # c "You don't have to if you don't want to."
+    c ""
+
+# game/scripts/side_char_events.rpy:1188
+translate uk_UA jin_story9_0d4ec01f:
+
+    # j "I just want all of this to stop for a bit..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1190
+translate uk_UA jin_story9_540c8bf5:
+
+    # j "*inhale*"
+    j ""
+
+# game/scripts/side_char_events.rpy:1192
+translate uk_UA jin_story9_59f085bc:
+
+    # j "*exhale*"
+    j ""
+
+# game/scripts/side_char_events.rpy:1193
+translate uk_UA jin_story9_768e5980:
+
+    # j "*ahem*! Eghk, eghk! Nnnghk!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1197
+translate uk_UA jin_story9_85003615:
+
+    # c "*inhale*"
+    c ""
+
+# game/scripts/side_char_events.rpy:1199
+translate uk_UA jin_story9_a5d0b627:
+
+    # c "*exhale*..."
+    c ""
+
+# game/scripts/side_char_events.rpy:1200
+translate uk_UA jin_story9_a41c8eb1:
+
+    # j "Is it good?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1201
+translate uk_UA jin_story9_34777cbc:
+
+    # c "*ahem*! Nnghk, I guess we'll find out."
+    c ""
+
+# game/scripts/side_char_events.rpy:1204
+translate uk_UA jin_story9_c41060aa:
+
+    # c "No thanks."
+    c ""
+
+# game/scripts/side_char_events.rpy:1206
+translate uk_UA jin_story9_ce452ab4:
+
+    # j "*sigh*... it's not my first time smoking tinu, just so you know."
+    j ""
+
+# game/scripts/side_char_events.rpy:1207
+translate uk_UA jin_story9_5d586160:
+
+    # j "I don't usually take any drugs, actually. Just the other stuff mainly..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1208
+translate uk_UA jin_story9_1fcdeac2:
+
+    # c "That's good, then you'll probably be sober after this week."
+    c ""
+
+# game/scripts/side_char_events.rpy:1209
+translate uk_UA jin_story9_263295f6:
+
+    # j "I hope so..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1211
+translate uk_UA jin_story9_b4fa3fc0:
+
+    # j "..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1212
+translate uk_UA jin_story9_a801fa01:
+
+    # j "Do you think there's anyone out there? Aliens..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1213
+translate uk_UA jin_story9_7758c71a:
+
+    # c "We already know life exists out there."
+    c ""
+
+# game/scripts/side_char_events.rpy:1214
+translate uk_UA jin_story9_4749f48b:
+
+    # j "I mean, like us. Not those micro things they found on one of our moons."
+    j ""
+
+# game/scripts/side_char_events.rpy:1215
+translate uk_UA jin_story9_a50f8390:
+
+    # c "We'll probably never know."
+    c ""
+
+# game/scripts/side_char_events.rpy:1216
+translate uk_UA jin_story9_9c31393f:
+
+    # j "...I really hope someone out there has things figured out by now..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1218
+translate uk_UA jin_story9_31c2ae22:
+
+    # j "Look at me, now I sound like Lin... what does it even matter. I have enough problems down here..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1219
+translate uk_UA jin_story9_264fce24:
+
+    # j "It is beautiful though, I miss the stars."
+    j ""
+
+# game/scripts/side_char_events.rpy:1221
+translate uk_UA jin_story9_899a73a4:
+
+    # j "Woah...! Do you feel that?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1222
+translate uk_UA jin_story9_9f85b645:
+
+    # c "Yeah."
+    c ""
+
+# game/scripts/side_char_events.rpy:1224
+translate uk_UA jin_story9_7b6339b0:
+
+    # j "Nnnnh..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1225
+translate uk_UA jin_story9_2845a629:
+
+    # j "Yeah... I think it's working."
+    j ""
+
+# game/scripts/side_char_events.rpy:1227
+translate uk_UA jin_story9_77cac0b2:
+
+    # j "Mmmmh..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1228
+translate uk_UA jin_story9_20d00394:
+
+    # j "My body is tingling, it's like a million little vibrators all over my body..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1229
+translate uk_UA jin_story9_0536a381:
+
+    # c "Do you still feel the urge to take those pills?"
+    c ""
+
+# game/scripts/side_char_events.rpy:1230
+translate uk_UA jin_story9_c3d40080:
+
+    # j "I mean... I wouldn't mind... but... I don't care."
+    j ""
+
+# game/scripts/side_char_events.rpy:1231
+translate uk_UA jin_story9_da9e9fa1:
+
+    # c "That's progress."
+    c ""
+
+# game/scripts/side_char_events.rpy:1232
+translate uk_UA jin_story9_7ce39574:
+
+    # j "Yay..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1233
+translate uk_UA jin_story9_b3019868:
+
+    # j "...Do you want to skinny dip in the hot springs? I bet that would feel sooo good..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1234
+translate uk_UA jin_story9_2cca6196:
+
+    # c "Haha, sure."
+    c ""
+
+# game/scripts/side_char_events.rpy:1237
+translate uk_UA jin_story9_718aef47:
+
+    # j "That feels amazing... doesn't it?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1238
+translate uk_UA jin_story9_a1f0da02:
+
+    # c "Yeah..."
+    c ""
+
+# game/scripts/side_char_events.rpy:1239
+translate uk_UA jin_story9_f5820e8d:
+
+    # j "You know, I really appreciate you for taking such good care of Lin... I don't think I've ever seen a master like you before."
+    j ""
+
+# game/scripts/side_char_events.rpy:1240
+translate uk_UA jin_story9_738b4dbb:
+
+    # c "I never planned to be one."
+    c ""
+
+# game/scripts/side_char_events.rpy:1241
+translate uk_UA jin_story9_2b9919b7:
+
+    # j "That's what makes you good... I think."
+    j ""
+
+# game/scripts/side_char_events.rpy:1242
+translate uk_UA jin_story9_be474c4b:
+
+    # j "But I've seen her... she's happy. You don't really see many happy elves..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1243
+translate uk_UA jin_story9_911814c2:
+
+    # j "Except meee~ I'm happy now..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1244
+translate uk_UA jin_story9_7b0d0a93:
+
+    # c "Hahah, good."
+    c ""
+
+# game/scripts/side_char_events.rpy:1245
+translate uk_UA jin_story9_9d126eae:
+
+    # j "Buuut maybe we shouldn't tell Lin... she's too innocent for this kind of thing..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1246
+translate uk_UA jin_story9_895116a5:
+
+    # c "I think she would understand."
+    c ""
+
+# game/scripts/side_char_events.rpy:1247
+translate uk_UA jin_story9_141672e6:
+
+    # j "I don't know..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1249
+translate uk_UA jin_story9_965214ad:
+
+    # j "Mmhhh... am I supposed to feel this tired...?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1250
+translate uk_UA jin_story9_1085af13:
+
+    # c "That's what Maria said, and it's really early in the morning..."
+    c ""
+
+# game/scripts/side_char_events.rpy:1251
+translate uk_UA jin_story9_2dbc0edf:
+
+    # j "Oh yeah... I couldn't sleep..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1252
+translate uk_UA jin_story9_b4fa3fc0_1:
+
+    # j "..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1254
+translate uk_UA jin_story9_c7d353d6:
+
+    # j "Do you think she hates me...?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1255
+translate uk_UA jin_story9_f8068e5d:
+
+    # c "Lin?"
+    c ""
+
+# game/scripts/side_char_events.rpy:1256
+translate uk_UA jin_story9_9d8f69e1:
+
+    # j "I abandoned her...! She was only a child, but..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1257
+translate uk_UA jin_story9_a7a229ae:
+
+    # c "Jin... she loves you. If it wasn't for you, Lin could have been addicted to the same drugs as you, and I never would have met her."
+    c ""
+
+# game/scripts/side_char_events.rpy:1258
+translate uk_UA jin_story9_3fb52104:
+
+    # j "So... I helped? I really helped her?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1259
+translate uk_UA jin_story9_164eda62:
+
+    # c "Of course. She knows you protected her back then. She's the one that wanted to buy you."
+    c ""
+
+# game/scripts/side_char_events.rpy:1260
+translate uk_UA jin_story9_ad43d050:
+
+    # j "I was such a shitty sister...! I- I was more concerned about being a good slave than a good sister...! I-"
+    j ""
+
+# game/scripts/side_char_events.rpy:1261
+translate uk_UA jin_story9_671b4c7c:
+
+    # c "-Maybe... you can start now."
+    c ""
+
+# game/scripts/side_char_events.rpy:1262
+translate uk_UA jin_story9_b4fa3fc0_2:
+
+    # j "..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1264
+translate uk_UA jin_story9_b4fa3fc0_3:
+
+    # j "..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1265
+translate uk_UA jin_story9_3a431380:
+
+    # j "...Yeah... maybe I can start now..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1266
+translate uk_UA jin_story9_b4fa3fc0_4:
+
+    # j "..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1267
+translate uk_UA jin_story9_5fa4e51c:
+
+    # j "*sigh*... I'm tired, [name]. Crying makes me tired..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1268
+translate uk_UA jin_story9_93a9b874:
+
+    # c "Good, me too."
+    c ""
+
+# game/scripts/side_char_events.rpy:1269
+translate uk_UA jin_story9_39067410:
+
+    # j "Can you help me out?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1270
+translate uk_UA jin_story9_d56d172c:
+
+    # c "Sure, lets get you to bed."
+    c ""
+
+# game/scripts/side_char_events.rpy:1272
+translate uk_UA jin_story9_390e6214:
+
+    # "You help Jin dry off and walk her to her bed, where she lays by Lin and begins to snore instantly."
+    ""
+
+# game/scripts/side_char_events.rpy:1273
+translate uk_UA jin_story9_3cdb08e5:
+
+    # c "{i}Goodnight.{/i}"
+    c ""
+
+# game/scripts/side_char_events.rpy:1283
+translate uk_UA jin_story10_908fbfab:
+
+    # j "Wheeeeeeew~! Hahahahah!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1284
+translate uk_UA jin_story10_e7f2913b:
+
+    # pat "Come on!"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1285
+translate uk_UA jin_story10_cc6fd6f7:
+
+    # moon "You need to get down from there!"
+    moon ""
+
+# game/scripts/side_char_events.rpy:1286
+translate uk_UA jin_story10_01d67858:
+
+    # c "Someone's finally having fun."
+    c ""
+
+# game/scripts/side_char_events.rpy:1287
+translate uk_UA jin_story10_3305087f:
+
+    # pat "Get the fuck outta here!"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1288
+translate uk_UA jin_story10_6973991c:
+
+    # moon "Are you listening to me??"
+    moon ""
+
+# game/scripts/side_char_events.rpy:1289
+translate uk_UA jin_story10_efe03d20:
+
+    # j "Heheh~ shut up!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1290
+translate uk_UA jin_story10_8f7bd264:
+
+    # pat "Fuck you!"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1291
+translate uk_UA jin_story10_4bf52392:
+
+    # c "Great..."
+    c ""
+
+# game/scripts/side_char_events.rpy:1293
+translate uk_UA jin_story10_f073d44b:
+
+    # pat "Hey! HEYYY! Who the fuck do you belong to, knife-ear!?"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1294
+translate uk_UA jin_story10_26247b25:
+
+    # j "I belong to the rythm today! Heheh~ And who do you belong to, spoon-ear?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1295
+translate uk_UA jin_story10_6aacfd58:
+
+    # pat "The fuck you call me!?"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1296
+translate uk_UA jin_story10_96692f72:
+
+    # pat "{i}I don't see a chain...{/i}"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1297
+translate uk_UA jin_story10_95582d2a:
+
+    # c "She's mine."
+    c ""
+
+# game/scripts/side_char_events.rpy:1299
+translate uk_UA jin_story10_18fe60e7:
+
+    # pat "Who the fuck do you think you are letting that sow off her leash?"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1300
+translate uk_UA jin_story10_4dcefbf9:
+
+    # c "The owner."
+    c ""
+
+# game/scripts/side_char_events.rpy:1301
+translate uk_UA jin_story10_5c19271f:
+
+    # pat "I don't see no name tag. Why don't you show me the deed?"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1302
+translate uk_UA jin_story10_b029dcc9:
+
+    # c "I'm not going to do that..."
+    c ""
+
+# game/scripts/side_char_events.rpy:1303
+translate uk_UA jin_story10_08e887a6:
+
+    # pat "Ohhh, sounds like someone was caught in a lie! Well go on then Mr. CEO, get her back to work then!"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1304
+translate uk_UA jin_story10_b2cf3fdd:
+
+    # c "She doesn't-\n*sigh*... Anyone can drink here, even elves. Why don't you bring yours next time?"
+    c ""
+
+# game/scripts/side_char_events.rpy:1305
+translate uk_UA jin_story10_a21286bc:
+
+    # pat "Excuse me? You know how stupid it is to give alcohol to a worker? Of course you don't, ya fuckin' moron. This is a human only establishment! Ain't that right?"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1306
+translate uk_UA jin_story10_f65c4894:
+
+    # pat "That's right."
+    pat ""
+
+# game/scripts/side_char_events.rpy:1307
+translate uk_UA jin_story10_03d6bfb9:
+
+    # pat "HEY HEY HEY! Don't you fuckin' roll your eyes at me, boy!"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1309
+translate uk_UA jin_story10_169f7cb5:
+
+    # c "Listen..."
+    c ""
+
+# game/scripts/side_char_events.rpy:1311
+translate uk_UA jin_story10_a19722f0:
+
+    # j "No, no, it's okay... I'll go."
+    j ""
+
+# game/scripts/side_char_events.rpy:1312
+translate uk_UA jin_story10_34099ddd:
+
+    # c "But-"
+    c ""
+
+# game/scripts/side_char_events.rpy:1313
+translate uk_UA jin_story10_2420dfa0:
+
+    # j "It's fine... I don't want any trouble. It's not worth it."
+    j ""
+
+# game/scripts/side_char_events.rpy:1314
+translate uk_UA jin_story10_a09ac520:
+
+    # pat "Damn fuckin' straight! Hah!"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1316
+translate uk_UA jin_story10_48c3975a:
+
+    # c "You're banned."
+    c ""
+
+# game/scripts/side_char_events.rpy:1317
+translate uk_UA jin_story10_f80d3fa1:
+
+    # pat "WHAT!?"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1318
+translate uk_UA jin_story10_2d70be0b:
+
+    # c "Get the fuck out."
+    c ""
+
+# game/scripts/side_char_events.rpy:1320
+translate uk_UA jin_story10_11ceec99:
+
+    # pat "Or what, pussy-boy!? What are you gonna do? Call the cops, I fuckin' dare you!" with ssshake
+    pat "" with ssshake
+
+# game/scripts/side_char_events.rpy:1322
+translate uk_UA jin_story10_ef02a586:
+
+    # c "Motherfucker, you better start changing your tone, or changing your name, because I {u}will{/u} find where you live and fuck you up." with ssshake
+    c "" with ssshake
+
+# game/scripts/side_char_events.rpy:1323
+translate uk_UA jin_story10_79446b44:
+
+    # pat "...!"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1325
+translate uk_UA jin_story10_9f997c2a:
+
+    # pat "It's not that serious man, relax."
+    pat ""
+
+# game/scripts/side_char_events.rpy:1326
+translate uk_UA jin_story10_738318a0:
+
+    # c "{b}GET OUT!{/b}" with ssshake
+    c "" with ssshake
+
+# game/scripts/side_char_events.rpy:1327
+translate uk_UA jin_story10_c9d6e227:
+
+    # pat "Come on man, let's just find another bar."
+    pat ""
+
+# game/scripts/side_char_events.rpy:1328
+translate uk_UA jin_story10_9f8089c0:
+
+    # pat "Alright, alright, shit..."
+    pat ""
+
+# game/scripts/side_char_events.rpy:1330
+translate uk_UA jin_story10_74108798:
+
+    # pat "{i}She's just an elf, I don't see what the big deal was?{/i}"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1331
+translate uk_UA jin_story10_c7b6c055:
+
+    # pat "{i}You're lookin' like a real pussy right about now.{/i}"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1332
+translate uk_UA jin_story10_6de86170:
+
+    # pat "{i}Man, shut the fuck up. You're drivin'. I'm drunker than you.{/i}"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1333
+translate uk_UA jin_story10_6d195aba:
+
+    # pat "{i}I can't drive man, you know that!{/i}"
+    pat ""
+
+# game/scripts/side_char_events.rpy:1335
+translate uk_UA jin_story10_80b4e896:
+
+    # j "Wha... I've never seen anything like that before... in all my years, no one has ever done that..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1337
+translate uk_UA jin_story10_52219d87:
+
+    # j "That was kind of hot..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1338
+translate uk_UA jin_story10_cae1c673:
+
+    # c "Getting your libido back, hm?"
+    c ""
+
+# game/scripts/side_char_events.rpy:1339
+translate uk_UA jin_story10_22272ae9:
+
+    # j "Hmm~ I guess so..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1340
+translate uk_UA jin_story10_8cd19f9b:
+
+    # j "Maybe we could... run some tests in Lin's room... what do you think?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1343
+translate uk_UA jin_story10_e13925eb:
+
+    # c "Come on, let's go."
+    c ""
+
+# game/scripts/side_char_events.rpy:1344
+translate uk_UA jin_story10_1b60c4a2:
+
+    # j "Yay! Heheh!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1347
+translate uk_UA jin_story10_315ecb2a:
+
+    # j "Wow, it's been a long time since I had sex. I hope it still feels good..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1349
+translate uk_UA jin_story10_4c762918:
+
+    # j "Sit down and take it out, I'll show you what I can really do..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1351
+translate uk_UA jin_story10_20b16bcb:
+
+    # j "Mmmh~ it's so big~"
+    j ""
+
+# game/scripts/side_char_events.rpy:1352
+translate uk_UA jin_story10_e707c963:
+
+    # j "Ahh, nh~ fuck, it's been so long... I'm so sensitive~"
+    j ""
+
+# game/scripts/side_char_events.rpy:1353
+translate uk_UA jin_story10_70d8f077:
+
+    # j "Nnh, are you ready [linoname]? Nnnm, I want it so bad~"
+    j ""
+
+# game/scripts/side_char_events.rpy:1355
+translate uk_UA jin_story10_42fb152e:
+
+    # j "Mmmgh~! Fuck! Aaah! Yes! Oh fuck, that's amazing~!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1356
+translate uk_UA jin_story10_c4de99ba:
+
+    # j "I'll never get tired of big, juicy, human cock! Mmmh!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1357
+translate uk_UA jin_story10_86ce8261:
+
+    # j "Mmmh! Ahh~ How's that, [linoname]? Do you love my tiny elf pussy? Mmmh~!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1360
+translate uk_UA jin_story10_69414516:
+
+    # j "Fuck it, fuck it harder~ AH! Nnnm! Ooooh fuck, it's so good! NNM!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1361
+translate uk_UA jin_story10_cf1caacc:
+
+    # j "MMMN! Fuck my pussy all you want, [linoname]! Mmmh! It's yours! It's yours~"
+    j ""
+
+# game/scripts/side_char_events.rpy:1362
+translate uk_UA jin_story10_5efde2b8:
+
+    # j "Fuck, fuck, fuck~ Mmmh! Mmh! You wanna cum inside, [linoname]? Hm? You wanna cum inside?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1363
+translate uk_UA jin_story10_cf4b0811:
+
+    # j "Cum for me, [linoname]! Mmmh! Cum, cum, cum~ AH! I want it!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1368
+translate uk_UA jin_story10_55b990ae:
+
+    # j "AAAH!" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:1369
+translate uk_UA jin_story10_8e6e33fe:
+
+    # j "Yes, yes~!" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:1370
+translate uk_UA jin_story10_589ce566:
+
+    # j "MMMMH! Fuck~" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:1372
+translate uk_UA jin_story10_0c7e6ae7:
+
+    # j "Mmmh... that was so goooood~ Ahh... Ahh..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1373
+translate uk_UA jin_story10_3a5a03e0:
+
+    # j "Did you have fun? Heheh, let's do this again sometime~ All you have to do is ask..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1374
+translate uk_UA jin_story10_1716aac8:
+
+    # j "And, thank you again for helping me back there~ Hmhm~"
+    j ""
+
+# game/scripts/side_char_events.rpy:1376
+translate uk_UA jin_story10_a9df66dc:
+
+    # "You've unlocked repeatable sex with Jin!"
+    ""
+
+# game/scripts/side_char_events.rpy:1380
+translate uk_UA jin_story10_2377b8f7:
+
+    # j "Haaah, hah! You wanna paint my face?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1382
+translate uk_UA jin_story10_5d541e44:
+
+    # j "Mmmm, cum on me, [linoname]~"
+    j ""
+
+# game/scripts/side_char_events.rpy:1383
+translate uk_UA jin_story10_a305ac93:
+
+    # j "Cum, cum, cum, cum~ Yes, yes~"
+    j ""
+
+# game/scripts/side_char_events.rpy:1385
+translate uk_UA jin_story10_668f7486:
+
+    # j "Ah~!\nMmmn... oh fuck, that's so much~" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:1386
+translate uk_UA jin_story10_3a5a03e0_1:
+
+    # j "Did you have fun? Heheh, let's do this again sometime~ All you have to do is ask..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1387
+translate uk_UA jin_story10_1716aac8_1:
+
+    # j "And, thank you again for helping me back there~ Hmhm~"
+    j ""
+
+# game/scripts/side_char_events.rpy:1390
+translate uk_UA jin_story10_a9df66dc_1:
+
+    # "You've unlocked repeatable sex with Jin!"
+    ""
+
+# game/scripts/side_char_events.rpy:1395
+translate uk_UA jin_story10_ee106ad6:
+
+    # c "I'm really busy right now, Jin... I can't."
+    c ""
+
+# game/scripts/side_char_events.rpy:1396
+translate uk_UA jin_story10_81ca8659:
+
+    # j "Fine, fine... but call me sometime."
+    j ""
+
+# game/scripts/side_char_events.rpy:1397
+translate uk_UA jin_story10_03c8eaf5:
+
+    # c "Are you going to be okay?"
+    c ""
+
+# game/scripts/side_char_events.rpy:1398
+translate uk_UA jin_story10_caebbc5c:
+
+    # j "Yeah... I think I got a liiiiitle too drunk, haha..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1399
+translate uk_UA jin_story10_ac1dfde2:
+
+    # c "Sleep it off, you'll be fine tomorrow."
+    c ""
+
+# game/scripts/side_char_events.rpy:1400
+translate uk_UA jin_story10_6be62e2d:
+
+    # j "Mkayyy..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1409
+translate uk_UA jin_sex_repeatable_20b16bcb:
+
+    # j "Mmmh~ it's so big~"
+    j ""
+
+# game/scripts/side_char_events.rpy:1410
+translate uk_UA jin_sex_repeatable_70d8f077:
+
+    # j "Nnh, are you ready [linoname]? Nnnm, I want it so bad~"
+    j ""
+
+# game/scripts/side_char_events.rpy:1412
+translate uk_UA jin_sex_repeatable_42fb152e:
+
+    # j "Mmmgh~! Fuck! Aaah! Yes! Oh fuck, that's amazing~!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1413
+translate uk_UA jin_sex_repeatable_c4de99ba:
+
+    # j "I'll never get tired of big, juicy, human cock! Mmmh!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1414
+translate uk_UA jin_sex_repeatable_86ce8261:
+
+    # j "Mmmh! Ahh~ How's that, [linoname]? Do you love my tiny elf pussy? Mmmh~!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1417
+translate uk_UA jin_sex_repeatable_69414516:
+
+    # j "Fuck it, fuck it harder~ AH! Nnnm! Ooooh fuck, it's so good! NNM!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1418
+translate uk_UA jin_sex_repeatable_cf1caacc:
+
+    # j "MMMN! Fuck my pussy all you want, [linoname]! Mmmh! It's yours! It's yours~"
+    j ""
+
+# game/scripts/side_char_events.rpy:1419
+translate uk_UA jin_sex_repeatable_5efde2b8:
+
+    # j "Fuck, fuck, fuck~ Mmmh! Mmh! You wanna cum inside, [linoname]? Hm? You wanna cum inside?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1420
+translate uk_UA jin_sex_repeatable_cf4b0811:
+
+    # j "Cum for me, [linoname]! Mmmh! Cum, cum, cum~ AH! I want it!"
+    j ""
+
+# game/scripts/side_char_events.rpy:1425
+translate uk_UA jin_sex_repeatable_55b990ae:
+
+    # j "AAAH!" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:1426
+translate uk_UA jin_sex_repeatable_8e6e33fe:
+
+    # j "Yes, yes~!" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:1427
+translate uk_UA jin_sex_repeatable_589ce566:
+
+    # j "MMMMH! Fuck~" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:1429
+translate uk_UA jin_sex_repeatable_0c7e6ae7:
+
+    # j "Mmmh... that was so goooood~ Ahh... Ahh..."
+    j ""
+
+# game/scripts/side_char_events.rpy:1432
+translate uk_UA jin_sex_repeatable_2377b8f7:
+
+    # j "Haaah, hah! You wanna paint my face?"
+    j ""
+
+# game/scripts/side_char_events.rpy:1434
+translate uk_UA jin_sex_repeatable_5d541e44:
+
+    # j "Mmmm, cum on me, [linoname]~"
+    j ""
+
+# game/scripts/side_char_events.rpy:1435
+translate uk_UA jin_sex_repeatable_a305ac93:
+
+    # j "Cum, cum, cum, cum~ Yes, yes~"
+    j ""
+
+# game/scripts/side_char_events.rpy:1437
+translate uk_UA jin_sex_repeatable_668f7486:
+
+    # j "Ah~!\nMmmn... oh fuck, that's so much~" with ssshake
+    j "" with ssshake
+
+# game/scripts/side_char_events.rpy:2799
+translate uk_UA peniintro_aa89442b:
+
+    # peni "I don't offer her to every Master, but you're special, and I don't have much else to offer... would you like to take her, [peniname]?"
+    peni ""
+
+# game/scripts/side_char_events.rpy:4645
+translate uk_UA love_nia_4_01f5f91b:
+
+    # l "There's one that grows closer to the mountains, a yellow flower we call Senti... it makes everything you eat taste sweet, have you heard of it?"
+    l ""
+
+# game/scripts/side_char_events.rpy:6113
+translate uk_UA jinspatalk_101801e6:
+
+    # j "Hey. enjoying the view?"
+    j ""
+
+# game/scripts/side_char_events.rpy:6114
+translate uk_UA jinspatalk_4c2fd2b6:
+
+    # c "Absolutely..."
+    c ""
+
+# game/scripts/side_char_events.rpy:6115
+translate uk_UA jinspatalk_8e946173:
+
+    # j "Good, heheh..."
+    j ""
+
+# game/scripts/side_char_events.rpy:7276
+translate uk_UA lucy_yacht_e58184a2:
+
+    # lu "Everyone seems too busy all the time. I never run into them often, except for the rare times at the hot springs..."
+    lu ""
+
+# game/scripts/side_char_events.rpy:8470
+translate uk_UA kate9_82bcb7f8:
+
+    # "I think I'll buy some earrings for her as a gift on the computer."
+    ""
+
+# game/scripts/side_char_events.rpy:8474
+translate uk_UA kate9_a0d4e09d:
+
+    # "*ring, ring*... *ring, ring*..."
+    ""
+
+# game/scripts/side_char_events.rpy:8475
+translate uk_UA kate9_1e13c4ce:
+
+    # kate "Hello?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8476
+translate uk_UA kate9_7baee771:
+
+    # c "Hey beautiful, what do you think about drinks at Bernie's Bowling Bar?"
+    c ""
+
+# game/scripts/side_char_events.rpy:8477
+translate uk_UA kate9_5cdf761f:
+
+    # kate "{i}'Beautiful'...?{/i} Do I really warrant such praise?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8478
+translate uk_UA kate9_315ee6ab:
+
+    # c "Of course. Is that a yes?"
+    c ""
+
+# game/scripts/side_char_events.rpy:8479
+translate uk_UA kate9_c33b1e83:
+
+    # kate "I suppose... you mean right now?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8480
+translate uk_UA kate9_6f4de638:
+
+    # c "Yeah, I'm leaving right now, I'll pick you up."
+    c ""
+
+# game/scripts/side_char_events.rpy:8481
+translate uk_UA kate9_ff364734:
+
+    # kate "Oh that's not necessary, Bernie's is just down the street from where I live, it would be a waste of gas. We can meet there."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8482
+translate uk_UA kate9_efaf222a:
+
+    # c "Great, see you there."
+    c ""
+
+# game/scripts/side_char_events.rpy:8484
+translate uk_UA kate9_de8e2d8d:
+
+    # "You drive to Bernie's Bowling Bar."
+    ""
+
+# game/scripts/side_char_events.rpy:8486
+translate uk_UA kate9_1e665559:
+
+    # c "Hmm..."
+    c ""
+
+# game/scripts/side_char_events.rpy:8487
+translate uk_UA kate9_bf23c90a:
+
+    # c "I don't see her, she should have arrived before me."
+    c ""
+
+# game/scripts/side_char_events.rpy:8488
+translate uk_UA kate9_62323a6d:
+
+    # kate "Right here."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8490
+translate uk_UA kate9_a3ab27f4:
+
+    # kate "You kept me waiting."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8491
+translate uk_UA kate9_a72ced56:
+
+    # c "Sorry, there was traffic."
+    c ""
+
+# game/scripts/side_char_events.rpy:8492
+translate uk_UA kate9_c1891021:
+
+    # kate "It's not the length of time I'm concerned about. It's all these people... I had to hide in this corner like a rat until you arrived."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8493
+translate uk_UA kate9_e7e36371:
+
+    # c "You could have waited outside?"
+    c ""
+
+# game/scripts/side_char_events.rpy:8494
+translate uk_UA kate9_5dc9771a:
+
+    # kate "At this hour? I think not."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8495
+translate uk_UA kate9_7f11260c:
+
+    # c "That's fair. Let me buy you some drinks."
+    c ""
+
+# game/scripts/side_char_events.rpy:8496
+translate uk_UA kate9_74ebdee5:
+
+    # kate "That would suffice."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8498
+translate uk_UA kate9_ead6336e:
+
+    # kate "You see those two back there? I've been watching them... they suck."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8499
+translate uk_UA kate9_6e6ce20e:
+
+    # c "Oh?"
+    c ""
+
+# game/scripts/side_char_events.rpy:8501
+translate uk_UA kate9_ffcefa0c:
+
+    # kate "Anyway, how was your day? What caused you to think of me tonight?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8502
+translate uk_UA kate9_705cdbe2:
+
+    # c "I just wanted to see you again."
+    c ""
+
+# game/scripts/side_char_events.rpy:8503
+translate uk_UA kate9_9ba37371:
+
+    # kate "Well, I appreciate the thought. I don't get many invitations to things. Not that I would typically accept them anyway, I've made my peace with it."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8505
+translate uk_UA kate9_4bd659b2:
+
+    # ba "Welcome to Bernie's! Can I get you two anything?"
+    ba ""
+
+# game/scripts/side_char_events.rpy:8506
+translate uk_UA kate9_2964d5a2:
+
+    # c "Two cherry cocktails."
+    c ""
+
+# game/scripts/side_char_events.rpy:8507
+translate uk_UA kate9_42b0ec31:
+
+    # kate "Lemonade for me, please."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8508
+translate uk_UA kate9_7ba2233b:
+
+    # ba "Right away."
+    ba ""
+
+# game/scripts/side_char_events.rpy:8510
+translate uk_UA kate9_1eceb884:
+
+    # c "Someone's thirsty."
+    c ""
+
+# game/scripts/side_char_events.rpy:8511
+translate uk_UA kate9_1c60a076:
+
+    # kate "Both of us, I assume."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8512
+translate uk_UA kate9_8ddca046:
+
+    # kate "Oh, would you like to bowl while we're here? Perhaps after some drinks."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8513
+translate uk_UA kate9_c48dc32f:
+
+    # c "Sure."
+    c ""
+
+# game/scripts/side_char_events.rpy:8514
+translate uk_UA kate9_2c872bac:
+
+    # kate "I'm good at bowling."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8515
+translate uk_UA kate9_180eb06f:
+
+    # c "Oh yeah?"
+    c ""
+
+# game/scripts/side_char_events.rpy:8517
+translate uk_UA kate9_5f644866:
+
+    # kate "Yeah. My friends in middle school were really into it, so I did a lot of research and figured out the best way to hit a strike."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8518
+translate uk_UA kate9_2efb3b21:
+
+    # kate "I was never invited though."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8519
+translate uk_UA kate9_7214cfe2:
+
+    # c "Oh..."
+    c ""
+
+# game/scripts/side_char_events.rpy:8521
+translate uk_UA kate9_0e5485f8:
+
+    # kate "That's life."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8522
+translate uk_UA kate9_cd005c53:
+
+    # kate "So... what's new with you?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8523
+translate uk_UA kate9_7b1cbb9e:
+
+    # c "Well I've been seeing this girl."
+    c ""
+
+# game/scripts/side_char_events.rpy:8524
+translate uk_UA kate9_32d6e404:
+
+    # kate "Another one?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8525
+translate uk_UA kate9_840ea430:
+
+    # c "She's really smart, has beautiful eyes, and likes to work out."
+    c ""
+
+# game/scripts/side_char_events.rpy:8526
+translate uk_UA kate9_4d73e120:
+
+    # kate "Are you serious? She sounds interesting, maybe we could be friends."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8527
+translate uk_UA kate9_28cb07ac:
+
+    # c "I'm talking about you."
+    c ""
+
+# game/scripts/side_char_events.rpy:8528
+translate uk_UA kate9_5b513d21:
+
+    # kate "Oh."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8530
+translate uk_UA kate9_862bcc79:
+
+    # kate "I've never considered myself to have beautiful eyes. People always tell me I look sad, or mad, but that's just my face."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8531
+translate uk_UA kate9_24cf0c8a:
+
+    # kate "Maybe I could animate more, but... then I would be faking it."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8533
+translate uk_UA kate9_2d7298f0:
+
+    # ba "Enjoy!"
+    ba ""
+
+# game/scripts/side_char_events.rpy:8534
+translate uk_UA kate9_6a87c1a0:
+
+    # kate "Uh..."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8536
+translate uk_UA kate9_e54e2bf5:
+
+    # kate "Wait, something is not right here. I only ordered a lemonade."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8537
+translate uk_UA kate9_43872e7e:
+
+    # c "Did you think I was ordering two for myself?"
+    c ""
+
+# game/scripts/side_char_events.rpy:8538
+translate uk_UA kate9_e3d32965:
+
+    # kate "Yes, I've never drank alcohol before."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8540
+translate uk_UA kate9_326c4b32:
+
+    # kate "Well, that's sort of a lie. I have had a few sips of beer but I didn't like it. What I mean is, I've never been drunk before."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8541
+translate uk_UA kate9_5604ffc8:
+
+    # c "Try it, I think you'll have fun."
+    c ""
+
+# game/scripts/side_char_events.rpy:8542
+translate uk_UA kate9_6045ee6e:
+
+    # kate "You know how much I care about my physical fitness, [name]. Alcohol would severely impede that."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8543
+translate uk_UA kate9_0314c1f3:
+
+    # c "You don't have to, but I can't drink both alone."
+    c ""
+
+# game/scripts/side_char_events.rpy:8545
+translate uk_UA kate9_bea6bc4c:
+
+    # kate "I suppose I could try... I hate when things are wasted."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8546
+translate uk_UA kate9_ddfd9cce:
+
+    # kate "Okay, fine."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8548
+translate uk_UA kate9_cacc4e38:
+
+    # c "Chee- oh."
+    c ""
+
+# game/scripts/side_char_events.rpy:8549
+translate uk_UA kate9_12287092:
+
+    # kate "Mmmh."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8551
+translate uk_UA kate9_d5d489da:
+
+    # kate "It's really good. I don't taste any alcohol at all."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8552
+translate uk_UA kate9_37a1d024:
+
+    # kate "Oh, what were you saying?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8554
+translate uk_UA kate9_8bd2bbec:
+
+    # c "Nothing. I'm glad you enjoy it."
+    c ""
+
+# game/scripts/side_char_events.rpy:8555
+translate uk_UA kate9_22354505:
+
+    # kate "Me too. I don't think this will make me drunk."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8556
+translate uk_UA kate9_760ca9ba:
+
+    # c "It's pretty strong."
+    c ""
+
+# game/scripts/side_char_events.rpy:8557
+translate uk_UA kate9_0b427baa:
+
+    # kate "So am I."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8559
+translate uk_UA kate9_35543a68:
+
+    # c "Yes, but..."
+    c ""
+
+# game/scripts/side_char_events.rpy:8561
+translate uk_UA kate9_4bcb453b:
+
+    # c "Oh."
+    c ""
+
+# game/scripts/side_char_events.rpy:8563
+translate uk_UA kate9_a93eacf3:
+
+    # kate "These are really good. That was genuinely a nice change of pace from what I usually drink. Which is typically water and tea."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8564
+translate uk_UA kate9_eeeeb2a4:
+
+    # c "You drank that pretty fast..."
+    c ""
+
+# game/scripts/side_char_events.rpy:8565
+translate uk_UA kate9_36933080:
+
+    # kate "I did. Thank you for noticing."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8566
+translate uk_UA kate9_f33dcdd8:
+
+    # kate "How much are the drinks? I think I would like another."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8567
+translate uk_UA kate9_47ed5d6a:
+
+    # c "Let's keep it to one for now."
+    c ""
+
+# game/scripts/side_char_events.rpy:8568
+translate uk_UA kate9_61ac541c:
+
+    # kate "Fair enough, it is basically my first time drinking whatever alcohol this is."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8569
+translate uk_UA kate9_bb5c9d9c:
+
+    # c "Oh, I almost forgot! I got you a gift."
+    c ""
+
+# game/scripts/side_char_events.rpy:8570
+translate uk_UA kate9_7ac560cd:
+
+    # kate "A gift? Ohh, I hope I like it. Can I see?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8572
+translate uk_UA kate9_12db4a43:
+
+    # kate "Hold on... that looks like a jewelry box."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8573
+translate uk_UA kate9_5d5583ab:
+
+    # c "It is."
+    c ""
+
+# game/scripts/side_char_events.rpy:8574
+translate uk_UA kate9_810bd9ee:
+
+    # kate "You're kidding."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8575
+translate uk_UA kate9_d989c49f:
+
+    # c "Take a look."
+    c ""
+
+# game/scripts/side_char_events.rpy:8577
+translate uk_UA kate9_8614dab2:
+
+    # kate "No way!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8578
+translate uk_UA kate9_4c7cb772:
+
+    # c "You like it?"
+    c ""
+
+# game/scripts/side_char_events.rpy:8579
+translate uk_UA kate9_6281793b:
+
+    # kate "I love it! You actually remembered!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8581
+translate uk_UA kate9_7862128c:
+
+    # kate "I'm usually not one for jewelry, but wow...!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8583
+translate uk_UA kate9_94a677e6:
+
+    # kate "Seriously, I haven't put any jewelry on in years."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8585
+translate uk_UA kate9_dbd751a0:
+
+    # kate "So this should tell you how much I love it!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8587
+translate uk_UA kate9_250af87c:
+
+    # kate "What do you think? Does it look good?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8588
+translate uk_UA kate9_0023a594:
+
+    # c "They're beautiful on you."
+    c ""
+
+# game/scripts/side_char_events.rpy:8589
+translate uk_UA kate9_bab561c6:
+
+    # kate "Thank you! Really, thank you. I'm so happy."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8591
+translate uk_UA kate9_b00de7e3:
+
+    # kate "Woah!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8592
+translate uk_UA kate9_5f8925b8:
+
+    # c "What happened? Are you okay?"
+    c ""
+
+# game/scripts/side_char_events.rpy:8594
+translate uk_UA kate9_fa4f7e16:
+
+    # kate "I moved my head, and... everything got dizzy. What's happening?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8595
+translate uk_UA kate9_99650238:
+
+    # c "You're drunk."
+    c ""
+
+# game/scripts/side_char_events.rpy:8596
+translate uk_UA kate9_c3d72a09:
+
+    # kate "From one drink?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8597
+translate uk_UA kate9_c6be4a3b:
+
+    # c "Yes, it's strong and you drank it very fast."
+    c ""
+
+# game/scripts/side_char_events.rpy:8598
+translate uk_UA kate9_edf9e345:
+
+    # kate "Why didn't you warn me?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8599
+translate uk_UA kate9_5e1ba603:
+
+    # c "I did, you said you were strong too."
+    c ""
+
+# game/scripts/side_char_events.rpy:8601
+translate uk_UA kate9_6731d609:
+
+    # kate "Woah."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8603
+translate uk_UA kate9_fd3532d5:
+
+    # kate "Woooooaaah...!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8604
+translate uk_UA kate9_7e4a9f99:
+
+    # c "Kate, Kate!"
+    c ""
+
+# game/scripts/side_char_events.rpy:8606
+translate uk_UA kate9_ce77fe6c:
+
+    # kate "Nnnngh...! Woah!" with ssshake
+    kate "" with ssshake
+
+# game/scripts/side_char_events.rpy:8607
+translate uk_UA kate9_6a774747:
+
+    # kate "[name], it turns out I'm not stronger than the drink..."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8608
+translate uk_UA kate9_428de63a:
+
+    # c "Yeah, it doesn't quite work like that."
+    c ""
+
+# game/scripts/side_char_events.rpy:8609
+translate uk_UA kate9_77b3ecf6:
+
+    # kate "What do I do!?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8610
+translate uk_UA kate9_f7fc73fa:
+
+    # c "Enjoy it."
+    c ""
+
+# game/scripts/side_char_events.rpy:8611
+translate uk_UA kate9_c1dc16e2:
+
+    # kate "I can't bowl like this... I'll lose."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8612
+translate uk_UA kate9_105ab362:
+
+    # kate "NNGHK! Oh god... I feel like I might throw up."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8613
+translate uk_UA kate9_a72799d9:
+
+    # c "Alright, let's go for a walk."
+    c ""
+
+# game/scripts/side_char_events.rpy:8614
+translate uk_UA kate9_7833ecfd:
+
+    # kate "What will that do!? I can barely stand!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8615
+translate uk_UA kate9_15836020:
+
+    # c "It will help, I promise."
+    c ""
+
+# game/scripts/side_char_events.rpy:8616
+translate uk_UA kate9_0764eab0:
+
+    # kate "O-Okay..."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8619
+translate uk_UA kate9_e4da7f66:
+
+    # kate "HAHAHA! Wooooow! I'm going!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8620
+translate uk_UA kate9_7543ea61:
+
+    # c "Huh?"
+    c ""
+
+# game/scripts/side_char_events.rpy:8621
+translate uk_UA kate9_34d196e3:
+
+    # kate "I'm floating! Don't let me fall!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8622
+translate uk_UA kate9_59087957:
+
+    # c "I won't."
+    c ""
+
+# game/scripts/side_char_events.rpy:8623
+translate uk_UA kate9_788567e8:
+
+    # kate "Wow."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8625
+translate uk_UA kate9_481c59dd:
+
+    # kate "Woooooow! I feel so free! I feel, like... untilfered?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8626
+translate uk_UA kate9_4c26a2ff:
+
+    # c "Unfiltered?"
+    c ""
+
+# game/scripts/side_char_events.rpy:8627
+translate uk_UA kate9_8b428f44:
+
+    # kate "Yeah! But dizzy... hahaha! I can't believe I never drank before."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8628
+translate uk_UA kate9_3b200fa0:
+
+    # c "Don't have too much fun, you don't want to become an alcoholic."
+    c ""
+
+# game/scripts/side_char_events.rpy:8629
+translate uk_UA kate9_6852f296:
+
+    # kate "Of courrrrse!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8631
+translate uk_UA kate9_6d46768d:
+
+    # c "That drink really hit you hard."
+    c ""
+
+# game/scripts/side_char_events.rpy:8632
+translate uk_UA kate9_da2d9691:
+
+    # kate "Yyyyyeah..."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8633
+translate uk_UA kate9_255d5e0b:
+
+    # c "Do you feel alright?"
+    c ""
+
+# game/scripts/side_char_events.rpy:8634
+translate uk_UA kate9_906d930a:
+
+    # kate "A little nauseous, but... really good!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8635
+translate uk_UA kate9_11d6d91a:
+
+    # c "If you need to throw up, the river is to your right."
+    c ""
+
+# game/scripts/side_char_events.rpy:8636
+translate uk_UA kate9_f4a6558b:
+
+    # kate "Okayyy..."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8637
+translate uk_UA kate9_6cc08a3e:
+
+    # kate "HAHAHAHA!" with ssshake
+    kate "" with ssshake
+
+# game/scripts/side_char_events.rpy:8638
+translate uk_UA kate9_297d93f3:
+
+    # c "What?"
+    c ""
+
+# game/scripts/side_char_events.rpy:8639
+translate uk_UA kate9_232ea032:
+
+    # kate "You know what I just realized? You never paid for the drinks! We totally just dined and dashed!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8640
+translate uk_UA kate9_66eddb22:
+
+    # c "Oh, oops..."
+    c ""
+
+# game/scripts/side_char_events.rpy:8641
+translate uk_UA kate9_a6d3d7d6:
+
+    # kate "Hahahaha! We're criminaaaals!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8643
+translate uk_UA kate9_20c61acc:
+
+    # kate "But you're so nice..."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8644
+translate uk_UA kate9_da1d12c3:
+
+    # kate "Mmmh, I wish I could feel this way all the time."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8645
+translate uk_UA kate9_b9fabaed:
+
+    # c "Drunk?"
+    c ""
+
+# game/scripts/side_char_events.rpy:8646
+translate uk_UA kate9_1c06354c:
+
+    # kate "No, free."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8647
+translate uk_UA kate9_8eae30c5:
+
+    # kate "It's like... all those little rules have just vanished. My anxieties have melted away..."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8648
+translate uk_UA kate9_4b6a65fc:
+
+    # kate "I can live in the moment without worrying what anyone else is thinking. I guess it helps that we're alone... but that voice in the back of my head isn't so loud anymore."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8649
+translate uk_UA kate9_ed4aa231:
+
+    # kate "Nnnngh, don't let me become an alcoholic, [name]..."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8650
+translate uk_UA kate9_babf9a01:
+
+    # q "Trust me, it's not worth it."
+    q ""
+
+# game/scripts/side_char_events.rpy:8652
+translate uk_UA kate9_d6ae4586:
+
+    # hless "Naki though, it helps you think."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8653
+translate uk_UA kate9_7f06b958:
+
+    # kate "Huh...? What are you doing?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8655
+translate uk_UA kate9_b94eee7a:
+
+    # hless "..."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8657
+translate uk_UA kate9_507d50fd:
+
+    # hless "Nothing."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8658
+translate uk_UA kate9_cca81b09:
+
+    # kate "I mean... fuck that, I don't use drugs. Don't tempt me."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8660
+translate uk_UA kate9_86fff81c:
+
+    # hless "You never know unless you try."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8661
+translate uk_UA kate9_9bdc25e6:
+
+    # kate "I draw the line at alcohol, thank youuu..."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8662
+translate uk_UA kate9_c1f7be52:
+
+    # hless "Yeah, I used to be just like you posers. But now I'm free, man, with the sky as my roof and a sea full of fish. Don't have to worry about taxes or nothin'. And I can sleep wherever I want."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8663
+translate uk_UA kate9_ba4ef698:
+
+    # c "I prefer my bed."
+    c ""
+
+# game/scripts/side_char_events.rpy:8664
+translate uk_UA kate9_bc7f1cfa:
+
+    # kate "Don't encourage people to live on the streets and take drugs, that's incredibly reckless."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8665
+translate uk_UA kate9_eb31e2e9:
+
+    # hless "Then I suppose... one man's freedom is another drunk girl's worst nightmare."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8666
+translate uk_UA kate9_d8acbedc:
+
+    # kate "Oh, we have a modern day Diogenes."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8667
+translate uk_UA kate9_40c9d082:
+
+    # hless "I take pride in shitting in private, thank you very much."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8668
+translate uk_UA kate9_3870944d:
+
+    # q "Would you quit bothering the locals, you're going to get the cops called on us."
+    q ""
+
+# game/scripts/side_char_events.rpy:8670
+translate uk_UA kate9_11a1f6a2:
+
+    # hless "Fuck you, Mikey. I'll do what I want."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8671
+translate uk_UA kate9_47e61029:
+
+    # bmike "Uh-huh."
+    bmike ""
+
+# game/scripts/side_char_events.rpy:8672
+translate uk_UA kate9_a8aa45de:
+
+    # hless "Hey, you find any fish yet? I wanna save for a rod so I can catch my own food."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8673
+translate uk_UA kate9_48fe7ac5:
+
+    # bmike "These fish are for dinner, not for sale."
+    bmike ""
+
+# game/scripts/side_char_events.rpy:8674
+translate uk_UA kate9_12f01939:
+
+    # hless "Aw come on, you know what they say about teaching a man to fish."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8675
+translate uk_UA kate9_ac4cf83d:
+
+    # bmike "You know how to fish."
+    bmike ""
+
+# game/scripts/side_char_events.rpy:8676
+translate uk_UA kate9_be973145:
+
+    # hless "You know what I mean."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8677
+translate uk_UA kate9_f1be110c:
+
+    # bmike "Sell your naki then."
+    bmike ""
+
+# game/scripts/side_char_events.rpy:8678
+translate uk_UA kate9_7887acd4:
+
+    # hless "Agh, I couldn't knock sense into you with a baseball bat."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8680
+translate uk_UA kate9_c259deaf:
+
+    # hless "Well I guess the jig is up, we're fishing."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8681
+translate uk_UA kate9_2968073f:
+
+    # bmike "{u}I'm{/u} fishing."
+    bmike ""
+
+# game/scripts/side_char_events.rpy:8682
+translate uk_UA kate9_a03d1dbb:
+
+    # hless "Oh hey those earrings are rad."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8683
+translate uk_UA kate9_b77536f3:
+
+    # kate "I know, you can't have them!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8684
+translate uk_UA kate9_890fedfc:
+
+    # hless "It's just a compliment."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8686
+translate uk_UA kate9_777b6309:
+
+    # hless "Anyway, think about what I said!"
+    hless ""
+
+# game/scripts/side_char_events.rpy:8687
+translate uk_UA kate9_3ad1a8b5:
+
+    # kate "{i}'Do drugs?'{/i}"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8688
+translate uk_UA kate9_956c4ab2:
+
+    # hless "No, man. Free the sooooul."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8689
+translate uk_UA kate9_464f6478:
+
+    # hless "But not with alcohol."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8690
+translate uk_UA kate9_5ffc4bf8:
+
+    # kate "Okay, bye."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8691
+translate uk_UA kate9_dbda8548:
+
+    # hless "Have a good day you two."
+    hless ""
+
+# game/scripts/side_char_events.rpy:8693
+translate uk_UA kate9_bd842210:
+
+    # kate "Wow...! I didn't feel anxious at all talking to those two. It was kinda fun!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8694
+translate uk_UA kate9_c79fbfa8:
+
+    # c "It helps that they were nice."
+    c ""
+
+# game/scripts/side_char_events.rpy:8695
+translate uk_UA kate9_bd13652b:
+
+    # kate "You don't understand, I always have issues talking to people, but now I feel... social! I feel like I could actually enjoy a party!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8696
+translate uk_UA kate9_e24b8107:
+
+    # kate "Mmmh, but it's starting to wear off... It almost feels like a waste to only walk while I'm drunk..."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8697
+translate uk_UA kate9_f93d24d3:
+
+    # c "Probably better than most people's first time."
+    c ""
+
+# game/scripts/side_char_events.rpy:8698
+translate uk_UA kate9_307999b8:
+
+    # kate "I suppose..."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8699
+translate uk_UA kate9_22067282:
+
+    # kate "I'm tirrrrred... could you walk me home?"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8700
+translate uk_UA kate9_418406e0:
+
+    # c "Sure, which way?"
+    c ""
+
+# game/scripts/side_char_events.rpy:8702
+translate uk_UA kate9_dc48a9e1:
+
+    # kate "I dunno, just use the app thingy. You know my address!"
+    kate ""
+
+# game/scripts/side_char_events.rpy:8703
+translate uk_UA kate9_61abf342:
+
+    # c "Alright, let's get you home."
+    c ""
+
+# game/scripts/side_char_events.rpy:8704
+translate uk_UA kate9_17cc7c48:
+
+    # kate "Thank youuu... Heart, heart, heart."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8705
+translate uk_UA kate9_060b03f8:
+
+    # c "Did you just say emojis?"
+    c ""
+
+# game/scripts/side_char_events.rpy:8706
+translate uk_UA kate9_427d60d3:
+
+    # kate "Maaaaybe."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8707
+translate uk_UA kate9_0c97fc6e:
+
+    # c "That's so weird."
+    c ""
+
+# game/scripts/side_char_events.rpy:8708
+translate uk_UA kate9_6b5f75f0:
+
+    # kate "I never use emojis! But you needed to know I hearted that."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8709
+translate uk_UA kate9_204966a2:
+
+    # kate "And I heart the walk... and I heart the earrings... and I heart you! Heheh."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8710
+translate uk_UA kate9_c55a0d5f:
+
+    # c "Ah, I heart you too, Kate."
+    c ""
+
+# game/scripts/side_char_events.rpy:8712
+translate uk_UA kate9_bbc2a8c1:
+
+    # "You lead Kate back home."
+    ""
+
+# game/scripts/side_char_events.rpy:8714
+translate uk_UA kate9_b85ddbef:
+
+    # kate "Nnnnh, thank you [name]."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8715
+translate uk_UA kate9_20c30138:
+
+    # kate "And... thank you for the earrings, I really love them..."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8716
+translate uk_UA kate9_70f45ce9:
+
+    # kate "You're the best boyfriend ever."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8717
+translate uk_UA kate9_4bcb453b_1:
+
+    # c "Oh."
+    c ""
+
+# game/scripts/side_char_events.rpy:8718
+translate uk_UA kate9_7b0dc580:
+
+    # kate "Goodnight love, get home safe..."
+    kate ""
+
+# game/scripts/side_char_events.rpy:8719
+translate uk_UA kate9_4546e38f:
+
+    # c "...Sweet dreams."
+    c ""
+
+# game/scripts/side_char_events.rpy:8721
+translate uk_UA kate9_9e1d2ef2:
+
+    # "Before leaving, you put Kate in bed and pour her a glass of water as you expect her to wake up dehydrated in the middle of the night."
+    ""
+
+# game/scripts/side_char_events.rpy:9161
+translate uk_UA kate7_363cb0c7:
+
+    # kate "I'm glad you find me physically attractive. You're the only person who has seen so much of me...\nI'm glad I'm not disappointing in this area."
+    kate ""
+
+# game/scripts/side_char_events.rpy:12254
+translate uk_UA iksa_poster_90072b49:
+
+    # van "The great chieftain of the owl clan, Iksa! She's fairly well known actually. She was caught soon after the third revolution ended, but in a wild turn of events, she was actually allowed back in her lands under certain conditions."
+    van ""
+
+translate uk_UA strings:
+
+    # game/scripts/side_char_events.rpy:797
+    old "Pretty please...?"
+    new ""
+
+    # game/scripts/side_char_events.rpy:797
+    old "Get up or I'm kicking you out."
+    new ""
+
+    # game/scripts/side_char_events.rpy:797
+    old "I'll give you half a pill."
+    new ""
+
+    # game/scripts/side_char_events.rpy:797
+    old "*Force her out*"
+    new ""
+
+    # game/scripts/side_char_events.rpy:984
+    old "Collect Shroom Juice"
+    new ""
+
+    # game/scripts/side_char_events.rpy:984
+    old "Discard Shroom Juice"
+    new ""
+
+    # game/scripts/side_char_events.rpy:1012
+    old "What are you, a cop?"
+    new ""
+
+    # game/scripts/side_char_events.rpy:1012
+    old "I forgot them at home..."
+    new ""
+
+    # game/scripts/side_char_events.rpy:1012
+    old "Let's just forget about this whole thing. (-$20)"
+    new ""
+
+    # game/scripts/side_char_events.rpy:1194
+    old "Don't Smoke"
+    new ""
+
+    # game/scripts/side_char_events.rpy:1341
+    old "Take her to Lin's room."
+    new ""
+

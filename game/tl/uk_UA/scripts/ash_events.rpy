@@ -42624,3 +42624,2367 @@ translate uk_UA strings:
     old "A sense of community."
     new ""
 
+# TODO: Translation updated at 2025-02-09 00:44
+
+# game/scripts/ash_events.rpy:29
+translate uk_UA ash_powers_b64a876c:
+
+    # m "ASHLEY! DON'T YOU DARE!"
+    m ""
+
+# game/scripts/ash_events.rpy:30
+translate uk_UA ash_powers_397d97de:
+
+    # au "This is insane! Just come down!"
+    au ""
+
+# game/scripts/ash_events.rpy:32
+translate uk_UA ash_powers_ed09ad68:
+
+    # a "NO WAY! I HAVE TO!"
+    a ""
+
+# game/scripts/ash_events.rpy:33
+translate uk_UA ash_powers_98dd303e:
+
+    # m "ASHLEY, STOP! YOU'RE GOING TO DIE!"
+    m ""
+
+# game/scripts/ash_events.rpy:35
+translate uk_UA ash_powers_e6a60a59:
+
+    # a "Well there's no turning back now..."
+    a ""
+
+# game/scripts/ash_events.rpy:36
+translate uk_UA ash_powers_9d4256ab:
+
+    # bot "Need a push?"
+    bot ""
+
+# game/scripts/ash_events.rpy:37
+translate uk_UA ash_powers_e3b08cb6:
+
+    # a "No it's okay, but thank you."
+    a ""
+
+# game/scripts/ash_events.rpy:38
+translate uk_UA ash_powers_576641a0:
+
+    # m "ASHLEY!!!" with ssshake
+    m "" with ssshake
+
+# game/scripts/ash_events.rpy:40
+translate uk_UA ash_powers_c903e4d2:
+
+    # a "I got this."
+    a ""
+
+# game/scripts/ash_events.rpy:41
+translate uk_UA ash_powers_887aa224:
+
+    # bot "Okay bye."
+    bot ""
+
+# game/scripts/ash_events.rpy:43
+translate uk_UA ash_powers_c80dbbf0:
+
+    # m "{i}AAAAAH!!!{/i}" with ssshake
+    m "" with ssshake
+
+# game/scripts/ash_events.rpy:45
+translate uk_UA ash_powers_26e237c6:
+
+    # a "{i}Arms in...{/i}" with ssshake
+    a "" with ssshake
+
+# game/scripts/ash_events.rpy:47
+translate uk_UA ash_powers_29be1b07:
+
+    # a "{i}Knees together...!{/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:49
+translate uk_UA ash_powers_544f284e:
+
+    # a "Now!"
+    a ""
+
+# game/scripts/ash_events.rpy:51
+translate uk_UA ash_powers_4b802353:
+
+    # a "{b}HNNGHK!{/b}" with sshake
+    a "" with sshake
+
+# game/scripts/ash_events.rpy:53
+translate uk_UA ash_powers_249c22f4:
+
+    # a "{i}AAAAAAH!{/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:54
+translate uk_UA ash_powers_7f370520:
+
+    # au "Oh my!"
+    au ""
+
+# game/scripts/ash_events.rpy:55
+translate uk_UA ash_powers_5880cfe1:
+
+    # a "HOW DO I STOP!?"
+    a ""
+
+# game/scripts/ash_events.rpy:57
+translate uk_UA ash_powers_aa206720:
+
+    # cia "You don't, Ashley!"
+    cia ""
+
+# game/scripts/ash_events.rpy:58
+translate uk_UA ash_powers_8e5a5682:
+
+    # a "NOW YOU TELL ME!!"
+    a ""
+
+# game/scripts/ash_events.rpy:59
+translate uk_UA ash_powers_dae5a895:
+
+    # au "An angel...?"
+    au ""
+
+# game/scripts/ash_events.rpy:61
+translate uk_UA ash_powers_4948838d:
+
+    # a "{b}OWW!{/b}"
+    a ""
+
+# game/scripts/ash_events.rpy:62
+translate uk_UA ash_powers_41b8614f:
+
+    # au "Are you okay!?"
+    au ""
+
+# game/scripts/ash_events.rpy:64
+translate uk_UA ash_powers_b16624b7:
+
+    # m "Ashley? Y-You're not dead!?"
+    m ""
+
+# game/scripts/ash_events.rpy:65
+translate uk_UA ash_powers_7b062413:
+
+    # au "No, look! It's a miracle!"
+    au ""
+
+# game/scripts/ash_events.rpy:67
+translate uk_UA ash_powers_14fd1d9c:
+
+    # m "A-Ashley...?"
+    m ""
+
+# game/scripts/ash_events.rpy:69
+translate uk_UA ash_powers_1c3a1830:
+
+    # m "AH!"
+    m ""
+
+# game/scripts/ash_events.rpy:70
+translate uk_UA ash_powers_fdadfa76:
+
+    # a "What's the matter with you!?"
+    a ""
+
+# game/scripts/ash_events.rpy:71
+translate uk_UA ash_powers_4c0d38fd:
+
+    # cia "Me? You and your big head almost broke a wing!"
+    cia ""
+
+# game/scripts/ash_events.rpy:72
+translate uk_UA ash_powers_204612e9:
+
+    # au "*gasp*! It really is an angel!"
+    au ""
+
+# game/scripts/ash_events.rpy:74
+translate uk_UA ash_powers_d74fa6a4:
+
+    # cia "{i}{size=-6}H-Humans! You didn't mention other humans would be here...!{/size}{/i}"
+    cia ""
+
+# game/scripts/ash_events.rpy:75
+translate uk_UA ash_powers_d5ae743d:
+
+    # a "Who cares? They're my friends. I didn't invite them anyway."
+    a ""
+
+# game/scripts/ash_events.rpy:78
+translate uk_UA ash_powers_7d9e0771:
+
+    # au "Why is no one else freaking out? THAT'S AN ANGEL!"
+    au ""
+
+# game/scripts/ash_events.rpy:79
+translate uk_UA ash_powers_8f680952:
+
+    # cia "{i}{size=-6}Actually they call us fairies now...{/size}{/i}"
+    cia ""
+
+# game/scripts/ash_events.rpy:80
+translate uk_UA ash_powers_3c53bb43:
+
+    # a "Huh? Cia is a fairy, what are you talking about?"
+    a ""
+
+# game/scripts/ash_events.rpy:81
+translate uk_UA ash_powers_a4ea3322:
+
+    # au "N-No! That's an {i}angel!{/i} A forest cherub! They're mediators between us and Gaius! And you know one!?"
+    au ""
+
+# game/scripts/ash_events.rpy:82
+translate uk_UA ash_powers_06446969:
+
+    # a "I know three."
+    a ""
+
+# game/scripts/ash_events.rpy:83
+translate uk_UA ash_powers_25229292:
+
+    # cia "{i}{size=-6}Don't give us away like that, Ashley...!{/size}{/i}"
+    cia ""
+
+# game/scripts/ash_events.rpy:85
+translate uk_UA ash_powers_b3790bed:
+
+    # m "How are we not talking about how Ashley just jumped off the hotel and SURVIVED with no injuries!?"
+    m ""
+
+# game/scripts/ash_events.rpy:86
+translate uk_UA ash_powers_9c8587b3:
+
+    # a "{i}{size=-6}Well my knees do hurt...{/size}{/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:87
+translate uk_UA ash_powers_26bbd56f:
+
+    # au "Because an angel saved her!"
+    au ""
+
+# game/scripts/ash_events.rpy:88
+translate uk_UA ash_powers_4fb40d19:
+
+    # a "{u}Fairy!{/u}"
+    a ""
+
+# game/scripts/ash_events.rpy:89
+translate uk_UA ash_powers_cb05e80e:
+
+    # au "I've seen them before, Ashley! Well only in books... but that's definitely a forest cherub!"
+    au ""
+
+# game/scripts/ash_events.rpy:90
+translate uk_UA ash_powers_3c341af0:
+
+    # m "Either way, I don't think they talk to any gods... But can someone explain this to me!? You were JUST falling to your death!"
+    m ""
+
+# game/scripts/ash_events.rpy:93
+translate uk_UA ash_powers_8e25f9e8:
+
+    # m "Can someone explain what just happened? You jumped off the hotel and SURVIVED with no injuries at all!?"
+    m ""
+
+# game/scripts/ash_events.rpy:94
+translate uk_UA ash_powers_9c8587b3_1:
+
+    # a "{i}{size=-6}Well my knees do hurt...{/size}{/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:95
+translate uk_UA ash_powers_ca1c85ab:
+
+    # au "Cherubim are amazing!"
+    au ""
+
+# game/scripts/ash_events.rpy:96
+translate uk_UA ash_powers_4fb40d19_1:
+
+    # a "{u}Fairy!{/u}"
+    a ""
+
+# game/scripts/ash_events.rpy:97
+translate uk_UA ash_powers_2f6cff22:
+
+    # m "That doesn't explain anything! You were JUST falling to your death!"
+    m ""
+
+# game/scripts/ash_events.rpy:99
+translate uk_UA ash_powers_e2e286e5:
+
+    # a "They can retract and expand their wings. Don't ask me how, I'm not a fairy... but we've been practicing. It's basic geometry..."
+    a ""
+
+# game/scripts/ash_events.rpy:100
+translate uk_UA ash_powers_49e6869b:
+
+    # cia "{i}{size=-6}Physics, Ashley...{/size}{/i}"
+    cia ""
+
+# game/scripts/ash_events.rpy:101
+translate uk_UA ash_powers_e0a6096a:
+
+    # a "Whatever, magic."
+    a ""
+
+# game/scripts/ash_events.rpy:103
+translate uk_UA ash_powers_7d36b615:
+
+    # a "OH! OH! TURN ME INVISIBLE!"
+    a ""
+
+# game/scripts/ash_events.rpy:104
+translate uk_UA ash_powers_ecf58cb8:
+
+    # cia "No way!"
+    cia ""
+
+# game/scripts/ash_events.rpy:106
+translate uk_UA ash_powers_a6b1c86b:
+
+    # a "Come on, come on!"
+    a ""
+
+# game/scripts/ash_events.rpy:107
+translate uk_UA ash_powers_146a4075:
+
+    # cia "You have no idea how dangerous that is! I almost died by using it too much! Don't you remember? Besides that, I'm not wearing a crystal."
+    cia ""
+
+# game/scripts/ash_events.rpy:108
+translate uk_UA ash_powers_beb6d98f:
+
+    # a "But I see you all do it all the time. Why not me?"
+    a ""
+
+# game/scripts/ash_events.rpy:109
+translate uk_UA ash_powers_8b0f3816:
+
+    # cia "Because there's less of me, and waaaay more of you!"
+    cia ""
+
+# game/scripts/ash_events.rpy:111
+translate uk_UA ash_powers_d9c6fde4:
+
+    # a "Are you calling me fat?"
+    a ""
+
+# game/scripts/ash_events.rpy:113
+translate uk_UA ash_powers_eb0a639d:
+
+    # cia "YES!" with ssshake
+    cia "" with ssshake
+
+# game/scripts/ash_events.rpy:114
+translate uk_UA ash_powers_557aef2b:
+
+    # a "{i}*gaaaasp*!!!{/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:116
+translate uk_UA ash_powers_df191d1f:
+
+    # cia "Okay, how about this? You find a crystal the size of your hand and we'll talk about it! If we use ours, there's no doubt it will implode!"
+    cia ""
+
+# game/scripts/ash_events.rpy:118
+translate uk_UA ash_powers_3d99a953:
+
+    # a "But it {i}can{/i} be done!"
+    a ""
+
+# game/scripts/ash_events.rpy:119
+translate uk_UA ash_powers_dfc0afc1:
+
+    # cia "Theoretically yes... but a mana crystal that size hasn't been found for..."
+    cia ""
+
+# game/scripts/ash_events.rpy:120
+translate uk_UA ash_powers_932c0c09:
+
+    # au "-Thousands of years!"
+    au ""
+
+# game/scripts/ash_events.rpy:122
+translate uk_UA ash_powers_43a998ad:
+
+    # a "YOU know about them...?"
+    a ""
+
+# game/scripts/ash_events.rpy:123
+translate uk_UA ash_powers_64a8eded:
+
+    # cia "{i}{size=-6}Scary...{/size}{/i}"
+    cia ""
+
+# game/scripts/ash_events.rpy:124
+translate uk_UA ash_powers_1ec5d11f:
+
+    # au "Yes! This is why you need to read the bible."
+    au ""
+
+# game/scripts/ash_events.rpy:125
+translate uk_UA ash_powers_6a506bfe:
+
+    # a "What the heck is mana?"
+    a ""
+
+# game/scripts/ash_events.rpy:127
+translate uk_UA ash_powers_8b3d1171:
+
+    # au "It's a gift from Gaius! It's his very essence!"
+    au ""
+
+# game/scripts/ash_events.rpy:128
+translate uk_UA ash_powers_47960d02:
+
+    # cia "I still don't know who this Gaius is..."
+    cia ""
+
+# game/scripts/ash_events.rpy:129
+translate uk_UA ash_powers_cf3051a1:
+
+    # au "What? How can you not? Don't you work for him?"
+    au ""
+
+# game/scripts/ash_events.rpy:130
+translate uk_UA ash_powers_30e6a1ac:
+
+    # cia "I don't work for anyone now. I just do whatever I want."
+    cia ""
+
+# game/scripts/ash_events.rpy:132
+translate uk_UA ash_powers_270fad4a:
+
+    # au "D-DEMON!? Th-Then you're a demon!" with ssshake
+    au "" with ssshake
+
+# game/scripts/ash_events.rpy:133
+translate uk_UA ash_powers_9887fa58:
+
+    # cia "Ugh, rude!"
+    cia ""
+
+# game/scripts/ash_events.rpy:135
+translate uk_UA ash_powers_c173d67e:
+
+    # au "But you're so cute for a demon? Nothing like the sacred texts depict."
+    au ""
+
+# game/scripts/ash_events.rpy:136
+translate uk_UA ash_powers_48315a2d:
+
+    # m "Uhhhh..."
+    m ""
+
+# game/scripts/ash_events.rpy:138
+translate uk_UA ash_powers_a918ee94:
+
+    # a "{i}*GAAAASP*!{/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:139
+translate uk_UA ash_powers_7d2903da:
+
+    # au "What is it?"
+    au ""
+
+# game/scripts/ash_events.rpy:140
+translate uk_UA ash_powers_80047e23:
+
+    # cia "{i}{size=-6}More humans!?{/size}{/i}"
+    cia ""
+
+# game/scripts/ash_events.rpy:142
+translate uk_UA ash_powers_d313b7be:
+
+    # a "MOM!?"
+    a ""
+
+# game/scripts/ash_events.rpy:143
+translate uk_UA ash_powers_1d0b672d:
+
+    # m "Uh-oh."
+    m ""
+
+# game/scripts/ash_events.rpy:144
+translate uk_UA ash_powers_4f348961:
+
+    # am "Hello Ashley."
+    am ""
+
+# game/scripts/ash_events.rpy:145
+translate uk_UA ash_powers_54c08278:
+
+    # au "Oh, hello Mrs...! Uh... Ashley's Mom!"
+    au ""
+
+# game/scripts/ash_events.rpy:147
+translate uk_UA ash_powers_80e82489:
+
+    # am "Ashley, can we talk?"
+    am ""
+
+# game/scripts/ash_events.rpy:148
+translate uk_UA ash_powers_bb8e1197:
+
+    # a "What are you doing here!?"
+    a ""
+
+# game/scripts/ash_events.rpy:149
+translate uk_UA ash_powers_bf923471:
+
+    # am "I just want to talk, sweetie. That's all."
+    am ""
+
+# game/scripts/ash_events.rpy:150
+translate uk_UA ash_powers_c475c379:
+
+    # a "{i}'Sweetie'?{/i} You've never called me that in my whole life... is something wrong?"
+    a ""
+
+# game/scripts/ash_events.rpy:151
+translate uk_UA ash_powers_2428a974:
+
+    # am "Maybe we can speak somewhere private?"
+    am ""
+
+# game/scripts/ash_events.rpy:152
+translate uk_UA ash_powers_3b81975a:
+
+    # a "Um... *sigh*... Okay, I guess... follow me."
+    a ""
+
+# game/scripts/ash_events.rpy:155
+translate uk_UA ash_powers_f7dd812b:
+
+    # am "I see you've made some friends, Ashley."
+    am ""
+
+# game/scripts/ash_events.rpy:156
+translate uk_UA ash_powers_ea55c3c4:
+
+    # a "I suppose..."
+    a ""
+
+# game/scripts/ash_events.rpy:157
+translate uk_UA ash_powers_09cc5f24:
+
+    # am "I'm proud of you."
+    am ""
+
+# game/scripts/ash_events.rpy:158
+translate uk_UA ash_powers_bb8e4b4e:
+
+    # a "..."
+    a ""
+
+# game/scripts/ash_events.rpy:159
+translate uk_UA ash_powers_2d30be80:
+
+    # a "...You can sit here."
+    a ""
+
+# game/scripts/ash_events.rpy:161
+translate uk_UA ash_powers_fb0ef2e3:
+
+    # a "...What do you want."
+    a ""
+
+# game/scripts/ash_events.rpy:162
+translate uk_UA ash_powers_bae08118:
+
+    # am "When did you stop dying your hair?"
+    am ""
+
+# game/scripts/ash_events.rpy:163
+translate uk_UA ash_powers_4df09bef:
+
+    # a "I still do, I just like to change it up sometimes..."
+    a ""
+
+# game/scripts/ash_events.rpy:165
+translate uk_UA ash_powers_1168ea7d:
+
+    # am "Is everything okay? Are you happy here?"
+    am ""
+
+# game/scripts/ash_events.rpy:166
+translate uk_UA ash_powers_cf9e6335:
+
+    # a "Yes...?"
+    a ""
+
+# game/scripts/ash_events.rpy:167
+translate uk_UA ash_powers_dd8998e9:
+
+    # am "That's good."
+    am ""
+
+# game/scripts/ash_events.rpy:168
+translate uk_UA ash_powers_45e3b726:
+
+    # a "Why are you here, mom?"
+    a ""
+
+# game/scripts/ash_events.rpy:170
+translate uk_UA ash_powers_293be3bb:
+
+    # am "Your father and I got a divorce."
+    am ""
+
+# game/scripts/ash_events.rpy:171
+translate uk_UA ash_powers_32a53456:
+
+    # a "What??"
+    a ""
+
+# game/scripts/ash_events.rpy:172
+translate uk_UA ash_powers_ba27fc8c:
+
+    # am "You want to know what the final straw was? He crashed our car while we were driving home, he was drunk of course. I should have known better... I was lucky to escape with only a few bruises. He's in prison now."
+    am ""
+
+# game/scripts/ash_events.rpy:173
+translate uk_UA ash_powers_9092dc16:
+
+    # a "Are you serious!?"
+    a ""
+
+# game/scripts/ash_events.rpy:174
+translate uk_UA ash_powers_f929e5d8:
+
+    # am "I never should have married him... but at least one good thing came out of it."
+    am ""
+
+# game/scripts/ash_events.rpy:175
+translate uk_UA ash_powers_32a53456_1:
+
+    # a "What??"
+    a ""
+
+# game/scripts/ash_events.rpy:177
+translate uk_UA ash_powers_8f205244:
+
+    # am "You."
+    am ""
+
+# game/scripts/ash_events.rpy:179
+translate uk_UA ash_powers_bb8e4b4e_1:
+
+    # a "..."
+    a ""
+
+# game/scripts/ash_events.rpy:180
+translate uk_UA ash_powers_7a4bfff7:
+
+    # am "I was... in a really tough spot when I met your father. He put a roof over my head and made me feel safe, for a time. But he never tried ending his alcohol addiction..."
+    am ""
+
+# game/scripts/ash_events.rpy:182
+translate uk_UA ash_powers_2388a2d1:
+
+    # am "I should have divorced him a long time ago. And in the end, I was the one supporting us and his alcohol addiction."
+    am ""
+
+# game/scripts/ash_events.rpy:183
+translate uk_UA ash_powers_efe5aebf:
+
+    # am "We never stopped arguing after you left... he just drank, and drank, and drank all our money away. We could barely afford to feed ourselves on my salary. Then we had you... *sigh*... you grew up to be so small."
+    am ""
+
+# game/scripts/ash_events.rpy:184
+translate uk_UA ash_powers_f7d43a4f:
+
+    # am "I hope you can forgive me some day."
+    am ""
+
+# game/scripts/ash_events.rpy:186
+translate uk_UA ash_powers_183185fc:
+
+    # a "I... don't know what to say..."
+    a ""
+
+# game/scripts/ash_events.rpy:188
+translate uk_UA ash_powers_f4ebb91b:
+
+    # am "You don't have to say anything, sweetie. I just want you to know I love you very much."
+    am ""
+
+# game/scripts/ash_events.rpy:189
+translate uk_UA ash_powers_bb8e4b4e_2:
+
+    # a "..."
+    a ""
+
+# game/scripts/ash_events.rpy:191
+translate uk_UA ash_powers_5ee0f8c1:
+
+    # bot "Ally..."
+    bot ""
+
+# game/scripts/ash_events.rpy:193
+translate uk_UA ash_powers_69d8e5cf:
+
+    # am "I know I wasn't the best mother to you. I wish I could have been there for you, I wish I would have cooked for you, or cleaned your room, or drove you to school, but..."
+    am ""
+
+# game/scripts/ash_events.rpy:194
+translate uk_UA ash_powers_3c9fc68f:
+
+    # a "We wouldn't have had any food without you!"
+    a ""
+
+# game/scripts/ash_events.rpy:195
+translate uk_UA ash_powers_c0b5b110:
+
+    # am "*sigh*... But you're a woman now, and I missed my chance."
+    am ""
+
+# game/scripts/ash_events.rpy:197
+translate uk_UA ash_powers_bb8e4b4e_3:
+
+    # a "..."
+    a ""
+
+# game/scripts/ash_events.rpy:198
+translate uk_UA ash_powers_5a0f2704:
+
+    # am "Ashley..."
+    am ""
+
+# game/scripts/ash_events.rpy:200
+translate uk_UA ash_powers_877b4144:
+
+    # am "I don't think I ever told you how pretty you are. You're really special. You care so much about others. Even when you were a little girl you would run to help the other kids when they cried."
+    am ""
+
+# game/scripts/ash_events.rpy:201
+translate uk_UA ash_powers_368efa29:
+
+    # am "You might be small Ashley, but your heart was always so big."
+    am ""
+
+# game/scripts/ash_events.rpy:203
+translate uk_UA ash_powers_fcfc1794:
+
+    # am "I just... I feel so bad that I wasn't able to nurture that. I wasted the best part of my life working, all for that... {i}bum{/i} to drink it all away."
+    am ""
+
+# game/scripts/ash_events.rpy:205
+translate uk_UA ash_powers_3691f379:
+
+    # a "You...! You didn't waste it!"
+    a ""
+
+# game/scripts/ash_events.rpy:206
+translate uk_UA ash_powers_d9b1d80c:
+
+    # am "Yes I did, Ashley. You only get one chance in life, and I wasted it."
+    am ""
+
+# game/scripts/ash_events.rpy:207
+translate uk_UA ash_powers_e8d9446c:
+
+    # a "No...!"
+    a ""
+
+# game/scripts/ash_events.rpy:209
+translate uk_UA ash_powers_b1c78382:
+
+    # am "Don't cry, Ashley, you'll make me cry."
+    am ""
+
+# game/scripts/ash_events.rpy:211
+translate uk_UA ash_powers_1d4c38b2:
+
+    # am "You still have your whole life ahead of you, sweetie. Don't make the same mistakes I did."
+    am ""
+
+# game/scripts/ash_events.rpy:212
+translate uk_UA ash_powers_2e4353fa:
+
+    # a "But you're talking like you're dying! You're only 47! You have plenty of time left, Mom!"
+    a ""
+
+# game/scripts/ash_events.rpy:214
+translate uk_UA ash_powers_84a28b35:
+
+    # am "No sweetie, I'm sick."
+    am ""
+
+# game/scripts/ash_events.rpy:215
+translate uk_UA ash_powers_ab0a7a75:
+
+    # am "They did some tests on us at the hospital after your father crashed. I've had cancer for years."
+    am ""
+
+# game/scripts/ash_events.rpy:217
+translate uk_UA ash_powers_55d49bab:
+
+    # a "What...?"
+    a ""
+
+# game/scripts/ash_events.rpy:218
+translate uk_UA ash_powers_bc652394:
+
+    # am "I'm sorry Ashley... that night was a real wake-up call."
+    am ""
+
+# game/scripts/ash_events.rpy:220
+translate uk_UA ash_powers_450cde14:
+
+    # bot "That again. Cancer... Just like my creator."
+    bot ""
+
+# game/scripts/ash_events.rpy:221
+translate uk_UA ash_powers_dc34bd58:
+
+    # bot "There must be some way..."
+    bot ""
+
+# game/scripts/ash_events.rpy:223
+translate uk_UA ash_powers_bd1291b2:
+
+    # a "You can't die, Mom!"
+    a ""
+
+# game/scripts/ash_events.rpy:224
+translate uk_UA ash_powers_b31ddcb1:
+
+    # am "We all die, sweetie."
+    am ""
+
+# game/scripts/ash_events.rpy:226
+translate uk_UA ash_powers_6dba7f1a:
+
+    # am "I wanted you to have this."
+    am ""
+
+# game/scripts/ash_events.rpy:227
+translate uk_UA ash_powers_64ce3567:
+
+    # a "Money...?"
+    a ""
+
+# game/scripts/ash_events.rpy:229
+translate uk_UA ash_powers_3fd1ace4:
+
+    # am "It's everything I saved up since you were born. I was hoping we could put you through a real university, but we couldn't on my salary alone."
+    am ""
+
+# game/scripts/ash_events.rpy:230
+translate uk_UA ash_powers_70d79ef2:
+
+    # a "I can't take this..."
+    a ""
+
+# game/scripts/ash_events.rpy:232
+translate uk_UA ash_powers_d8cbf862:
+
+    # am "You have to Ashley, I need to know you're taken care of."
+    am ""
+
+# game/scripts/ash_events.rpy:234
+translate uk_UA ash_powers_e77f0323:
+
+    # am "Please, let me do at least one thing good for you."
+    am ""
+
+# game/scripts/ash_events.rpy:236
+translate uk_UA ash_powers_579758f1:
+
+    # a "How long, Mom? How long do you have left??"
+    a ""
+
+# game/scripts/ash_events.rpy:237
+translate uk_UA ash_powers_5c77cf7a:
+
+    # am "It's not an easy thing to talk about, sweetie. Maybe we should-"
+    am ""
+
+# game/scripts/ash_events.rpy:238
+translate uk_UA ash_powers_4c035c50:
+
+    # a "Tell me! I need to know!" with ssshake
+    a "" with ssshake
+
+# game/scripts/ash_events.rpy:240
+translate uk_UA ash_powers_ab16a7be:
+
+    # am "...They told me one year left, at most."
+    am ""
+
+# game/scripts/ash_events.rpy:241
+translate uk_UA ash_powers_8f9fdd6d:
+
+    # a "One year!?"
+    a ""
+
+# game/scripts/ash_events.rpy:242
+translate uk_UA ash_powers_1970096e:
+
+    # am "I'm sorry Ashley..."
+    am ""
+
+# game/scripts/ash_events.rpy:244
+translate uk_UA ash_powers_c09278da:
+
+    # a "Don't be, Mom! It's not your fault! I love you! I love you!" with ssshake
+    a "" with ssshake
+
+# game/scripts/ash_events.rpy:245
+translate uk_UA ash_powers_6eaab9de:
+
+    # am "Ohh, you do? I love you too..."
+    am ""
+
+# game/scripts/ash_events.rpy:246
+translate uk_UA ash_powers_160a9473:
+
+    # a "I'm sorry I was such a brat!"
+    a ""
+
+# game/scripts/ash_events.rpy:247
+translate uk_UA ash_powers_351bad6b:
+
+    # am "Don't be, you were just a kid... it was my fault."
+    am ""
+
+# game/scripts/ash_events.rpy:249
+translate uk_UA ash_powers_c45e8c06:
+
+    # bot "One year?"
+    bot ""
+
+# game/scripts/ash_events.rpy:250
+translate uk_UA ash_powers_21a6297a:
+
+    # bot "I should have started sooner..."
+    bot ""
+
+# game/scripts/ash_events.rpy:252
+translate uk_UA ash_powers_b5670373:
+
+    # bot "I can do this."
+    bot ""
+
+# game/scripts/ash_events.rpy:493
+translate uk_UA ash_lowtown_pt2_f2f024ea:
+
+    # q "We both know your talents are going to waste here, don't we? You were made for something better than some street gang's dealer..."
+    q ""
+
+# game/scripts/ash_events.rpy:504
+translate uk_UA ash_lowtown_pt2_43a0e33e:
+
+    # q "The Ascendants."
+    q ""
+
+# game/scripts/ash_events.rpy:547
+translate uk_UA ash_lowtown_pt2_c9b30073:
+
+    # a "It's all starting to come together. Stoneface owns The Ascendants, which controls the gang that Ren sold drugs for. Once Stoneface caught wind of a slave with skill, he just decided to take her."
+    a ""
+
+# game/scripts/ash_events.rpy:560
+translate uk_UA ash_lowtown_pt2_17b47f7d:
+
+    # a "Well, I think we should get some rest. I'm gonna take a nap..."
+    a ""
+
+# game/scripts/ash_events.rpy:561
+translate uk_UA ash_lowtown_pt2_b1bc1d3c:
+
+    # a "Really, thank you so much for everything [name]. You're really the best! I knew you were special from the moment I first laid eyes on you."
+    a ""
+
+# game/scripts/ash_events.rpy:562
+translate uk_UA ash_lowtown_pt2_f97726df:
+
+    # c "Thanks Ash, enjoy your nap."
+    c ""
+
+# game/scripts/ash_events.rpy:764
+translate uk_UA ash_lowtown_183d1d56:
+
+    # bmike "So, what can Big Mike and Little Mike help ya with?"
+    bmike ""
+
+# game/scripts/ash_events.rpy:1775
+translate uk_UA ash_hangout_04_e9179d57:
+
+    # a "We come from two totally different worlds, but we met because of you and the hotel. We don't have too much in common, but I would consider her a friend! Hopefully we can find more things to do together."
+    a ""
+
+# game/scripts/ash_events.rpy:1782
+translate uk_UA ash_hangout_04_c98dd7b3:
+
+    # a "You know, we should thank Lin and [botname] more. They buy all of our food and cook it too! They're like our own personal delivery service, it's so convenient. I could never afford delivery, so this feels like a luxury!"
+    a ""
+
+# game/scripts/ash_events.rpy:1800
+translate uk_UA ash_hangout_04_2113145d:
+
+    # c "She's dealing with her own problems, no one blames you for them."
+    c ""
+
+# game/scripts/ash_events.rpy:2435
+translate uk_UA ash_poverty_continue_b347e743:
+
+    # gang1 "All I know is, some chick with white hair went to collect her. Just so happens I recognized her as The Boss' right hand lady."
+    gang1 ""
+
+# game/scripts/ash_events.rpy:8930
+translate uk_UA ashmom2_e2bf164c:
+
+    # am "Oh my GOD! DON'T YOU DARE CUM ON MY DAUGHTER!"
+    am ""
+
+# game/scripts/ash_events.rpy:11887
+translate uk_UA ashtalk_9e3e480e:
+
+    # a "My mom has cancer... she only has a year left to live... It's hard to look on the bright side."
+    a ""
+
+# game/scripts/ash_events.rpy:11888
+translate uk_UA ashtalk_5db2e644:
+
+    # c "I'm so sorry, Ash."
+    c ""
+
+# game/scripts/ash_events.rpy:11891
+translate uk_UA ashtalk_9b126175:
+
+    # a "We have to find Stoneface, [name]! He'll knows where Ren is!"
+    a ""
+
+# game/scripts/ash_events.rpy:11892
+translate uk_UA ashtalk_a7f0f11c:
+
+    # a "And that bitch with the white hair, too. We'll find them all! Won't we?"
+    a ""
+
+# game/scripts/ash_events.rpy:11893
+translate uk_UA ashtalk_afa836d9:
+
+    # c "Hell yeah."
+    c ""
+
+# game/scripts/ash_events.rpy:11894
+translate uk_UA ashtalk_f770d6ae:
+
+    # a "Hell yeah!"
+    a ""
+
+# game/scripts/ash_events.rpy:11895
+translate uk_UA ashtalk_95a58be4:
+
+    # a "Thanks for the phone by the wayyy~"
+    a ""
+
+# game/scripts/ash_events.rpy:11898
+translate uk_UA ashtalk_2cc22b46:
+
+    # a "Come on, let's just get that phone to Rasha..."
+    a ""
+
+# game/scripts/ash_events.rpy:11901
+translate uk_UA ashtalk_ad6b2a67:
+
+    # a "Hehe~ did you enjoy that foursome?"
+    a ""
+
+# game/scripts/ash_events.rpy:11902
+translate uk_UA ashtalk_d30b19c7:
+
+    # c "That was amazing..."
+    c ""
+
+# game/scripts/ash_events.rpy:11903
+translate uk_UA ashtalk_0ccea50d:
+
+    # a "You're welcome~"
+    a ""
+
+# game/scripts/ash_events.rpy:11906
+translate uk_UA ashtalk_6a2b06d6:
+
+    # a "So the Blue Dragons bought Ren five years ago, then she was taken by their boss three years ago..."
+    a ""
+
+# game/scripts/ash_events.rpy:11907
+translate uk_UA ashtalk_e6a98874:
+
+    # a "At least we're getting close, right?"
+    a ""
+
+# game/scripts/ash_events.rpy:11908
+translate uk_UA ashtalk_00405151:
+
+    # c "We have a lead, let's follow it."
+    c ""
+
+# game/scripts/ash_events.rpy:11911
+translate uk_UA ashtalk_2e9fc4a2:
+
+    # a "We took that bitch Katelyn down for good! Hell yeah!"
+    a ""
+
+# game/scripts/ash_events.rpy:11912
+translate uk_UA ashtalk_17eeee97:
+
+    # a "And we even found where Ren might be! Hehehe! I can't wait to see her again!"
+    a ""
+
+# game/scripts/ash_events.rpy:11915
+translate uk_UA ashtalk_93ce5472:
+
+    # a "Thank you for everything, [name]. I mean it... I really love you so so much."
+    a ""
+
+# game/scripts/ash_events.rpy:11916
+translate uk_UA ashtalk_40ba1cfc:
+
+    # c "I love you too, Ash."
+    c ""
+
+# game/scripts/ash_events.rpy:11919
+translate uk_UA ashtalk_8361d872:
+
+    # a "It's nice to finally feel respected by Felicity and Emma. They're not so bad these days..."
+    a ""
+
+# game/scripts/ash_events.rpy:11920
+translate uk_UA ashtalk_880cfe8c:
+
+    # c "I'm proud of you."
+    c ""
+
+# game/scripts/ash_events.rpy:11923
+translate uk_UA ashtalk_c97a5aab:
+
+    # a "Oh that cabin was so cool, wasn't it? I loved spending time with you all~"
+    a ""
+
+# game/scripts/ash_events.rpy:11924
+translate uk_UA ashtalk_0c0b96cc:
+
+    # c "I really had fun with you, Ashley."
+    c ""
+
+# game/scripts/ash_events.rpy:11925
+translate uk_UA ashtalk_58335343:
+
+    # a "Thank you~ me too!\nIt's starting to feel like I have a family..."
+    a ""
+
+# game/scripts/ash_events.rpy:11930
+translate uk_UA ashtalk_bb0b31f5:
+
+    # a "Felicity and Emma aren't so bad... they're actually nice people once you get to know them."
+    a ""
+
+# game/scripts/ash_events.rpy:11931
+translate uk_UA ashtalk_52b6a6bd:
+
+    # a "They are now anyway, they weren't always this nice..."
+    a ""
+
+# game/scripts/ash_events.rpy:11932
+translate uk_UA ashtalk_9954e242:
+
+    # c "Did something happen?"
+    c ""
+
+# game/scripts/ash_events.rpy:11933
+translate uk_UA ashtalk_cb5b4411:
+
+    # a "Yeah... we just talked some things out."
+    a ""
+
+# game/scripts/ash_events.rpy:11936
+translate uk_UA ashtalk_96c018e9:
+
+    # a "I feel... like a new person."
+    a ""
+
+# game/scripts/ash_events.rpy:11937
+translate uk_UA ashtalk_9954e242_1:
+
+    # c "Did something happen?"
+    c ""
+
+# game/scripts/ash_events.rpy:11938
+translate uk_UA ashtalk_fe2989c9:
+
+    # a "A lot... but most importantly, {i}you{/i} happened."
+    a ""
+
+# game/scripts/ash_events.rpy:11939
+translate uk_UA ashtalk_bb00a52c:
+
+    # c "What do you mean?"
+    c ""
+
+# game/scripts/ash_events.rpy:11940
+translate uk_UA ashtalk_ea1d509b:
+
+    # a "I'm just so thankful that I met you... I love you."
+    a ""
+
+# game/scripts/ash_events.rpy:11941
+translate uk_UA ashtalk_8be15c90:
+
+    # c "I love you too, Ashley."
+    c ""
+
+# game/scripts/ash_events.rpy:11944
+translate uk_UA ashtalk_aa18ce2f:
+
+    # a "Everybody at school thinks I'm crazy because I talk to my fairies. But what's new?"
+    a ""
+
+# game/scripts/ash_events.rpy:11947
+translate uk_UA ashtalk_0a1d02a2:
+
+    # a "We have to take care of those fairies. I feel bad for them."
+    a ""
+
+# game/scripts/ash_events.rpy:11950
+translate uk_UA ashtalk_13784fd5:
+
+    # a "Soooo... fairies are real. Cool. I always thought those conspiracies were crazy..."
+    a ""
+
+# game/scripts/ash_events.rpy:11953
+translate uk_UA ashtalk_ce0f3ee0:
+
+    # a "I love youuuu~ I love you, I love you, I love you~"
+    a ""
+
+# game/scripts/ash_events.rpy:11954
+translate uk_UA ashtalk_40ba1cfc_1:
+
+    # c "I love you too, Ash."
+    c ""
+
+# game/scripts/ash_events.rpy:11957
+translate uk_UA ashtalk_68fd6d62:
+
+    # a "You're the only person I could ever love, [name]!"
+    a ""
+
+# game/scripts/ash_events.rpy:11960
+translate uk_UA ashtalk_ae0d0f8c:
+
+    # a "Awww, my big juicy pillow~ I love you~"
+    a ""
+
+# game/scripts/ash_events.rpy:11963
+translate uk_UA ashtalk_2118082d:
+
+    # a "I love you [name]. I truly love you."
+    a ""
+
+# game/scripts/ash_events.rpy:11964
+translate uk_UA ashtalk_40ba1cfc_2:
+
+    # c "I love you too, Ash."
+    c ""
+
+# game/scripts/ash_events.rpy:11967
+translate uk_UA ashtalk_4f6ef52a:
+
+    # a "Horrible. I'm back in college..."
+    a ""
+
+# game/scripts/ash_events.rpy:11970
+translate uk_UA ashtalk_1be5da39:
+
+    # a "I'm fine..."
+    a ""
+
+# game/scripts/ash_events.rpy:11973
+translate uk_UA ashtalk_41e14442:
+
+    # a "I'm okay..."
+    a ""
+
+# game/scripts/ash_events.rpy:11974
+translate uk_UA ashtalk_ee092f9c:
+
+    # a "Um, you really mean a lot to me, [name]. Not everyone gets to see me like that..."
+    a ""
+
+# game/scripts/ash_events.rpy:11977
+translate uk_UA ashtalk_8e02ed94:
+
+    # a "Good~ Hehe~ Hi sexy~"
+    a ""
+
+# game/scripts/ash_events.rpy:11980
+translate uk_UA ashtalk_0535a6f1:
+
+    # a "*sigh*... my mother is so annoying."
+    a ""
+
+# game/scripts/ash_events.rpy:11983
+translate uk_UA ashtalk_46e0cdaa:
+
+    # a "I'm okay. It's nice to have friends who are willing to help me."
+    a ""
+
+# game/scripts/ash_events.rpy:11986
+translate uk_UA ashtalk_20eb0af4:
+
+    # a "So satisfied with my boyfriend~ he takes me on fancy dates!"
+    a ""
+
+# game/scripts/ash_events.rpy:11987
+translate uk_UA ashtalk_221d5ad1:
+
+    # c "He sounds like a great guy."
+    c ""
+
+# game/scripts/ash_events.rpy:11988
+translate uk_UA ashtalk_ad085311:
+
+    # a "Sexy too~"
+    a ""
+
+# game/scripts/ash_events.rpy:11991
+translate uk_UA ashtalk_4656d9b4:
+
+    # a "I'll forgive you for having a harem... because I know I'm your favorite."
+    a ""
+
+# game/scripts/ash_events.rpy:11994
+translate uk_UA ashtalk_e3e409d2:
+
+    # a "Horrible! Fuck Felicity and Emma..."
+    a ""
+
+# game/scripts/ash_events.rpy:11997
+translate uk_UA ashtalk_035c4729:
+
+    # a "I hate college..."
+    a ""
+
+# game/scripts/ash_events.rpy:12000
+translate uk_UA ashtalk_937828d8:
+
+    # a "*sigh*... stressed."
+    a ""
+
+# game/scripts/ash_events.rpy:12003
+translate uk_UA ashtalk_46fbe853:
+
+    # a "I'm okay, just... *sigh*... exhausted with life."
+    a ""
+
+# game/scripts/ash_events.rpy:12006
+translate uk_UA ashtalk_7a904d8a:
+
+    # a "Hehe~ I'm good~"
+    a ""
+
+# game/scripts/ash_events.rpy:12009
+translate uk_UA ashtalk_902fc753:
+
+    # a "Good, I just hope you love meeee~"
+    a ""
+
+# game/scripts/ash_events.rpy:12012
+translate uk_UA ashtalk_44d567c3:
+
+    # a "Better now that you're here..."
+    a ""
+
+# game/scripts/ash_events.rpy:12013
+translate uk_UA ashtalk_7cdedc0d:
+
+    # a "I got that one from Maria, hehe~"
+    a ""
+
+# game/scripts/ash_events.rpy:12016
+translate uk_UA ashtalk_9bd1ab8f:
+
+    # a "I'm watching you..."
+    a ""
+
+# game/scripts/ash_events.rpy:12019
+translate uk_UA ashtalk_90b12756:
+
+    # a "Thank you for listening to me, [name]. Not many people do..."
+    a ""
+
+# game/scripts/ash_events.rpy:12022
+translate uk_UA ashtalk_04b3c0a9:
+
+    # a "Fuck my mom..."
+    a ""
+
+# game/scripts/ash_events.rpy:12023
+translate uk_UA ashtalk_6d610568:
+
+    # c "Is that a request."
+    c ""
+
+# game/scripts/ash_events.rpy:12024
+translate uk_UA ashtalk_139c5cd9:
+
+    # a "NO!"
+    a ""
+
+# game/scripts/ash_events.rpy:12704
+translate uk_UA ashanalmenu_d0b4ac14:
+
+    # a "Ummm, no thanks."
+    a ""
+
+# game/scripts/ash_events.rpy:12705
+translate uk_UA ashanalmenu_46cff44f:
+
+    # "I probably could have convinced her if her level was higher..."
+    ""
+
+# game/scripts/ash_events.rpy:14358
+translate uk_UA ashtv_1a4f5280:
+
+    # a "Hm, no..."
+    a ""
+
+# game/scripts/ash_events.rpy:14360
+translate uk_UA ashtv_108b630c:
+
+    # a "Not interested..."
+    a ""
+
+# game/scripts/ash_events.rpy:14362
+translate uk_UA ashtv_d284935a:
+
+    # a "Laaaame..."
+    a ""
+
+# game/scripts/ash_events.rpy:14366
+translate uk_UA ashtv_2737b55c:
+
+    # a "[name]? Oh hey! I wasn't expecting you... I'm just bored."
+    a ""
+
+# game/scripts/ash_events.rpy:14367
+translate uk_UA ashtv_4a815283:
+
+    # a "Do you know any good shows to watch?"
+    a ""
+
+# game/scripts/ash_events.rpy:14368
+translate uk_UA ashtv_c6c2b3a7:
+
+    # c "I haven't had time to watch anything lately. Let's find something together."
+    c ""
+
+# game/scripts/ash_events.rpy:14369
+translate uk_UA ashtv_084a32f7:
+
+    # a "You really want to watch something with me? Like, sit next to me and everything?"
+    a ""
+
+# game/scripts/ash_events.rpy:14370
+translate uk_UA ashtv_97216b50:
+
+    # a "Not that I don't want to - of course I do! Take a seat, take a seat!"
+    a ""
+
+# game/scripts/ash_events.rpy:14374
+translate uk_UA ashtv_f8a0c357:
+
+    # a "Oh, hello! You really want to?"
+    a ""
+
+# game/scripts/ash_events.rpy:14375
+translate uk_UA ashtv_26620c3a:
+
+    # c "Yeah, I'd love to."
+    c ""
+
+# game/scripts/ash_events.rpy:14376
+translate uk_UA ashtv_33cf9372:
+
+    # a "Yes, me too! Take a seat, take a seat!"
+    a ""
+
+# game/scripts/ash_events.rpy:14379
+translate uk_UA ashtv_ce8a5be5:
+
+    # a "Oh! Uhhh, because Ellen said I could borrow it from storage? I didn't bring much with me..."
+    a ""
+
+# game/scripts/ash_events.rpy:14380
+translate uk_UA ashtv_f9ff5194:
+
+    # c "At least it's getting use."
+    c ""
+
+# game/scripts/ash_events.rpy:14381
+translate uk_UA ashtv_939b50d7:
+
+    # a "...Do you want to watch something together?"
+    a ""
+
+# game/scripts/ash_events.rpy:14382
+translate uk_UA ashtv_571dfeca:
+
+    # c "Sure, I have time."
+    c ""
+
+# game/scripts/ash_events.rpy:14383
+translate uk_UA ashtv_94ebc029:
+
+    # a "Wait, you really want to? Like, sit next to me and everything?"
+    a ""
+
+# game/scripts/ash_events.rpy:14384
+translate uk_UA ashtv_97216b50_1:
+
+    # a "Not that I don't want to - of course I do! Take a seat, take a seat!"
+    a ""
+
+# game/scripts/ash_events.rpy:14387
+translate uk_UA ashtv_a20cefa7:
+
+    # "..."
+    ""
+
+# game/scripts/ash_events.rpy:14391
+translate uk_UA ashtv_3784857a:
+
+    # c "...?"
+    c ""
+
+# game/scripts/ash_events.rpy:14393
+translate uk_UA ashtv_d85f4178:
+
+    # a "-Uh!..."
+    a ""
+
+# game/scripts/ash_events.rpy:14394
+translate uk_UA ashtv_8f80cc91:
+
+    # c "Is everything okay?"
+    c ""
+
+# game/scripts/ash_events.rpy:14395
+translate uk_UA ashtv_bb412a83:
+
+    # a "Yeah...!"
+    a ""
+
+# game/scripts/ash_events.rpy:14396
+translate uk_UA ashtv_543fcf4a:
+
+    # c "Are you sure?"
+    c ""
+
+# game/scripts/ash_events.rpy:14397
+translate uk_UA ashtv_d12b2d98:
+
+    # a "Yyyyeah..."
+    a ""
+
+# game/scripts/ash_events.rpy:14398
+translate uk_UA ashtv_59f3b441:
+
+    # c "You're acting strange."
+    c ""
+
+# game/scripts/ash_events.rpy:14400
+translate uk_UA ashtv_7da974ec:
+
+    # a "No, you're acting strange. You didn't even knock."
+    a ""
+
+# game/scripts/ash_events.rpy:14401
+translate uk_UA ashtv_297d93f3:
+
+    # c "What?"
+    c ""
+
+# game/scripts/ash_events.rpy:14402
+translate uk_UA ashtv_f4471cef:
+
+    # a "Sh! Where's the remote?"
+    a ""
+
+# game/scripts/ash_events.rpy:14403
+translate uk_UA ashtv_e9bb19da:
+
+    # c "I have it, take a seat."
+    c ""
+
+# game/scripts/ash_events.rpy:14404
+translate uk_UA ashtv_71955456:
+
+    # a "Okay..."
+    a ""
+
+# game/scripts/ash_events.rpy:14406
+translate uk_UA ashtv_bb8e4b4e_1:
+
+    # a "..."
+    a ""
+
+# game/scripts/ash_events.rpy:14407
+translate uk_UA ashtv_ec116515:
+
+    # c "What kind of shows do you like?"
+    c ""
+
+# game/scripts/ash_events.rpy:14408
+translate uk_UA ashtv_3f515757:
+
+    # a "Uh... nothing boring. I'll fall asleep if it doesn't hold my attention."
+    a ""
+
+# game/scripts/ash_events.rpy:14409
+translate uk_UA ashtv_04bd0c61:
+
+    # c "Action?"
+    c ""
+
+# game/scripts/ash_events.rpy:14410
+translate uk_UA ashtv_31f3b256:
+
+    # a "Yeah, I like action."
+    a ""
+
+# game/scripts/ash_events.rpy:14411
+translate uk_UA ashtv_aa21e723:
+
+    # c "Hm, okay..."
+    c ""
+
+# game/scripts/ash_events.rpy:14412
+translate uk_UA ashtv_bb8e4b4e_2:
+
+    # a "..."
+    a ""
+
+# game/scripts/ash_events.rpy:14414
+translate uk_UA ashtv_bb8e4b4e_3:
+
+    # a "..."
+    a ""
+
+# game/scripts/ash_events.rpy:14416
+translate uk_UA ashtv_732a8756:
+
+    # a "......"
+    a ""
+
+# game/scripts/ash_events.rpy:14417
+translate uk_UA ashtv_3784857a_1:
+
+    # c "...?"
+    c ""
+
+# game/scripts/ash_events.rpy:14419
+translate uk_UA ashtv_0b63a64f:
+
+    # a "What!?"
+    a ""
+
+# game/scripts/ash_events.rpy:14420
+translate uk_UA ashtv_bd349186:
+
+    # c "You're staring at me."
+    c ""
+
+# game/scripts/ash_events.rpy:14421
+translate uk_UA ashtv_b7bb7408:
+
+    # a "You're staring at me!"
+    a ""
+
+# game/scripts/ash_events.rpy:14422
+translate uk_UA ashtv_3e13cf2c:
+
+    # c "Because you're staring at me. What's up?"
+    c ""
+
+# game/scripts/ash_events.rpy:14423
+translate uk_UA ashtv_ab830a05:
+
+    # a "Nothing's up! I'm waiting for you to pick a movie!"
+    a ""
+
+# game/scripts/ash_events.rpy:14424
+translate uk_UA ashtv_4b489c83:
+
+    # c "Okay..."
+    c ""
+
+# game/scripts/ash_events.rpy:14426
+translate uk_UA ashtv_bb8e4b4e_4:
+
+    # a "..."
+    a ""
+
+# game/scripts/ash_events.rpy:14427
+translate uk_UA ashtv_6a4d2b17:
+
+    # c "Hm... This one is about samurai twins. Does that sound interesting?"
+    c ""
+
+# game/scripts/ash_events.rpy:14428
+translate uk_UA ashtv_ea7192e3:
+
+    # a "Yeah, sure..."
+    a ""
+
+# game/scripts/ash_events.rpy:14429
+translate uk_UA ashtv_450ee79a:
+
+    # c "Okay, do you want popcorn?"
+    c ""
+
+# game/scripts/ash_events.rpy:14430
+translate uk_UA ashtv_ed8a36e4:
+
+    # a "I'm not hungry..."
+    a ""
+
+# game/scripts/ash_events.rpy:14432
+translate uk_UA ashtv_80a199ee:
+
+    # "{i}The movie begins.\nA poor widow gives birth to twin boys in a rural village. Incapable of supporting both children, the mother is forced to sell the second born.{/i}"
+    ""
+
+# game/scripts/ash_events.rpy:14433
+translate uk_UA ashtv_d977835e:
+
+    # a "Hmph... that's a hard decision. But now both children have a chance to live."
+    a ""
+
+# game/scripts/ash_events.rpy:14434
+translate uk_UA ashtv_afa027a9:
+
+    # a "Hey, where's the father in all of this!? He better be dead!"
+    a ""
+
+# game/scripts/ash_events.rpy:14435
+translate uk_UA ashtv_498329df:
+
+    # c "Hm..."
+    c ""
+
+# game/scripts/ash_events.rpy:14436
+translate uk_UA ashtv_3a0f1e0e:
+
+    # a "Heheh, awww look at them though! Babies are so cute~ I want to have twelve!"
+    a ""
+
+# game/scripts/ash_events.rpy:14437
+translate uk_UA ashtv_a0252246:
+
+    # c "Twelve?"
+    c ""
+
+# game/scripts/ash_events.rpy:14438
+translate uk_UA ashtv_86849511:
+
+    # a "Yesss! I want a big family, a huge one!"
+    a ""
+
+# game/scripts/ash_events.rpy:14440
+translate uk_UA ashtv_a56c13b9:
+
+    # "{i}Years later, the second born is found to have a natural talent with blades while protecting his new family's farm from bandits.{/i}"
+    ""
+
+# game/scripts/ash_events.rpy:14441
+translate uk_UA ashtv_abc31ce8:
+
+    # "{i}Meanwhile, the firstborn discovers his talent with blades while training in a school tournament. A local lord notices and promises a better life for both of them if he trains to become a samurai.{/i}"
+    ""
+
+# game/scripts/ash_events.rpy:14443
+translate uk_UA ashtv_bb8e4b4e_5:
+
+    # a "..."
+    a ""
+
+# game/scripts/ash_events.rpy:14444
+translate uk_UA ashtv_7a566478:
+
+    # a "{i}(We're watching a movie together. This is like... our first date!){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14446
+translate uk_UA ashtv_675bf255:
+
+    # a "{i}(He really likes me, he {u}actually{/u} likes me! He might even LOVE me!){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14447
+translate uk_UA ashtv_39fae8db:
+
+    # a "{i}(If he loves me, he might kiss me! If he wants to kiss me, he probably wants to fuck me! Then he wants to get married?? It's a bit soon for that sort of thing, but - okay, okay! I do!){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14449
+translate uk_UA ashtv_1614b26d:
+
+    # a "{i}(It's official, we're together! It all happened so quick, but I guess when it's your soulmate you just know!){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14451
+translate uk_UA ashtv_53a452f4:
+
+    # a "{i}(But, wait... he won't even put his arm around me!? Something's wrong, maybe he doesn't love me after all!!){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14453
+translate uk_UA ashtv_bb28bba5:
+
+    # a "Hey!"
+    a ""
+
+# game/scripts/ash_events.rpy:14454
+translate uk_UA ashtv_4ce77e5e:
+
+    # c "Hm?"
+    c ""
+
+# game/scripts/ash_events.rpy:14455
+translate uk_UA ashtv_7ba899df:
+
+    # a "Why aren't you touching me? Do you hate me or something?"
+    a ""
+
+# game/scripts/ash_events.rpy:14456
+translate uk_UA ashtv_f134f3cd:
+
+    # c "What? I-"
+    c ""
+
+# game/scripts/ash_events.rpy:14458
+translate uk_UA ashtv_018ad99a:
+
+    # a "Hold meeeee...! I don't like feeling alone..."
+    a ""
+
+# game/scripts/ash_events.rpy:14459
+translate uk_UA ashtv_71035493:
+
+    # c "Uh... sure, okay."
+    c ""
+
+# game/scripts/ash_events.rpy:14461
+translate uk_UA ashtv_f9114550:
+
+    # a "Mmmn~"
+    a ""
+
+# game/scripts/ash_events.rpy:14462
+translate uk_UA ashtv_7970bf3b:
+
+    # a "{i}(Wow... we're really gonna get married some day...){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14464
+translate uk_UA ashtv_e56cc1ce:
+
+    # "{i}The twins continue to train as they grow older, each doing so for their family. The younger to protect his adopted family's farm, and the older to give his mother a better life.{/i}"
+    ""
+
+# game/scripts/ash_events.rpy:14465
+translate uk_UA ashtv_5e05cc94:
+
+    # a "This is so good..."
+    a ""
+
+# game/scripts/ash_events.rpy:14466
+translate uk_UA ashtv_7fab1093:
+
+    # c "It's kind of slow for my taste."
+    c ""
+
+# game/scripts/ash_events.rpy:14467
+translate uk_UA ashtv_974f3dea:
+
+    # a "{i}(What! THIS is too slow for him? Does he want to fuck me already!?){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14468
+translate uk_UA ashtv_6aba7fa0:
+
+    # a "W-We can speed it up a little if you want!"
+    a ""
+
+# game/scripts/ash_events.rpy:14469
+translate uk_UA ashtv_80b16734:
+
+    # c "That would be a bit strange..."
+    c ""
+
+# game/scripts/ash_events.rpy:14470
+translate uk_UA ashtv_7ee0c9f6:
+
+    # a "Oh! W-Whatever you want is okay!"
+    a ""
+
+# game/scripts/ash_events.rpy:14471
+translate uk_UA ashtv_a7895cea:
+
+    # a "{i}(Agh! I'll never understand men...!){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14473
+translate uk_UA ashtv_227a5c1e:
+
+    # a "{i}(Ahh... My own mother has never held me this much. He really loves me...){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14474
+translate uk_UA ashtv_fcea5d5b:
+
+    # a "{i}(Some day we'll get a house together... with a garden in the back... and a cat too! Then he'll engage, and we'll get married, and we'll have twelve children together!{/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14475
+translate uk_UA ashtv_42c23c34:
+
+    # a "{i}(Oh yes, it's perfect. We were made for each other! I won't let this one get away...){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14476
+translate uk_UA ashtv_ba8a1873:
+
+    # c "Are you sleeping?"
+    c ""
+
+# game/scripts/ash_events.rpy:14478
+translate uk_UA ashtv_d14475e5:
+
+    # a "What? No! I love you-"
+    a ""
+
+# game/scripts/ash_events.rpy:14479
+translate uk_UA ashtv_3784857a_2:
+
+    # c "...?"
+    c ""
+
+# game/scripts/ash_events.rpy:14480
+translate uk_UA ashtv_3181cb49:
+
+    # a "-rrrrr company, I love your company!"
+    a ""
+
+# game/scripts/ash_events.rpy:14481
+translate uk_UA ashtv_ca0d2f26:
+
+    # a "I wouldn't sleep..."
+    a ""
+
+# game/scripts/ash_events.rpy:14483
+translate uk_UA ashtv_be74c580:
+
+    # a "{i}(He doesn't know he loves me yet, that's okay... I'm patient.){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14485
+translate uk_UA ashtv_046ceba4:
+
+    # "{i}The firstborn grows up to become a renowned samurai and general in his lord's army. War takes a toll on him, but he takes pride in knowing he is able to provide for his mother.{/i}"
+    ""
+
+# game/scripts/ash_events.rpy:14486
+translate uk_UA ashtv_eefc78b1:
+
+    # "{i}Meanwhile his twin becomes a local legend for solving his village's bandit problem and begins his own school to train others.{/i}"
+    ""
+
+# game/scripts/ash_events.rpy:14487
+translate uk_UA ashtv_ac8c8328:
+
+    # c "I was expecting more action..."
+    c ""
+
+# game/scripts/ash_events.rpy:14488
+translate uk_UA ashtv_c1bb3f32:
+
+    # a "What? Already? I guess we can try something..."
+    a ""
+
+# game/scripts/ash_events.rpy:14489
+translate uk_UA ashtv_1128139f:
+
+    # a "O-Oh, the movie...! Yeah, soooo boring...\n{i}(I don't even know what we're watching...){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14490
+translate uk_UA ashtv_8f2f8f27:
+
+    # a "*sigh*..."
+    a ""
+
+# game/scripts/ash_events.rpy:14493
+translate uk_UA ashtv_bb8e4b4e_6:
+
+    # a "..."
+    a ""
+
+# game/scripts/ash_events.rpy:14495
+translate uk_UA ashtv_732a8756_1:
+
+    # a "......"
+    a ""
+
+# game/scripts/ash_events.rpy:14497
+translate uk_UA ashtv_27dbc3ff:
+
+    # a "...\n{i}(I touched him! ...He doesn't mind?){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14498
+translate uk_UA ashtv_27620f07:
+
+    # a "...\n{i}(He's not reacting though. Maybe he's just trying to be nice and not hurt my feelings...){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14499
+translate uk_UA ashtv_2d33120a:
+
+    # a "Do you like me?"
+    a ""
+
+# game/scripts/ash_events.rpy:14503
+translate uk_UA ashtv_50191abe:
+
+    # a "Good!\n{i}(Oh yes, we're getting married.){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14507
+translate uk_UA ashtv_bd99e5a6:
+
+    # a "I knew it~!"
+    a ""
+
+# game/scripts/ash_events.rpy:14511
+translate uk_UA ashtv_4bb24536:
+
+    # a "Sarcasm? Awww...\n{i}(He really loves me...){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14514
+translate uk_UA ashtv_358cc058:
+
+    # "{i}Under his ruler's command, the firstborn pillages village after village in a grand conquest heading east. He questions the meaning of life as his humanity is drained from him after every kill.{/i}"
+    ""
+
+# game/scripts/ash_events.rpy:14515
+translate uk_UA ashtv_0091de40:
+
+    # a "Bloooooood.\nWhy are they at war again?"
+    a ""
+
+# game/scripts/ash_events.rpy:14516
+translate uk_UA ashtv_688656af:
+
+    # c "I don't know, that's just life."
+    c ""
+
+# game/scripts/ash_events.rpy:14517
+translate uk_UA ashtv_a000e334:
+
+    # a "That's true... *yawwwn*..."
+    a ""
+
+# game/scripts/ash_events.rpy:14519
+translate uk_UA ashtv_14e50afe:
+
+    # c "*yawwwwwn*...!"
+    c ""
+
+# game/scripts/ash_events.rpy:14521
+translate uk_UA ashtv_6e2ba4ac:
+
+    # a "You hate me??" with ssshake
+    a "" with ssshake
+
+# game/scripts/ash_events.rpy:14522
+translate uk_UA ashtv_8969cf76:
+
+    # c "What? Why would I hate you?"
+    c ""
+
+# game/scripts/ash_events.rpy:14523
+translate uk_UA ashtv_e6b7f766:
+
+    # a "You moved your arm! You can yawn without moving your arm! Are you trying to hide something? What did I do?"
+    a ""
+
+# game/scripts/ash_events.rpy:14524
+translate uk_UA ashtv_1016397e:
+
+    # c "Relax, I was just yawning. Besides, you're so cute. How could I hate you?"
+    c ""
+
+# game/scripts/ash_events.rpy:14525
+translate uk_UA ashtv_10d6dc36:
+
+    # a "I'm cute? Prove it!"
+    a ""
+
+# game/scripts/ash_events.rpy:14527
+translate uk_UA ashtv_5fba155d:
+
+    # a "Hehe~ aww, you're cuter though!"
+    a ""
+
+# game/scripts/ash_events.rpy:14528
+translate uk_UA ashtv_a945c622:
+
+    # c "I'm cute?"
+    c ""
+
+# game/scripts/ash_events.rpy:14529
+translate uk_UA ashtv_3101d809:
+
+    # a "Mhm, very!"
+    a ""
+
+# game/scripts/ash_events.rpy:14531
+translate uk_UA ashtv_cb321414:
+
+    # "{i}The firstborn's army arrives to a familiar farming village. Without hesitation, he orders the attack. Conquest or death, it's all they understand.{/i}"
+    ""
+
+# game/scripts/ash_events.rpy:14532
+translate uk_UA ashtv_aa994d51:
+
+    # "{i}As the battle rages on, his men notice a familiar face wearing unfamiliar clothing on the opposing side of the battlefield. The second twin arrives with a small army of his students.{/i}"
+    ""
+
+# game/scripts/ash_events.rpy:14533
+translate uk_UA ashtv_28b31d22:
+
+    # a "Woaaah, they're meeting again! It's been so long!"
+    a ""
+
+# game/scripts/ash_events.rpy:14534
+translate uk_UA ashtv_6cca11fb:
+
+    # "{i}The firstborn is stunned to see a man so full of life with his own face fighting against his army. Could this be him if he had chosen another path? How could he attack himself? So many questions but only one way to get the answers.{/i}"
+    ""
+
+# game/scripts/ash_events.rpy:14535
+translate uk_UA ashtv_ca38392d:
+
+    # a "Are they gonna fight?"
+    a ""
+
+# game/scripts/ash_events.rpy:14537
+translate uk_UA ashtv_45218ac1:
+
+    # "{i}They begin to fight.{/i}"
+    ""
+
+# game/scripts/ash_events.rpy:14538
+translate uk_UA ashtv_d35496fe:
+
+    # a "YES! I knew it!"
+    a ""
+
+# game/scripts/ash_events.rpy:14539
+translate uk_UA ashtv_d43b01c6:
+
+    # a "It must be strange to attack someone with your own face. Waaaaaait, is this some kind of metaphor?"
+    a ""
+
+# game/scripts/ash_events.rpy:14541
+translate uk_UA ashtv_abae768b:
+
+    # a "...?\n{i}(He's paying more attention to the movie than to me... It's not even a good movie.){/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14542
+translate uk_UA ashtv_9945efd6:
+
+    # a "{i}{size=-7}He's so handsome though...{/size}{/i}"
+    a ""
+
+# game/scripts/ash_events.rpy:14543
+translate uk_UA ashtv_e5d1d749:
+
+    # c "The twins?"
+    c ""
+
+# game/scripts/ash_events.rpy:14544
+translate uk_UA ashtv_995da980:
+
+    # a "Huh...?\nOh, yeah! So tall and cute, and handsome... and smells good..."
+    a ""
+
+# game/scripts/ash_events.rpy:14545
+translate uk_UA ashtv_8355ad0c:
+
+    # c "You're weird."
+    c ""
+
+# game/scripts/ash_events.rpy:14547
+translate uk_UA ashtv_28d71b4e:
+
+    # a "I know! Get used to it."
+    a ""
+
+# game/scripts/ash_events.rpy:14549
+translate uk_UA ashtv_2f0a77c1:
+
+    # "{i}The twins fight through a burning building where their clothes unrealistically burn off their bodies. It is now impossible to tell which is the firstborn.{/i}"
+    ""
+
+# game/scripts/ash_events.rpy:14550
+translate uk_UA ashtv_3595be42:
+
+    # a "Fire doesn't work like that..."
+    a ""
+
+# game/scripts/ash_events.rpy:14551
+translate uk_UA ashtv_f60830ad:
+
+    # c "Their body hair didn't burn off either."
+    c ""
+
+# game/scripts/ash_events.rpy:14552
+translate uk_UA ashtv_fe9010d9:
+
+    # a "I just noticed that! Are they even trying?"
+    a ""
+
+# game/scripts/ash_events.rpy:14554
+translate uk_UA ashtv_e94faa64:
+
+    # "{i}As the fight reaches its climax, the battle is suddenly ended by a piercing blow through the heart of one of the twins. It is impossible to tell which one killed the other.{/i}"
+    ""
+
+# game/scripts/ash_events.rpy:14555
+translate uk_UA ashtv_2dc6143e:
+
+    # a "Wait, what!? What just happened?"
+    a ""
+
+# game/scripts/ash_events.rpy:14556
+translate uk_UA ashtv_172e8959:
+
+    # "{i}Realizing what he just did, the twin left alive leaves his sword and slowly walks away from his dead twin's corpse. The battle rages on around him as he leaves the battlefield behind.{/i}"
+    ""
+
+# game/scripts/ash_events.rpy:14558
+translate uk_UA ashtv_56bc0f5f:
+
+    # a "Whaaaaaat? So who won? Was it a good ending or a bad one?"
+    a ""
+
+# game/scripts/ash_events.rpy:14559
+translate uk_UA ashtv_04c833b5:
+
+    # c "I guess we'll never know."
+    c ""
+
+# game/scripts/ash_events.rpy:14560
+translate uk_UA ashtv_fc7fba8e:
+
+    # a "Uuuugh, why can't they just tell me how to feel? Life is hard enough..."
+    a ""
+
+# game/scripts/ash_events.rpy:14561
+translate uk_UA ashtv_20465bfb:
+
+    # c "Well it was fun hanging out, I should get back to work."
+    c ""
+
+# game/scripts/ash_events.rpy:14563
+translate uk_UA ashtv_c645cb9b:
+
+    # a "What? You're running away already?? But you just got here! Let's watch another movie!"
+    a ""
+
+# game/scripts/ash_events.rpy:14564
+translate uk_UA ashtv_8376f995:
+
+    # c "I'm not running away, just getting back to work. And I'm always just one phonecall away."
+    c ""
+
+# game/scripts/ash_events.rpy:14565
+translate uk_UA ashtv_b6da71eb:
+
+    # a "But-... Okay... I guess that's fine."
+    a ""
+
+# game/scripts/ash_events.rpy:14567
+translate uk_UA ashtv_88da7d26:
+
+    # c "Okay, bye."
+    c ""
+
+# game/scripts/ash_events.rpy:14568
+translate uk_UA ashtv_d6a3ec8b:
+
+    # a "Byebye. See you..."
+    a ""
+
+# game/scripts/ash_events.rpy:14570
+translate uk_UA ashtv_bb8e4b4e_7:
+
+    # a "..."
+    a ""
+
+# game/scripts/ash_events.rpy:14572
+translate uk_UA ashtv_79125fad:
+
+    # a "Hehehehe~!"
+    a ""
+
+# game/scripts/ash_events.rpy:14573
+translate uk_UA ashtv_4b251602:
+
+    # a "{i}Yes! We're gonna get married, we're gonna get married!{/i}"
+    a ""
+
+translate uk_UA strings:
+
+    # game/scripts/ash_events.rpy:14363
+    old "Hey, what's up?"
+    new ""
+
+    # game/scripts/ash_events.rpy:14363
+    old "Can I join?"
+    new ""
+
+    # game/scripts/ash_events.rpy:14363
+    old "Do I recognize that TV...?"
+    new ""
+
+    # game/scripts/ash_events.rpy:14500
+    old "You're alright."
+    new ""
+
+    # game/scripts/ash_events.rpy:14500
+    old "No, I chose to watch a movie with someone I hate."
+    new ""
+

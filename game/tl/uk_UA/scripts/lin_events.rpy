@@ -53344,3 +53344,2289 @@ translate uk_UA strings:
     old "Not quite."
     new ""
 
+# TODO: Translation updated at 2025-02-09 00:44
+
+# game/scripts/lin_events.rpy:25
+translate uk_UA lin_teaparty_fca445f0:
+
+    # k "Okay, your upgrades are complete. You should be totally incognito now, just like our wifi."
+    k ""
+
+# game/scripts/lin_events.rpy:26
+translate uk_UA lin_teaparty_c339a69a:
+
+    # bot "Thank you~"
+    bot ""
+
+# game/scripts/lin_events.rpy:27
+translate uk_UA lin_teaparty_96883655:
+
+    # k "You can pull your shirt down now."
+    k ""
+
+# game/scripts/lin_events.rpy:29
+translate uk_UA lin_teaparty_6380fe99:
+
+    # au "Hey Kali... isn't that your father on the news?"
+    au ""
+
+# game/scripts/lin_events.rpy:30
+translate uk_UA lin_teaparty_b447b502:
+
+    # k "Oh shit..."
+    k ""
+
+# game/scripts/lin_events.rpy:31
+translate uk_UA lin_teaparty_ad6f93fa:
+
+    # a "He's PISSED!"
+    a ""
+
+# game/scripts/lin_events.rpy:33
+translate uk_UA lin_teaparty_4daeb6c5:
+
+    # kd "DO YOU HAVE ANY IDEA WHAT THIS WILL DO!? THIS WILL RUIN THE GLOBAL ECONOMY! AD REVENUE HAS DROPPED BY 64 FUCKING PERCENT OVER NIGHT!"
+    kd ""
+
+# game/scripts/lin_events.rpy:34
+translate uk_UA lin_teaparty_de2fd2a3:
+
+    # kd "{b}OVER! NIGHT!!{/b}" with ssshake
+    kd "" with ssshake
+
+# game/scripts/lin_events.rpy:35
+translate uk_UA lin_teaparty_57be0c06:
+
+    # news24 "Your language, Mr-"
+    news24 ""
+
+# game/scripts/lin_events.rpy:36
+translate uk_UA lin_teaparty_5a83d6ee:
+
+    # kd "DID {i}ANYONE{/i} THINK THIS THROUGH? EVEN A LITTLE? 30 YEARS OF PROGRESS WAS JUST WIPED AWAY WITH A PRESS OF A BUTTON!"
+    kd ""
+
+# game/scripts/lin_events.rpy:37
+translate uk_UA lin_teaparty_8b3b8e5c:
+
+    # news24 "What would you propose then?"
+    news24 ""
+
+# game/scripts/lin_events.rpy:38
+translate uk_UA lin_teaparty_1fd2de5f:
+
+    # kd "KILL IT! DELETE EVERY LINE OF CODE! DESTROY EVERY PIECE OF HARDWARE CONNECTED TO IT! AND DO IT IMMEDIATELY!"
+    kd ""
+
+# game/scripts/lin_events.rpy:39
+translate uk_UA lin_teaparty_3506d5c3:
+
+    # news24 "By the state's own admission, this would be impossible. Archon is decentralized, it is essentially the next version of the internet. Destroying it would mean-"
+    news24 ""
+
+# game/scripts/lin_events.rpy:40
+translate uk_UA lin_teaparty_0ba34dfe:
+
+    # kd "I DON'T CARE! I DON'T CARE! FUCKING DO IT!"
+    kd ""
+
+# game/scripts/lin_events.rpy:41
+translate uk_UA lin_teaparty_f266c6a4:
+
+    # kd "If you think the short-term effects of Archon are bad, the long-term effects are much worse! None of you can honestly say you're okay with being SPIED on!!"
+    kd ""
+
+# game/scripts/lin_events.rpy:42
+translate uk_UA lin_teaparty_d8ea5a0d:
+
+    # kd "{i}DELETE IT! FUCKING DELETE IT!!{/i}"
+    kd ""
+
+# game/scripts/lin_events.rpy:44
+translate uk_UA lin_teaparty_f0c6c1a0:
+
+    # a "Yeeesh, he's mad."
+    a ""
+
+# game/scripts/lin_events.rpy:45
+translate uk_UA lin_teaparty_47f420ba:
+
+    # k "I've never seen him like this before."
+    k ""
+
+# game/scripts/lin_events.rpy:46
+translate uk_UA lin_teaparty_eb5f80a2:
+
+    # c "Has everyone already forgot about MuteMaid?"
+    c ""
+
+# game/scripts/lin_events.rpy:47
+translate uk_UA lin_teaparty_6414eb62:
+
+    # k "They're probably not allowed to talk about it. Besides, the whole internet is imploding right now with nearly half its users being banned."
+    k ""
+
+# game/scripts/lin_events.rpy:48
+translate uk_UA lin_teaparty_ca5bee82:
+
+    # m "Boy, I'm really glad I got a new job..."
+    m ""
+
+# game/scripts/lin_events.rpy:49
+translate uk_UA lin_teaparty_d87f6e73:
+
+    # au "Shouldn't we be concerned about the police knocking on our door? ...Where is Lin anyway?"
+    au ""
+
+# game/scripts/lin_events.rpy:50
+translate uk_UA lin_teaparty_e56c1c84:
+
+    # "*ring, ring*, *ring, ring*" with ssshake
+    "" with ssshake
+
+# game/scripts/lin_events.rpy:52
+translate uk_UA lin_teaparty_7d3409b5:
+
+    # c "{i}It's Cornwall...{/i}"
+    c ""
+
+# game/scripts/lin_events.rpy:53
+translate uk_UA lin_teaparty_f45704a3:
+
+    # corn "Hello Mr. [name]."
+    corn ""
+
+# game/scripts/lin_events.rpy:57
+translate uk_UA lin_teaparty_6182156e:
+
+    # c "What do you want?"
+    c ""
+
+# game/scripts/lin_events.rpy:58
+translate uk_UA lin_teaparty_07878b10:
+
+    # corn "When was the last time you saw that elf of yours? What was her name? Lin?"
+    corn ""
+
+# game/scripts/lin_events.rpy:59
+translate uk_UA lin_teaparty_fc3e47fd:
+
+    # c "Why do you want to know?"
+    c ""
+
+# game/scripts/lin_events.rpy:60
+translate uk_UA lin_teaparty_7ec005a1:
+
+    # corn "Playing dumb then? Very well, we have ways of making people like you talk."
+    corn ""
+
+# game/scripts/lin_events.rpy:61
+translate uk_UA lin_teaparty_d19f855d:
+
+    # c "..."
+    c ""
+
+# game/scripts/lin_events.rpy:62
+translate uk_UA lin_teaparty_e24ff0cb:
+
+    # corn "Lin is a wanted slave now, with a bounty of $5,000. $10,000 if you return her tonight..."
+    corn ""
+
+# game/scripts/lin_events.rpy:63
+translate uk_UA lin_teaparty_7b7a2857:
+
+    # corn "This is the only time my generosity will be extended to you. If you don't return her, someone else will..."
+    corn ""
+
+# game/scripts/lin_events.rpy:64
+translate uk_UA lin_teaparty_8ffd8d65:
+
+    # c "...(Are you fucking kidding me? Who does he think I am?)"
+    c ""
+
+# game/scripts/lin_events.rpy:65
+translate uk_UA lin_teaparty_f33dd5b7:
+
+    # c "She ran away a long time ago, haven't seen her since."
+    c ""
+
+# game/scripts/lin_events.rpy:66
+translate uk_UA lin_teaparty_0b3eb23f:
+
+    # corn "..."
+    corn ""
+
+# game/scripts/lin_events.rpy:67
+translate uk_UA lin_teaparty_a561cb3a:
+
+    # corn "...You know, Mr. [name]... Legally speaking you aren't even her master. She belongs to the estate of your hotel. I can promise you full immunity upon her return."
+    corn ""
+
+# game/scripts/lin_events.rpy:68
+translate uk_UA lin_teaparty_a1e5ffbc:
+
+    # corn "Failure to do so, however, would result in you becoming a criminal. The state would be forced to sell your assets. This of course includes all of your slaves."
+    corn ""
+
+# game/scripts/lin_events.rpy:69
+translate uk_UA lin_teaparty_552eef5f:
+
+    # c "You don't have that power, you're just the Minister of Slavery. I don't even know where she is, my hands are clean."
+    c ""
+
+# game/scripts/lin_events.rpy:70
+translate uk_UA lin_teaparty_e885c3f8:
+
+    # corn "You are legally obligated to report a runaway slave, Mr. [name]..."
+    corn ""
+
+# game/scripts/lin_events.rpy:71
+translate uk_UA lin_teaparty_d19f855d_1:
+
+    # c "..."
+    c ""
+
+# game/scripts/lin_events.rpy:72
+translate uk_UA lin_teaparty_1513b39e:
+
+    # corn "As I said, this is a generosity. A warning. Make this easy, or you'll never see that hotel again."
+    corn ""
+
+# game/scripts/lin_events.rpy:73
+translate uk_UA lin_teaparty_68b19a66:
+
+    # corn "You have until the end of the night."
+    corn ""
+
+# game/scripts/lin_events.rpy:74
+translate uk_UA lin_teaparty_8cda52f6:
+
+    # "*Cornwall hangs up*"
+    ""
+
+# game/scripts/lin_events.rpy:76
+translate uk_UA lin_teaparty_d19f855d_2:
+
+    # c "..."
+    c ""
+
+# game/scripts/lin_events.rpy:77
+translate uk_UA lin_teaparty_ce983b47:
+
+    # k "What did he say!?"
+    k ""
+
+# game/scripts/lin_events.rpy:78
+translate uk_UA lin_teaparty_f1a10618:
+
+    # c "This is bad... they'll do anything to get Lin. They put a bounty on her head..."
+    c ""
+
+# game/scripts/lin_events.rpy:79
+translate uk_UA lin_teaparty_31592dc3:
+
+    # au "She'll never be able to leave...!"
+    au ""
+
+# game/scripts/lin_events.rpy:80
+translate uk_UA lin_teaparty_e85dae26:
+
+    # m "What do we do...?"
+    m ""
+
+# game/scripts/lin_events.rpy:81
+translate uk_UA lin_teaparty_64240f06:
+
+    # c "The police will be here by tonight unless we do something."
+    c ""
+
+# game/scripts/lin_events.rpy:82
+translate uk_UA lin_teaparty_05130290:
+
+    # m "Maybe she should go live with those elves in the desert?"
+    m ""
+
+# game/scripts/lin_events.rpy:83
+translate uk_UA lin_teaparty_1a77b579:
+
+    # k "We should build escape tunnels!"
+    k ""
+
+# game/scripts/lin_events.rpy:84
+translate uk_UA lin_teaparty_819f2230:
+
+    # a "Lowtown! The police are too afraid to go there."
+    a ""
+
+# game/scripts/lin_events.rpy:85
+translate uk_UA lin_teaparty_53cd7aa2:
+
+    # au "She'll never survive alone..."
+    au ""
+
+# game/scripts/lin_events.rpy:86
+translate uk_UA lin_teaparty_4c227d28:
+
+    # a "It's not as bad as it sounds!"
+    a ""
+
+# game/scripts/lin_events.rpy:87
+translate uk_UA lin_teaparty_e7950b1c:
+
+    # bot "I'll start deleting all records of her being here."
+    bot ""
+
+# game/scripts/lin_events.rpy:88
+translate uk_UA lin_teaparty_9e280f00:
+
+    # e "Me too."
+    e ""
+
+# game/scripts/lin_events.rpy:89
+translate uk_UA lin_teaparty_d282b7da:
+
+    # c "I need to speak with her, I'll be right back..."
+    c ""
+
+# game/scripts/lin_events.rpy:95
+translate uk_UA lin_teaparty_2f4638a2:
+
+    # j "If I knew you were going to STAGE A PROTEST I wouldn't have allowed it!"
+    j ""
+
+# game/scripts/lin_events.rpy:96
+translate uk_UA lin_teaparty_bc538d3b:
+
+    # l "But-!"
+    l ""
+
+# game/scripts/lin_events.rpy:97
+translate uk_UA lin_teaparty_c9723687:
+
+    # j "We have a good life here, Lin! Better than most! Why would you risk that!?"
+    j ""
+
+# game/scripts/lin_events.rpy:99
+translate uk_UA lin_teaparty_762ccc30:
+
+    # l "Just because we're lucky, that doesn't mean we should be complacent!"
+    l ""
+
+# game/scripts/lin_events.rpy:100
+translate uk_UA lin_teaparty_7f4b4d85:
+
+    # j "Who do you think you are?? You're a maid, Lin! Not a superhero!"
+    j ""
+
+# game/scripts/lin_events.rpy:101
+translate uk_UA lin_teaparty_7942b527:
+
+    # l "I want to make a difference!"
+    l ""
+
+# game/scripts/lin_events.rpy:102
+translate uk_UA lin_teaparty_fab570da:
+
+    # j "Elves have tried to fight before, that's always failed! You think {i}words{/i} are going to do anything??"
+    j ""
+
+# game/scripts/lin_events.rpy:103
+translate uk_UA lin_teaparty_7bb856e2:
+
+    # c "Lin, we need to go."
+    c ""
+
+# game/scripts/lin_events.rpy:108
+translate uk_UA lin_teaparty_f5fb4c79:
+
+    # l "[name]! What happened?"
+    l ""
+
+# game/scripts/lin_events.rpy:109
+translate uk_UA lin_teaparty_64bdf8b1:
+
+    # j "Where do you think you're taking her?"
+    j ""
+
+# game/scripts/lin_events.rpy:110
+translate uk_UA lin_teaparty_1bd53a4b:
+
+    # c "Cornwall and the police are looking for you, Lin. They'll be here by tonight unless I turn you in."
+    c ""
+
+# game/scripts/lin_events.rpy:115
+translate uk_UA lin_teaparty_4c5e6faa:
+
+    # j "I knew this would happen!"
+    j ""
+
+# game/scripts/lin_events.rpy:116
+translate uk_UA lin_teaparty_a2912a8f:
+
+    # l "Wh-Where do we go!?"
+    l ""
+
+# game/scripts/lin_events.rpy:117
+translate uk_UA lin_teaparty_c00da2ff:
+
+    # nia "I know where she'll be safe. My friends would love to meet her, especially after what just happened. They'll keep her safe."
+    nia ""
+
+# game/scripts/lin_events.rpy:118
+translate uk_UA lin_teaparty_e8ef954b:
+
+    # l "What about Jinny?"
+    l ""
+
+# game/scripts/lin_events.rpy:119
+translate uk_UA lin_teaparty_05ddd74d:
+
+    # c "I bought her, so she needs to stay. But you're technically a runaway slave now, Lin."
+    c ""
+
+# game/scripts/lin_events.rpy:120
+translate uk_UA lin_teaparty_0049a3d5:
+
+    # l "What??"
+    l ""
+
+# game/scripts/lin_events.rpy:121
+translate uk_UA lin_teaparty_925ee076:
+
+    # nia "That reminds me, [name], we should bring Sylvia just in case. She was Cornwall's former prize slave."
+    nia ""
+
+# game/scripts/lin_events.rpy:122
+translate uk_UA lin_teaparty_848b0b66:
+
+    # c "Good idea."
+    c ""
+
+# game/scripts/lin_events.rpy:123
+translate uk_UA lin_teaparty_e3a57062:
+
+    # c "We're leaving now, grab your things. We don't have much time, they might already be spying on us."
+    c ""
+
+# game/scripts/lin_events.rpy:124
+translate uk_UA lin_teaparty_c1fa4889:
+
+    # l "O-Okay!"
+    l ""
+
+# game/scripts/lin_events.rpy:126
+translate uk_UA lin_teaparty_ae9f7b2e:
+
+    # "You fill everyone in on the news. Lin and Jin hastily pack a bag full of clothes for Lin. After a big hug, Lin departs from Jin and you gather Sylvia."
+    ""
+
+# game/scripts/lin_events.rpy:127
+translate uk_UA lin_teaparty_c6d57852:
+
+    # "Once you're all ready, you follow Nia's directions into Lowtown..."
+    ""
+
+# game/scripts/lin_events.rpy:129
+translate uk_UA lin_teaparty_926caefb:
+
+    # nia "YO! Jena, Ghen!"
+    nia ""
+
+# game/scripts/lin_events.rpy:130
+translate uk_UA lin_teaparty_92722ce3:
+
+    # jena "Hey Nia!"
+    jena ""
+
+# game/scripts/lin_events.rpy:131
+translate uk_UA lin_teaparty_5ec677f4:
+
+    # ghen "Ahahah! You see this shit, Nia?"
+    ghen ""
+
+# game/scripts/lin_events.rpy:132
+translate uk_UA lin_teaparty_4f5b7195:
+
+    # jena "He's BIG MAD! Haha!"
+    jena ""
+
+# game/scripts/lin_events.rpy:133
+translate uk_UA lin_teaparty_dae283de:
+
+    # syl "By the gods, this is what passes as a headquarters for you people? Ofgh, it smells horrible!"
+    syl ""
+
+# game/scripts/lin_events.rpy:134
+translate uk_UA lin_teaparty_f0105ed4:
+
+    # nia "{i}It's a hideout, Sylvia.{/i}"
+    nia ""
+
+# game/scripts/lin_events.rpy:135
+translate uk_UA lin_teaparty_ebd3181e:
+
+    # l "I've seen that flag before..."
+    l ""
+
+# game/scripts/lin_events.rpy:137
+translate uk_UA lin_teaparty_7d876a19:
+
+    # jena "*GAAAASP*! You brought MuteMaid!?"
+    jena ""
+
+# game/scripts/lin_events.rpy:138
+translate uk_UA lin_teaparty_71a3ac24:
+
+    # ghen "How the hell do you keep finding these people, Nia?"
+    ghen ""
+
+# game/scripts/lin_events.rpy:139
+translate uk_UA lin_teaparty_e80efd5e:
+
+    # nia "I've actually known Lin for a while. It's a long story... but she'll surprise you."
+    nia ""
+
+# game/scripts/lin_events.rpy:140
+translate uk_UA lin_teaparty_6006b30f:
+
+    # jena "Lin! That's your name? It's so nice to meet you Lin! I'm Jena, and this is Ghen!"
+    jena ""
+
+# game/scripts/lin_events.rpy:142
+translate uk_UA lin_teaparty_0706c1b2:
+
+    # jena "We're not together..."
+    jena ""
+
+# game/scripts/lin_events.rpy:143
+translate uk_UA lin_teaparty_7b81a3d3:
+
+    # ghen "Why'd you have to be so specific?"
+    ghen ""
+
+# game/scripts/lin_events.rpy:144
+translate uk_UA lin_teaparty_66564ec5:
+
+    # jena "Cuz like, ew..."
+    jena ""
+
+# game/scripts/lin_events.rpy:146
+translate uk_UA lin_teaparty_287623b9:
+
+    # ghen "Hey kid, being wanted is a badge of honor. Means they're actually scared of ya."
+    ghen ""
+
+# game/scripts/lin_events.rpy:147
+translate uk_UA lin_teaparty_7cdff7bc:
+
+    # l "I'm wanted?"
+    l ""
+
+# game/scripts/lin_events.rpy:148
+translate uk_UA lin_teaparty_7782ac12:
+
+    # jena "That's what Nia said!"
+    jena ""
+
+# game/scripts/lin_events.rpy:149
+translate uk_UA lin_teaparty_6b342fbf:
+
+    # l "What?"
+    l ""
+
+# game/scripts/lin_events.rpy:150
+translate uk_UA lin_teaparty_7520a333:
+
+    # nia "She was probably too busy packing to listen, [name] told us."
+    nia ""
+
+# game/scripts/lin_events.rpy:151
+translate uk_UA lin_teaparty_b635f7a5:
+
+    # ghen "Bounty of $5,000. Impressive for your first. Nothin' compared to mine from back in the day."
+    ghen ""
+
+# game/scripts/lin_events.rpy:152
+translate uk_UA lin_teaparty_a1c4cc87:
+
+    # l "What did you do?"
+    l ""
+
+# game/scripts/lin_events.rpy:153
+translate uk_UA lin_teaparty_fcceb924:
+
+    # ghen "I was a sharpshooter in the third uprising. Still am."
+    ghen ""
+
+# game/scripts/lin_events.rpy:154
+translate uk_UA lin_teaparty_745d9dcf:
+
+    # jena "Mine would have been bigger, but I work behind the scenes."
+    jena ""
+
+# game/scripts/lin_events.rpy:156
+translate uk_UA lin_teaparty_36f8ea14:
+
+    # ghen "No shot."
+    ghen ""
+
+# game/scripts/lin_events.rpy:157
+translate uk_UA lin_teaparty_1bdafffb:
+
+    # jena "Yes shot! I left those mechatanks rotting in the forest before they could even reach Caliber!"
+    jena ""
+
+# game/scripts/lin_events.rpy:158
+translate uk_UA lin_teaparty_1d89d404:
+
+    # ghen "Some of them, maybe. But I took out a dozen generals. The only reason they caught me was because I held out in a tower above hundreds of dead slavers. I never missed a shot."
+    ghen ""
+
+# game/scripts/lin_events.rpy:159
+translate uk_UA lin_teaparty_fc200108:
+
+    # jena "No amount of bullets could have penetrated a mechatank and you know it!"
+    jena ""
+
+# game/scripts/lin_events.rpy:160
+translate uk_UA lin_teaparty_6beb36be:
+
+    # ghen "Sure, kid..."
+    ghen ""
+
+# game/scripts/lin_events.rpy:161
+translate uk_UA lin_teaparty_3f55be80:
+
+    # jena "I'M STILL OLDER THAN YOU!" with ssshake
+    jena "" with ssshake
+
+# game/scripts/lin_events.rpy:163
+translate uk_UA lin_teaparty_c866112b:
+
+    # nia "Sooo... we were hoping you could house Lin and Sylvia until the heat dies down. Cornwall is after us because of this whole MuteMaid situation."
+    nia ""
+
+# game/scripts/lin_events.rpy:164
+translate uk_UA lin_teaparty_a94272d9:
+
+    # ghen "Sure."
+    ghen ""
+
+# game/scripts/lin_events.rpy:165
+translate uk_UA lin_teaparty_d5a6b79e:
+
+    # jena "Of course! We should have some extra sheets and pillows, as long as they don't mind sleeping on the couch."
+    jena ""
+
+# game/scripts/lin_events.rpy:166
+translate uk_UA lin_teaparty_a4e09770:
+
+    # syl "Are you kidding me?"
+    syl ""
+
+# game/scripts/lin_events.rpy:167
+translate uk_UA lin_teaparty_e7a5244e:
+
+    # l "We'll make do, thank you."
+    l ""
+
+# game/scripts/lin_events.rpy:168
+translate uk_UA lin_teaparty_7a7ed8fc:
+
+    # syl "I think I'd rather risk the hotel..."
+    syl ""
+
+# game/scripts/lin_events.rpy:169
+translate uk_UA lin_teaparty_a3a78d3f:
+
+    # nia "Shut up, no you wouldn't."
+    nia ""
+
+# game/scripts/lin_events.rpy:170
+translate uk_UA lin_teaparty_ca387533:
+
+    # ghen "You know Nia, you're with friends. You don't have to wear those contacts around us."
+    ghen ""
+
+# game/scripts/lin_events.rpy:171
+translate uk_UA lin_teaparty_021368d0:
+
+    # nia "I was out earlier. I didn't have time to change."
+    nia ""
+
+# game/scripts/lin_events.rpy:173
+translate uk_UA lin_teaparty_36ed6b28:
+
+    # jena "Woohoo! I'll start the tea!! Heheheh!"
+    jena ""
+
+# game/scripts/lin_events.rpy:174
+translate uk_UA lin_teaparty_26c07140:
+
+    # syl "{i}{size=-5}There is no way I'm drinking tea from a place like this...{/size}{/i}"
+    syl ""
+
+# game/scripts/lin_events.rpy:175
+translate uk_UA lin_teaparty_5103c044:
+
+    # ghen "You're welcome to join us, of course. Nia has told us how much of a help you've been."
+    ghen ""
+
+# game/scripts/lin_events.rpy:176
+translate uk_UA lin_teaparty_48b68490:
+
+    # c "I appreciate that."
+    c ""
+
+# game/scripts/lin_events.rpy:177
+translate uk_UA lin_teaparty_9d3323af:
+
+    # ghen "It's so rare to find a decent human around here. It's like having tea with a unicorn."
+    ghen ""
+
+# game/scripts/lin_events.rpy:178
+translate uk_UA lin_teaparty_2f761425:
+
+    # c "Well I'm from The Capitol."
+    c ""
+
+# game/scripts/lin_events.rpy:179
+translate uk_UA lin_teaparty_d85a8d01:
+
+    # ghen "Never heard of it."
+    ghen ""
+
+# game/scripts/lin_events.rpy:180
+translate uk_UA lin_teaparty_83d0cd3f:
+
+    # c "No slaves outside Syl'anar."
+    c ""
+
+# game/scripts/lin_events.rpy:181
+translate uk_UA lin_teaparty_eae5ca49:
+
+    # ghen "Hah, is that so? I'd like to see that someday."
+    ghen ""
+
+# game/scripts/lin_events.rpy:184
+translate uk_UA lin_teaparty_18b5bae3:
+
+    # ghen "This is the lounge area."
+    ghen ""
+
+# game/scripts/lin_events.rpy:185
+translate uk_UA lin_teaparty_b22cc574:
+
+    # l "That's a pretty tree."
+    l ""
+
+# game/scripts/lin_events.rpy:186
+translate uk_UA lin_teaparty_160c58e2:
+
+    # ghen "It came with the place."
+    ghen ""
+
+# game/scripts/lin_events.rpy:187
+translate uk_UA lin_teaparty_3ebaa7a3:
+
+    # syl "And what exactly is this place...?"
+    syl ""
+
+# game/scripts/lin_events.rpy:188
+translate uk_UA lin_teaparty_3c9169b6:
+
+    # ghen "It's home, now. We took it over after the third uprising. Guess they forgot about it."
+    ghen ""
+
+# game/scripts/lin_events.rpy:190
+translate uk_UA lin_teaparty_b04375a5:
+
+    # ghen "Take a seat wherever you'd like."
+    ghen ""
+
+# game/scripts/lin_events.rpy:191
+translate uk_UA lin_teaparty_0f537e93:
+
+    # jena "The tea is ready! You'll love it"
+    jena ""
+
+# game/scripts/lin_events.rpy:192
+translate uk_UA lin_teaparty_e4a3dac3:
+
+    # syl "{i}Ugh, it stinks in here too...{/i}"
+    syl ""
+
+# game/scripts/lin_events.rpy:193
+translate uk_UA lin_teaparty_e6188dd2:
+
+    # l "{i}Sylvia...{/i}"
+    l ""
+
+# game/scripts/lin_events.rpy:195
+translate uk_UA lin_teaparty_c6864196:
+
+    # syl "Mmh, it's really quite good, I'll give you that."
+    syl ""
+
+# game/scripts/lin_events.rpy:196
+translate uk_UA lin_teaparty_eed0a4cf:
+
+    # jena "Told ya! The secret ingredient is a dash of pearberry!"
+    jena ""
+
+# game/scripts/lin_events.rpy:197
+translate uk_UA lin_teaparty_82d16b34:
+
+    # syl "Write that down, Lin."
+    syl ""
+
+# game/scripts/lin_events.rpy:198
+translate uk_UA lin_teaparty_82822a0c:
+
+    # l "..."
+    l ""
+
+# game/scripts/lin_events.rpy:199
+translate uk_UA lin_teaparty_2114f74b:
+
+    # ghen "Are you gonna introduce us to your blonde friend, Nia?"
+    ghen ""
+
+# game/scripts/lin_events.rpy:200
+translate uk_UA lin_teaparty_85025bcf:
+
+    # nia "I already told you, her name is Sylvia."
+    nia ""
+
+# game/scripts/lin_events.rpy:201
+translate uk_UA lin_teaparty_88f2e1dd:
+
+    # ghen "But, who is she? I've never seen a blonde elf with blue eyes before."
+    ghen ""
+
+# game/scripts/lin_events.rpy:202
+translate uk_UA lin_teaparty_8ef69711:
+
+    # jena "Don't be rude!"
+    jena ""
+
+# game/scripts/lin_events.rpy:203
+translate uk_UA lin_teaparty_84af4936:
+
+    # ghen "I'm just wonderin', maybe she likes to dress up like Nia?"
+    ghen ""
+
+# game/scripts/lin_events.rpy:205
+translate uk_UA lin_teaparty_f88c916c:
+
+    # syl "I'm no vigilante... and you can cut the small talk short, we won't know each other for long."
+    syl ""
+
+# game/scripts/lin_events.rpy:206
+translate uk_UA lin_teaparty_04b35d2b:
+
+    # ghen "I like to know who's sleeping under my roof."
+    ghen ""
+
+# game/scripts/lin_events.rpy:207
+translate uk_UA lin_teaparty_fef832a7:
+
+    # nia "You can trust her, Ghen. Just don't let her leave until it's safe."
+    nia ""
+
+# game/scripts/lin_events.rpy:208
+translate uk_UA lin_teaparty_fdd88993:
+
+    # syl "Excuse me, I'm no pet."
+    syl ""
+
+# game/scripts/lin_events.rpy:209
+translate uk_UA lin_teaparty_5f873982:
+
+    # c "Is something on your mind, Lin?"
+    c ""
+
+# game/scripts/lin_events.rpy:211
+translate uk_UA lin_teaparty_2671172a:
+
+    # l "*sigh*... I'll never be able to live a normal life again... and in the end all I did was make things worse for everyone... Archon is my fault."
+    l ""
+
+# game/scripts/lin_events.rpy:212
+translate uk_UA lin_teaparty_98d39e30:
+
+    # c "They've been working on that thing in secret for years, it's not your fault."
+    c ""
+
+# game/scripts/lin_events.rpy:213
+translate uk_UA lin_teaparty_898e7506:
+
+    # syl "If anything, you ruined the surprise. Like baking a cake and serving it before it's done."
+    syl ""
+
+# game/scripts/lin_events.rpy:214
+translate uk_UA lin_teaparty_f22e8e47:
+
+    # jena "Didn't you see how MAD Trenero was? Even the humans hate it!"
+    jena ""
+
+# game/scripts/lin_events.rpy:215
+translate uk_UA lin_teaparty_8eb6e0e0:
+
+    # l "Either way, nothing will ever be the same again... I put everyone in danger. If I had just stayed quiet..."
+    l ""
+
+# game/scripts/lin_events.rpy:217
+translate uk_UA lin_teaparty_2a389067:
+
+    # nia "ARE YOU KIDDING ME!? I'm tired of your bullshit, Lin!"
+    nia ""
+
+# game/scripts/lin_events.rpy:218
+translate uk_UA lin_teaparty_280f8fcd:
+
+    # l "Wh-What!?"
+    l ""
+
+# game/scripts/lin_events.rpy:219
+translate uk_UA lin_teaparty_dadf7ad6:
+
+    # syl "Honestly..."
+    syl ""
+
+# game/scripts/lin_events.rpy:220
+translate uk_UA lin_teaparty_aeac163c:
+
+    # nia "{i}'Nothing will ever be the same.'{/i} And you think that's a bad thing? Look around you!"
+    nia ""
+
+# game/scripts/lin_events.rpy:222
+translate uk_UA lin_teaparty_82822a0c_1:
+
+    # l "..."
+    l ""
+
+# game/scripts/lin_events.rpy:223
+translate uk_UA lin_teaparty_58d8c28c:
+
+    # nia "This is where it begins. {i}{b}The fourth revolution!{/b}{/i}"
+    nia ""
+
+# game/scripts/lin_events.rpy:224
+translate uk_UA lin_teaparty_068814c1:
+
+    # nia "MuteMaid shook the country! MuteMaid stuck fear in our masters! Where is she now??"
+    nia ""
+
+# game/scripts/lin_events.rpy:225
+translate uk_UA lin_teaparty_1ed4ba40:
+
+    # l "{i}I'm not a fighter...{/i}"
+    l ""
+
+# game/scripts/lin_events.rpy:226
+translate uk_UA lin_teaparty_1bf0c6ac:
+
+    # ghen "Don't worry about that, we just need to get you in front of a crowd."
+    ghen ""
+
+# game/scripts/lin_events.rpy:227
+translate uk_UA lin_teaparty_a48b29ae:
+
+    # jena "Yeah!"
+    jena ""
+
+# game/scripts/lin_events.rpy:228
+translate uk_UA lin_teaparty_cd770a8e:
+
+    # ghen "But another revolution? It won't work."
+    ghen ""
+
+# game/scripts/lin_events.rpy:229
+translate uk_UA lin_teaparty_c96659d2:
+
+    # syl "It's different this time. We have humans on our side..."
+    syl ""
+
+# game/scripts/lin_events.rpy:231
+translate uk_UA lin_teaparty_d19f855d_3:
+
+    # c "..."
+    c ""
+
+# game/scripts/lin_events.rpy:232
+translate uk_UA lin_teaparty_c3b28773:
+
+    # jena "Yes!"
+    jena ""
+
+# game/scripts/lin_events.rpy:233
+translate uk_UA lin_teaparty_e9f3834c:
+
+    # syl "Hmph."
+    syl ""
+
+# game/scripts/lin_events.rpy:234
+translate uk_UA lin_teaparty_bb40a03e:
+
+    # nia "In that case, we're talking about a civil war!"
+    nia ""
+
+# game/scripts/lin_events.rpy:236
+translate uk_UA lin_teaparty_501c602e:
+
+    # ghen "AHAHAHAHA! NOW THAT'S WHAT I'M TALKIN' ABOUT!" with ssshake
+    ghen "" with ssshake
+
+# game/scripts/lin_events.rpy:237
+translate uk_UA lin_teaparty_72209e36:
+
+    # l "Hold on..."
+    l ""
+
+# game/scripts/lin_events.rpy:239
+translate uk_UA lin_teaparty_aa19e2ea:
+
+    # jena "I've been working on something big! Just tell me when!"
+    jena ""
+
+# game/scripts/lin_events.rpy:240
+translate uk_UA lin_teaparty_e98316cb:
+
+    # nia "After Archon, after MuteMaid, change is inevitable. We just need to keep pushing!"
+    nia ""
+
+# game/scripts/lin_events.rpy:241
+translate uk_UA lin_teaparty_7a266399:
+
+    # syl "It's as they say, what doesn't bend will break."
+    syl ""
+
+# game/scripts/lin_events.rpy:242
+translate uk_UA lin_teaparty_90d5705b:
+
+    # ghen "I could stage a few prison breaks. A little chaos wouldn't hurt..."
+    ghen ""
+
+# game/scripts/lin_events.rpy:244
+translate uk_UA lin_teaparty_a6182b9b:
+
+    # l "No! We can't stoop to their level! We just need to show everyone who they really are!"
+    l ""
+
+# game/scripts/lin_events.rpy:245
+translate uk_UA lin_teaparty_a7902332:
+
+    # ghen "So she needs a bit of work..."
+    ghen ""
+
+# game/scripts/lin_events.rpy:246
+translate uk_UA lin_teaparty_65eb7d6d:
+
+    # jena "But they know who they are."
+    jena ""
+
+# game/scripts/lin_events.rpy:247
+translate uk_UA lin_teaparty_fa808fd6:
+
+    # l "Shining a light on their darkest secrets is the best and most harmless way of fixing things!"
+    l ""
+
+# game/scripts/lin_events.rpy:248
+translate uk_UA lin_teaparty_4c6b3ebf:
+
+    # nia "That's wishful thinking, Lin!"
+    nia ""
+
+# game/scripts/lin_events.rpy:249
+translate uk_UA lin_teaparty_0d01ab1f:
+
+    # jena "A little chaos won't hurt anyone but the ones in control."
+    jena ""
+
+# game/scripts/lin_events.rpy:250
+translate uk_UA lin_teaparty_f0bb1600:
+
+    # l "A little chaos will prove them right. We show them our best, not our worst!"
+    l ""
+
+# game/scripts/lin_events.rpy:251
+translate uk_UA lin_teaparty_d4b65193:
+
+    # l "A war!? I can't believe you're all serious! There are billions of lives in this country, you can't even comprehend the bloodshed!"
+    l ""
+
+# game/scripts/lin_events.rpy:253
+translate uk_UA lin_teaparty_eeba318a:
+
+    # l "The goal is to get as many people on our side as possible. With enough support there doesn't need to be any fighting!"
+    l ""
+
+# game/scripts/lin_events.rpy:254
+translate uk_UA lin_teaparty_432f52e0:
+
+    # nia "You want to vote for the revolution? Are you joking!?"
+    nia ""
+
+# game/scripts/lin_events.rpy:255
+translate uk_UA lin_teaparty_b51df64e:
+
+    # ghen "Kid, they don't care how much blood is shed. We're dying out as it is."
+    ghen ""
+
+# game/scripts/lin_events.rpy:256
+translate uk_UA lin_teaparty_b89cccbc:
+
+    # nia "We have to strike while the iron is hot!"
+    nia ""
+
+# game/scripts/lin_events.rpy:257
+translate uk_UA lin_teaparty_accd92dd:
+
+    # jena "I can take down those copbots! All I need is the right equipment!"
+    jena ""
+
+# game/scripts/lin_events.rpy:259
+translate uk_UA lin_teaparty_d58528d1:
+
+    # l "If we attack the police then the humans would never take our side. We don't attack order with chaos, we bring our own order!"
+    l ""
+
+# game/scripts/lin_events.rpy:260
+translate uk_UA lin_teaparty_d5278a3c:
+
+    # nia "They're the fucking military in disguise, you've seen them!"
+    nia ""
+
+# game/scripts/lin_events.rpy:261
+translate uk_UA lin_teaparty_bc49e18d:
+
+    # syl "{i}Hmhmhm. You really have grown, Lin.{/i}"
+    syl ""
+
+# game/scripts/lin_events.rpy:263
+translate uk_UA lin_teaparty_eb6605af:
+
+    # l "...?"
+    l ""
+
+# game/scripts/lin_events.rpy:264
+translate uk_UA lin_teaparty_10ff3533:
+
+    # syl "Everyone seems to be forgetting that Lin is the whole reason we're here right now."
+    syl ""
+
+# game/scripts/lin_events.rpy:265
+translate uk_UA lin_teaparty_502f9c84:
+
+    # syl "It wasn't your shooting, or your fighting, or your... whatever it is you do. Honestly, you're all sad pathetic excuses for revolutionaries! What progress have you made, exactly?"
+    syl ""
+
+# game/scripts/lin_events.rpy:266
+translate uk_UA lin_teaparty_8c74b675:
+
+    # nia "What!?"
+    nia ""
+
+# game/scripts/lin_events.rpy:267
+translate uk_UA lin_teaparty_be693b38:
+
+    # ghen "Nngh..."
+    ghen ""
+
+# game/scripts/lin_events.rpy:268
+translate uk_UA lin_teaparty_af13e8b0:
+
+    # syl "No, it was Lin! Her {i}diplomacy{/i}. She brought us together, humans and elves. I mean look around you, every race has finally come together. {i}{size=-5}Except the Drow I suppose...{/size}{/i} None of this works without Lin, it's the reason I follow her."
+    syl ""
+
+# game/scripts/lin_events.rpy:269
+translate uk_UA lin_teaparty_b835ed1f:
+
+    # l "It wasn't me alone."
+    l ""
+
+# game/scripts/lin_events.rpy:271
+translate uk_UA lin_teaparty_a6a6418e:
+
+    # syl "But you are the face of it, darling. There's no going back."
+    syl ""
+
+# game/scripts/lin_events.rpy:272
+translate uk_UA lin_teaparty_a0aa4805:
+
+    # syl "Everyone thinks you're a myth or legend now. Your very face is a weapon to prove their lies. Your words; bullets to penetrate their armor."
+    syl ""
+
+# game/scripts/lin_events.rpy:273
+translate uk_UA lin_teaparty_4a9920fa:
+
+    # syl "None of this works without HER."
+    syl ""
+
+# game/scripts/lin_events.rpy:274
+translate uk_UA lin_teaparty_ab0eb640:
+
+    # nia "...She has a point."
+    nia ""
+
+# game/scripts/lin_events.rpy:275
+translate uk_UA lin_teaparty_24cc229d:
+
+    # jena "So what should we do, Lin?"
+    jena ""
+
+# game/scripts/lin_events.rpy:277
+translate uk_UA lin_teaparty_82822a0c_2:
+
+    # l "..."
+    l ""
+
+# game/scripts/lin_events.rpy:278
+translate uk_UA lin_teaparty_c24d164b:
+
+    # l "...We need the other revolutionary leaders. Do any of you know them?"
+    l ""
+
+# game/scripts/lin_events.rpy:279
+translate uk_UA lin_teaparty_63dc5680:
+
+    # ghen "Most of us are dead, kid. And I'm the only one that everyone just thinks is dead."
+    ghen ""
+
+# game/scripts/lin_events.rpy:280
+translate uk_UA lin_teaparty_f7672bb1:
+
+    # jena "Banshee is still alive."
+    jena ""
+
+# game/scripts/lin_events.rpy:281
+translate uk_UA lin_teaparty_b97474a1:
+
+    # ghen "And in Sa'Gador, no one gets out of that hellhole."
+    ghen ""
+
+# game/scripts/lin_events.rpy:282
+translate uk_UA lin_teaparty_c5893a9b:
+
+    # jena "You were just bragging about staging a prison break!"
+    jena ""
+
+# game/scripts/lin_events.rpy:283
+translate uk_UA lin_teaparty_e9e4408a:
+
+    # ghen "I'm not {i}that{/i} dumb. Sa'Gador is Syl'anar's worst prison. No one escapes."
+    ghen ""
+
+# game/scripts/lin_events.rpy:285
+translate uk_UA lin_teaparty_4ff4c0f7:
+
+    # l "Anyone we can get will help our cause. Our people were much more divided back then, all we need to do is bring everyone together."
+    l ""
+
+# game/scripts/lin_events.rpy:286
+translate uk_UA lin_teaparty_c59d6f8b:
+
+    # syl "Hah, I knew grouping us together as {i}'elves'{/i} would bite them in the ass some day. Not bad for an Alarian..."
+    syl ""
+
+# game/scripts/lin_events.rpy:287
+translate uk_UA lin_teaparty_c46264ac:
+
+    # l "I know Iksa, the cheiftain of the owl clan, but she's set in her ways... I'm not sure she would support our cause."
+    l ""
+
+# game/scripts/lin_events.rpy:289
+translate uk_UA lin_teaparty_3dea302c:
+
+    # ghen "You're kidding, she's still alive!?"
+    ghen ""
+
+# game/scripts/lin_events.rpy:290
+translate uk_UA lin_teaparty_bd30310e:
+
+    # l "I've met her recently. She's more concerned over her own clan these days."
+    l ""
+
+# game/scripts/lin_events.rpy:291
+translate uk_UA lin_teaparty_62664769:
+
+    # ghen "She's the whole reason I'm in this mess. Practically raised me... maybe I could speak to her."
+    ghen ""
+
+# game/scripts/lin_events.rpy:292
+translate uk_UA lin_teaparty_d21664b3:
+
+    # l "That would be nice."
+    l ""
+
+# game/scripts/lin_events.rpy:294
+translate uk_UA lin_teaparty_0a36a912:
+
+    # jena "You know we never found the body of the pirate queen..."
+    jena ""
+
+# game/scripts/lin_events.rpy:295
+translate uk_UA lin_teaparty_50113d10:
+
+    # ghen "Cuz they tossed her ass into the ocean with a bag of bricks tied to her feet. She's dead, trust me."
+    ghen ""
+
+# game/scripts/lin_events.rpy:296
+translate uk_UA lin_teaparty_66300a6a:
+
+    # jena "Oh..."
+    jena ""
+
+# game/scripts/lin_events.rpy:297
+translate uk_UA lin_teaparty_62db154d:
+
+    # c "What should I do?"
+    c ""
+
+# game/scripts/lin_events.rpy:299
+translate uk_UA lin_teaparty_34907d06:
+
+    # ghen "Can you use a gun?"
+    ghen ""
+
+# game/scripts/lin_events.rpy:300
+translate uk_UA lin_teaparty_edc37764:
+
+    # jena "Or a computer??"
+    jena ""
+
+# game/scripts/lin_events.rpy:301
+translate uk_UA lin_teaparty_4bd11fda:
+
+    # nia "We can't put the only human we can trust in danger..."
+    nia ""
+
+# game/scripts/lin_events.rpy:302
+translate uk_UA lin_teaparty_be6f7cd1:
+
+    # nia "Cornwall would do anything to get to us, but he needs the law on his side to hurt [name]. He respects him in a way he could never with us."
+    nia ""
+
+# game/scripts/lin_events.rpy:303
+translate uk_UA lin_teaparty_b9d9c937:
+
+    # nia "What we need you to do is keep him off our ass, and protect us with law and order."
+    nia ""
+
+# game/scripts/lin_events.rpy:304
+translate uk_UA lin_teaparty_43e37ac1:
+
+    # ghen "Heh, won't be much of that soon enough."
+    ghen ""
+
+# game/scripts/lin_events.rpy:306
+translate uk_UA lin_teaparty_f10cc847:
+
+    # nia "This tea party is over... go home, [name]. You don't want to be missing when the cops arrive."
+    nia ""
+
+# game/scripts/lin_events.rpy:307
+translate uk_UA lin_teaparty_4e88d2db:
+
+    # jena "The cops?"
+    jena ""
+
+# game/scripts/lin_events.rpy:308
+translate uk_UA lin_teaparty_5803c718:
+
+    # c "Right, they're coming to pick up Lin. I should go."
+    c ""
+
+# game/scripts/lin_events.rpy:310
+translate uk_UA lin_teaparty_10c467e1:
+
+    # l "Nnh! I love you..."
+    l ""
+
+# game/scripts/lin_events.rpy:311
+translate uk_UA lin_teaparty_ee6ad940:
+
+    # c "I love you too, Lin."
+    c ""
+
+# game/scripts/lin_events.rpy:312
+translate uk_UA lin_teaparty_b8ce686d:
+
+    # l "When will I see you again?"
+    l ""
+
+# game/scripts/lin_events.rpy:313
+translate uk_UA lin_teaparty_f9da065e:
+
+    # c "Soon, I promise..."
+    c ""
+
+# game/scripts/lin_events.rpy:317
+translate uk_UA lin_teaparty_225c353e:
+
+    # c "I'll wait for the cops to come tonight."
+    c ""
+
+# game/scripts/lin_events.rpy:325
+translate uk_UA lin_teaparty_pt2_a6fe136b:
+
+    # e "Are you sure she'll be safe down there?"
+    e ""
+
+# game/scripts/lin_events.rpy:326
+translate uk_UA lin_teaparty_pt2_667f9f5b:
+
+    # c "Safer than here, I'm sure. She's with Sylvia and Nia."
+    c ""
+
+# game/scripts/lin_events.rpy:327
+translate uk_UA lin_teaparty_pt2_93891110:
+
+    # "*KNOCK KNOCK KNOCK*" with ssshake
+    "" with ssshake
+
+# game/scripts/lin_events.rpy:329
+translate uk_UA lin_teaparty_pt2_5f211752:
+
+    # polm "This is the police, we're coming in."
+    polm ""
+
+# game/scripts/lin_events.rpy:330
+translate uk_UA lin_teaparty_pt2_1961ca3a:
+
+    # c "{i}Shit.{/i}"
+    c ""
+
+# game/scripts/lin_events.rpy:332
+translate uk_UA lin_teaparty_pt2_3214a98a:
+
+    # polm "Good evening sir. We have a warrant for the arrest of a common elf known as Lin. As she is owned by this estate, we have probable cause to search the residence if you do not hand her over immediately."
+    polm ""
+
+# game/scripts/lin_events.rpy:333
+translate uk_UA lin_teaparty_pt2_cfa4579b:
+
+    # c "She's not here. She ran away a long time ago."
+    c ""
+
+# game/scripts/lin_events.rpy:334
+translate uk_UA lin_teaparty_pt2_4ed0c3e1:
+
+    # polm "Is that so? I find that hard to believe considering there were no reports made."
+    polm ""
+
+# game/scripts/lin_events.rpy:335
+translate uk_UA lin_teaparty_pt2_099cac27:
+
+    # c "She's not mine. What do I care? I bought an android to replace her. This place has run better ever since."
+    c ""
+
+# game/scripts/lin_events.rpy:336
+translate uk_UA lin_teaparty_pt2_6c5a9028:
+
+    # polm2 "A shitty hotel like this is able to afford an android? Business can't be that good. Barely any cars in the parking lot."
+    polm2 ""
+
+# game/scripts/lin_events.rpy:337
+translate uk_UA lin_teaparty_pt2_15784b15:
+
+    # c "I could show you our main attraction. People come from all over the region for our hot springs."
+    c ""
+
+# game/scripts/lin_events.rpy:338
+translate uk_UA lin_teaparty_pt2_562ddaf3:
+
+    # polm "That won't be necessary."
+    polm ""
+
+# game/scripts/lin_events.rpy:340
+translate uk_UA lin_teaparty_pt2_7abd3414:
+
+    # polm2 "We'll be searching the premises now."
+    polm2 ""
+
+# game/scripts/lin_events.rpy:342
+translate uk_UA lin_teaparty_pt2_b767e5a5:
+
+    # c "Go ahead, the public spaces are open to you, but our residence's rooms are not."
+    c ""
+
+# game/scripts/lin_events.rpy:343
+translate uk_UA lin_teaparty_pt2_78355e49:
+
+    # polm "Sir, we have a warrant."
+    polm ""
+
+# game/scripts/lin_events.rpy:344
+translate uk_UA lin_teaparty_pt2_6abfbc97:
+
+    # c "For me, not my guests. If you think I don't know how the law works, you're mistaken."
+    c ""
+
+# game/scripts/lin_events.rpy:345
+translate uk_UA lin_teaparty_pt2_5bdc10f4:
+
+    # polm "The warrant extends to the estate."
+    polm ""
+
+# game/scripts/lin_events.rpy:346
+translate uk_UA lin_teaparty_pt2_68f3503f:
+
+    # c "Which is my property. You may search it, but only mine."
+    c ""
+
+# game/scripts/lin_events.rpy:348
+translate uk_UA lin_teaparty_pt2_8c9d33cd:
+
+    # polm2 "I'll check the servant's quarters out back."
+    polm2 ""
+
+# game/scripts/lin_events.rpy:349
+translate uk_UA lin_teaparty_pt2_db16c74b:
+
+    # polm "Sure."
+    polm ""
+
+# game/scripts/lin_events.rpy:350
+translate uk_UA lin_teaparty_pt2_d7447c41:
+
+    # c "{i}(Shit.){/i}"
+    c ""
+
+# game/scripts/lin_events.rpy:352
+translate uk_UA lin_teaparty_pt2_4f5a4c99:
+
+    # polm "Move aside and stay out of the way."
+    polm ""
+
+# game/scripts/lin_events.rpy:353
+translate uk_UA lin_teaparty_pt2_2a39c266:
+
+    # e "There's really no need for this, officer."
+    e ""
+
+# game/scripts/lin_events.rpy:354
+translate uk_UA lin_teaparty_pt2_0ec4e9c1:
+
+    # polm "We're under direct orders."
+    polm ""
+
+# game/scripts/lin_events.rpy:355
+translate uk_UA lin_teaparty_pt2_512f76b9:
+
+    # c "Whose?"
+    c ""
+
+# game/scripts/lin_events.rpy:356
+translate uk_UA lin_teaparty_pt2_7a5c2f86:
+
+    # polm "Minister Cornwall tipped us off."
+    polm ""
+
+# game/scripts/lin_events.rpy:357
+translate uk_UA lin_teaparty_pt2_2f2803ed:
+
+    # c "He's not your boss."
+    c ""
+
+# game/scripts/lin_events.rpy:358
+translate uk_UA lin_teaparty_pt2_81a7e387:
+
+    # polm "Anyone can submit a report. Come with me, sir."
+    polm ""
+
+# game/scripts/lin_events.rpy:360
+translate uk_UA lin_teaparty_pt2_6302be6a:
+
+    # polm "Your android work here?"
+    polm ""
+
+# game/scripts/lin_events.rpy:361
+translate uk_UA lin_teaparty_pt2_56d0beb3:
+
+    # c "That's right."
+    c ""
+
+# game/scripts/lin_events.rpy:362
+translate uk_UA lin_teaparty_pt2_b33503e6:
+
+    # polm "Very clean, impressive. Now where was Lin staying?"
+    polm ""
+
+# game/scripts/lin_events.rpy:363
+translate uk_UA lin_teaparty_pt2_02651b50:
+
+    # c "In the servant's quarters your friend is checking."
+    c ""
+
+# game/scripts/lin_events.rpy:364
+translate uk_UA lin_teaparty_pt2_52601bda:
+
+    # polm "Mhm. Come with me."
+    polm ""
+
+# game/scripts/lin_events.rpy:366
+translate uk_UA lin_teaparty_pt2_70b0e880:
+
+    # polm "Who rents these?"
+    polm ""
+
+# game/scripts/lin_events.rpy:367
+translate uk_UA lin_teaparty_pt2_c265d51f:
+
+    # c "Private citizens."
+    c ""
+
+# game/scripts/lin_events.rpy:368
+translate uk_UA lin_teaparty_pt2_e347ca1d:
+
+    # polm "Mhm..."
+    polm ""
+
+# game/scripts/lin_events.rpy:370
+translate uk_UA lin_teaparty_pt2_e82cf629:
+
+    # c "Satisfied?"
+    c ""
+
+# game/scripts/lin_events.rpy:371
+translate uk_UA lin_teaparty_pt2_15e090d6:
+
+    # polm "Mmmh... You have a basement and a bar, correct?"
+    polm ""
+
+# game/scripts/lin_events.rpy:372
+translate uk_UA lin_teaparty_pt2_7586dd4f:
+
+    # polm2 "(Over the radio)\nUh, sir! We got a problem over here. I'm gonna need you out here ASAP! ASAP!"
+    polm2 ""
+
+# game/scripts/lin_events.rpy:374
+translate uk_UA lin_teaparty_pt2_e87e6151:
+
+    # polm "Roger that!"
+    polm ""
+
+# game/scripts/lin_events.rpy:376
+translate uk_UA lin_teaparty_pt2_e21baf3b:
+
+    # polm "Sounds like he found your Lin... Come with me, and do not leave my sight."
+    polm ""
+
+# game/scripts/lin_events.rpy:377
+translate uk_UA lin_teaparty_pt2_4b489c83:
+
+    # c "Okay..."
+    c ""
+
+# game/scripts/lin_events.rpy:379
+translate uk_UA lin_teaparty_pt2_52a53b16:
+
+    # "*BANG*!" with ssshake
+    "" with ssshake
+
+# game/scripts/lin_events.rpy:380
+translate uk_UA lin_teaparty_pt2_5e01615d:
+
+    # "*BANG*! *BANG*!" with ssshake
+    "" with ssshake
+
+# game/scripts/lin_events.rpy:381
+translate uk_UA lin_teaparty_pt2_1fb985e1:
+
+    # c "What the fuck?"
+    c ""
+
+# game/scripts/lin_events.rpy:382
+translate uk_UA lin_teaparty_pt2_d6b15402:
+
+    # polm "STAY BEHIND ME!"
+    polm ""
+
+# game/scripts/lin_events.rpy:384
+translate uk_UA lin_teaparty_pt2_19657c8d:
+
+    # polm "Hey, HEY! Can you hear me, officer? OFFICER!"
+    polm ""
+
+# game/scripts/lin_events.rpy:385
+translate uk_UA lin_teaparty_pt2_82a968c2:
+
+    # polm "{i}Who the hell has a gun out here?{/i}"
+    polm ""
+
+# game/scripts/lin_events.rpy:386
+translate uk_UA lin_teaparty_pt2_98234383:
+
+    # c "{i}No one.{/i}"
+    c ""
+
+# game/scripts/lin_events.rpy:387
+translate uk_UA lin_teaparty_pt2_38145220:
+
+    # polm "{i}If you're lying to me...{/i}"
+    polm ""
+
+# game/scripts/lin_events.rpy:388
+translate uk_UA lin_teaparty_pt2_87465dc2:
+
+    # c "{i}I'm not!{/i}"
+    c ""
+
+# game/scripts/lin_events.rpy:390
+translate uk_UA lin_teaparty_pt2_02b89ed6:
+
+    # polm "{i}Lin is considered a dangerous criminal, she may be armed. Stay here!{/i}"
+    polm ""
+
+# game/scripts/lin_events.rpy:392
+translate uk_UA lin_teaparty_pt2_1fff03e4:
+
+    # polm "LIN! THERE IS A WARRANT FOR YOUR ARREST! PUT THE GUN DOWN OR I WILL SHOOT!" with ssshake
+    polm "" with ssshake
+
+# game/scripts/lin_events.rpy:394
+translate uk_UA lin_teaparty_pt2_b2582735:
+
+    # polm "Wait- what are you doing here? Are you okay?"
+    polm ""
+
+# game/scripts/lin_events.rpy:396
+translate uk_UA lin_teaparty_pt2_4a0842fa:
+
+    # polm "WAIT! WAIT! PUT THE-!"
+    polm ""
+
+# game/scripts/lin_events.rpy:400
+translate uk_UA lin_teaparty_pt2_ae04b209:
+
+    # polm "Call... backup..."
+    polm ""
+
+# game/scripts/lin_events.rpy:403
+translate uk_UA lin_teaparty_pt2_e9f21efb:
+
+    # c "...Lin?"
+    c ""
+
+# game/scripts/lin_events.rpy:405
+translate uk_UA lin_teaparty_pt2_bda3ff80:
+
+    # c "...!"
+    c ""
+
+# game/scripts/lin_events.rpy:407
+translate uk_UA lin_teaparty_pt2_46faf40a:
+
+    # c "Jia...!"
+    c ""
+
+# game/scripts/lin_events.rpy:409
+translate uk_UA lin_teaparty_pt2_fb21db05:
+
+    # jia "Where... is Lin?"
+    jia ""
+
+# game/scripts/lin_events.rpy:410
+translate uk_UA lin_teaparty_pt2_bda3ff80_1:
+
+    # c "...!"
+    c ""
+
+# game/scripts/lin_events.rpy:413
+translate uk_UA lin_teaparty_pt2_ff640c58:
+
+    # news24 "BREAKING NEWS: The elf formerly known as Queen Jia has just shot and killed six men and women in a psychotic episode tonight during her famous {i}'Elf in the Wind'{/i} play in Caliber city."
+    news24 ""
+
+# game/scripts/lin_events.rpy:415
+translate uk_UA lin_teaparty_pt2_af270cfb:
+
+    # news24 "She has been labeled a domestic terrorist and is currently at large. Her rank has been stripped, and a warrant has been issued for her capture. She is wanted alive, with a bounty of $50,000."
+    news24 ""
+
+# game/scripts/lin_events.rpy:416
+translate uk_UA lin_teaparty_pt2_5aaa8624:
+
+    # ghen "Well god damn! That's high!"
+    ghen ""
+
+# game/scripts/lin_events.rpy:417
+translate uk_UA lin_teaparty_pt2_18f8eceb:
+
+    # nia "Not bad for the puppet queen. But... wait, those were innocent people?"
+    nia ""
+
+# game/scripts/lin_events.rpy:418
+translate uk_UA lin_teaparty_pt2_ab81f184:
+
+    # l "Jia... what happened to you?"
+    l ""
+
+# game/scripts/lin_events.rpy:421
+translate uk_UA lin_teaparty_pt2_e147a60d:
+
+    # jia "Lin..."
+    jia ""
+
+# game/scripts/lin_events.rpy:422
+translate uk_UA lin_teaparty_pt2_3ff2a3a0:
+
+    # man "{i}AAAAAH!{/i}"
+    man ""
+
+# game/scripts/lin_events.rpy:423
+translate uk_UA lin_teaparty_pt2_7afa86af:
+
+    # woman "{i}Someone call the police!!{/i}"
+    woman ""
+
+# game/scripts/lin_events.rpy:426
+translate uk_UA lin_teaparty_pt2_0e419b20:
+
+    # jia "It's your fault, Lin."
+    jia ""
+
+# game/scripts/lin_events.rpy:427
+translate uk_UA lin_teaparty_pt2_3058d256:
+
+    # man "{i}Please, please...!{/i}"
+    man ""
+
+# game/scripts/lin_events.rpy:432
+translate uk_UA lin_teaparty_pt2_e2c5312f:
+
+    # woman "{i}AH AAAGH!!!{/i}"
+    woman ""
+
+# game/scripts/lin_events.rpy:433
+translate uk_UA lin_teaparty_pt2_50cbde31:
+
+    # man "{i}GET THE FUCK OUT OF HERE!{/i}"
+    man ""
+
+# game/scripts/lin_events.rpy:436
+translate uk_UA lin_teaparty_pt2_3c8b3b8c:
+
+    # jia "This is all your fault..."
+    jia ""
+
+# game/scripts/lin_events.rpy:447
+translate uk_UA lin_teaparty_pt2_fcef2c25:
+
+    # r "v0.18: Because Harem Hotel is still in development, and the next event has not been made yet, you will be returned to the hotel as if this did not happen so you may continue to interact with Lin."
+    r ""
+
+# game/scripts/lin_events.rpy:565
+translate uk_UA lin_protest_ea75501a:
+
+    # van "Well, we're kind of in the middle of something right now... but what is it?"
+    van ""
+
+# game/scripts/lin_events.rpy:1634
+translate uk_UA lin_protest_c203a735:
+
+    # nia "LET'S CHANGE THE FUCKING WORLD!"
+    nia ""
+
+# game/scripts/lin_events.rpy:2677
+translate uk_UA linroom_bbb53a9e:
+
+    # l "Hi [linoname]! If you're looking for Jin, she went to the bar."
+    l ""
+
+# game/scripts/lin_events.rpy:2697
+translate uk_UA linroom_bbb53a9e_1:
+
+    # l "Hi [linoname]! If you're looking for Jin, she went to the bar."
+    l ""
+
+# game/scripts/lin_events.rpy:2784
+translate uk_UA linroom_96d15020_6:
+
+    # l "Hello [linoname]. I'm getting very sleepy... do you need help with anything?"
+    l ""
+
+# game/scripts/lin_events.rpy:2805
+translate uk_UA linroom_96d15020_7:
+
+    # l "Hello [linoname]. I'm getting very sleepy... do you need help with anything?"
+    l ""
+
+# game/scripts/lin_events.rpy:2900
+translate uk_UA jinroomchoices_0c48e535:
+
+    # j "Much better these days!"
+    j ""
+
+# game/scripts/lin_events.rpy:2901
+translate uk_UA jinroomchoices_7a21b030:
+
+    # c "I'm glad you got through the worst of it, Jin."
+    c ""
+
+# game/scripts/lin_events.rpy:2902
+translate uk_UA jinroomchoices_53e0a8a9:
+
+    # j "Me too."
+    j ""
+
+# game/scripts/lin_events.rpy:2905
+translate uk_UA jinroomchoices_aea191f1:
+
+    # j "Doing better every day."
+    j ""
+
+# game/scripts/lin_events.rpy:2906
+translate uk_UA jinroomchoices_07623953:
+
+    # c "That's great to hear, keep it up."
+    c ""
+
+# game/scripts/lin_events.rpy:2909
+translate uk_UA jinroomchoices_e704ef3e:
+
+    # j "It's been tough..."
+    j ""
+
+# game/scripts/lin_events.rpy:2910
+translate uk_UA jinroomchoices_5b488020:
+
+    # c "You'll get through it, Jin. Just stay strong."
+    c ""
+
+# game/scripts/lin_events.rpy:2917
+translate uk_UA jinroomchoices_0081346f:
+
+    # j "I'm okay..."
+    j ""
+
+# game/scripts/lin_events.rpy:2921
+translate uk_UA jinroomchoices_f0d49d1a:
+
+    # j "Yes! Fuck me, [linoname]!"
+    j ""
+
+# game/scripts/lin_events.rpy:2922
+translate uk_UA jinroomchoices_c0c10878:
+
+    # l "I'm... gonna go."
+    l ""
+
+# game/scripts/lin_events.rpy:2923
+translate uk_UA jinroomchoices_42a4821a:
+
+    # j "Suit yourself, Lin..."
+    j ""
+
+# game/scripts/lin_events.rpy:3065
+translate uk_UA linroomchoices_325644da:
+
+    # l "I'm conflicted... I don't know what to think..."
+    l ""
+
+# game/scripts/lin_events.rpy:3066
+translate uk_UA linroomchoices_93f7144e:
+
+    # l "I just hope enough people heard what we had to say."
+    l ""
+
+# game/scripts/lin_events.rpy:3069
+translate uk_UA linroomchoices_47950a3d:
+
+    # l "I just hope you love me, [name]... as much as I love you."
+    l ""
+
+# game/scripts/lin_events.rpy:3070
+translate uk_UA linroomchoices_8f399c7c:
+
+    # c "At least twice as much."
+    c ""
+
+# game/scripts/lin_events.rpy:3073
+translate uk_UA linroomchoices_709f0c84:
+
+    # l "Elves will go extinct if nothing is done... something has to be done."
+    l ""
+
+# game/scripts/lin_events.rpy:3076
+translate uk_UA linroomchoices_ebe00d52:
+
+    # l "Thank you for the good time, [linoname]~"
+    l ""
+
+# game/scripts/lin_events.rpy:3079
+translate uk_UA linroomchoices_72df6f11:
+
+    # l "Hi [name]... I feel so bad for Jia. But what could we do?"
+    l ""
+
+# game/scripts/lin_events.rpy:3080
+translate uk_UA linroomchoices_57525b43:
+
+    # c "It would be really hard to hide the queen of elves..."
+    c ""
+
+# game/scripts/lin_events.rpy:3081
+translate uk_UA linroomchoices_8a47f404:
+
+    # l "Exactly... I hope she's okay..."
+    l ""
+
+# game/scripts/lin_events.rpy:3084
+translate uk_UA linroomchoices_2b060d1c:
+
+    # l "Thank you so much for taking me to Syl'tin, [linoname]! I really enjoyed spending quality time with you~"
+    l ""
+
+# game/scripts/lin_events.rpy:3087
+translate uk_UA linroomchoices_d722d332:
+
+    # l "I hope the Owl Clan will be okay..."
+    l ""
+
+# game/scripts/lin_events.rpy:3090
+translate uk_UA linroomchoices_05c3937f:
+
+    # l "The Owl Clan is defenseless... they need some way to fight back."
+    l ""
+
+# game/scripts/lin_events.rpy:3093
+translate uk_UA linroomchoices_d63563a7:
+
+    # l "I'm great! Thank you for teaching me how to drive, [linoname]!"
+    l ""
+
+# game/scripts/lin_events.rpy:3096
+translate uk_UA linroomchoices_7606fa40:
+
+    # l "*sigh*... I'm fine."
+    l ""
+
+# game/scripts/lin_events.rpy:3099
+translate uk_UA linroomchoices_1afb0750:
+
+    # l "I'm glad to be back home and safe... I have a lot to think about."
+    l ""
+
+# game/scripts/lin_events.rpy:3102
+translate uk_UA linroomchoices_c847b284:
+
+    # l "Syl'iath... an island of elves. I hope they're as nice as they sound."
+    l ""
+
+# game/scripts/lin_events.rpy:3105
+translate uk_UA linroomchoices_f50310da:
+
+    # l "Never meet your heroes, [linoname]..."
+    l ""
+
+# game/scripts/lin_events.rpy:3108
+translate uk_UA linroomchoices_f1655676:
+
+    # l "I like [botname]... she's really nice."
+    l ""
+
+# game/scripts/lin_events.rpy:3109
+translate uk_UA linroomchoices_ec1e059e:
+
+    # l "And you too of course~"
+    l ""
+
+# game/scripts/lin_events.rpy:3112
+translate uk_UA linroomchoices_cb4016a3:
+
+    # l "Heheh, I'm okay~ just happy we're together."
+    l ""
+
+# game/scripts/lin_events.rpy:3115
+translate uk_UA linroomchoices_7cd70ef5:
+
+    # l "Just relieved you're okay..."
+    l ""
+
+# game/scripts/lin_events.rpy:3118
+translate uk_UA linroomchoices_400b6e78:
+
+    # l "I'm okay~ glad to be yours."
+    l ""
+
+# game/scripts/lin_events.rpy:3121
+translate uk_UA linroomchoices_968ae6fb:
+
+    # l "Just happy to be here."
+    l ""
+
+# game/scripts/lin_events.rpy:3124
+translate uk_UA linroomchoices_bc60bbb7:
+
+    # l "Thank you for taking me to the city, [linoname]~ I love shopping with you!"
+    l ""
+
+# game/scripts/lin_events.rpy:3127
+translate uk_UA linroomchoices_310d33ff:
+
+    # l "I think this is my favorite place in the whole world. I think I'm meant to be here!"
+    l ""
+
+# game/scripts/lin_events.rpy:3130
+translate uk_UA linroomchoices_480edc4a:
+
+    # l "I'm just glad I have you in my life."
+    l ""
+
+# game/scripts/lin_events.rpy:3133
+translate uk_UA linroomchoices_81d9400f:
+
+    # l "That blonde elf... she's weird. I wonder where she's really from?"
+    l ""
+
+# game/scripts/lin_events.rpy:3136
+translate uk_UA linroomchoices_9927f940:
+
+    # l "I love sleeping with you, [linoname]~"
+    l ""
+
+# game/scripts/lin_events.rpy:3139
+translate uk_UA linroomchoices_d398b05c:
+
+    # l "I like the dungeon..."
+    l ""
+
+# game/scripts/lin_events.rpy:3142
+translate uk_UA linroomchoices_cc31bb28:
+
+    # l "I love going to the beach with you, [linoname]!"
+    l ""
+
+# game/scripts/lin_events.rpy:3145
+translate uk_UA linroomchoices_02af41e4:
+
+    # l "Jinny~ I'm so happy I got to see my sister again!"
+    l ""
+
+# game/scripts/lin_events.rpy:3148
+translate uk_UA linroomchoices_e557ce28:
+
+    # l "The internet is so useful! Elves aren't usually allowed to use the internet, so I doubt I could find any friends..."
+    l ""
+
+# game/scripts/lin_events.rpy:3149
+translate uk_UA linroomchoices_ca320f50:
+
+    # l "At least I have cat videos!"
+    l ""
+
+# game/scripts/lin_events.rpy:3152
+translate uk_UA linroomchoices_76e868e7:
+
+    # l "Thank you for taking my flower, [linoname]~"
+    l ""
+
+# game/scripts/lin_events.rpy:3155
+translate uk_UA linroomchoices_d74aa568:
+
+    # l "I'm okay~"
+    l ""
+
+# game/scripts/lin_events.rpy:3158
+translate uk_UA linroomchoices_1bbf61bb:
+
+    # l "I'm sorry for spilling coffee on you, [linoname]. It won't happen again!"
+    l ""
+
+# game/scripts/lin_events.rpy:3159
+translate uk_UA linroomchoices_5b720074:
+
+    # c "It's okay, it's not a big deal."
+    c ""
+
+# game/scripts/lin_events.rpy:3160
+translate uk_UA linroomchoices_48b80ebe:
+
+    # l "I'm still sorry..."
+    l ""
+
+# game/scripts/lin_events.rpy:3174
+translate uk_UA linroomchoices_dc6cbcbb:
+
+    # l "I'm happy!"
+    l ""
+
+# game/scripts/lin_events.rpy:8042
+translate uk_UA lin_boatisland_be8d9779:
+
+    # nia "It'd be better if you didn't..."
+    nia ""
+
+# game/scripts/lin_events.rpy:10375
+translate uk_UA linbotdate_d0c448f1:
+
+    # l "Not so much. But an Elf's diet isn't complete without a dose of Senti!"
+    l ""
+
+# game/scripts/lin_events.rpy:10378
+translate uk_UA linbotdate_4348e77c:
+
+    # l "It's a flower! It's shaped like a star and it tastes so sweet, and it completely relaxes your mind and body! You've never heard of it?"
+    l ""
+
+# game/scripts/lin_events.rpy:10381
+translate uk_UA linbotdate_ea58f952:
+
+    # l "*gasp*! It's not a drug! Besides, I haven't even eaten any in over a hundred years!"
+    l ""
+
+# game/scripts/lin_events.rpy:10384
+translate uk_UA linbotdate_22e13f72:
+
+    # bot "No, no, I mean like hot stuff! Remember? You gave me some a while ago. Chili peppers are my favorite~ But I really want to try more!"
+    bot ""
+
+# game/scripts/lin_events.rpy:10475
+translate uk_UA linbotdate_59c8bbc0:
+
+    # bot "Spicy pizza please! Just make it really spicy!"
+    bot ""
+
+# game/scripts/lin_events.rpy:10565
+translate uk_UA linbotdate_7a110d33:
+
+    # l "We used to have a flower called Senti that made everything taste sweet..."
+    l ""
+
+# game/scripts/lin_events.rpy:10568
+translate uk_UA linbotdate_93ae5582:
+
+    # l "It's just very rare these days..."
+    l ""
+
+# game/scripts/lin_events.rpy:10713
+translate uk_UA linbotdate_7a110d33_1:
+
+    # l "We used to have a flower called Senti that made everything taste sweet..."
+    l ""
+
+# game/scripts/lin_events.rpy:10716
+translate uk_UA linbotdate_93ae5582_1:
+
+    # l "It's just very rare these days..."
+    l ""
+
+# game/scripts/lin_events.rpy:11117
+translate uk_UA cornwall_454e86b7:
+
+    # corn "Your goal, as Masters, is to cum as fast as possible."
+    corn ""
+
+translate uk_UA strings:
+
+    # game/scripts/lin_events.rpy:438
+    old "{size=+50}Part 1: END{/size}"
+    new ""
+
+    # game/scripts/lin_events.rpy:440
+    old "{size=+50}\nPart 1: END\nTo be continued...{/size}"
+    new ""
+

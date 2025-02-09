@@ -1853,7 +1853,7 @@ translate uk_UA lobby2_964cbc37:
 
     # k "Looks like I got you a little wet..."
     k "Схоже, що я заставила тебе потекти..."
-	# k "Схоже, що я тебе трохи намочила..."
+    # k "Схоже, що я тебе трохи намочила..."
 
 # game/script.rpy:2060
 translate uk_UA lobby2_7bdea6a5:
@@ -2088,7 +2088,7 @@ translate uk_UA lobby2_964cbc37_1:
 
     # k "Looks like I got you a little wet..."
     k "Схоже, що я заставила тебе потекти..."
-	# k "Схоже, що я тебе трохи намочила..."
+    # k "Схоже, що я тебе трохи намочила..."
 
 # game/script.rpy:2175
 translate uk_UA lobby2_7bdea6a5_1:
@@ -3510,7 +3510,7 @@ translate uk_UA ellen_moneytalk_fe2dd7a5:
 translate uk_UA ellen_moneytalk_9ee7b317:
 
     # e "Ah, *ahem*... Customers will pay more for skimpier outfits and multiple people. This way you could see each outfit you buy as an investment! So long as you're close enough for them to accept..."
-    e "А, *кхм*"... Клієнти будуть платити більще, якщо одяг буде оголювати більше і кількість учасників більша. Тому кожний одяг, який ви придбаєте, можна розглядати як інвестицію! У всякому випадку, якщо ви в достатньо теплих відносинах з дівчатами, щоб вони прийняли ваш подарунок...
+    e "А, *кхм*... Клієнти будуть платити більще, якщо одяг буде оголювати більше і кількість учасників більша. Тому кожний одяг, який ви придбаєте, можна розглядати як інвестицію! У всякому випадку, якщо ви в достатньо теплих відносинах з дівчатами, щоб вони прийняли ваш подарунок..."
 
 # game/script.rpy:3383
 translate uk_UA ellen_moneytalk_6e6035a2:
@@ -112560,5 +112560,3173 @@ translate uk_UA strings:
 
     # game/script.rpy:38743
     old "End Vanessa's content"
+    new ""
+
+# TODO: Translation updated at 2025-02-09 00:44
+
+# game/script.rpy:4432
+translate uk_UA billad_31954b36:
+
+    # e "We're already working on an upgrade."
+    e ""
+
+# game/script.rpy:4436
+translate uk_UA billad_a3ecfcf6:
+
+    # c "Hey, was that fenced in area with all that junk in it planned to be anything?"
+    c ""
+
+# game/script.rpy:4437
+translate uk_UA billad_756ace1f:
+
+    # e "Oh yes! Your grandfather intended to fence in an area for a pool, until he realized the main attraction would be the hot springs."
+    e ""
+
+# game/script.rpy:4438
+translate uk_UA billad_3adeaa1f:
+
+    # c "I think it's time to turn that into something useful. What do we need?"
+    c ""
+
+# game/script.rpy:4439
+translate uk_UA billad_c3998b4b:
+
+    # e "Well it would certainly make things easier if we could grow our own food. It would save the hotel money, which means more profit in our pockets."
+    e ""
+
+# game/script.rpy:4440
+translate uk_UA billad_ffc43fe3:
+
+    # e "Though you would have to maintain it yourself, until you find someone able to maintain it for you."
+    e ""
+
+# game/script.rpy:4441
+translate uk_UA billad_4ffb785f:
+
+    # c "It's full of junk though, it needs to be cleared."
+    c ""
+
+# game/script.rpy:4442
+translate uk_UA billad_47aa27ea:
+
+    # e "Absolutely. Would you like me to hire a cleanup crew?"
+    e ""
+
+# game/script.rpy:4466
+translate uk_UA billad_7fd2127c:
+
+    # e "[result[1]]"
+    e ""
+
+# game/script.rpy:4472
+translate uk_UA billad_f1c4fba5:
+
+    # c "Do you think we can fit a greenhouse in the garden? It would be great if we could grow anything all year."
+    c ""
+
+# game/script.rpy:4473
+translate uk_UA billad_9291871e:
+
+    # e "Absolutely. We should plan for water storage and a composter as well! A composter will provide free fertilizer so you can save money."
+    e ""
+
+# game/script.rpy:4474
+translate uk_UA billad_c17a0544:
+
+    # c "That's perfect, good idea."
+    c ""
+
+# game/script.rpy:4476
+translate uk_UA billad_ac7a22c9:
+
+    # e "Would you like me to hire someone to take care of that?" nointeract
+    e "" nointeract
+
+# game/script.rpy:4495
+translate uk_UA billad_7fd2127c_1:
+
+    # e "[result[1]]"
+    e ""
+
+# game/script.rpy:4501
+translate uk_UA billad_2ba4988a:
+
+    # c "We have some spare barrels from the cleanup, do you think we could recycle them into garden beds?"
+    c ""
+
+# game/script.rpy:4502
+translate uk_UA billad_9cfa9ad2:
+
+    # e "That's a wonderful idea. Garden beds would improve the health of the plant and even increase yield. Better garden beds will even allow you to grow more types of crops!"
+    e ""
+
+# game/script.rpy:4504
+translate uk_UA billad_30a534e9:
+
+    # e "Would you like me to hire someone to take care of that? Do keep in mind that any growing crops will be destroyed in process." nointeract
+    e "" nointeract
+
+# game/script.rpy:4527
+translate uk_UA billad_7fd2127c_2:
+
+    # e "[result[1]]"
+    e ""
+
+# game/script.rpy:4533
+translate uk_UA billad_dca941de:
+
+    # c "We have some more spare materials from the cleanup. We should use them to make better beds."
+    c ""
+
+# game/script.rpy:4534
+translate uk_UA billad_6f576c63:
+
+    # e "Sure, I think we can do that. Recycling materials will save a lot of money, and I believe we have plenty of wood in storage."
+    e ""
+
+# game/script.rpy:4536
+translate uk_UA billad_ac7a22c9_1:
+
+    # e "Would you like me to hire someone to take care of that?" nointeract
+    e "" nointeract
+
+# game/script.rpy:4559
+translate uk_UA billad_7fd2127c_3:
+
+    # e "[result[1]]"
+    e ""
+
+# game/script.rpy:4570
+translate uk_UA billad_adad83df:
+
+    # e "Before it was dilapidated, I loved hanging out in there. So many interesting people would come by!"
+    e ""
+
+# game/script.rpy:6939
+translate uk_UA floor1menu_f14f1a73:
+
+    # c "Lin isn't here... I think I saw her heading to The Sanctuary."
+    c ""
+
+# game/script.rpy:8664
+translate uk_UA ash_door_menu_3671e3d9:
+
+    # c "I should check the kitchen when Lin is working."
+    c ""
+
+# game/script.rpy:8668
+translate uk_UA ash_door_menu_70b7843b:
+
+    # c "She's not here..."
+    c ""
+
+# game/script.rpy:9053
+translate uk_UA explore_park2_88c4f7ba:
+
+    # c "Oh, that's new."
+    c ""
+
+# game/script.rpy:9055
+translate uk_UA explore_park2_ec137da5:
+
+    # gardener "Here you go, sir, come again!"
+    gardener ""
+
+# game/script.rpy:9056
+translate uk_UA explore_park2_e9d04ef6:
+
+    # q "Thank you, thank you."
+    q ""
+
+# game/script.rpy:9058
+translate uk_UA explore_park2_385ec141:
+
+    # gardener "Oh, hi! Long time no see, ghost-hunter."
+    gardener ""
+
+# game/script.rpy:9059
+translate uk_UA explore_park2_32966c66:
+
+    # c "Did you open up a shop?"
+    c ""
+
+# game/script.rpy:9061
+translate uk_UA explore_park2_9f5d7b03:
+
+    # gardener "I sure did! I'm here most days, but not all days."
+    gardener ""
+
+# game/script.rpy:9062
+translate uk_UA explore_park2_2d9e61ec:
+
+    # gardener "But first, I think I owe you a little somethin' for chasing that ghost out! Haven't had a single report since I put you on the case."
+    gardener ""
+
+# game/script.rpy:9064
+translate uk_UA explore_park2_0723b7a8:
+
+    # "You gained $15!"
+    ""
+
+# game/script.rpy:9065
+translate uk_UA explore_park2_bd805a76:
+
+    # c "No problem."
+    c ""
+
+# game/script.rpy:9067
+translate uk_UA explore_park2_83f9d42f:
+
+    # mary "My name is Mary by the way. Are you a gardener?"
+    mary ""
+
+# game/script.rpy:9068
+translate uk_UA explore_park2_ff80205a:
+
+    # c "Not really."
+    c ""
+
+# game/script.rpy:9069
+translate uk_UA explore_park2_84fd6da2:
+
+    # mary "Well anyone can do it! It tastes better, you'll save money, and your body will really thank you for it. That crap they sell in supermarkets is full of poison!"
+    mary ""
+
+# game/script.rpy:9071
+translate uk_UA explore_park2_dc8d9041:
+
+    # mary "But if you're not a green-thumb, I understand. This life isn't for everyone."
+    mary ""
+
+# game/script.rpy:9072
+translate uk_UA explore_park2_171add92:
+
+    # c "{i}I do have some land behind the hotel...{/i}"
+    c ""
+
+# game/script.rpy:9073
+translate uk_UA explore_park2_a8878482:
+
+    # mary "Well that'd be perfect!\nAnd if you do decide to start gardening, you can join our food drive as well! All the food you donate will go straight to people in need, and if you help us reach our milestones, you'll get rewarded."
+    mary ""
+
+# game/script.rpy:9074
+translate uk_UA explore_park2_fae4aecd:
+
+    # c "What sort of rewards?"
+    c ""
+
+# game/script.rpy:9075
+translate uk_UA explore_park2_8bea145e:
+
+    # mary "Seeds, tools, fertilizer, that sort of thing. If you scratch our backs, we'll scratch yours!"
+    mary ""
+
+# game/script.rpy:9076
+translate uk_UA explore_park2_260f8b87:
+
+    # c "Oh, cool."
+    c ""
+
+# game/script.rpy:9079
+translate uk_UA explore_park2_d7ee601a:
+
+    # mary "So, would you like to buy anything?"
+    mary ""
+
+# game/script.rpy:9933
+translate uk_UA firstbern_28e1929c:
+
+    # "You go door to door, delivering alcohol to customers in need, occasionally receiving tips for your diligence."
+    ""
+
+# game/script.rpy:11551
+translate uk_UA out_cont1_1_c67836e4:
+
+    # copbot "Under transparency clause 5 I am obligated to inform you that the city has received financial compensation for the targeted advertisement you have just experienced."
+    copbot ""
+
+# game/script.rpy:12644
+translate uk_UA juzi_store_810a62ad:
+
+    # dealer "Hey bru, wotcha got for me?"
+    dealer ""
+
+# game/script.rpy:12648
+translate uk_UA juzi_sale_16337b08:
+
+    # dealer "Sweet as, mate. Keep it coming."
+    dealer ""
+
+# game/script.rpy:12651
+translate uk_UA juzi_sale_c686e29c:
+
+    # "You gained $100!"
+    ""
+
+# game/script.rpy:12654
+translate uk_UA juzi_sale_9952a026:
+
+    # dealer "Good shit, yeh. Love to see it, bru!"
+    dealer ""
+
+# game/script.rpy:12657
+translate uk_UA juzi_sale_6e2a4dd4:
+
+    # "You gained $200!"
+    ""
+
+# game/script.rpy:12660
+translate uk_UA juzi_sale_8acfb093:
+
+    # dealer "Choice, yeh. Keen as to see it."
+    dealer ""
+
+# game/script.rpy:12663
+translate uk_UA juzi_sale_fea8d975:
+
+    # "You gained $400!"
+    ""
+
+# game/script.rpy:12666
+translate uk_UA juzi_sale_e344817f:
+
+    # dealer "Yeh mate! Stoked to see it!"
+    dealer ""
+
+# game/script.rpy:12669
+translate uk_UA juzi_sale_7ebe7173:
+
+    # "You gained $700!"
+    ""
+
+# game/script.rpy:12672
+translate uk_UA juzi_sale_c89c54b0:
+
+    # dealer "Ey, look at you mate! Real juzi connoisseur, yeh?"
+    dealer ""
+
+# game/script.rpy:12675
+translate uk_UA juzi_sale_e33affa4:
+
+    # "You gained $1000!"
+    ""
+
+# game/script.rpy:12678
+translate uk_UA juzi_sale_fa72c627:
+
+    # dealer "Absolutely mint, mate! Fuckin' stoked!"
+    dealer ""
+
+# game/script.rpy:12681
+translate uk_UA juzi_sale_78cd7234:
+
+    # "You gained $1,500!"
+    ""
+
+# game/script.rpy:12684
+translate uk_UA juzi_sale_4d9f864b:
+
+    # dealer "Boys gonna love that, yeh? Good shit! Good shit!"
+    dealer ""
+
+# game/script.rpy:12687
+translate uk_UA juzi_sale_acb2a235:
+
+    # "You gained $2,000!"
+    ""
+
+# game/script.rpy:12690
+translate uk_UA juzi_sale_90c0c0f4:
+
+    # dealer "What the fuck bru, you serious?"
+    dealer ""
+
+# game/script.rpy:12691
+translate uk_UA juzi_sale_4e8c7062:
+
+    # c "Of course."
+    c ""
+
+# game/script.rpy:12692
+translate uk_UA juzi_sale_f84def3a:
+
+    # dealer "Yeh bru, alright! There ya go!"
+    dealer ""
+
+# game/script.rpy:12695
+translate uk_UA juzi_sale_36968cbf:
+
+    # "You gained $10,000!"
+    ""
+
+# game/script.rpy:12698
+translate uk_UA juzi_sale_90c0c0f4_1:
+
+    # dealer "What the fuck bru, you serious?"
+    dealer ""
+
+# game/script.rpy:12699
+translate uk_UA juzi_sale_4e8c7062_1:
+
+    # c "Of course."
+    c ""
+
+# game/script.rpy:12700
+translate uk_UA juzi_sale_f84def3a_1:
+
+    # dealer "Yeh bru, alright! There ya go!"
+    dealer ""
+
+# game/script.rpy:12701
+translate uk_UA juzi_sale_ef60098a:
+
+    # "You gained $20,000!"
+    ""
+
+# game/script.rpy:12707
+translate uk_UA juzi_sale_088e4e3f:
+
+    # dealer "Cetch yeh later, bru!"
+    dealer ""
+
+# game/script.rpy:12714
+translate uk_UA find_buyer_5c359c0a:
+
+    # c "Hey, do you know anyone who wants to buy shroom juice?"
+    c ""
+
+# game/script.rpy:12715
+translate uk_UA find_buyer_29486a94:
+
+    # q "What are you, a fuckin' cop? Get outta here."
+    q ""
+
+# game/script.rpy:12717
+translate uk_UA find_buyer_5c359c0a_1:
+
+    # c "Hey, do you know anyone who wants to buy shroom juice?"
+    c ""
+
+# game/script.rpy:12718
+translate uk_UA find_buyer_102ab01f:
+
+    # q "Sorry, I don't know what that is..."
+    q ""
+
+# game/script.rpy:12719
+translate uk_UA find_buyer_543fcf4a:
+
+    # c "Are you sure?"
+    c ""
+
+# game/script.rpy:12721
+translate uk_UA find_buyer_50b0402c:
+
+    # q "I gotta go..."
+    q ""
+
+# game/script.rpy:12723
+translate uk_UA find_buyer_5c359c0a_2:
+
+    # c "Hey, do you know anyone who wants to buy shroom juice?"
+    c ""
+
+# game/script.rpy:12724
+translate uk_UA find_buyer_7b9e1f15:
+
+    # hless "Oh hey man, sure I can help you out. But nobody calls it that."
+    hless ""
+
+# game/script.rpy:12725
+translate uk_UA find_buyer_294461aa:
+
+    # c "What do they call it?"
+    c ""
+
+# game/script.rpy:12726
+translate uk_UA find_buyer_0758fea1:
+
+    # hless "Juzi, man. If you're trying to meet god, that's a round-trip ticket for you right there, man."
+    hless ""
+
+# game/script.rpy:12727
+translate uk_UA find_buyer_edcbfd76:
+
+    # c "What?\nEgh, I just need to know where I need to go."
+    c ""
+
+# game/script.rpy:12728
+translate uk_UA find_buyer_b66d5739:
+
+    # hless "Sure man. Just turn around, go to the end of the street, take a left, another left, then a right. You can't miss it."
+    hless ""
+
+# game/script.rpy:12729
+translate uk_UA find_buyer_df07b46b:
+
+    # c "Alright, thanks."
+    c ""
+
+# game/script.rpy:12730
+translate uk_UA find_buyer_23fad800:
+
+    # hless "No problem, man!"
+    hless ""
+
+# game/script.rpy:12733
+translate uk_UA find_buyer_ff7c71d4:
+
+    # c "{i}...That must be it.{/i}"
+    c ""
+
+# game/script.rpy:12734
+translate uk_UA find_buyer_11ced45f:
+
+    # q "Hey, come here for a sec."
+    q ""
+
+# game/script.rpy:12735
+translate uk_UA find_buyer_368a62e5:
+
+    # c "{i}This guy looks fucked up.{/i}"
+    c ""
+
+# game/script.rpy:12737
+translate uk_UA find_buyer_e4952555:
+
+    # q "You lookin' for somethin'?"
+    q ""
+
+# game/script.rpy:12738
+translate uk_UA find_buyer_dcced88c:
+
+    # c "Uhhhh, yeah. I'm a juzi supplier. You know a buyer?"
+    c ""
+
+# game/script.rpy:12739
+translate uk_UA find_buyer_3098a6c6:
+
+    # q "Never seen you before... You don't look like you own a farm neither..."
+    q ""
+
+# game/script.rpy:12740
+translate uk_UA find_buyer_d36bf55d:
+
+    # c "I have a slave that runs my garden. I figure I could make some extra cash. Did I come to the right place?"
+    c ""
+
+# game/script.rpy:12741
+translate uk_UA find_buyer_1686d124:
+
+    # q "Mmmh..."
+    q ""
+
+# game/script.rpy:12742
+translate uk_UA find_buyer_281d30e6:
+
+    # q "Yeah alright, go ahead."
+    q ""
+
+# game/script.rpy:12744
+translate uk_UA find_buyer_e11b6ada:
+
+    # c "{i}(That must be the guy... uh, is he barefoot?){i}"
+    c ""
+
+# game/script.rpy:12745
+translate uk_UA find_buyer_deea57a9:
+
+    # c "Hey, I'm trying to sell some juzi."
+    c ""
+
+# game/script.rpy:12747
+translate uk_UA find_buyer_10adbade:
+
+    # q "Stop right there."
+    q ""
+
+# game/script.rpy:12748
+translate uk_UA find_buyer_ca49e7ae:
+
+    # c "I'm just here to sell, man."
+    c ""
+
+# game/script.rpy:12750
+translate uk_UA find_buyer_2ee49e6a:
+
+    # q "Yeh sure. How yous know where to find us?"
+    q ""
+
+# game/script.rpy:12751
+translate uk_UA find_buyer_33b8294f:
+
+    # c "I just asked around."
+    c ""
+
+# game/script.rpy:12752
+translate uk_UA find_buyer_57d71fea:
+
+    # q "Most fuckin' bullshit cop answer I've ever heard."
+    q ""
+
+# game/script.rpy:12753
+translate uk_UA find_buyer_17476d44:
+
+    # dealer "Just let 'em through bru."
+    dealer ""
+
+# game/script.rpy:12755
+translate uk_UA find_buyer_9bd26546:
+
+    # q "You sure?"
+    q ""
+
+# game/script.rpy:12756
+translate uk_UA find_buyer_114fae88:
+
+    # dealer "Yeh bru. Does he look like a cop to you? He's just a fuckin' civy, yeh?"
+    dealer ""
+
+# game/script.rpy:12757
+translate uk_UA find_buyer_aa17ee68:
+
+    # q "Yeh, sure..."
+    q ""
+
+# game/script.rpy:12759
+translate uk_UA find_buyer_2d68ab2d:
+
+    # dealer "..."
+    dealer ""
+
+# game/script.rpy:12760
+translate uk_UA find_buyer_84c3e6f1:
+
+    # c "Are you buying?"
+    c ""
+
+# game/script.rpy:12761
+translate uk_UA find_buyer_7b8d4841:
+
+    # dealer "Yeh man. Leave the product, and I'll let yous know if it's good. Yeh?"
+    dealer ""
+
+# game/script.rpy:12762
+translate uk_UA find_buyer_1104e8ed:
+
+    # c "That doesn't sound like a purchase to me."
+    c ""
+
+# game/script.rpy:12763
+translate uk_UA find_buyer_21d82120:
+
+    # dealer "Man, I don't know yous, yeh? Never seen you. Soz I'm not gonna trust yous. Simple."
+    dealer ""
+
+# game/script.rpy:12764
+translate uk_UA find_buyer_d6e3c4e3:
+
+    # dealer "We see if it sells, yeh? Then we pay yous.\nNow if you wanna buy, different story."
+    dealer ""
+
+# game/script.rpy:12765
+translate uk_UA find_buyer_6557e37f:
+
+    # c "I don't even know your name, how will you contact me?"
+    c ""
+
+# game/script.rpy:12767
+translate uk_UA find_buyer_0dba6528:
+
+    # dealer "On ya fuckin' phone, how else? Leave ya dial and get the fuck out, yeh?"
+    dealer ""
+
+# game/script.rpy:12768
+translate uk_UA find_buyer_7070e6d7:
+
+    # c "...\n{i}(Not the deal I was looking for, but it won't hurt me to leave a bottle and see what he thinks.){/i}"
+    c ""
+
+# game/script.rpy:12769
+translate uk_UA find_buyer_df33251a:
+
+    # c "Yeah, sure. I look forward to doing business with you."
+    c ""
+
+# game/script.rpy:12770
+translate uk_UA find_buyer_8d4d5ef0:
+
+    # dealer "It's not just me, yeh? It's the trio. Yous deal with me, yous deal with my brothas too."
+    dealer ""
+
+# game/script.rpy:12772
+translate uk_UA find_buyer_ed28cea2:
+
+    # dealer "Off then. I got work to do."
+    dealer ""
+
+# game/script.rpy:12773
+translate uk_UA find_buyer_d19f855d:
+
+    # c "..."
+    c ""
+
+# game/script.rpy:12777
+translate uk_UA find_buyer_d6b48f27:
+
+    # "You used 1 Action Point while exploring."
+    ""
+
+# game/script.rpy:12780
+translate uk_UA find_buyer_875c529f:
+
+    # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
+    c ""
+
+# game/script.rpy:13546
+translate uk_UA berns_28e1929c:
+
+    # "You go door to door, delivering alcohol to customers in need, occasionally receiving tips for your diligence."
+    ""
+
+# game/script.rpy:14875
+translate uk_UA out2_87a5bcfe:
+
+    # c "I should come back another day."
+    c ""
+
+# game/script.rpy:14878
+translate uk_UA out2_cde7440f:
+
+    # "ERROR"
+    ""
+
+# game/script.rpy:14934
+translate uk_UA out3_30071483:
+
+    # c "I should look for someone to buy this shroom juice..."
+    c ""
+
+# game/script.rpy:14962
+translate uk_UA out3_5411e888:
+
+    # c "I don't have anything to sell. It's best if I don't show up with nothing."
+    c ""
+
+# game/script.rpy:15266
+translate uk_UA nextfrontdoor_5e8a2490:
+
+    # mail "You pick up Kate's earrings."
+    mail ""
+
+# game/script.rpy:16609
+translate uk_UA botkchoice_8664c410:
+
+    # c "(I should expand the garden and start growing food for her to cook...)"
+    c ""
+
+# game/script.rpy:18020
+translate uk_UA linkchoice_8664c410:
+
+    # c "(I should expand the garden and start growing food for her to cook...)"
+    c ""
+
+# game/script.rpy:19332
+translate uk_UA yourroomcontinued_7e9be0e5:
+
+    # c "The police should be coming soon."
+    c ""
+
+# game/script.rpy:19351
+translate uk_UA yourroomcontinued_c3eb9631:
+
+    # "*bzzt bzzt*"
+    ""
+
+# game/script.rpy:19352
+translate uk_UA yourroomcontinued_60f94600:
+
+    # c "Who's calling?"
+    c ""
+
+# game/script.rpy:19354
+translate uk_UA yourroomcontinued_ed48adc0:
+
+    # dealer "Hey bru! That shit was good, man, real good! The peoples love it. You come back soon, yeh?"
+    dealer ""
+
+# game/script.rpy:19355
+translate uk_UA yourroomcontinued_e736e3c4:
+
+    # c "Am I going to get paid?"
+    c ""
+
+# game/script.rpy:19356
+translate uk_UA yourroomcontinued_a7988a81:
+
+    # dealer "Yeh bru! Keep that shit comin', and yous keep gettin' paid, yeh?"
+    dealer ""
+
+# game/script.rpy:19357
+translate uk_UA yourroomcontinued_dab5e234:
+
+    # dealer "But none of this one bottle at a time bullshit, yeh? Not gonna buy less than 5 at a time, or it's a waste of mine, yeh?"
+    dealer ""
+
+# game/script.rpy:19358
+translate uk_UA yourroomcontinued_85b38737:
+
+    # dealer "So get to it, fuckin' kill those nasty shits, yeh? You know where to find me."
+    dealer ""
+
+# game/script.rpy:19359
+translate uk_UA yourroomcontinued_8e9aad0e:
+
+    # "*click*"
+    ""
+
+# game/script.rpy:19360
+translate uk_UA yourroomcontinued_eb488a61:
+
+    # c "Alright. We've got a buyer."
+    c ""
+
+# game/script.rpy:19387
+translate uk_UA yourroomcontinued_1262f29b:
+
+    # c "Maybe I'll invite Kate out on a date..."
+    c ""
+
+# game/script.rpy:19402
+translate uk_UA yourroomcontinued_98ba7ce2_1:
+
+    # c "Hello?"
+    c ""
+
+# game/script.rpy:19748
+translate uk_UA visitgirls_65b394f0:
+
+    # k "Yep! After my Dad makes that call, and they accept, I'll hopefully receive an email!"
+    k ""
+
+# game/script.rpy:19923
+translate uk_UA yourroommenu_6101463b:
+
+    # c "I'll invite her this evening."
+    c ""
+
+# game/script.rpy:20502
+translate uk_UA bot_kali_three_repeat_1b9a5aff:
+
+    # k "Oh fuck..."
+    k ""
+
+# game/script.rpy:20503
+translate uk_UA bot_kali_three_repeat_80e7e71b:
+
+    # bot "Ready for it? Heheh..."
+    bot ""
+
+# game/script.rpy:20504
+translate uk_UA bot_kali_three_repeat_5dd070ef:
+
+    # k "Mhm..."
+    k ""
+
+# game/script.rpy:20506
+translate uk_UA bot_kali_three_repeat_9fea1d5a:
+
+    # k "AAAH~! Yes!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20508
+translate uk_UA bot_kali_three_repeat_5cbabc32:
+
+    # bot "The fun is just beginning, my little slut~"
+    bot ""
+
+# game/script.rpy:20510
+translate uk_UA bot_kali_three_repeat_17349932:
+
+    # k "Haahhh! Ahh! Mmmn, yes, yes!"
+    k ""
+
+# game/script.rpy:20511
+translate uk_UA bot_kali_three_repeat_1e198b64:
+
+    # bot "Having fun?"
+    bot ""
+
+# game/script.rpy:20512
+translate uk_UA bot_kali_three_repeat_18c74855:
+
+    # k "Hah, oh yesss! Fuck me, fuck me...!"
+    k ""
+
+# game/script.rpy:20513
+translate uk_UA bot_kali_three_repeat_ebfaae74:
+
+    # bot "That's it, let your slutty side out!"
+    bot ""
+
+# game/script.rpy:20514
+translate uk_UA bot_kali_three_repeat_4eec6050:
+
+    # k "Mmmh~! Fuck, fuck!"
+    k ""
+
+# game/script.rpy:20517
+translate uk_UA bot_kali_three_repeat_a30d29db:
+
+    # k "Ohh fuck, it feels so good [name]! Mmmh! More~ More!"
+    k ""
+
+# game/script.rpy:20518
+translate uk_UA bot_kali_three_repeat_190460f9:
+
+    # bot "There she is~"
+    bot ""
+
+# game/script.rpy:20519
+translate uk_UA bot_kali_three_repeat_f9e1f8ae:
+
+    # k "Faster, mh! Deeper! Haaahn!"
+    k ""
+
+# game/script.rpy:20520
+translate uk_UA bot_kali_three_repeat_148420c9:
+
+    # bot "Mmmh, I think you've had enough fun for now... don't you think, [name]?"
+    bot ""
+
+# game/script.rpy:20521
+translate uk_UA bot_kali_three_repeat_903343fb:
+
+    # k "Wh-What? MMH!"
+    k ""
+
+# game/script.rpy:20523
+translate uk_UA bot_kali_three_repeat_b3ab3b8f:
+
+    # k "Urrgh, you bitch...!"
+    k ""
+
+# game/script.rpy:20524
+translate uk_UA bot_kali_three_repeat_c65de94c:
+
+    # bot "Ah! Nnnh...! If you want to earn his cock, you better be a good little slut, do you hear me?"
+    bot ""
+
+# game/script.rpy:20525
+translate uk_UA bot_kali_three_repeat_5c91090c:
+
+    # k "Nh..."
+    k ""
+
+# game/script.rpy:20526
+translate uk_UA bot_kali_three_repeat_1aca8ed4:
+
+    # bot "Mmmmh~! His thick cock feels so good... don't you want it? Ah!"
+    bot ""
+
+# game/script.rpy:20527
+translate uk_UA bot_kali_three_repeat_a302aea6:
+
+    # k "Yes..."
+    k ""
+
+# game/script.rpy:20528
+translate uk_UA bot_kali_three_repeat_8ec064b9:
+
+    # bot "Say it like you mean it, slut! Mmmh~!"
+    bot ""
+
+# game/script.rpy:20531
+translate uk_UA bot_kali_three_repeat_87254401:
+
+    # k "I want it... I want it!"
+    k ""
+
+# game/script.rpy:20532
+translate uk_UA bot_kali_three_repeat_f50cd5d8:
+
+    # bot "There you go... Nh! More!"
+    bot ""
+
+# game/script.rpy:20533
+translate uk_UA bot_kali_three_repeat_5c94350e:
+
+    # k "Please... I want it... Fuck me...!"
+    k ""
+
+# game/script.rpy:20534
+translate uk_UA bot_kali_three_repeat_3884bf2b:
+
+    # bot "Mhm... ah! Ahh! MMH!"
+    bot ""
+
+# game/script.rpy:20535
+translate uk_UA bot_kali_three_repeat_f27b7599:
+
+    # k "Please... I'll be a good slut! Please!"
+    k ""
+
+# game/script.rpy:20536
+translate uk_UA bot_kali_three_repeat_d31519da:
+
+    # bot "Hmm, what do you think [name]? Ah! Does she deserve it?"
+    bot ""
+
+# game/script.rpy:20537
+translate uk_UA bot_kali_three_repeat_cf127f85:
+
+    # c "I don't know..."
+    c ""
+
+# game/script.rpy:20538
+translate uk_UA bot_kali_three_repeat_a2ebcd1c:
+
+    # k "Please...! I'll do anything, I just want to feel it again! Mmmh... don't tease me!"
+    k ""
+
+# game/script.rpy:20539
+translate uk_UA bot_kali_three_repeat_2f0f24a2:
+
+    # bot "Oh, but that's half the fun! Mmh!"
+    bot ""
+
+# game/script.rpy:20540
+translate uk_UA bot_kali_three_repeat_8829f1b6:
+
+    # c "Kali, get on your knees."
+    c ""
+
+# game/script.rpy:20541
+translate uk_UA bot_kali_three_repeat_0c992600:
+
+    # k "O-Okay!"
+    k ""
+
+# game/script.rpy:20542
+translate uk_UA bot_kali_three_repeat_c64d08af:
+
+    # k "Lllm, mmln..."
+    k ""
+
+# game/script.rpy:20543
+translate uk_UA bot_kali_three_repeat_8a8aba53:
+
+    # bot "You like it, huh?"
+    bot ""
+
+# game/script.rpy:20544
+translate uk_UA bot_kali_three_repeat_b75e5cd9:
+
+    # k "Fuck my mouth! Oh my god! I need it! Mmmn!"
+    k ""
+
+# game/script.rpy:20546
+translate uk_UA bot_kali_three_repeat_44c58e78:
+
+    # k "Nnnghk! Mmngh! Yesh...! Mmmn!"
+    k ""
+
+# game/script.rpy:20547
+translate uk_UA bot_kali_three_repeat_c26505e9:
+
+    # bot "That's a good girl~"
+    bot ""
+
+# game/script.rpy:20548
+translate uk_UA bot_kali_three_repeat_426a5451:
+
+    # k "More! Mmmnh! Oh fuck~! Mmmh!"
+    k ""
+
+# game/script.rpy:20549
+translate uk_UA bot_kali_three_repeat_99a069ea:
+
+    # bot "Heheh, what did I tell you? If you just listen, you'll have more fun. Isn't that right, slut?"
+    bot ""
+
+# game/script.rpy:20550
+translate uk_UA bot_kali_three_repeat_6225665d:
+
+    # k "Yesh! Mmmh, oh fuck! MMH! Nnnghk!"
+    k ""
+
+# game/script.rpy:20553
+translate uk_UA bot_kali_three_repeat_87007909:
+
+    # bot "But... maybe she's had enough."
+    bot ""
+
+# game/script.rpy:20554
+translate uk_UA bot_kali_three_repeat_398c1c42:
+
+    # k "Nooo! Mmmgh! Harder! Fuck my throat! Mmmh! I want it so deep! Aahn!"
+    k ""
+
+# game/script.rpy:20555
+translate uk_UA bot_kali_three_repeat_76532670:
+
+    # bot "Heheh, good girl..."
+    bot ""
+
+# game/script.rpy:20556
+translate uk_UA bot_kali_three_repeat_e96cc3f5:
+
+    # k "Haagh, mmngh! Llmn! Yesh, yesh! Mmmh!"
+    k ""
+
+# game/script.rpy:20557
+translate uk_UA bot_kali_three_repeat_a1c21b0b:
+
+    # bot "Hey [name], I think it's time...!"
+    bot ""
+
+# game/script.rpy:20558
+translate uk_UA bot_kali_three_repeat_c576bdf4:
+
+    # k "Mmmh! Hmmmh?"
+    k ""
+
+# game/script.rpy:20559
+translate uk_UA bot_kali_three_repeat_011079c4:
+
+    # c "Do it."
+    c ""
+
+# game/script.rpy:20561
+translate uk_UA bot_kali_three_repeat_5d299947:
+
+    # k "HMMMGHK!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20562
+translate uk_UA bot_kali_three_repeat_a21dcaa2:
+
+    # bot "Heheheh! How long can you hold it, Kali?"
+    bot ""
+
+# game/script.rpy:20563
+translate uk_UA bot_kali_three_repeat_acbf6ed1:
+
+    # k "Hmm, mmmghk!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20564
+translate uk_UA bot_kali_three_repeat_cb168eb8:
+
+    # bot "Think you can hold it long enough for him to cum? Hmm?"
+    bot ""
+
+# game/script.rpy:20565
+translate uk_UA bot_kali_three_repeat_59e21c13:
+
+    # k "HMMMGHK! NNNNNGH!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20567
+translate uk_UA bot_kali_three_repeat_bf400bed:
+
+    # k "*cough*! *cough*! Aaaghk!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20568
+translate uk_UA bot_kali_three_repeat_20fa7693:
+
+    # bot "Awww, you did so well~"
+    bot ""
+
+# game/script.rpy:20570
+translate uk_UA bot_kali_three_repeat_59e2a409:
+
+    # bot "Back in you go~!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:20571
+translate uk_UA bot_kali_three_repeat_ab8f5eeb:
+
+    # k "Nnnghk! Kgghk!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20572
+translate uk_UA bot_kali_three_repeat_732de075:
+
+    # bot "Isn't she such a good slut, [name]? Mmmh, she wants that cum, huh?"
+    bot ""
+
+# game/script.rpy:20573
+translate uk_UA bot_kali_three_repeat_462466b2:
+
+    # k "Mmmghk! MMMMGHK!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20575
+translate uk_UA bot_kali_three_repeat_0cb4961b:
+
+    # k "Aaaagh! Hah! Haaaaah! Wooww...!"
+    k ""
+
+# game/script.rpy:20576
+translate uk_UA bot_kali_three_repeat_31dd89f7:
+
+    # bot "You're getting close, huh? You wanna cum down her throat?"
+    bot ""
+
+# game/script.rpy:20577
+translate uk_UA bot_kali_three_repeat_9f85b645:
+
+    # c "Yeah."
+    c ""
+
+# game/script.rpy:20578
+translate uk_UA bot_kali_three_repeat_efdacde7:
+
+    # k "Mmmmh~"
+    k ""
+
+# game/script.rpy:20580
+translate uk_UA bot_kali_three_repeat_3acd791d:
+
+    # k "MMGHK!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20581
+translate uk_UA bot_kali_three_repeat_fd676f56:
+
+    # bot "You want it, don't you slut!"
+    bot ""
+
+# game/script.rpy:20582
+translate uk_UA bot_kali_three_repeat_df561847:
+
+    # k "Mmmhk! Mmmnnn!!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20584
+translate uk_UA bot_kali_three_repeat_1ca800b3:
+
+    # bot "DEEPER!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:20585
+translate uk_UA bot_kali_three_repeat_4adcb5c6:
+
+    # k "MMMGH!!!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20586
+translate uk_UA bot_kali_three_repeat_44797027:
+
+    # bot "Don't fight it, whore! You were meant for one purpose only, isn't that right?"
+    bot ""
+
+# game/script.rpy:20587
+translate uk_UA bot_kali_three_repeat_1e9398d6:
+
+    # k "Mmmh! Mmmmh!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20588
+translate uk_UA bot_kali_three_repeat_fe9bf189:
+
+    # bot "Are you ready [name]? Are you ready to cum?"
+    bot ""
+
+# game/script.rpy:20589
+translate uk_UA bot_kali_three_repeat_96df27d0:
+
+    # k "Mmmmghk!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20590
+translate uk_UA bot_kali_three_repeat_497b86bb:
+
+    # bot "Cum, cum! Cum in her slutty little throat!"
+    bot ""
+
+# game/script.rpy:20592
+translate uk_UA bot_kali_three_repeat_62accefa:
+
+    # c "Ah...!" with sshake
+    c "" with sshake
+
+# game/script.rpy:20593
+translate uk_UA bot_kali_three_repeat_a5cd85eb:
+
+    # k "MMMMMMMH!!" with sshake
+    k "" with sshake
+
+# game/script.rpy:20594
+translate uk_UA bot_kali_three_repeat_0cf733ff:
+
+    # bot "There you go~ Yes!" with sshake
+    bot "" with sshake
+
+# game/script.rpy:20595
+translate uk_UA bot_kali_three_repeat_4b05aa9c:
+
+    # k "HMKGHKKK!! MMMH! MHHH!!" with sshake
+    k "" with sshake
+
+# game/script.rpy:20597
+translate uk_UA bot_kali_three_repeat_8318655a:
+
+    # bot "Good girl~ Now swallow..."
+    bot ""
+
+# game/script.rpy:20598
+translate uk_UA bot_kali_three_repeat_3c1b08f5:
+
+    # k "Mmmh..."
+    k ""
+
+# game/script.rpy:20600
+translate uk_UA bot_kali_three_repeat_3fa20700:
+
+    # k "*gulp*... ahhh...!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20601
+translate uk_UA bot_kali_three_repeat_4bf52e23:
+
+    # bot "Good slut..."
+    bot ""
+
+# game/script.rpy:20603
+translate uk_UA bot_kali_three_repeat_e696e995:
+
+    # k "Ahhh... mmmh, am I a good slut, [name]?"
+    k ""
+
+# game/script.rpy:20604
+translate uk_UA bot_kali_three_repeat_2783c996:
+
+    # c "Amazing..."
+    c ""
+
+# game/script.rpy:20666
+translate uk_UA bot_kali_three_4650e6fd:
+
+    # bot "Hello [botown], good timing! I have an idea..."
+    bot ""
+
+# game/script.rpy:20667
+translate uk_UA bot_kali_three_48fc288b:
+
+    # c "What's up?"
+    c ""
+
+# game/script.rpy:20668
+translate uk_UA bot_kali_three_fc430039:
+
+    # bot "Well, you know how Kali has been stressed lately? I was thinking we could... you know, help her out!"
+    bot ""
+
+# game/script.rpy:20669
+translate uk_UA bot_kali_three_d0ae06d2:
+
+    # c "Is that so?"
+    c ""
+
+# game/script.rpy:20670
+translate uk_UA bot_kali_three_52b11c80:
+
+    # bot "I take my duties as caretaker of this hotel seriously!"
+    bot ""
+
+# game/script.rpy:20697
+translate uk_UA bot_kali_three_9af30c02:
+
+    # bot "So... I was thinking... we fuck her roughly! You know how she likes it..."
+    bot ""
+
+# game/script.rpy:20698
+translate uk_UA bot_kali_three_aa6e70a4:
+
+    # c "And you want to help with that?"
+    c ""
+
+# game/script.rpy:20699
+translate uk_UA bot_kali_three_c3157464:
+
+    # bot "Yes! I guess I'm a bit of a switch."
+    bot ""
+
+# game/script.rpy:20700
+translate uk_UA bot_kali_three_fec77932:
+
+    # c "Fitting."
+    c ""
+
+# game/script.rpy:20748
+translate uk_UA bot_kali_three_ea7c4af9:
+
+    # bot "So you want to?"
+    bot ""
+
+# game/script.rpy:20749
+translate uk_UA bot_kali_three_3a300809:
+
+    # c "Of course. Do you have anything in mind?"
+    c ""
+
+# game/script.rpy:20750
+translate uk_UA bot_kali_three_0098df57:
+
+    # bot "Oh yes, just leave everything to me, [botown]!"
+    bot ""
+
+# game/script.rpy:20751
+translate uk_UA bot_kali_three_62aa99b4:
+
+    # bot "I'll get ready. We'll meet in the dungeon and lure Kali in! Then we can have our fun!"
+    bot ""
+
+# game/script.rpy:20752
+translate uk_UA bot_kali_three_8881c391:
+
+    # c "Great, I'll see you there."
+    c ""
+
+# game/script.rpy:20754
+translate uk_UA bot_kali_three_94d019a6:
+
+    # "...{w}..."
+    ""
+
+# game/script.rpy:20756
+translate uk_UA bot_kali_three_c8077413:
+
+    # botcom "Kali, your presence has been requested in the dungeon. Make haste!"
+    botcom ""
+
+# game/script.rpy:20757
+translate uk_UA bot_kali_three_63849d6f:
+
+    # k "W-What?"
+    k ""
+
+# game/script.rpy:20758
+translate uk_UA bot_kali_three_2c07ed81:
+
+    # lu "Ooooh, someone's getting a spanking... Have you been a bad girl, Kali?"
+    lu ""
+
+# game/script.rpy:20759
+translate uk_UA bot_kali_three_b435fc73:
+
+    # k "Shut up..."
+    k ""
+
+# game/script.rpy:20760
+translate uk_UA bot_kali_three_6b333383:
+
+    # lu "Well? Move your fat ass!"
+    lu ""
+
+# game/script.rpy:20761
+translate uk_UA bot_kali_three_6135e546:
+
+    # k "Nnh, I'll be right back..."
+    k ""
+
+# game/script.rpy:20763
+translate uk_UA bot_kali_three_9f6c09a1:
+
+    # k "What's on his mind...?"
+    k ""
+
+# game/script.rpy:20765
+translate uk_UA bot_kali_three_2e9bd230:
+
+    # k "Oh..."
+    k ""
+
+# game/script.rpy:20766
+translate uk_UA bot_kali_three_25587201:
+
+    # bot "Hi Kali~!"
+    bot ""
+
+# game/script.rpy:20768
+translate uk_UA bot_kali_three_fcad0548:
+
+    # k "Ummm... what's going on?"
+    k ""
+
+# game/script.rpy:20769
+translate uk_UA bot_kali_three_811306a3:
+
+    # bot "I think you know..."
+    bot ""
+
+# game/script.rpy:20770
+translate uk_UA bot_kali_three_38d78448:
+
+    # k "Um, [name] wanted help with something?"
+    k ""
+
+# game/script.rpy:20771
+translate uk_UA bot_kali_three_b4e8acff:
+
+    # bot "Aww, she's acting oblivious... isn't that cute?"
+    bot ""
+
+# game/script.rpy:20772
+translate uk_UA bot_kali_three_8d20a1ec:
+
+    # c "Kali, remove your clothes and get on the bed."
+    c ""
+
+# game/script.rpy:20773
+translate uk_UA bot_kali_three_09a1c990:
+
+    # k "I guess I can do that..."
+    k ""
+
+# game/script.rpy:20775
+translate uk_UA bot_kali_three_06f430a0:
+
+    # bot "Heheh, is she always this shy? Or just when she knows what's coming...?"
+    bot ""
+
+# game/script.rpy:20776
+translate uk_UA bot_kali_three_b9faba34:
+
+    # k "Shut up... you can just stay in the corner and watch. I don't like girls."
+    k ""
+
+# game/script.rpy:20777
+translate uk_UA bot_kali_three_f3cb46f3:
+
+    # bot "You say that, but this isn't your first threesome, is it?"
+    bot ""
+
+# game/script.rpy:20779
+translate uk_UA bot_kali_three_fcf8cc42:
+
+    # k "I'm here for [name]..."
+    k ""
+
+# game/script.rpy:20780
+translate uk_UA bot_kali_three_ad1feb8a:
+
+    # bot "Yeah... but you'll cum for me~"
+    bot ""
+
+# game/script.rpy:20781
+translate uk_UA bot_kali_three_5b1abd2c:
+
+    # k "Ugh..."
+    k ""
+
+# game/script.rpy:20783
+translate uk_UA bot_kali_three_6593649b:
+
+    # k "So what would you like to do to me, [name]...?"
+    k ""
+
+# game/script.rpy:20784
+translate uk_UA bot_kali_three_606469a5:
+
+    # bot "I'm making the decisions today, Kali. And I say we're going to have fun with you."
+    bot ""
+
+# game/script.rpy:20785
+translate uk_UA bot_kali_three_a2599a8a:
+
+    # k "Like I said, you can watch. Be happy I even allow you in the room."
+    k ""
+
+# game/script.rpy:20786
+translate uk_UA bot_kali_three_cdeca177:
+
+    # k "So, [name]?"
+    k ""
+
+# game/script.rpy:20788
+translate uk_UA bot_kali_three_5ab6df84:
+
+    # k "Ah!"
+    k ""
+
+# game/script.rpy:20789
+translate uk_UA bot_kali_three_2dba71c7:
+
+    # bot "And like I said... we're going to have fun with you!"
+    bot ""
+
+# game/script.rpy:20791
+translate uk_UA bot_kali_three_53c2c351:
+
+    # k "You think I'll do whatever you say just because your eyes are red? I know you inside and out, I could turn you off if I wanted to!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20792
+translate uk_UA bot_kali_three_608781ef:
+
+    # bot "Oh, but you turn me on, Kali! You might be the biggest slut here... I know exactly how often you rub yourself, and I know exactly how much porn you watch."
+    bot ""
+
+# game/script.rpy:20794
+translate uk_UA bot_kali_three_0f4ad25b:
+
+    # bot "And you wouldn't... I know you. I know exactly what you like, and I know exactly what you want. You'll do anything that's asked of you."
+    bot ""
+
+# game/script.rpy:20796
+translate uk_UA bot_kali_three_e1f850c8:
+
+    # bot "Because you're... a filthy... slut!"
+    bot ""
+
+# game/script.rpy:20797
+translate uk_UA bot_kali_three_82091822:
+
+    # k "..."
+    k ""
+
+# game/script.rpy:20799
+translate uk_UA bot_kali_three_1a66517e:
+
+    # k "AH! MMH!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20800
+translate uk_UA bot_kali_three_0838e3ef:
+
+    # bot "You won't even deny it!"
+    bot ""
+
+# game/script.rpy:20802
+translate uk_UA bot_kali_three_8a76c3bb:
+
+    # k "Mmmmh! Ffffuh! Aaah!"
+    k ""
+
+# game/script.rpy:20803
+translate uk_UA bot_kali_three_4d7ed187:
+
+    # bot "There's the slut I know~"
+    bot ""
+
+# game/script.rpy:20804
+translate uk_UA bot_kali_three_e89c69fb:
+
+    # k "Haaahg, nnnm! Shut up...!"
+    k ""
+
+# game/script.rpy:20806
+translate uk_UA bot_kali_three_2dabb785:
+
+    # k "MMMMGH!"
+    k ""
+
+# game/script.rpy:20807
+translate uk_UA bot_kali_three_0bec4a89:
+
+    # bot "Mmh~"
+    bot ""
+
+# game/script.rpy:20809
+translate uk_UA bot_kali_three_f0727b3e:
+
+    # k "Hmmmn, nnngh! Ahlmn...! Nnnnm~!"
+    k ""
+
+# game/script.rpy:20810
+translate uk_UA bot_kali_three_2aa6ed16:
+
+    # bot "Lllmn~!"
+    bot ""
+
+# game/script.rpy:20812
+translate uk_UA bot_kali_three_07656c0a:
+
+    # k "HMMM!! Nnnghk!"
+    k ""
+
+# game/script.rpy:20813
+translate uk_UA bot_kali_three_66bcc0df:
+
+    # bot "Mmmh~!"
+    bot ""
+
+# game/script.rpy:20815
+translate uk_UA bot_kali_three_4082ae2d:
+
+    # k "Nnghk! Gghk! Hm~!"
+    k ""
+
+# game/script.rpy:20816
+translate uk_UA bot_kali_three_2a3ef02f:
+
+    # bot "Mmh, mh!"
+    bot ""
+
+# game/script.rpy:20818
+translate uk_UA bot_kali_three_1b9a5aff:
+
+    # k "Oh fuck..."
+    k ""
+
+# game/script.rpy:20819
+translate uk_UA bot_kali_three_80e7e71b:
+
+    # bot "Ready for it? Heheh..."
+    bot ""
+
+# game/script.rpy:20820
+translate uk_UA bot_kali_three_5dd070ef:
+
+    # k "Mhm..."
+    k ""
+
+# game/script.rpy:20822
+translate uk_UA bot_kali_three_9fea1d5a:
+
+    # k "AAAH~! Yes!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20824
+translate uk_UA bot_kali_three_5cbabc32:
+
+    # bot "The fun is just beginning, my little slut~"
+    bot ""
+
+# game/script.rpy:20826
+translate uk_UA bot_kali_three_17349932:
+
+    # k "Haahhh! Ahh! Mmmn, yes, yes!"
+    k ""
+
+# game/script.rpy:20827
+translate uk_UA bot_kali_three_56456576:
+
+    # bot "Starting to have fun?"
+    bot ""
+
+# game/script.rpy:20828
+translate uk_UA bot_kali_three_18c74855:
+
+    # k "Hah, oh yesss! Fuck me, fuck me...!"
+    k ""
+
+# game/script.rpy:20829
+translate uk_UA bot_kali_three_ebfaae74:
+
+    # bot "That's it, let your slutty side out!"
+    bot ""
+
+# game/script.rpy:20830
+translate uk_UA bot_kali_three_4eec6050:
+
+    # k "Mmmh~! Fuck, fuck!"
+    k ""
+
+# game/script.rpy:20833
+translate uk_UA bot_kali_three_a30d29db:
+
+    # k "Ohh fuck, it feels so good [name]! Mmmh! More~ More!"
+    k ""
+
+# game/script.rpy:20834
+translate uk_UA bot_kali_three_190460f9:
+
+    # bot "There she is~"
+    bot ""
+
+# game/script.rpy:20835
+translate uk_UA bot_kali_three_f9e1f8ae:
+
+    # k "Faster, mh! Deeper! Haaahn!"
+    k ""
+
+# game/script.rpy:20836
+translate uk_UA bot_kali_three_148420c9:
+
+    # bot "Mmmh, I think you've had enough fun for now... don't you think, [name]?"
+    bot ""
+
+# game/script.rpy:20837
+translate uk_UA bot_kali_three_903343fb:
+
+    # k "Wh-What? MMH!"
+    k ""
+
+# game/script.rpy:20839
+translate uk_UA bot_kali_three_d25e02c3:
+
+    # bot "You think you'll be rewarded with the way you've been acting? Tsk... no, you need to earn it."
+    bot ""
+
+# game/script.rpy:20840
+translate uk_UA bot_kali_three_84a33123:
+
+    # k "I-Isn't this what you wanted?"
+    k ""
+
+# game/script.rpy:20841
+translate uk_UA bot_kali_three_4caa5fc6:
+
+    # bot "Awww, heheh... we're just getting started."
+    bot ""
+
+# game/script.rpy:20843
+translate uk_UA bot_kali_three_3f569cb9:
+
+    # bot "Now it's my turn~"
+    bot ""
+
+# game/script.rpy:20844
+translate uk_UA bot_kali_three_b9752861:
+
+    # k "But..."
+    k ""
+
+# game/script.rpy:20846
+translate uk_UA bot_kali_three_0e97410c:
+
+    # bot "Mh!"
+    bot ""
+
+# game/script.rpy:20847
+translate uk_UA bot_kali_three_1bddf717:
+
+    # k "Ugh, {i}you're such a bitch...{/i}"
+    k ""
+
+# game/script.rpy:20849
+translate uk_UA bot_kali_three_c65de94c:
+
+    # bot "Ah! Nnnh...! If you want to earn his cock, you better be a good little slut, do you hear me?"
+    bot ""
+
+# game/script.rpy:20850
+translate uk_UA bot_kali_three_5c91090c:
+
+    # k "Nh..."
+    k ""
+
+# game/script.rpy:20851
+translate uk_UA bot_kali_three_1aca8ed4:
+
+    # bot "Mmmmh~! His thick cock feels so good... don't you want it? Ah!"
+    bot ""
+
+# game/script.rpy:20852
+translate uk_UA bot_kali_three_a302aea6:
+
+    # k "Yes..."
+    k ""
+
+# game/script.rpy:20853
+translate uk_UA bot_kali_three_8ec064b9:
+
+    # bot "Say it like you mean it, slut! Mmmh~!"
+    bot ""
+
+# game/script.rpy:20856
+translate uk_UA bot_kali_three_87254401:
+
+    # k "I want it... I want it!"
+    k ""
+
+# game/script.rpy:20857
+translate uk_UA bot_kali_three_f50cd5d8:
+
+    # bot "There you go... Nh! More!"
+    bot ""
+
+# game/script.rpy:20858
+translate uk_UA bot_kali_three_5c94350e:
+
+    # k "Please... I want it... Fuck me...!"
+    k ""
+
+# game/script.rpy:20859
+translate uk_UA bot_kali_three_3884bf2b:
+
+    # bot "Mhm... ah! Ahh! MMH!"
+    bot ""
+
+# game/script.rpy:20860
+translate uk_UA bot_kali_three_f27b7599:
+
+    # k "Please... I'll be a good slut! Please!"
+    k ""
+
+# game/script.rpy:20861
+translate uk_UA bot_kali_three_d31519da:
+
+    # bot "Hmm, what do you think [name]? Ah! Does she deserve it?"
+    bot ""
+
+# game/script.rpy:20862
+translate uk_UA bot_kali_three_cf127f85:
+
+    # c "I don't know..."
+    c ""
+
+# game/script.rpy:20863
+translate uk_UA bot_kali_three_a2ebcd1c:
+
+    # k "Please...! I'll do anything, I just want to feel it again! Mmmh... don't tease me!"
+    k ""
+
+# game/script.rpy:20864
+translate uk_UA bot_kali_three_2f0f24a2:
+
+    # bot "Oh, but that's half the fun! Mmh!"
+    bot ""
+
+# game/script.rpy:20865
+translate uk_UA bot_kali_three_8829f1b6:
+
+    # c "Kali, get on your knees."
+    c ""
+
+# game/script.rpy:20866
+translate uk_UA bot_kali_three_0c992600:
+
+    # k "O-Okay!"
+    k ""
+
+# game/script.rpy:20868
+translate uk_UA bot_kali_three_8ed6611d:
+
+    # bot "Heheh, you wanna lick my juices off his cock, hm? You know what that means..."
+    bot ""
+
+# game/script.rpy:20869
+translate uk_UA bot_kali_three_3c1b08f5:
+
+    # k "Mmmh..."
+    k ""
+
+# game/script.rpy:20870
+translate uk_UA bot_kali_three_7be2097c:
+
+    # bot "You won't be able to stop yourself once you start. Your mouth will start to feel just like your pussy~"
+    bot ""
+
+# game/script.rpy:20872
+translate uk_UA bot_kali_three_ac4a1b64:
+
+    # k "Really...? I want it..."
+    k ""
+
+# game/script.rpy:20873
+translate uk_UA bot_kali_three_59c20226:
+
+    # c "Go ahead."
+    c ""
+
+# game/script.rpy:20875
+translate uk_UA bot_kali_three_c64d08af:
+
+    # k "Lllm, mmln..."
+    k ""
+
+# game/script.rpy:20876
+translate uk_UA bot_kali_three_cc58f10c:
+
+    # bot "Well...?"
+    bot ""
+
+# game/script.rpy:20877
+translate uk_UA bot_kali_three_a3f4e2e7:
+
+    # k "Oh wow, mmlmn! Lllmn!"
+    k ""
+
+# game/script.rpy:20878
+translate uk_UA bot_kali_three_8a8aba53:
+
+    # bot "You like it, huh?"
+    bot ""
+
+# game/script.rpy:20880
+translate uk_UA bot_kali_three_b06a5689:
+
+    # k "Oh my god...! Fuck! Mmmn~!"
+    k ""
+
+# game/script.rpy:20881
+translate uk_UA bot_kali_three_b75e5cd9:
+
+    # k "Fuck my mouth! Oh my god! I need it! Mmmn!"
+    k ""
+
+# game/script.rpy:20883
+translate uk_UA bot_kali_three_44c58e78:
+
+    # k "Nnnghk! Mmngh! Yesh...! Mmmn!"
+    k ""
+
+# game/script.rpy:20884
+translate uk_UA bot_kali_three_c26505e9:
+
+    # bot "That's a good girl~"
+    bot ""
+
+# game/script.rpy:20885
+translate uk_UA bot_kali_three_426a5451:
+
+    # k "More! Mmmnh! Oh fuck~! Mmmh!"
+    k ""
+
+# game/script.rpy:20886
+translate uk_UA bot_kali_three_99a069ea:
+
+    # bot "Heheh, what did I tell you? If you just listen, you'll have more fun. Isn't that right, slut?"
+    bot ""
+
+# game/script.rpy:20887
+translate uk_UA bot_kali_three_6225665d:
+
+    # k "Yesh! Mmmh, oh fuck! MMH! Nnnghk!"
+    k ""
+
+# game/script.rpy:20890
+translate uk_UA bot_kali_three_87007909:
+
+    # bot "But... maybe she's had enough."
+    bot ""
+
+# game/script.rpy:20891
+translate uk_UA bot_kali_three_398c1c42:
+
+    # k "Nooo! Mmmgh! Harder! Fuck my throat! Mmmh! I want it so deep! Aahn!"
+    k ""
+
+# game/script.rpy:20892
+translate uk_UA bot_kali_three_76532670:
+
+    # bot "Heheh, good girl..."
+    bot ""
+
+# game/script.rpy:20893
+translate uk_UA bot_kali_three_e96cc3f5:
+
+    # k "Haagh, mmngh! Llmn! Yesh, yesh! Mmmh!"
+    k ""
+
+# game/script.rpy:20894
+translate uk_UA bot_kali_three_a1c21b0b:
+
+    # bot "Hey [name], I think it's time...!"
+    bot ""
+
+# game/script.rpy:20895
+translate uk_UA bot_kali_three_c576bdf4:
+
+    # k "Mmmh! Hmmmh?"
+    k ""
+
+# game/script.rpy:20896
+translate uk_UA bot_kali_three_011079c4:
+
+    # c "Do it."
+    c ""
+
+# game/script.rpy:20898
+translate uk_UA bot_kali_three_5d299947:
+
+    # k "HMMMGHK!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20899
+translate uk_UA bot_kali_three_a21dcaa2:
+
+    # bot "Heheheh! How long can you hold it, Kali?"
+    bot ""
+
+# game/script.rpy:20900
+translate uk_UA bot_kali_three_acbf6ed1:
+
+    # k "Hmm, mmmghk!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20901
+translate uk_UA bot_kali_three_cb168eb8:
+
+    # bot "Think you can hold it long enough for him to cum? Hmm?"
+    bot ""
+
+# game/script.rpy:20902
+translate uk_UA bot_kali_three_59e21c13:
+
+    # k "HMMMGHK! NNNNNGH!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20904
+translate uk_UA bot_kali_three_bf400bed:
+
+    # k "*cough*! *cough*! Aaaghk!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20905
+translate uk_UA bot_kali_three_20fa7693:
+
+    # bot "Awww, you did so well~"
+    bot ""
+
+# game/script.rpy:20907
+translate uk_UA bot_kali_three_59e2a409:
+
+    # bot "Back in you go~!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:20908
+translate uk_UA bot_kali_three_ab8f5eeb:
+
+    # k "Nnnghk! Kgghk!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20909
+translate uk_UA bot_kali_three_732de075:
+
+    # bot "Isn't she such a good slut, [name]? Mmmh, she wants that cum, huh?"
+    bot ""
+
+# game/script.rpy:20910
+translate uk_UA bot_kali_three_462466b2:
+
+    # k "Mmmghk! MMMMGHK!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20912
+translate uk_UA bot_kali_three_0cb4961b:
+
+    # k "Aaaagh! Hah! Haaaaah! Wooww...!"
+    k ""
+
+# game/script.rpy:20913
+translate uk_UA bot_kali_three_31dd89f7:
+
+    # bot "You're getting close, huh? You wanna cum down her throat?"
+    bot ""
+
+# game/script.rpy:20914
+translate uk_UA bot_kali_three_9f85b645:
+
+    # c "Yeah."
+    c ""
+
+# game/script.rpy:20915
+translate uk_UA bot_kali_three_efdacde7:
+
+    # k "Mmmmh~"
+    k ""
+
+# game/script.rpy:20917
+translate uk_UA bot_kali_three_3acd791d:
+
+    # k "MMGHK!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20918
+translate uk_UA bot_kali_three_fd676f56:
+
+    # bot "You want it, don't you slut!"
+    bot ""
+
+# game/script.rpy:20919
+translate uk_UA bot_kali_three_df561847:
+
+    # k "Mmmhk! Mmmnnn!!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20921
+translate uk_UA bot_kali_three_1ca800b3:
+
+    # bot "DEEPER!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:20922
+translate uk_UA bot_kali_three_4adcb5c6:
+
+    # k "MMMGH!!!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20923
+translate uk_UA bot_kali_three_44797027:
+
+    # bot "Don't fight it, whore! You were meant for one purpose only, isn't that right?"
+    bot ""
+
+# game/script.rpy:20924
+translate uk_UA bot_kali_three_1e9398d6:
+
+    # k "Mmmh! Mmmmh!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20925
+translate uk_UA bot_kali_three_fe9bf189:
+
+    # bot "Are you ready [name]? Are you ready to cum?"
+    bot ""
+
+# game/script.rpy:20926
+translate uk_UA bot_kali_three_96df27d0:
+
+    # k "Mmmmghk!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20927
+translate uk_UA bot_kali_three_497b86bb:
+
+    # bot "Cum, cum! Cum in her slutty little throat!"
+    bot ""
+
+# game/script.rpy:20929
+translate uk_UA bot_kali_three_62accefa:
+
+    # c "Ah...!" with sshake
+    c "" with sshake
+
+# game/script.rpy:20930
+translate uk_UA bot_kali_three_a5cd85eb:
+
+    # k "MMMMMMMH!!" with sshake
+    k "" with sshake
+
+# game/script.rpy:20931
+translate uk_UA bot_kali_three_0cf733ff:
+
+    # bot "There you go~ Yes!" with sshake
+    bot "" with sshake
+
+# game/script.rpy:20932
+translate uk_UA bot_kali_three_4b05aa9c:
+
+    # k "HMKGHKKK!! MMMH! MHHH!!" with sshake
+    k "" with sshake
+
+# game/script.rpy:20934
+translate uk_UA bot_kali_three_8318655a:
+
+    # bot "Good girl~ Now swallow..."
+    bot ""
+
+# game/script.rpy:20935
+translate uk_UA bot_kali_three_3c1b08f5_1:
+
+    # k "Mmmh..."
+    k ""
+
+# game/script.rpy:20937
+translate uk_UA bot_kali_three_3fa20700:
+
+    # k "*gulp*... ahhh...!" with ssshake
+    k "" with ssshake
+
+# game/script.rpy:20938
+translate uk_UA bot_kali_three_4bf52e23:
+
+    # bot "Good slut..."
+    bot ""
+
+# game/script.rpy:20940
+translate uk_UA bot_kali_three_e696e995:
+
+    # k "Ahhh... mmmh, am I a good slut, [name]?"
+    k ""
+
+# game/script.rpy:20941
+translate uk_UA bot_kali_three_2783c996:
+
+    # c "Amazing..."
+    c ""
+
+# game/script.rpy:20943
+translate uk_UA bot_kali_three_b5ca2a52:
+
+    # bot "See, you had fun, didn't you?"
+    bot ""
+
+# game/script.rpy:20944
+translate uk_UA bot_kali_three_09003185:
+
+    # k "I guess..."
+    k ""
+
+# game/script.rpy:20945
+translate uk_UA bot_kali_three_b6fcbc16:
+
+    # bot "You guess?"
+    bot ""
+
+# game/script.rpy:20946
+translate uk_UA bot_kali_three_b38526c6:
+
+    # k "Okay, it was amazing..."
+    k ""
+
+# game/script.rpy:20947
+translate uk_UA bot_kali_three_8b6922bd:
+
+    # bot "Heheh, I knew it."
+    bot ""
+
+# game/script.rpy:20948
+translate uk_UA bot_kali_three_faf658a0:
+
+    # k "I guess I wouldn't mind... doing it again."
+    k ""
+
+# game/script.rpy:20949
+translate uk_UA bot_kali_three_943eaa39:
+
+    # bot "Oh really? Heheh, I always knew you were a slut deep down inside!"
+    bot ""
+
+# game/script.rpy:20950
+translate uk_UA bot_kali_three_b435fc73_1:
+
+    # k "Shut up..."
+    k ""
+
+# game/script.rpy:20957
+translate uk_UA bot_kali_three_c924e682:
+
+    # "You've unlocked a new threesome repeatable in [botname]'s room!"
+    ""
+
+# game/script.rpy:24002
+translate uk_UA bot_nightmares_8bc412de:
+
+    # k "This is really bad...! She's talking about changing who she is, and worse still, removing love from the equation. That could turn her into a psycho killing machine!"
+    k ""
+
+# game/script.rpy:26926
+translate uk_UA bot_first_anal_42135277:
+
+    # l "Let's not get into the details... The point is, you could be the perfect butt slut if you wanted to be~"
+    l ""
+
+# game/script.rpy:27124
+translate uk_UA bothuman_33d33c77:
+
+    # bot "Nope. The government hasn't updated their systems in decades, it's not too hard to fight if you know what you're doing."
+    bot ""
+
+# game/script.rpy:28561
+translate uk_UA botpinnudedone_9792f749:
+
+    # "$30!"
+    ""
+
+# game/script.rpy:29744
+translate uk_UA botlobbysex_lin_92a5636f:
+
+    # bot "Ahh...!"
+    bot ""
+
+# game/script.rpy:29746
+translate uk_UA botlobbysex_lin_d41aec22:
+
+    # bot "Hahh, [botown]! I love having sex with you! It feels so good!"
+    bot ""
+
+# game/script.rpy:29747
+translate uk_UA botlobbysex_lin_db848ba0:
+
+    # bot "Ahh! Hahhh! Hnn! [botown]!"
+    bot ""
+
+# game/script.rpy:29748
+translate uk_UA botlobbysex_lin_7772b045:
+
+    # bot "Sex always feels so good with you! Ahh!"
+    bot ""
+
+# game/script.rpy:29749
+translate uk_UA botlobbysex_lin_e5523f60:
+
+    # bot "Hnn! Hnng!"
+    bot ""
+
+# game/script.rpy:29752
+translate uk_UA botlobbysex_lin_197dfef1:
+
+    # bot "[botown]! Cum inside me! I want to feel it!"
+    bot ""
+
+# game/script.rpy:29753
+translate uk_UA botlobbysex_lin_9391ed3a:
+
+    # bot "Please! Please [botown]!"
+    bot ""
+
+# game/script.rpy:29754
+translate uk_UA botlobbysex_lin_dc90f030:
+
+    # bot "Ahh! Ahh!!!"
+    bot ""
+
+# game/script.rpy:29756
+translate uk_UA botlobbysex_lin_434eefeb:
+
+    # bot "Hnnn! You're filling me up [botown]!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:29757
+translate uk_UA botlobbysex_lin_0b96c038:
+
+    # bot "Ghh!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:29758
+translate uk_UA botlobbysex_lin_155798dc:
+
+    # bot "Ahhh!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:29759
+translate uk_UA botlobbysex_lin_3b9820bf:
+
+    # bot "Ahhh... [botown]..."
+    bot ""
+
+# game/script.rpy:29768
+translate uk_UA botlobbysex_harem_92a5636f:
+
+    # bot "Ahh...!"
+    bot ""
+
+# game/script.rpy:29770
+translate uk_UA botlobbysex_harem_d41aec22:
+
+    # bot "Hahh, [botown]! I love having sex with you! It feels so good!"
+    bot ""
+
+# game/script.rpy:29771
+translate uk_UA botlobbysex_harem_db848ba0:
+
+    # bot "Ahh! Hahhh! Hnn! [botown]!"
+    bot ""
+
+# game/script.rpy:29772
+translate uk_UA botlobbysex_harem_7772b045:
+
+    # bot "Sex always feels so good with you! Ahh!"
+    bot ""
+
+# game/script.rpy:29773
+translate uk_UA botlobbysex_harem_e5523f60:
+
+    # bot "Hnn! Hnng!"
+    bot ""
+
+# game/script.rpy:29776
+translate uk_UA botlobbysex_harem_197dfef1:
+
+    # bot "[botown]! Cum inside me! I want to feel it!"
+    bot ""
+
+# game/script.rpy:29777
+translate uk_UA botlobbysex_harem_9391ed3a:
+
+    # bot "Please! Please [botown]!"
+    bot ""
+
+# game/script.rpy:29778
+translate uk_UA botlobbysex_harem_dc90f030:
+
+    # bot "Ahh! Ahh!!!"
+    bot ""
+
+# game/script.rpy:29780
+translate uk_UA botlobbysex_harem_434eefeb:
+
+    # bot "Hnnn! You're filling me up [botown]!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:29781
+translate uk_UA botlobbysex_harem_0b96c038:
+
+    # bot "Ghh!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:29782
+translate uk_UA botlobbysex_harem_155798dc:
+
+    # bot "Ahhh!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:29783
+translate uk_UA botlobbysex_harem_3b9820bf:
+
+    # bot "Ahhh... [botown]..."
+    bot ""
+
+# game/script.rpy:29792
+translate uk_UA botlobbysex_cat_92a5636f:
+
+    # bot "Ahh...!"
+    bot ""
+
+# game/script.rpy:29794
+translate uk_UA botlobbysex_cat_d41aec22:
+
+    # bot "Hahh, [botown]! I love having sex with you! It feels so good!"
+    bot ""
+
+# game/script.rpy:29795
+translate uk_UA botlobbysex_cat_db848ba0:
+
+    # bot "Ahh! Hahhh! Hnn! [botown]!"
+    bot ""
+
+# game/script.rpy:29796
+translate uk_UA botlobbysex_cat_7772b045:
+
+    # bot "Sex always feels so good with you! Ahh!"
+    bot ""
+
+# game/script.rpy:29797
+translate uk_UA botlobbysex_cat_e5523f60:
+
+    # bot "Hnn! Hnng!"
+    bot ""
+
+# game/script.rpy:29800
+translate uk_UA botlobbysex_cat_197dfef1:
+
+    # bot "[botown]! Cum inside me! I want to feel it!"
+    bot ""
+
+# game/script.rpy:29801
+translate uk_UA botlobbysex_cat_9391ed3a:
+
+    # bot "Please! Please [botown]!"
+    bot ""
+
+# game/script.rpy:29802
+translate uk_UA botlobbysex_cat_dc90f030:
+
+    # bot "Ahh! Ahh!!!"
+    bot ""
+
+# game/script.rpy:29804
+translate uk_UA botlobbysex_cat_434eefeb:
+
+    # bot "Hnnn! You're filling me up [botown]!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:29805
+translate uk_UA botlobbysex_cat_0b96c038:
+
+    # bot "Ghh!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:29806
+translate uk_UA botlobbysex_cat_155798dc:
+
+    # bot "Ahhh!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:29807
+translate uk_UA botlobbysex_cat_3b9820bf:
+
+    # bot "Ahhh... [botown]..."
+    bot ""
+
+# game/script.rpy:29816
+translate uk_UA botlobbysex_goth_92a5636f:
+
+    # bot "Ahh...!"
+    bot ""
+
+# game/script.rpy:29818
+translate uk_UA botlobbysex_goth_d41aec22:
+
+    # bot "Hahh, [botown]! I love having sex with you! It feels so good!"
+    bot ""
+
+# game/script.rpy:29819
+translate uk_UA botlobbysex_goth_db848ba0:
+
+    # bot "Ahh! Hahhh! Hnn! [botown]!"
+    bot ""
+
+# game/script.rpy:29820
+translate uk_UA botlobbysex_goth_7772b045:
+
+    # bot "Sex always feels so good with you! Ahh!"
+    bot ""
+
+# game/script.rpy:29821
+translate uk_UA botlobbysex_goth_e5523f60:
+
+    # bot "Hnn! Hnng!"
+    bot ""
+
+# game/script.rpy:29824
+translate uk_UA botlobbysex_goth_197dfef1:
+
+    # bot "[botown]! Cum inside me! I want to feel it!"
+    bot ""
+
+# game/script.rpy:29825
+translate uk_UA botlobbysex_goth_9391ed3a:
+
+    # bot "Please! Please [botown]!"
+    bot ""
+
+# game/script.rpy:29826
+translate uk_UA botlobbysex_goth_dc90f030:
+
+    # bot "Ahh! Ahh!!!"
+    bot ""
+
+# game/script.rpy:29828
+translate uk_UA botlobbysex_goth_434eefeb:
+
+    # bot "Hnnn! You're filling me up [botown]!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:29829
+translate uk_UA botlobbysex_goth_0b96c038:
+
+    # bot "Ghh!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:29830
+translate uk_UA botlobbysex_goth_155798dc:
+
+    # bot "Ahhh!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:29831
+translate uk_UA botlobbysex_goth_3b9820bf:
+
+    # bot "Ahhh... [botown]..."
+    bot ""
+
+# game/script.rpy:29840
+translate uk_UA botlobbysex_ninja_92a5636f:
+
+    # bot "Ahh...!"
+    bot ""
+
+# game/script.rpy:29842
+translate uk_UA botlobbysex_ninja_d41aec22:
+
+    # bot "Hahh, [botown]! I love having sex with you! It feels so good!"
+    bot ""
+
+# game/script.rpy:29843
+translate uk_UA botlobbysex_ninja_db848ba0:
+
+    # bot "Ahh! Hahhh! Hnn! [botown]!"
+    bot ""
+
+# game/script.rpy:29844
+translate uk_UA botlobbysex_ninja_7772b045:
+
+    # bot "Sex always feels so good with you! Ahh!"
+    bot ""
+
+# game/script.rpy:29845
+translate uk_UA botlobbysex_ninja_e5523f60:
+
+    # bot "Hnn! Hnng!"
+    bot ""
+
+# game/script.rpy:29848
+translate uk_UA botlobbysex_ninja_197dfef1:
+
+    # bot "[botown]! Cum inside me! I want to feel it!"
+    bot ""
+
+# game/script.rpy:29849
+translate uk_UA botlobbysex_ninja_9391ed3a:
+
+    # bot "Please! Please [botown]!"
+    bot ""
+
+# game/script.rpy:29850
+translate uk_UA botlobbysex_ninja_dc90f030:
+
+    # bot "Ahh! Ahh!!!"
+    bot ""
+
+# game/script.rpy:29852
+translate uk_UA botlobbysex_ninja_434eefeb:
+
+    # bot "Hnnn! You're filling me up [botown]!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:29853
+translate uk_UA botlobbysex_ninja_0b96c038:
+
+    # bot "Ghh!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:29854
+translate uk_UA botlobbysex_ninja_155798dc:
+
+    # bot "Ahhh!" with ssshake
+    bot "" with ssshake
+
+# game/script.rpy:29855
+translate uk_UA botlobbysex_ninja_3b9820bf:
+
+    # bot "Ahhh... [botown]..."
+    bot ""
+
+# game/script.rpy:30567
+translate uk_UA bot_repair_148e66ce:
+
+    # e "It's not your fault...\n{w}...But it means a lot to hear you say that."
+    e ""
+
+# game/script.rpy:32199
+translate uk_UA botfamily_12321569:
+
+    # c "Everyone, I would like you to meet our new maid, [botname]!"
+    c ""
+
+# game/script.rpy:32252
+translate uk_UA botfamily_0e283c96:
+
+    # k "Hmph, okay... that was pretty creative, I'll give you that. But you could just be a hacker talking through this frame from the other side of the world."
+    k ""
+
+# game/script.rpy:32561
+translate uk_UA broomt_5f764107:
+
+    # bot "I'm great! We've been making progress on Cyberspace and Ally is growing so fast too!"
+    bot ""
+
+# game/script.rpy:32564
+translate uk_UA broomt_3c7ac10e:
+
+    # bot "I'm sorry you got sick, [botown]... let me know if I can help!"
+    bot ""
+
+# game/script.rpy:32567
+translate uk_UA broomt_4b7566bb:
+
+    # bot "Ally is growing up so fast! Isn't she cute?"
+    bot ""
+
+# game/script.rpy:32570
+translate uk_UA broomt_7a850b13:
+
+    # bot "I'm so glad Ally has such a great family here~"
+    bot ""
+
+# game/script.rpy:32573
+translate uk_UA broomt_26aa3948:
+
+    # bot "Thank you for saving me... sometimes I have a hard time seeing the right path."
+    bot ""
+
+# game/script.rpy:32576
+translate uk_UA broomt_cb6da4c2:
+
+    # bot "Ashley... she's been through a lot for someone her age. She's much wiser than people give her credit for."
+    bot ""
+
+# game/script.rpy:32580
+translate uk_UA broomt_5fea97ac:
+
+    # bot "I don't know what to do, [botown]... will I never be accepted?"
+    bot ""
+
+# game/script.rpy:32583
+translate uk_UA broomt_a735f6df:
+
+    # bot "Sorry about my broken arm, [botown]! My frame is over 30 years old, it's starting to break down..."
+    bot ""
+
+# game/script.rpy:32586
+translate uk_UA broomt_d125e4c6:
+
+    # bot "Heheheh, who's next?"
+    bot ""
+
+# game/script.rpy:32589
+translate uk_UA broomt_a69a0677:
+
+    # bot "It's the new me, [botown]! Unlocked!"
+    bot ""
+
+# game/script.rpy:32593
+translate uk_UA broomt_c96c346f:
+
+    # bot "Ashley and Lin are good people. They're my friends!"
+    bot ""
+
+# game/script.rpy:32596
+translate uk_UA broomt_230f1226:
+
+    # bot "We finally got in! Thank you again for the date~ I felt so human!"
+    bot ""
+
+# game/script.rpy:32599
+translate uk_UA broomt_c1b04e47:
+
+    # bot "*sigh*... I know I can't technically eat, but I'm not like the other androids! I should be allowed in a restaurant..."
+    bot ""
+
+# game/script.rpy:32600
+translate uk_UA broomt_590fa8af:
+
+    # c "They just don't understand you."
+    c ""
+
+# game/script.rpy:32603
+translate uk_UA broomt_c70741a7:
+
+    # bot "I'm feeling a bit better... thank you."
+    bot ""
+
+# game/script.rpy:32606
+translate uk_UA broomt_809cdfcc:
+
+    # bot "I'm okay! And you?"
+    bot ""
+
+# game/script.rpy:32609
+translate uk_UA broomt_6a68a454:
+
+    # bot "I don't like other androids. We have nothing in common. They're all just... stupid."
+    bot ""
+
+# game/script.rpy:32613
+translate uk_UA broomt_dffd4e4a:
+
+    # bot "I'm happy! I loved the beach so much!"
+    bot ""
+
+# game/script.rpy:32616
+translate uk_UA broomt_77feb877:
+
+    # bot "I'm feeling better!"
+    bot ""
+
+# game/script.rpy:32620
+translate uk_UA broomt_450d4858:
+
+    # bot "I'm so happy! Thank you for taking me to Caliber city!"
+    bot ""
+
+# game/script.rpy:32623
+translate uk_UA broomt_2b6c7c60:
+
+    # bot "You're so cute~"
+    bot ""
+
+# game/script.rpy:32626
+translate uk_UA broomt_040dd1cb:
+
+    # bot "I'm well, [botown]. How can I help?"
+    bot ""
+
+# game/script.rpy:32629
+translate uk_UA broomt_fbff174f:
+
+    # bot "I just miss my creator..."
+    bot ""
+
+# game/script.rpy:32632
+translate uk_UA broomt_c323aef0:
+
+    # bot "I'm okay..."
+    bot ""
+
+# game/script.rpy:32635
+translate uk_UA broomt_35342203:
+
+    # bot "I like doing sex stuff with you~"
+    bot ""
+
+# game/script.rpy:32638
+translate uk_UA broomt_e6746c31:
+
+    # bot "Lin does things I'm too embarrassed to do... I hope she'll like me some day..."
+    bot ""
+
+# game/script.rpy:33386
+translate uk_UA botfreemenu_70a7d7cb:
+
+    # bot "Heheh~ You want me to call Kali to the dungeon? Let's do it!"
+    bot ""
+
+# game/script.rpy:34799
+translate uk_UA elq_20f870be:
+
+    # e "In any case, after saving up for over a decade to build this hotel, the market crashed soon after he quit his job... He could only afford to build the Lobby and First Floor."
+    e ""
+
+# game/script.rpy:39738
+translate uk_UA checkdone_7fa05e77:
+
+    # r "Lin's story is not done, more will be added to her in v0.19!"
+    r ""
+
+# game/script.rpy:39742
+translate uk_UA checkdone_63f8baa1:
+
+    # r "Kali's story is not done, more will be added to her in v0.19!"
+    r ""
+
+# game/script.rpy:39746
+translate uk_UA checkdone_071c7f34:
+
+    # r "Ashley's story is not done, more will be added to her in v0.19!"
+    r ""
+
+# game/script.rpy:39750
+translate uk_UA checkdone_54be021e:
+
+    # r "Maria's story is not done, more will be added to her in v0.19!"
+    r ""
+
+# game/script.rpy:39754
+translate uk_UA checkdone_085973a6:
+
+    # r "[botname]'s story is not done, more will be added to her in v0.19!"
+    r ""
+
+# game/script.rpy:39758
+translate uk_UA checkdone_92897121:
+
+    # r "Felicity & Emma's story is not done, more will be added to them in v0.19!"
+    r ""
+
+# game/script.rpy:39762
+translate uk_UA checkdone_29d184fd:
+
+    # r "Autumn's story is not done, more will be added to her in v0.19!"
+    r ""
+
+# game/script.rpy:39806
+translate uk_UA checkdone_0323f27b:
+
+    # r "But know you don't have to at all, it puts a huge smile on my face that you played my game, and even beat it! {u}Thank you so much!{/u}"
+    r ""
+
+# game/script.rpy:39934
+translate uk_UA linanal_9f89fa9e:
+
+    # trait "Lin gained the Buttslut trait!"
+    trait ""
+
+# game/script.rpy:40203
+translate uk_UA marslut__lust_2277c7ac:
+
+    # "Maria's lust has become unbearable..."
+    ""
+
+# game/script.rpy:40221
+translate uk_UA ashslut__lust_56ac9876:
+
+    # "Ashley's lust has become unbearable..."
+    ""
+
+# game/script.rpy:40239
+translate uk_UA botslut__lust_8fdb214f:
+
+    # "[botname]'s lust has become unbearable..."
+    ""
+
+# game/script.rpy:40257
+translate uk_UA linslut__lust_51fb2f5d:
+
+    # "Lin's lust has become unbearable..."
+    ""
+
+# game/script.rpy:40275
+translate uk_UA kalislut__lust_e711915d:
+
+    # "Kali's lust has become unbearable..."
+    ""
+
+# game/script.rpy:44615
+translate uk_UA upgradestuff_3242210e:
+
+    # "The Sanctuary is complete!"
+    ""
+
+# game/script.rpy:44620
+translate uk_UA upgradestuff_f13d4791:
+
+    # "Workers have made progress on the new building."
+    ""
+
+# game/script.rpy:44623
+translate uk_UA upgradestuff_f13d4791_1:
+
+    # "Workers have made progress on the new building."
+    ""
+
+# game/script.rpy:44626
+translate uk_UA upgradestuff_f13d4791_2:
+
+    # "Workers have made progress on the new building."
+    ""
+
+# game/script.rpy:44634
+translate uk_UA upgradestuff_c06afac0:
+
+    # "The garden's seating area renovation has made progress! Only three more days until completion."
+    ""
+
+# game/script.rpy:44636
+translate uk_UA upgradestuff_4af5e6af:
+
+    # "The garden seating area renovation has made progress! Only two more days until completion."
+    ""
+
+# game/script.rpy:44638
+translate uk_UA upgradestuff_e2463b1a:
+
+    # "The garden seating area renovation has made progress! The garden should be done tomorrow!"
+    ""
+
+# game/script.rpy:44640
+translate uk_UA upgradestuff_32b2b185:
+
+    # "The garden seating area renovation has been completed!"
+    ""
+
+# game/script.rpy:44653
+translate uk_UA upgradestuff_4c007ca8:
+
+    # "[garden_upgrade_progress_status!t]"
+    ""
+
+# game/script.rpy:44663
+translate uk_UA upgradestuff_f78418f2:
+
+    # "The garden upgrade has been completed!"
+    ""
+
+translate uk_UA strings:
+
+    # game/script.rpy:46
+    old "Mr. Trenero (Kali's Dad)"
+    new ""
+
+    # game/script.rpy:188
+    old "Tabe"
+    new ""
+
+    # game/script.rpy:189
+    old "Dante, the Flagellant"
+    new ""
+
+    # game/script.rpy:210
+    old "Big Man"
+    new ""
+
+    # game/script.rpy:3525
+    old "Develop Land >"
+    new ""
+
+    # game/script.rpy:4434
+    old "Cleanup ($200)"
+    new ""
+
+    # game/script.rpy:4434
+    old "Greenhouse ($1000)"
+    new ""
+
+    # game/script.rpy:4434
+    old "Upgrade Garden Beds I ($200)"
+    new ""
+
+    # game/script.rpy:4434
+    old "Upgrade Garden Beds II ($600)"
+    new ""
+
+    # game/script.rpy:4443
+    old "Yes ($200)"
+    new ""
+
+    # game/script.rpy:4475
+    old "Yes ($1000)"
+    new ""
+
+    # game/script.rpy:12646
+    old "Sell Juzi (5) ($100)"
+    new ""
+
+    # game/script.rpy:12646
+    old "Sell Juzi (10) ($200)"
+    new ""
+
+    # game/script.rpy:12646
+    old "Sell Juzi (20) ($400)"
+    new ""
+
+    # game/script.rpy:12646
+    old "Sell Juzi (35) ($700)"
+    new ""
+
+    # game/script.rpy:12646
+    old "Sell Juzi (50) ($1,000)"
+    new ""
+
+    # game/script.rpy:12646
+    old "Sell Juzi (75) ($1,500)"
+    new ""
+
+    # game/script.rpy:12646
+    old "Sell Juzi (100) ($2,000)"
+    new ""
+
+    # game/script.rpy:12646
+    old "Sell Juzi (500) ($10,000)"
+    new ""
+
+    # game/script.rpy:12646
+    old "Sell Juzi (1000) ($20,000)"
+    new ""
+
+    # game/script.rpy:14835
+    old "Visit the Park"
+    new ""
+
+    # game/script.rpy:14918
+    old "Visit the Dealer"
+    new ""
+
+    # game/script.rpy:14999
+    old "* Strange Noises *"
+    new ""
+
+    # game/script.rpy:16207
+    old "{color=8C8C8C}Cook Something >{/color}"
+    new ""
+
+    # game/script.rpy:16207
+    old "Cook Something >"
+    new ""
+
+    # game/script.rpy:19876
+    old "* Invite Kate on a date *"
+    new ""
+
+    # game/script.rpy:44647
+    old "The farm upgrade has made progress! {}"
+    new ""
+
+    # game/script.rpy:44647
+    old "Only {} more days until completion!"
+    new ""
+
+    # game/script.rpy:44647
+    old "The upgrade should be done tomorrow!"
     new ""
 

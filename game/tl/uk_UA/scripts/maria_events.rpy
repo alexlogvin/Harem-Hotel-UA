@@ -40722,3 +40722,4977 @@ translate uk_UA strings:
     old "Masturbate"
     new ""
 
+# TODO: Translation updated at 2025-02-09 00:44
+
+# game/scripts/maria_events.rpy:9
+translate uk_UA pre_mar_corn_d438900d:
+
+    # m "Hey [name]! Glad you're up, I have news!"
+    m ""
+
+# game/scripts/maria_events.rpy:10
+translate uk_UA pre_mar_corn_60fc77ba:
+
+    # c "Good news?"
+    c ""
+
+# game/scripts/maria_events.rpy:12
+translate uk_UA pre_mar_corn_2341fe08:
+
+    # m "You could say that..."
+    m ""
+
+# game/scripts/maria_events.rpy:13
+translate uk_UA pre_mar_corn_3fdd59bc:
+
+    # m "Remember Cornwall's wife? Well I just got a text from her, she invited the Freemans to a dinner party."
+    m ""
+
+# game/scripts/maria_events.rpy:15
+translate uk_UA pre_mar_corn_6ddcb728:
+
+    # c "And you think it's a good idea to go? Cornwall knows who I am... And after the MuteMaid situation, he's not my biggest fan..."
+    c ""
+
+# game/scripts/maria_events.rpy:17
+translate uk_UA pre_mar_corn_f5a31880:
+
+    # c "And you think it's a good idea to go? Cornwall knows who I am, and he doesn't like me very much."
+    c ""
+
+# game/scripts/maria_events.rpy:18
+translate uk_UA pre_mar_corn_953bde04:
+
+    # m "I've got that all figured out. We'll just say you took my family name, he doesn't know who I am."
+    m ""
+
+# game/scripts/maria_events.rpy:20
+translate uk_UA pre_mar_corn_47b170a0:
+
+    # c "And what about Lin? There's a bounty on her head. He's going to be on my ass about that."
+    c ""
+
+# game/scripts/maria_events.rpy:21
+translate uk_UA pre_mar_corn_9e7308cc:
+
+    # m "It's like you said, Lin ran away a long time ago. You haven't seen her in months!"
+    m ""
+
+# game/scripts/maria_events.rpy:22
+translate uk_UA pre_mar_corn_48c82786:
+
+    # m "And besides, I have a feeling his wife isn't going to be too thrilled to discuss his work during dinner. She's the desperate type, she needs friends. That's where the Freemans come in!"
+    m ""
+
+# game/scripts/maria_events.rpy:23
+translate uk_UA pre_mar_corn_4d9ed514:
+
+    # c "Maria... if they find out you're a half elf..."
+    c ""
+
+# game/scripts/maria_events.rpy:24
+translate uk_UA pre_mar_corn_5a182e4c:
+
+    # m "They won't! What are they going to do, test everyone's blood who enters their home?"
+    m ""
+
+# game/scripts/maria_events.rpy:25
+translate uk_UA pre_mar_corn_f8457128:
+
+    # c "If they have any androids and they scan you, we'll both go to prison."
+    c ""
+
+# game/scripts/maria_events.rpy:27
+translate uk_UA pre_mar_corn_d853943f:
+
+    # m "You really think so?"
+    m ""
+
+# game/scripts/maria_events.rpy:28
+translate uk_UA pre_mar_corn_61878b19:
+
+    # c "I've been scanned before, they know everything."
+    c ""
+
+# game/scripts/maria_events.rpy:29
+translate uk_UA pre_mar_corn_b90ba8bd:
+
+    # m "Well, we know the Cornwalls are slavers. Could you imagine how it would look if THE slaver used robot labor instead of slave labor? Something gives me the feeling he doesn't have any androids."
+    m ""
+
+# game/scripts/maria_events.rpy:30
+translate uk_UA pre_mar_corn_e9b73c0e:
+
+    # c "You might be right, but that's a risky bet. And for what?"
+    c ""
+
+# game/scripts/maria_events.rpy:31
+translate uk_UA pre_mar_corn_c96b494f:
+
+    # m "If we see any androids, then we'll just leave, alright? I think this is a good opportunity!"
+    m ""
+
+# game/scripts/maria_events.rpy:33
+translate uk_UA pre_mar_corn_bfa03e2b:
+
+    # m "Think about it! Access to Cornwall's house? Where he keeps all his secrets? Me being BFFs with Mrs. Cornwall? Who knows what I'll learn..."
+    m ""
+
+# game/scripts/maria_events.rpy:34
+translate uk_UA pre_mar_corn_0297e11b:
+
+    # c "Hmm, that's a good point. Getting her on our side, even a little bit, would be helpful."
+    c ""
+
+# game/scripts/maria_events.rpy:35
+translate uk_UA pre_mar_corn_1f0f24a3:
+
+    # m "Yeah! So get ready, we leave soon! Just meet me at my door, I'll be ready."
+    m ""
+
+# game/scripts/maria_events.rpy:36
+translate uk_UA pre_mar_corn_678549a6:
+
+    # c "Alright, see you soon."
+    c ""
+
+# game/scripts/maria_events.rpy:45
+translate uk_UA mar_corn_ab0df9eb:
+
+    # r "Due to this game being in a state of active development, Felicity will show up as if recent events did not yet occur, so as to not lock you out of story content."
+    r ""
+
+# game/scripts/maria_events.rpy:52
+translate uk_UA mar_corn_ef30830b:
+
+    # m "There you are, ready to go?"
+    m ""
+
+# game/scripts/maria_events.rpy:53
+translate uk_UA mar_corn_2e5ee74e:
+
+    # c "I'm ready."
+    c ""
+
+# game/scripts/maria_events.rpy:54
+translate uk_UA mar_corn_7b337982:
+
+    # han "Are you sure this is a good idea, Maria?"
+    han ""
+
+# game/scripts/maria_events.rpy:56
+translate uk_UA mar_corn_37eaff83:
+
+    # m "Of course I'm sure. We're not blindly running into danger here, I've got a plan."
+    m ""
+
+# game/scripts/maria_events.rpy:57
+translate uk_UA mar_corn_5278bff2:
+
+    # han "A plan?"
+    han ""
+
+# game/scripts/maria_events.rpy:58
+translate uk_UA mar_corn_cb96cddc:
+
+    # m "Mrs. Cornwall and I are going to become the best of friends, then she'll feel comfortable spilling the tea."
+    m ""
+
+# game/scripts/maria_events.rpy:59
+translate uk_UA mar_corn_51806237:
+
+    # han "What tea, Maria?"
+    han ""
+
+# game/scripts/maria_events.rpy:60
+translate uk_UA mar_corn_b6103d88:
+
+    # m "Government secrets, slavery insights, maybe even where my mother is. I might even be able to convince her to pity half elves like us."
+    m ""
+
+# game/scripts/maria_events.rpy:61
+translate uk_UA mar_corn_e0d58458:
+
+    # han "What good would that do? She doesn't have any power, right?"
+    han ""
+
+# game/scripts/maria_events.rpy:62
+translate uk_UA mar_corn_573ea752:
+
+    # m "She's the wife of the Minister of Slavery himself! Of course she has power. If I can influence her, then she can influence him."
+    m ""
+
+# game/scripts/maria_events.rpy:63
+translate uk_UA mar_corn_3b166c77:
+
+    # han "I guess... but maybe you should bring [botname] or Nia for backup?"
+    han ""
+
+# game/scripts/maria_events.rpy:64
+translate uk_UA mar_corn_f0a2e6e4:
+
+    # m "They'll just get in the way, and I'll need to start doing things on my own eventually."
+    m ""
+
+# game/scripts/maria_events.rpy:65
+translate uk_UA mar_corn_4ac01516:
+
+    # m "And if I get the chance, I'll see if I can find any secrets around the place."
+    m ""
+
+# game/scripts/maria_events.rpy:66
+translate uk_UA mar_corn_c90c9453:
+
+    # han "Okay... if you're sure."
+    han ""
+
+# game/scripts/maria_events.rpy:67
+translate uk_UA mar_corn_2f6337ce:
+
+    # m "I'm sure."
+    m ""
+
+# game/scripts/maria_events.rpy:69
+translate uk_UA mar_corn_7377bd1d:
+
+    # m "Alright [name], let's hit it! I'll do my hair in the car."
+    m ""
+
+# game/scripts/maria_events.rpy:70
+translate uk_UA mar_corn_d37e2d08:
+
+    # c "Do you know where we're going?"
+    c ""
+
+# game/scripts/maria_events.rpy:71
+translate uk_UA mar_corn_3931702e:
+
+    # m "Of course. We'll take a taxi to the helicopter, then another taxi to their vacation home. We'll be there in about two hours, I already let her know."
+    m ""
+
+# game/scripts/maria_events.rpy:72
+translate uk_UA mar_corn_ca79cd35:
+
+    # c "Okay, let's go."
+    c ""
+
+# game/scripts/maria_events.rpy:73
+translate uk_UA mar_corn_8d6edf07:
+
+    # han "Be safe you two..."
+    han ""
+
+# game/scripts/maria_events.rpy:75
+translate uk_UA mar_corn_0ae67f41:
+
+    # "Once your taxi arrives, you're taken to one of the Corpus helipads where one of Cornwall's helicopters are waiting for you."
+    ""
+
+# game/scripts/maria_events.rpy:76
+translate uk_UA mar_corn_163a280e:
+
+    # "In no time at all, you're in the air heading south along the coastline. The view from here is quite stunning, only dampened by the deafening sound of the aircraft through your headphones. Still, the experience is not one you have often, so you try to enjoy it while it lasts."
+    ""
+
+# game/scripts/maria_events.rpy:77
+translate uk_UA mar_corn_ebd16f25:
+
+    # "As you land, your taxi arrives just in time, and you two are driven to the secluded estate of the Minister..."
+    ""
+
+# game/scripts/maria_events.rpy:79
+translate uk_UA mar_corn_6612f90b:
+
+    # q "Name please?"
+    q ""
+
+# game/scripts/maria_events.rpy:80
+translate uk_UA mar_corn_ede74712:
+
+    # m "I'm Anna Freeman, and this is Mr. Freeman. The Cornwalls are expecting us."
+    m ""
+
+# game/scripts/maria_events.rpy:81
+translate uk_UA mar_corn_fdd1f58c:
+
+    # q "Of course, right this way."
+    q ""
+
+# game/scripts/maria_events.rpy:83
+translate uk_UA mar_corn_16dcc02b:
+
+    # yuqi "My name is Yuqi, I am head maid of this estate. Dinner is being prepared and will be ready soon."
+    yuqi ""
+
+# game/scripts/maria_events.rpy:84
+translate uk_UA mar_corn_fde8902f:
+
+    # m "Oh, wonderful. I haven't eaten all day."
+    m ""
+
+# game/scripts/maria_events.rpy:85
+translate uk_UA mar_corn_0edb888a:
+
+    # yuqi "Are there any food allergies or preferences we should be aware of?"
+    yuqi ""
+
+# game/scripts/maria_events.rpy:86
+translate uk_UA mar_corn_010ad8d2:
+
+    # m "Umm, I don't like onions..."
+    m ""
+
+# game/scripts/maria_events.rpy:87
+translate uk_UA mar_corn_7aff1d43:
+
+    # yuqi "Very well. The cook will be made aware."
+    yuqi ""
+
+# game/scripts/maria_events.rpy:89
+translate uk_UA mar_corn_ef6cfb4f:
+
+    # yuqi "Masters, please excuse the interruption. The Freemans have arrived."
+    yuqi ""
+
+# game/scripts/maria_events.rpy:93
+translate uk_UA mar_corn_e07a5d94:
+
+    # corn "What?"
+    corn ""
+
+# game/scripts/maria_events.rpy:95
+translate uk_UA mar_corn_c6773b97:
+
+    # corn "I know that man! THESE are the Freemans you spoke of?"
+    corn ""
+
+# game/scripts/maria_events.rpy:96
+translate uk_UA mar_corn_a38952d3:
+
+    # mcorn "Of course my love, I met them a while back."
+    mcorn ""
+
+# game/scripts/maria_events.rpy:97
+translate uk_UA mar_corn_3167c096:
+
+    # corn "{i}That man is not who you think he is, that is [name]! {u}THE{/u} [name]!{/i}"
+    corn ""
+
+# game/scripts/maria_events.rpy:98
+translate uk_UA mar_corn_d3814d12:
+
+    # mcorn "Ah, [name] and Anna Freeman, it's good to finally know both of your names in full. Please come in!"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:99
+translate uk_UA mar_corn_df16a368:
+
+    # corn "{i}He is not a Freeman, my love! He is-{/i}"
+    corn ""
+
+# game/scripts/maria_events.rpy:100
+translate uk_UA mar_corn_042fd119:
+
+    # mcorn "{i}Quiet! Don't ruin this for me. Anna tells me they were recently married and he took her name. It's rather unorthodox, but don't make a big fuss about it! It's rude!{/i}"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:101
+translate uk_UA mar_corn_1b041c1a:
+
+    # corn "{i}But-!{/i}"
+    corn ""
+
+# game/scripts/maria_events.rpy:103
+translate uk_UA mar_corn_ada33076:
+
+    # mcorn "Anna~ It's great to see you again!"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:104
+translate uk_UA mar_corn_7acce0d0:
+
+    # m "You have a wonderful house, Mrs. Cornwall!"
+    m ""
+
+# game/scripts/maria_events.rpy:105
+translate uk_UA mar_corn_b79cdf88:
+
+    # mcorn "Oh please, call me Beth! It's short for Annabeth. What a coincidence, right?"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:106
+translate uk_UA mar_corn_f147d559:
+
+    # m "Oh my god, wow~"
+    m ""
+
+# game/scripts/maria_events.rpy:107
+translate uk_UA mar_corn_3ad85d3f:
+
+    # mcorn "The food will be ready soon, please make yourselves at home!"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:108
+translate uk_UA mar_corn_7228d0c4:
+
+    # m "Thank you~"
+    m ""
+
+# game/scripts/maria_events.rpy:110
+translate uk_UA mar_corn_62b3c45c:
+
+    # mcorn "Oh! Where are my manners? This is Mr. and Mrs. Carter."
+    mcorn ""
+
+# game/scripts/maria_events.rpy:111
+translate uk_UA mar_corn_c44b1c1d:
+
+    # mcart "Call me Marcus. This is my wife, Michelle."
+    mcart ""
+
+# game/scripts/maria_events.rpy:112
+translate uk_UA mar_corn_ac32be6f:
+
+    # mich "It's great to meet you, Mr. and Mrs. Freeman. Annabeth has only said good things. I can't wait to get to know you two."
+    mich ""
+
+# game/scripts/maria_events.rpy:113
+translate uk_UA mar_corn_cba4da7b:
+
+    # c "It's good to meet you. What do you do for a living?\n(A little small talk should break the ice.)"
+    c ""
+
+# game/scripts/maria_events.rpy:114
+translate uk_UA mar_corn_436a5688:
+
+    # mcart "Well my wife here is a judge! Yep, I got pretty lucky..."
+    mcart ""
+
+# game/scripts/maria_events.rpy:115
+translate uk_UA mar_corn_fc1e77ac:
+
+    # mich "Oh stop. My husband is actually the chief of police. If anyone's lucky, it's me."
+    mich ""
+
+# game/scripts/maria_events.rpy:116
+translate uk_UA mar_corn_c71ea87e:
+
+    # m "{i}What a power couple...{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:119
+translate uk_UA mar_corn_ca37cd13:
+
+    # corn "Yes... Marcus has done our country good. Did you know he recently stopped a protest in Caliber?"
+    corn ""
+
+# game/scripts/maria_events.rpy:120
+translate uk_UA mar_corn_621948e7:
+
+    # c "(Is he testing me? He tried to play that off as a fake protest test for Archon...)"
+    c ""
+
+# game/scripts/maria_events.rpy:123
+translate uk_UA mar_corn_e7381514:
+
+    # corn "Oh yes, that's right! It was your elf, wasn't it?"
+    corn ""
+
+# game/scripts/maria_events.rpy:124
+translate uk_UA mar_corn_b130cba5:
+
+    # mcart "MuteMaid was his!?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:125
+translate uk_UA mar_corn_5a4eca57:
+
+    # c "Formerly, yes. Had I known how disobedient she was, I would have sold her immediately."
+    c ""
+
+# game/scripts/maria_events.rpy:126
+translate uk_UA mar_corn_db3ddaf2:
+
+    # mich "Oh, quite the bounty on her head now."
+    mich ""
+
+# game/scripts/maria_events.rpy:129
+translate uk_UA mar_corn_7ecf66f4:
+
+    # corn "You know the one..."
+    corn ""
+
+# game/scripts/maria_events.rpy:130
+translate uk_UA mar_corn_00149df4:
+
+    # mcart "Should you be telling him about that?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:131
+translate uk_UA mar_corn_e5e221df:
+
+    # corn "Oh but he already knows, doesn't he? MuteMaid ring a bell?"
+    corn ""
+
+# game/scripts/maria_events.rpy:132
+translate uk_UA mar_corn_d19f855d:
+
+    # c "..."
+    c ""
+
+# game/scripts/maria_events.rpy:133
+translate uk_UA mar_corn_dd492b08:
+
+    # mcart "Come on, that wasn't my best moment back there... do we really need to bring that up?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:134
+translate uk_UA mar_corn_12d7782b:
+
+    # mich "You did just fine given the circumstances, dear. I would have killed you had you done anything to hurt our daughter..."
+    mich ""
+
+# game/scripts/maria_events.rpy:137
+translate uk_UA mar_corn_7cfeb52a:
+
+    # corn "Ah, so you are aware. Pray tell, how did you know Marcus was present?"
+    corn ""
+
+# game/scripts/maria_events.rpy:138
+translate uk_UA mar_corn_cdfd6f12:
+
+    # c "I had no clue."
+    c ""
+
+# game/scripts/maria_events.rpy:139
+translate uk_UA mar_corn_f30527e8:
+
+    # corn "You're not as smart as you think you are, {i}Freeman...{/i} You know exactly the one I'm referring to."
+    corn ""
+
+# game/scripts/maria_events.rpy:140
+translate uk_UA mar_corn_6ad5203c:
+
+    # mcart "Were you there, Freeman...?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:141
+translate uk_UA mar_corn_64551bf6:
+
+    # c "...I saw it live on the news, I guess I missed you Marcus."
+    c ""
+
+# game/scripts/maria_events.rpy:142
+translate uk_UA mar_corn_8b206f77:
+
+    # mcart "Oh, haha! Damn, you scared me for a second!"
+    mcart ""
+
+# game/scripts/maria_events.rpy:143
+translate uk_UA mar_corn_b2f16d37:
+
+    # corn "Yet he easily connected the dots..."
+    corn ""
+
+# game/scripts/maria_events.rpy:144
+translate uk_UA mar_corn_791180cd:
+
+    # mcart "Archon saved our asses back there! All credit to Cornwall, of course, hahah..."
+    mcart ""
+
+# game/scripts/maria_events.rpy:145
+translate uk_UA mar_corn_5674929a:
+
+    # mcart "But uh, kind of looks bad for the order of the nation, you know? If my daughter wasn't there things would have gone totally different. It's my fault really... just don't go spreading the news around..."
+    mcart ""
+
+# game/scripts/maria_events.rpy:146
+translate uk_UA mar_corn_f21f6fcd:
+
+    # c "No worries, we're on the same side here."
+    c ""
+
+# game/scripts/maria_events.rpy:147
+translate uk_UA mar_corn_2d66e48d:
+
+    # corn "Of course..."
+    corn ""
+
+# game/scripts/maria_events.rpy:148
+translate uk_UA mar_corn_ce04dd6f:
+
+    # mcorn "Oh, enough politics! We're here to relax, not talk about business all day."
+    mcorn ""
+
+# game/scripts/maria_events.rpy:150
+translate uk_UA mar_corn_fe517808:
+
+    # mcart "Urgh, yeah, I could really use a break... Shit gets harder every year."
+    mcart ""
+
+# game/scripts/maria_events.rpy:151
+translate uk_UA mar_corn_b00f8372:
+
+    # mich "You're growing old, it's only natural."
+    mich ""
+
+# game/scripts/maria_events.rpy:153
+translate uk_UA mar_corn_13759a2c:
+
+    # mcart "You're not getting any younger either, Michelle!"
+    mcart ""
+
+# game/scripts/maria_events.rpy:154
+translate uk_UA mar_corn_05c19855:
+
+    # mich "Excuse me?"
+    mich ""
+
+# game/scripts/maria_events.rpy:155
+translate uk_UA mar_corn_b0ed2d8b:
+
+    # mcart "Don't bring that up. You know it's those damn kids! You can't blame me!"
+    mcart ""
+
+# game/scripts/maria_events.rpy:156
+translate uk_UA mar_corn_f8731b03:
+
+    # mich "Our daughters?"
+    mich ""
+
+# game/scripts/maria_events.rpy:158
+translate uk_UA mar_corn_b47d102e:
+
+    # mcart "We never should have sent Nala to SylTech. They gave her some damned mind virus and now she thinks we're the enemy!"
+    mcart ""
+
+# game/scripts/maria_events.rpy:159
+translate uk_UA mar_corn_ecad868a:
+
+    # mich "It's just a phase, Marcus."
+    mich ""
+
+# game/scripts/maria_events.rpy:160
+translate uk_UA mar_corn_260f33e2:
+
+    # mcart "She's not a teenager anymore, Michelle! I hardly recognize her..."
+    mcart ""
+
+# game/scripts/maria_events.rpy:161
+translate uk_UA mar_corn_b2413f80:
+
+    # mcart "She wanted to be a cop - like her father - when she grew up. I used to be so damn proud of that kid."
+    mcart ""
+
+# game/scripts/maria_events.rpy:163
+translate uk_UA mar_corn_290a1616:
+
+    # mcart "...?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:164
+translate uk_UA mar_corn_fa436de6:
+
+    # mcart "Uh, hey corny, you good?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:165
+translate uk_UA mar_corn_0c27e957:
+
+    # mcorn "{i}Would you sit down? You're embarrassing me!{/i}"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:167
+translate uk_UA mar_corn_a43e55ff:
+
+    # corn "{i}I said you could bring a friend, I did {u}not{/u} say you could bring {u}them!{/u}"
+    corn ""
+
+# game/scripts/maria_events.rpy:168
+translate uk_UA mar_corn_51f131f6:
+
+    # mcorn "{i}What has gotten into you? They're my friends! Yours are here, and I'm not complaining!{/i}"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:169
+translate uk_UA mar_corn_d7951982:
+
+    # corn "{i}Exactly how long have you known them? Anyone connected to [name] cannot be good news.{/i}"
+    corn ""
+
+# game/scripts/maria_events.rpy:170
+translate uk_UA mar_corn_504e6eac:
+
+    # mcorn "{i}Would you stop slandering my friends? You're ruining this day for me!{/i}"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:171
+translate uk_UA mar_corn_7a238326:
+
+    # corn "Anna, was it? Tell me, you must be part elvish, isn't that so?"
+    corn ""
+
+# game/scripts/maria_events.rpy:173
+translate uk_UA mar_corn_7269295d:
+
+    # mcorn "*gasp*! Don't be rude!"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:174
+translate uk_UA mar_corn_71ae1ef8:
+
+    # corn "{i}I'm taking interest in your friends, isn't that what you want?{/i}\nDark elvish, correct? What percentage?"
+    corn ""
+
+# game/scripts/maria_events.rpy:175
+translate uk_UA mar_corn_b5b10c88:
+
+    # m "Uh, twenty-five percent."
+    m ""
+
+# game/scripts/maria_events.rpy:176
+translate uk_UA mar_corn_da054af6:
+
+    # mcorn "Ignore him!"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:177
+translate uk_UA mar_corn_3c720974:
+
+    # corn "Ah, so one of your parents was a half elf? It doesn't bother you that they were a slave?"
+    corn ""
+
+# game/scripts/maria_events.rpy:179
+translate uk_UA mar_corn_4598a817:
+
+    # mcorn "Enough of this!" with ssshake
+    mcorn "" with ssshake
+
+# game/scripts/maria_events.rpy:180
+translate uk_UA mar_corn_0b92e582:
+
+    # mcorn "Where are your manners? They are my guests, you will treat them with respect!"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:181
+translate uk_UA mar_corn_898a62d0:
+
+    # mich "{i}Drama...{/i}"
+    mich ""
+
+# game/scripts/maria_events.rpy:182
+translate uk_UA mar_corn_255dc5ca:
+
+    # oelf "Excuse me, Masters... is this a bad time?"
+    oelf ""
+
+# game/scripts/maria_events.rpy:184
+translate uk_UA mar_corn_76352266:
+
+    # mcorn "What? Oh... not at all! You may serve the food."
+    mcorn ""
+
+# game/scripts/maria_events.rpy:185
+translate uk_UA mar_corn_1ca0254c:
+
+    # oelf "Thank you, Mistress..."
+    oelf ""
+
+# game/scripts/maria_events.rpy:187
+translate uk_UA mar_corn_44cfe07a:
+
+    # mcart "Damn, who is this?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:188
+translate uk_UA mar_corn_c4e5b12a:
+
+    # mich "Marcus, stop."
+    mich ""
+
+# game/scripts/maria_events.rpy:189
+translate uk_UA mar_corn_1e529b00:
+
+    # corn "She's the one I've been telling you about. One of a kind, as they say. Completely broken and submissive. I've had her for decades."
+    corn ""
+
+# game/scripts/maria_events.rpy:190
+translate uk_UA mar_corn_f11f0f87:
+
+    # oelf "Enjoy your food..."
+    oelf ""
+
+# game/scripts/maria_events.rpy:192
+translate uk_UA mar_corn_c0199dda:
+
+    # mcart "That hair can't be natural, right? I didn't think elves came in that shade."
+    mcart ""
+
+# game/scripts/maria_events.rpy:193
+translate uk_UA mar_corn_c6158f35:
+
+    # corn "They don't, typically. But this one is a natural indeed. She's a common elf with a rare mutation."
+    corn ""
+
+# game/scripts/maria_events.rpy:194
+translate uk_UA mar_corn_d34b13b1:
+
+    # mcart "Hahah, only the best for the Cornwalls, huh?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:195
+translate uk_UA mar_corn_c01f4890:
+
+    # mcorn "Of course! She's so beautiful, isn't she?"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:196
+translate uk_UA mar_corn_12389bca:
+
+    # mich "My husband sure seems to think so..."
+    mich ""
+
+# game/scripts/maria_events.rpy:198
+translate uk_UA mar_corn_46423e49:
+
+    # yuqi "Enjoy your food... The rest will be out shortly."
+    yuqi ""
+
+# game/scripts/maria_events.rpy:199
+translate uk_UA mar_corn_fd47071f:
+
+    # mich "Thank you, dear..."
+    mich ""
+
+# game/scripts/maria_events.rpy:200
+translate uk_UA mar_corn_47427fdd:
+
+    # corn "Fetch us some water, will you?"
+    corn ""
+
+# game/scripts/maria_events.rpy:201
+translate uk_UA mar_corn_f7c0f513:
+
+    # yuqi "With grace, Master."
+    yuqi ""
+
+# game/scripts/maria_events.rpy:202
+translate uk_UA mar_corn_5f08f2a1:
+
+    # m "{size=-7}{i}Now's my chance, [name]. Keep them busy.{/i}{/size}"
+    m ""
+
+# game/scripts/maria_events.rpy:204
+translate uk_UA mar_corn_04962e59:
+
+    # m "Excuse me, may I use the restroom?"
+    m ""
+
+# game/scripts/maria_events.rpy:205
+translate uk_UA mar_corn_37dddc98:
+
+    # mcorn "Of course! It's up the stairs and on the left."
+    mcorn ""
+
+# game/scripts/maria_events.rpy:207
+translate uk_UA mar_corn_d793bc6d:
+
+    # mcorn "Unless my husband has something to say about that?"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:208
+translate uk_UA mar_corn_0b3eb23f:
+
+    # corn "..."
+    corn ""
+
+# game/scripts/maria_events.rpy:209
+translate uk_UA mar_corn_a28cf0ff:
+
+    # m "Thank you. Sorry!"
+    m ""
+
+# game/scripts/maria_events.rpy:211
+translate uk_UA mar_corn_59445de7:
+
+    # mcorn "No problem at all."
+    mcorn ""
+
+# game/scripts/maria_events.rpy:215
+translate uk_UA mar_corn_a994e6ec:
+
+    # m "{i}(Okay... his office. Should be some goodies in there.){/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:217
+translate uk_UA mar_corn_3e2483ce:
+
+    # m "{i}(His slaves... I wonder if I can trust them. This must be the best job they've ever had, it would be hard to convince them to leave.){/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:218
+translate uk_UA mar_corn_369a3e12:
+
+    # m "{i}(Kinda like Lin... except I doubt they're in love... Hm, this really is as good as it gets for them, huh?){/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:220
+translate uk_UA mar_corn_641882d6:
+
+    # m "{i}(*sigh*... for {u}us{/u}.){/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:222
+translate uk_UA mar_corn_8953f80b:
+
+    # oelf "Hm?"
+    oelf ""
+
+# game/scripts/maria_events.rpy:223
+translate uk_UA mar_corn_b0196085:
+
+    # m "!!"
+    m ""
+
+# game/scripts/maria_events.rpy:225
+translate uk_UA mar_corn_2d5afe1a:
+
+    # m "Excuse me, just going to the little girl's room~"
+    m ""
+
+# game/scripts/maria_events.rpy:226
+translate uk_UA mar_corn_e461f792:
+
+    # m "The food looks wonderful by the way! Keep it up~"
+    m ""
+
+# game/scripts/maria_events.rpy:228
+translate uk_UA mar_corn_adcfd98a:
+
+    # yuqi "..."
+    yuqi ""
+
+# game/scripts/maria_events.rpy:229
+translate uk_UA mar_corn_f5aa0e2d:
+
+    # m "{i}{size=-5}Ugh, that was awkward... come on Maria, you're better than that.{/size}{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:230
+translate uk_UA mar_corn_41e4c68a:
+
+    # oelf "...?"
+    oelf ""
+
+# game/scripts/maria_events.rpy:232
+translate uk_UA mar_corn_000c75af:
+
+    # m "{i}(I don't see any security cameras... I'll make this fast.){/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:234
+translate uk_UA mar_corn_552898fc:
+
+    # m "*gasp*! Hold on..."
+    m ""
+
+# game/scripts/maria_events.rpy:236
+translate uk_UA mar_corn_774bdc80:
+
+    # m "Damn... I look good..."
+    m ""
+
+# game/scripts/maria_events.rpy:238
+translate uk_UA mar_corn_0901b45d:
+
+    # m "And [name] didn't even compliment me today?"
+    m ""
+
+# game/scripts/maria_events.rpy:239
+translate uk_UA mar_corn_66b3e97f:
+
+    # m "I put a lot of effort into myself, why does he never notice...?"
+    m ""
+
+# game/scripts/maria_events.rpy:241
+translate uk_UA mar_corn_51cc8d9a:
+
+    # m "{i}(What the fuck am I doing? I'm on a mission.){/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:243
+translate uk_UA mar_corn_e612037c:
+
+    # m "..."
+    m ""
+
+# game/scripts/maria_events.rpy:244
+translate uk_UA mar_corn_877fb5fb:
+
+    # m "...Damn."
+    m ""
+
+# game/scripts/maria_events.rpy:246
+translate uk_UA mar_corn_13410603:
+
+    # m "{i}(Anyway... the master's bedroom? Maybe I can find his computer in here...){/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:248
+translate uk_UA mar_corn_773945f5:
+
+    # m "{i}(Wow, imagine waking up to that in the morning!){/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:249
+translate uk_UA mar_corn_3a44b375:
+
+    # m "{i}(It's so nice... and suspiciously clean? Hmm...){/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:251
+translate uk_UA mar_corn_df8533bf:
+
+    # m "{i}(No computer, but that doesn't mean there isn't anything else of value here...){/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:252
+translate uk_UA mar_corn_45459d2d:
+
+    # m "{i}(I don't think the Cornwalls would notice a few diamond rings missing...){/}"
+    m ""
+
+# game/scripts/maria_events.rpy:254
+translate uk_UA mar_corn_3568830f:
+
+    # m "{i}(But just in case I get caught...){/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:256
+translate uk_UA mar_corn_a4c009b6:
+
+    # m "{i}(I brought a stun pen! Thanks Nia.)"
+    m ""
+
+# game/scripts/maria_events.rpy:257
+translate uk_UA mar_corn_fb25e91e:
+
+    # m "{i}(It's one-time use, but it's better than nothing.){/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:259
+translate uk_UA mar_corn_e2ca26b3:
+
+    # m "{i}(Now where are those rings?){/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:262
+translate uk_UA mar_corn_ab4f83f1:
+
+    # mcart "Yeah... the world is changing too fast for me. I bet we won't even have slaves in a hundred years."
+    mcart ""
+
+# game/scripts/maria_events.rpy:263
+translate uk_UA mar_corn_550ecc40:
+
+    # mich "How would that work?\nOh, you mean they'll be replaced with androids?"
+    mich ""
+
+# game/scripts/maria_events.rpy:265
+translate uk_UA mar_corn_25d9bb11:
+
+    # mcart "Do you think those kids are thinking that far ahead?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:266
+translate uk_UA mar_corn_df7adff8:
+
+    # mcart "I don't know what's going to happen, but it won't be pretty."
+    mcart ""
+
+# game/scripts/maria_events.rpy:268
+translate uk_UA mar_corn_8b4b8aff:
+
+    # mich "You must have some insight, Mr. Cornwall. You're running for re-election after all, right?"
+    mich ""
+
+# game/scripts/maria_events.rpy:269
+translate uk_UA mar_corn_2d66e48d_1:
+
+    # corn "Of course..."
+    corn ""
+
+# game/scripts/maria_events.rpy:270
+translate uk_UA mar_corn_bea360a4:
+
+    # mcart "Those brats can vote now..."
+    mcart ""
+
+# game/scripts/maria_events.rpy:271
+translate uk_UA mar_corn_514fbdff:
+
+    # corn "Well, that's the thing..."
+    corn ""
+
+# game/scripts/maria_events.rpy:273
+translate uk_UA mar_corn_7a54dbeb:
+
+    # corn "How do you win their vote by maintaining the status quo? The year is 313, it's not 254 anymore."
+    corn ""
+
+# game/scripts/maria_events.rpy:274
+translate uk_UA mar_corn_c003ca6d:
+
+    # corn "Decades ago you could call them animals, but by '73 you can't call them animals anymore. That hurts you - it backfires. So you say something like forced busing, public chaining, and so on. You get abstract."
+    corn ""
+
+# game/scripts/maria_events.rpy:275
+translate uk_UA mar_corn_bd68a32f:
+
+    # corn "Now all we discuss are economic policies. Cutting taxes, forming the HHI, they're purely economic, but the byproduct is, the elves stay where they are, and the humans continue to prosper."
+    corn ""
+
+# game/scripts/maria_events.rpy:276
+translate uk_UA mar_corn_1b61dea8:
+
+    # corn "After all, 'Happy Home Initiative' sounds much better than 'Welfare Slavery', but it is precisely that. In the end, everyone is happy and nothing changes."
+    corn ""
+
+# game/scripts/maria_events.rpy:277
+translate uk_UA mar_corn_524a6d31:
+
+    # corn "In fact, the profits gained from slavery markets and the HHI are so substantial, that they are able to directly fund human welfare programs. A vote against slavery is a vote for poverty and famine."
+    corn ""
+
+# game/scripts/maria_events.rpy:278
+translate uk_UA mar_corn_ac8ad014:
+
+    # c "{i}(It's that engrained?){/i}"
+    c ""
+
+# game/scripts/maria_events.rpy:279
+translate uk_UA mar_corn_6934566c:
+
+    # mcart "I don't know if that will cut it this time."
+    mcart ""
+
+# game/scripts/maria_events.rpy:280
+translate uk_UA mar_corn_560b350c:
+
+    # corn "It simply makes no logical sense to be anti-slavery."
+    corn ""
+
+# game/scripts/maria_events.rpy:281
+translate uk_UA mar_corn_b4063855:
+
+    # c "{i}(I would not cry if you had a heart attack right now, Cornwall.){/i}"
+    c ""
+
+# game/scripts/maria_events.rpy:283
+translate uk_UA mar_corn_eb8e8c66:
+
+    # corn "But of course that isn't our only strategy."
+    corn ""
+
+# game/scripts/maria_events.rpy:284
+translate uk_UA mar_corn_dd797c12:
+
+    # mcart "Well come on, let's hear it!"
+    mcart ""
+
+# game/scripts/maria_events.rpy:285
+translate uk_UA mar_corn_0425a8f5:
+
+    # corn "...I believe it's best to keep certain matters on a need-to-know basis."
+    corn ""
+
+# game/scripts/maria_events.rpy:287
+translate uk_UA mar_corn_e75a0303:
+
+    # mcart "Well shit, I'm voting for you ain't I? I'm a lobbyist or whatever you call it."
+    mcart ""
+
+# game/scripts/maria_events.rpy:288
+translate uk_UA mar_corn_f3fd52f9:
+
+    # corn "You are a constituent, Mr. Carter, not a lobbyist."
+    corn ""
+
+# game/scripts/maria_events.rpy:289
+translate uk_UA mar_corn_680ed0c7:
+
+    # mcart "So what, you're telling me I don't need to know?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:290
+translate uk_UA mar_corn_ceab2a47:
+
+    # corn "Precisely."
+    corn ""
+
+# game/scripts/maria_events.rpy:291
+translate uk_UA mar_corn_a381ad57:
+
+    # mcart "Ah, fuck you. Heheh."
+    mcart ""
+
+# game/scripts/maria_events.rpy:293
+translate uk_UA mar_corn_b3619b9c:
+
+    # c "{i}(I doubt I could get that information out of him if even he can't...){/i}"
+    c ""
+
+# game/scripts/maria_events.rpy:295
+translate uk_UA mar_corn_76597350:
+
+    # m "Oh my god... it's gorgeous! It's so fancy you have to screw it on..."
+    m ""
+
+# game/scripts/maria_events.rpy:297
+translate uk_UA mar_corn_fabcef59:
+
+    # m "That's like six months of rent on my wrist! I could get used to this..."
+    m ""
+
+# game/scripts/maria_events.rpy:298
+translate uk_UA mar_corn_7ca51b2f:
+
+    # m "*sigh*... she'd probably notice it missing."
+    m ""
+
+# game/scripts/maria_events.rpy:300
+translate uk_UA mar_corn_ebf3a1b3:
+
+    # m "She doesn't have as much as I thought she would. Maybe the good stuff is somewhere else..."
+    m ""
+
+# game/scripts/maria_events.rpy:301
+translate uk_UA mar_corn_7790d2d9:
+
+    # m "But as fun as this is... I should clean up and focus."
+    m ""
+
+# game/scripts/maria_events.rpy:303
+translate uk_UA mar_corn_d497c12f:
+
+    # m "Okay... done. {i}Buuuut... where did I put that little screwdriver?{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:304
+translate uk_UA mar_corn_8605d38e:
+
+    # q "Excuse me."
+    q ""
+
+# game/scripts/maria_events.rpy:305
+translate uk_UA mar_corn_b0196085_1:
+
+    # m "!!"
+    m ""
+
+# game/scripts/maria_events.rpy:307
+translate uk_UA mar_corn_0d257080:
+
+    # yuqi "What are you doing?"
+    yuqi ""
+
+# game/scripts/maria_events.rpy:308
+translate uk_UA mar_corn_1c884d54:
+
+    # m "Oh! Hi, Yuqi! I was looking for the restroom when I got lost in the beauty of the house."
+    m ""
+
+# game/scripts/maria_events.rpy:310
+translate uk_UA mar_corn_6d2b6e51:
+
+    # m "The floors are just... fantastic! And, the furnishings..."
+    m ""
+
+# game/scripts/maria_events.rpy:311
+translate uk_UA mar_corn_adcfd98a_1:
+
+    # yuqi "..."
+    yuqi ""
+
+# game/scripts/maria_events.rpy:313
+translate uk_UA mar_corn_02b78058:
+
+    # yuqi "You're... looking for the restroom...?"
+    yuqi ""
+
+# game/scripts/maria_events.rpy:314
+translate uk_UA mar_corn_7a5c1899:
+
+    # m "Yes?"
+    m ""
+
+# game/scripts/maria_events.rpy:316
+translate uk_UA mar_corn_346ea60a:
+
+    # yuqi "...It's literally right here."
+    yuqi ""
+
+# game/scripts/maria_events.rpy:317
+translate uk_UA mar_corn_a0d338af:
+
+    # m "Oh. Wow, look at that."
+    m ""
+
+# game/scripts/maria_events.rpy:318
+translate uk_UA mar_corn_6f181457:
+
+    # yuqi "*sigh*..."
+    yuqi ""
+
+# game/scripts/maria_events.rpy:320
+translate uk_UA mar_corn_839320af:
+
+    # m "'Scuse me, pardon! Heheh..."
+    m ""
+
+# game/scripts/maria_events.rpy:321
+translate uk_UA mar_corn_adcfd98a_2:
+
+    # yuqi "..."
+    yuqi ""
+
+# game/scripts/maria_events.rpy:324
+translate uk_UA mar_corn_28ac7a5d:
+
+    # yuqi "...{w=1}\n{size=-5}{i}Humans...{/size}{/i}\n{w=1}..."
+    yuqi ""
+
+# game/scripts/maria_events.rpy:327
+translate uk_UA mar_corn_f33a37d5:
+
+    # mcart "So what the hell are we gonna do about this whole Jia situation? You've seen her right? She went fucking PSYCHO!"
+    mcart ""
+
+# game/scripts/maria_events.rpy:328
+translate uk_UA mar_corn_71a57e15:
+
+    # mich "You mean no one knows where she is?"
+    mich ""
+
+# game/scripts/maria_events.rpy:330
+translate uk_UA mar_corn_3226db46:
+
+    # mcart "All we know is that she killed like a dozen people, INCLUDING two police officers. You know how bad this looks, right?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:331
+translate uk_UA mar_corn_6a32272a:
+
+    # c "It's just one elf, how hard could it be for you guys?"
+    c ""
+
+# game/scripts/maria_events.rpy:333
+translate uk_UA mar_corn_6ced512d:
+
+    # mcart "THAT'S WHAT I'M SAYIN'! What's the plan, man? You do have a plan, right?" with ssshake
+    mcart "" with ssshake
+
+# game/scripts/maria_events.rpy:334
+translate uk_UA mar_corn_9404f1df:
+
+    # corn "I have a plan for everything."
+    corn ""
+
+# game/scripts/maria_events.rpy:335
+translate uk_UA mar_corn_389d30bb:
+
+    # mcart "Ohh, mister fuckin' 4D chess over here, alright let's hear it."
+    mcart ""
+
+# game/scripts/maria_events.rpy:336
+translate uk_UA mar_corn_400ced7c:
+
+    # mcart "OH! OH LET ME GUESS! IT'S CLASSIFIED?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:337
+translate uk_UA mar_corn_43992f69:
+
+    # corn "Yes."
+    corn ""
+
+# game/scripts/maria_events.rpy:338
+translate uk_UA mar_corn_3087fe0c:
+
+    # mcart "Fuck off."
+    mcart ""
+
+# game/scripts/maria_events.rpy:339
+translate uk_UA mar_corn_f8a1ff2d:
+
+    # mich "Marcus!"
+    mich ""
+
+# game/scripts/maria_events.rpy:340
+translate uk_UA mar_corn_8cb7cef5:
+
+    # mcart "Oh he knows I'm joking, Michelle. Nobody's feelings are hurt, right? Did I hurt your feelings, Corny?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:342
+translate uk_UA mar_corn_48cfafb4:
+
+    # corn "No, Marcus."
+    corn ""
+
+# game/scripts/maria_events.rpy:343
+translate uk_UA mar_corn_60cdf860:
+
+    # mcart "That's right. So what the hell are we gonna do about her? She's a damn stain on everything we've created!"
+    mcart ""
+
+# game/scripts/maria_events.rpy:344
+translate uk_UA mar_corn_040c4fa0:
+
+    # c "Yeah, it must feel really shitty to see your most valuable tool turn against you. I mean, that must really light a fire under you."
+    c ""
+
+# game/scripts/maria_events.rpy:345
+translate uk_UA mar_corn_1c84eb17:
+
+    # mcart "That's what I'm sayin'!"
+    mcart ""
+
+# game/scripts/maria_events.rpy:346
+translate uk_UA mar_corn_bb0cd4be:
+
+    # corn "*sigh*... You're going to continue your search, while we will do what we do best."
+    corn ""
+
+# game/scripts/maria_events.rpy:347
+translate uk_UA mar_corn_7854c842:
+
+    # mcart "Right, so Archon was your best, huh?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:348
+translate uk_UA mar_corn_e7d9fd2b:
+
+    # mich "Oh, Marcus! I can't believe you would bring that up."
+    mich ""
+
+# game/scripts/maria_events.rpy:350
+translate uk_UA mar_corn_8475cdd1:
+
+    # c "She told me to put edible glue in my cheese to make it stickier once."
+    c ""
+
+# game/scripts/maria_events.rpy:351
+translate uk_UA mar_corn_ef73df95:
+
+    # mcart "HAH! HAHAHAHA! Are you kidding me?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:352
+translate uk_UA mar_corn_52bd6394:
+
+    # c "Not at all!\n(Yes.)"
+    c ""
+
+# game/scripts/maria_events.rpy:353
+translate uk_UA mar_corn_bb65c75c:
+
+    # mcart "That's what I'm talking about, she can't run the damn police force like this. She's gonna hallucinate some elf ears on someone one of these days!"
+    mcart ""
+
+# game/scripts/maria_events.rpy:355
+translate uk_UA mar_corn_aca97f15:
+
+    # corn "Mr. Carter... I would advise you to be respectful."
+    corn ""
+
+# game/scripts/maria_events.rpy:356
+translate uk_UA mar_corn_5d459384:
+
+    # mich "{i}I told you...{/i}"
+    mich ""
+
+# game/scripts/maria_events.rpy:358
+translate uk_UA mar_corn_f8c194b9:
+
+    # mcart "Look Corny, I mean no disrespect to you and your team. It's just clear to me and everyone else with a brain that she isn't ready for {i}anything{/i} man!"
+    mcart ""
+
+# game/scripts/maria_events.rpy:359
+translate uk_UA mar_corn_28a86d9d:
+
+    # mcart "If it were up to me, I'd flip the kill-switch. Damn the consquences, damn the MeTubes and the TicTacs, that thing is FUCKING scary."
+    mcart ""
+
+# game/scripts/maria_events.rpy:361
+translate uk_UA mar_corn_0d1cf9fa:
+
+    # archon "Your feedback has been duly noted, Marcus Leslie Carter. Do you have anything else to add?" with qflash
+    archon "" with qflash
+
+# game/scripts/maria_events.rpy:362
+translate uk_UA mar_corn_6bd34c15:
+
+    # mcart "..."
+    mcart ""
+
+# game/scripts/maria_events.rpy:364
+translate uk_UA mar_corn_035407f8:
+
+    # mcart "......"
+    mcart ""
+
+# game/scripts/maria_events.rpy:365
+translate uk_UA mar_corn_cffa6f49:
+
+    # mcart "........."
+    mcart ""
+
+# game/scripts/maria_events.rpy:366
+translate uk_UA mar_corn_65534d8e:
+
+    # mcart "Naw."
+    mcart ""
+
+# game/scripts/maria_events.rpy:368
+translate uk_UA mar_corn_772189ff:
+
+    # archon "Have a lovely day, Mr. Carter!"
+    archon ""
+
+# game/scripts/maria_events.rpy:370
+translate uk_UA mar_corn_6bd34c15_1:
+
+    # mcart "..."
+    mcart ""
+
+# game/scripts/maria_events.rpy:371
+translate uk_UA mar_corn_45d022c4:
+
+    # mcart "{i}Oh fuck...{/i}"
+    mcart ""
+
+# game/scripts/maria_events.rpy:372
+translate uk_UA mar_corn_cf4265f1:
+
+    # corn "I did warn you."
+    corn ""
+
+# game/scripts/maria_events.rpy:374
+translate uk_UA mar_corn_2fcddca0:
+
+    # mcart "Michelle, give me your phone!" with ssshake
+    mcart "" with ssshake
+
+# game/scripts/maria_events.rpy:375
+translate uk_UA mar_corn_1412fc0e:
+
+    # mich "What? Why?"
+    mich ""
+
+# game/scripts/maria_events.rpy:376
+translate uk_UA mar_corn_7ec650f8:
+
+    # mcart "I'm tossin' them in the damn pool, Michelle! No way that thing is living in MY pocket! Hell no!"
+    mcart ""
+
+# game/scripts/maria_events.rpy:377
+translate uk_UA mar_corn_a413bb6c:
+
+    # mich "They're resistant to water now, Marcus..."
+    mich ""
+
+# game/scripts/maria_events.rpy:378
+translate uk_UA mar_corn_bda34936:
+
+    # corn "Marcus, we know it's a problem, just-"
+    corn ""
+
+# game/scripts/maria_events.rpy:380
+translate uk_UA mar_corn_9122e988:
+
+    # mcart "-Then I'll run them over with the car, come on already!" with ssshake
+    mcart "" with ssshake
+
+# game/scripts/maria_events.rpy:381
+translate uk_UA mar_corn_d854dd52:
+
+    # mich "That's not going to work either..."
+    mich ""
+
+# game/scripts/maria_events.rpy:382
+translate uk_UA mar_corn_25487e0d:
+
+    # mcart "I'll figure it out, Michelle!"
+    mcart ""
+
+# game/scripts/maria_events.rpy:383
+translate uk_UA mar_corn_04e43d8b:
+
+    # mich "Calm your ass down and take a seat, dammit! You're acting like a child!"
+    mich ""
+
+# game/scripts/maria_events.rpy:386
+translate uk_UA mar_corn_b4c54700:
+
+    # mcart "*sigh*...\n{w}We're so fucked..."
+    mcart ""
+
+# game/scripts/maria_events.rpy:388
+translate uk_UA mar_corn_f1358096:
+
+    # mcart "I don't know what to do, man, elves are trying to escape at record rates. We can't keep up with it with our current budget."
+    mcart ""
+
+# game/scripts/maria_events.rpy:389
+translate uk_UA mar_corn_c95c8905:
+
+    # corn "You're asking for a higher budget?"
+    corn ""
+
+# game/scripts/maria_events.rpy:390
+translate uk_UA mar_corn_08ef5d3d:
+
+    # mcart "I'm just sayin', it benefits us both."
+    mcart ""
+
+# game/scripts/maria_events.rpy:391
+translate uk_UA mar_corn_5ad46537:
+
+    # corn "I can't promise anything."
+    corn ""
+
+# game/scripts/maria_events.rpy:392
+translate uk_UA mar_corn_08fded88:
+
+    # mcart "Could ya at least get Jia to say something? Have her reminisce about being a slave or something?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:393
+translate uk_UA mar_corn_538a0ef7:
+
+    # corn "She was never a proper slave."
+    corn ""
+
+# game/scripts/maria_events.rpy:395
+translate uk_UA mar_corn_d0f20098:
+
+    # mcart "{i}Agh, dammit.{/i}\nI don't know man, just something? We're spread so thin out there!"
+    mcart ""
+
+# game/scripts/maria_events.rpy:396
+translate uk_UA mar_corn_a4f15dfe:
+
+    # corn "We have plans for Jia, you don't have anything to worry about."
+    corn ""
+
+# game/scripts/maria_events.rpy:398
+translate uk_UA mar_corn_68f7a583:
+
+    # mcart "It's not just the elves we have to worry about now, Corny. Is it?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:399
+translate uk_UA mar_corn_a5de00a9:
+
+    # corn "Explain."
+    corn ""
+
+# game/scripts/maria_events.rpy:400
+translate uk_UA mar_corn_ae531d33:
+
+    # mcart "Abolitionists! They're everywhere now, like fuckin' rats!"
+    mcart ""
+
+# game/scripts/maria_events.rpy:401
+translate uk_UA mar_corn_3d462c78:
+
+    # mcart "It used to be, we'd catch a human speeding every once in a while, maybe a kid steals a bag of chips, or we get called in for a bar fight..."
+    mcart ""
+
+# game/scripts/maria_events.rpy:403
+translate uk_UA mar_corn_26cd8bd5:
+
+    # mcart "Now we have humans FILLING our prisons! I don't mean just in Caliber, Corny, I mean all over Syl'anar! There's nothing we can do but fine them and release them a few weeks later, then they're right back to it!"
+    mcart ""
+
+# game/scripts/maria_events.rpy:404
+translate uk_UA mar_corn_f93a5ce3:
+
+    # corn "Drop it, Marcus."
+    corn ""
+
+# game/scripts/maria_events.rpy:405
+translate uk_UA mar_corn_617faf6b:
+
+    # mcart "I'm sorry?"
+    mcart ""
+
+# game/scripts/maria_events.rpy:406
+translate uk_UA mar_corn_def1e0de:
+
+    # corn "We have a plan. I already told you this. There are not that many abolitionists."
+    corn ""
+
+# game/scripts/maria_events.rpy:407
+translate uk_UA mar_corn_5fde3a88:
+
+    # mcart "{i}A lot more than there used to be...{/i}"
+    mcart ""
+
+# game/scripts/maria_events.rpy:410
+translate uk_UA mar_corn_54dbfc20:
+
+    # m "{i}Okay... I think I'm free.{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:411
+translate uk_UA mar_corn_9c2b99b0:
+
+    # m "{i}I need to find that computer and get out, I've spent way too much time up here.{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:413
+translate uk_UA mar_corn_56398694:
+
+    # m "{i}Last door...{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:415
+translate uk_UA mar_corn_189db79b:
+
+    # m "{i}Yes! There it is!{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:417
+translate uk_UA mar_corn_fdd65883:
+
+    # m "{i}Okay, come on, come on! Turn on!{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:418
+translate uk_UA mar_corn_51f8c41d:
+
+    # m "{i}Wait, it's already on? *gasp*! No fucking way, was he just using this?{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:420
+translate uk_UA mar_corn_c4f5ab6f:
+
+    # m "{i}His email! Oh, this is fucking perfect!!{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:421
+translate uk_UA mar_corn_47281fe6:
+
+    # m "{i}Come on, give me something juicy! You must be into some nasty stuff...{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:423
+translate uk_UA mar_corn_ed3f49a4:
+
+    # m "{i}Uhhh, credit card ads... hotel deals... jewelry ads...? Am I on the right account?{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:425
+translate uk_UA mar_corn_b28c6b5f:
+
+    # m "{i}Hahaha! Corndog58@sylmail.com? That's definitely him...{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:427
+translate uk_UA mar_corn_c8bf5da5:
+
+    # m "{i}He doesn't organize his email at all, it's full of junk...{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:428
+translate uk_UA mar_corn_10a11333:
+
+    # m "{i}There's gotta be something in his deleted folder...{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:429
+translate uk_UA mar_corn_e64b5230:
+
+    # m "{i}Tsk, nothing...\nOf course he deletes everything.{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:430
+translate uk_UA mar_corn_fe6b0ef5:
+
+    # m "{i}Maybe his sent mail!{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:431
+translate uk_UA mar_corn_ee363333:
+
+    # m "{i}Hmmmm, let's see...\nOh, he's been talking to someone from Nero Inc?{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:433
+translate uk_UA mar_corn_6d1d2d28:
+
+    # m "Hmm..."
+    m ""
+
+# game/scripts/maria_events.rpy:434
+translate uk_UA mar_corn_8a1cf0f2:
+
+    # m "{i}500,000?\n20 million in 5 years?\nMasters will need to replace their labor with... what?{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:435
+translate uk_UA mar_corn_cb6cfb52:
+
+    # m "{i}Whatever this is, it doesn't sound good.{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:437
+translate uk_UA mar_corn_eeb8fc09:
+
+    # m "{i}Fuck, I could really use a USB right now. I need to come better prepared... I don't have much time...!{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:438
+translate uk_UA mar_corn_ecb2b2a1:
+
+    # m "{i}What else? What else?{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:441
+translate uk_UA mar_corn_29bb7343:
+
+    # m "{i}*gasp*! Aaron Beaumont? How does Cornwall know Felicity and Emma's father...?{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:443
+translate uk_UA mar_corn_0db63803:
+
+    # m "{i}Wait, that's right! He was there!{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:444
+translate uk_UA mar_corn_b427002d:
+
+    # m "{i}How does the Dean of a community college gamble with politicians and business men...?{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:445
+translate uk_UA mar_corn_d3cff86f:
+
+    # m "{i}And that half-prick. Ugh, now I'm mad again.{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:447
+translate uk_UA mar_corn_6d1d2d28_1:
+
+    # m "Hmm..."
+    m ""
+
+# game/scripts/maria_events.rpy:448
+translate uk_UA mar_corn_701df98e:
+
+    # m "{i}Why does the Gaianist church want so many elves?\nWait- more importantly why does Felicity and Emma's father want so many elves!? I thought he preferred butlers...{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:449
+translate uk_UA mar_corn_e4da1a26:
+
+    # m "{i}I guess he could be opening a new community college? And needs staff? That's a stretch... get them at the academy like a normal person.{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:451
+translate uk_UA mar_corn_8b9edfd5:
+
+    # m "{i}Not as juicy as I was hoping, but everyone at home will love hearing this.{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:452
+translate uk_UA mar_corn_74b3fe6d:
+
+    # m "{i}What else...\nMeetings... lawyers... family...{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:454
+translate uk_UA mar_corn_c4616a6a:
+
+    # m "{i}Family? This dude had a mother? That's hard to believe...{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:456
+translate uk_UA mar_corn_e58eb520:
+
+    # m "{i}Oh, nevermind. That's just him and...{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:458
+translate uk_UA mar_corn_37ddfe8d:
+
+    # m "No fucking way..."
+    m ""
+
+# game/scripts/maria_events.rpy:460
+translate uk_UA mar_corn_93e46d03:
+
+    # m "No fucking way!"
+    m ""
+
+# game/scripts/maria_events.rpy:462
+translate uk_UA mar_corn_8046d8e0:
+
+    # m "Yes! Yes! Yes! That's so fucking juicy! Holy shit! [name] will never believe this!!"
+    m ""
+
+# game/scripts/maria_events.rpy:465
+translate uk_UA mar_corn_6444cbfc:
+
+    # corn "Strange... [name], how long has it been since your wife left to use the restroom?"
+    corn ""
+
+# game/scripts/maria_events.rpy:466
+translate uk_UA mar_corn_79848636:
+
+    # mcorn "Ohh would you stop that!!"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:468
+translate uk_UA mar_corn_e07a5d94_1:
+
+    # corn "What?"
+    corn ""
+
+# game/scripts/maria_events.rpy:469
+translate uk_UA mar_corn_7ae386b1:
+
+    # mcorn "She's a young woman, with young woman problems!"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:470
+translate uk_UA mar_corn_fa381df4:
+
+    # corn "How does that-"
+    corn ""
+
+# game/scripts/maria_events.rpy:471
+translate uk_UA mar_corn_20d6196b:
+
+    # mcorn "-She could be having a heavy flow, stop being nosey!"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:473
+translate uk_UA mar_corn_a95c5b69:
+
+    # mich "Oh girl, I know all about heavy flow. Menopause is right around the corner though."
+    mich ""
+
+# game/scripts/maria_events.rpy:474
+translate uk_UA mar_corn_275bdf7f:
+
+    # mcorn "It hasn't hit you yet?"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:475
+translate uk_UA mar_corn_f9221e3a:
+
+    # mich "Pff, I wish. I'm done with these kids! \nSpeaking of, do you plan to have any?"
+    mich ""
+
+# game/scripts/maria_events.rpy:476
+translate uk_UA mar_corn_ee5efff5:
+
+    # mcorn "We can't..."
+    mcorn ""
+
+# game/scripts/maria_events.rpy:478
+translate uk_UA mar_corn_fecf59dd:
+
+    # mcart "Ah great, now ya got 'em talking about their periods, Corny... Good job. Fucking spectacular..."
+    mcart ""
+
+# game/scripts/maria_events.rpy:479
+translate uk_UA mar_corn_98776ecd:
+
+    # mich "Would you stop sulking?"
+    mich ""
+
+# game/scripts/maria_events.rpy:481
+translate uk_UA mar_corn_4623b397:
+
+    # mcart "I'm just sayin', we don't talk about our balls."
+    mcart ""
+
+# game/scripts/maria_events.rpy:482
+translate uk_UA mar_corn_46b24e3b:
+
+    # mich "Yes, you do!"
+    mich ""
+
+# game/scripts/maria_events.rpy:483
+translate uk_UA mar_corn_7ef3eabc:
+
+    # mcart "Not... {w=0.66}not publicly."
+    mcart ""
+
+# game/scripts/maria_events.rpy:486
+translate uk_UA mar_corn_70aa3c33:
+
+    # m "{i}Once the world sees this...{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:489
+translate uk_UA mar_corn_0f210fbe:
+
+    # m "Y-Yuqi! Hello~" with ssshake
+    m "" with ssshake
+
+# game/scripts/maria_events.rpy:491
+translate uk_UA mar_corn_4cfb2ed5:
+
+    # m "{i}Oh god damn it...{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:493
+translate uk_UA mar_corn_c3c39229:
+
+    # m "Yuqi, wait-wait-wait!\nDo you really want to be Cornwall's slave? I can help you!"
+    m ""
+
+# game/scripts/maria_events.rpy:494
+translate uk_UA mar_corn_adcfd98a_3:
+
+    # yuqi "..."
+    yuqi ""
+
+# game/scripts/maria_events.rpy:496
+translate uk_UA mar_corn_a1b61520:
+
+    # m "I'm here for a good reason, Yuqi, I promise! Just don't say anything, please?"
+    m ""
+
+# game/scripts/maria_events.rpy:497
+translate uk_UA mar_corn_df7b68d4:
+
+    # yuqi "You're here to get rid of him?"
+    yuqi ""
+
+# game/scripts/maria_events.rpy:498
+translate uk_UA mar_corn_e0161a2c:
+
+    # m "Yes! We can get all of you out of here, I promise."
+    m ""
+
+# game/scripts/maria_events.rpy:500
+translate uk_UA mar_corn_8dce4af1:
+
+    # yuqi "Then you're my enemy."
+    yuqi ""
+
+# game/scripts/maria_events.rpy:501
+translate uk_UA mar_corn_e9a00f13:
+
+    # m "What?"
+    m ""
+
+# game/scripts/maria_events.rpy:513
+translate uk_UA mar_corn_b136aea9:
+
+    # m "You can fight?"
+    m ""
+
+# game/scripts/maria_events.rpy:514
+translate uk_UA mar_corn_70972520:
+
+    # yuqi "So can you..."
+    yuqi ""
+
+# game/scripts/maria_events.rpy:516
+translate uk_UA mar_corn_b2e32dae:
+
+    # yuqi "I will not let you harm my master!" with ssshake
+    yuqi "" with ssshake
+
+# game/scripts/maria_events.rpy:520
+translate uk_UA mar_corn_fd41b698:
+
+    # m "!!!" with sshake
+    m "" with sshake
+
+# game/scripts/maria_events.rpy:522
+translate uk_UA mar_corn_a0fd0618:
+
+    # m "Hold on! Don't you think this is a little-"
+    m ""
+
+# game/scripts/maria_events.rpy:528
+translate uk_UA mar_corn_9d3699c5:
+
+    # m "Hey!!" with ssshake
+    m "" with ssshake
+
+# game/scripts/maria_events.rpy:539
+translate uk_UA mar_corn_adf8df47:
+
+    # yuqi "!!"
+    yuqi ""
+
+# game/scripts/maria_events.rpy:548
+translate uk_UA mar_corn_2306a293:
+
+    # yuqi "Nnngh...!"
+    yuqi ""
+
+# game/scripts/maria_events.rpy:552
+translate uk_UA mar_corn_8d98d925:
+
+    # yuqi "RGH!" with ssshake
+    yuqi "" with ssshake
+
+# game/scripts/maria_events.rpy:553
+translate uk_UA mar_corn_b99cc699:
+
+    # m "I'm trying to help you!"
+    m ""
+
+# game/scripts/maria_events.rpy:554
+translate uk_UA mar_corn_4b6f196c:
+
+    # yuqi "No you're not!"
+    yuqi ""
+
+# game/scripts/maria_events.rpy:555
+translate uk_UA mar_corn_004a40e0:
+
+    # m "You're really that loyal to this pig!?"
+    m ""
+
+# game/scripts/maria_events.rpy:556
+translate uk_UA mar_corn_7216d978:
+
+    # yuqi "Everything I have is because of him! I won't let you take it away!"
+    yuqi ""
+
+# game/scripts/maria_events.rpy:559
+translate uk_UA mar_corn_9235d013:
+
+    # m "{i}(Damn! If I don't end this quick, we're fucked!){/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:561
+translate uk_UA mar_corn_3dd04374:
+
+    # yuqi "Get-!"
+    yuqi ""
+
+# game/scripts/maria_events.rpy:579
+translate uk_UA mar_corn_72354fd6:
+
+    # m "AH!" with sshake
+    m "" with sshake
+
+# game/scripts/maria_events.rpy:581
+translate uk_UA mar_corn_d71704bb:
+
+    # m "Ow, owwww!"
+    m ""
+
+# game/scripts/maria_events.rpy:583
+translate uk_UA mar_corn_2f2b72b2:
+
+    # m "*gasp*! Oh my god, oh my god...!"
+    m ""
+
+# game/scripts/maria_events.rpy:584
+translate uk_UA mar_corn_74c766b7:
+
+    # m "That's why it was one-time use... \nDammit, Nia!"
+    m ""
+
+# game/scripts/maria_events.rpy:585
+translate uk_UA mar_corn_7451131b:
+
+    # m "Oh fuck...\nShe's okay, she's okay...\n{i}I'm sorry...!{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:587
+translate uk_UA mar_corn_0f80114b:
+
+    # corn "What the hell was that?"
+    corn ""
+
+# game/scripts/maria_events.rpy:588
+translate uk_UA mar_corn_6d0d6e05:
+
+    # mcorn "MARIA! ARE YOU OKAY??"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:589
+translate uk_UA mar_corn_8fe0fda7:
+
+    # oelf "I will check it out, masters."
+    oelf ""
+
+# game/scripts/maria_events.rpy:590
+translate uk_UA mar_corn_f5f0ac8f:
+
+    # c "{i}(Shit, that elf must have given her trouble.){/i}"
+    c ""
+
+# game/scripts/maria_events.rpy:591
+translate uk_UA mar_corn_8b17cfd1:
+
+    # c "Hold on, I better check on her."
+    c ""
+
+# game/scripts/maria_events.rpy:593
+translate uk_UA mar_corn_c8a1acf4:
+
+    # m "Sorry! I almost tripped in the bathroom! I'm okay though!"
+    m ""
+
+# game/scripts/maria_events.rpy:594
+translate uk_UA mar_corn_8a1c35d9:
+
+    # mcorn "{size=-5}{i}Did you leave your slippers in the bathroom again!?{/i}{/size}"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:595
+translate uk_UA mar_corn_ea8267ac:
+
+    # corn "{size=-5}{i}No Anabeth, I did not!{/i}{/size}"
+    corn ""
+
+# game/scripts/maria_events.rpy:597
+translate uk_UA mar_corn_2d6e7afa:
+
+    # m "Well, it was really a pleasure Mr. and Mrs. Cornwall, but we should really be going."
+    m ""
+
+# game/scripts/maria_events.rpy:598
+translate uk_UA mar_corn_f7dc3e3c:
+
+    # mcorn "So soon? Are you sure?"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:599
+translate uk_UA mar_corn_46a926a1:
+
+    # c "Ah yes, the play."
+    c ""
+
+# game/scripts/maria_events.rpy:600
+translate uk_UA mar_corn_5ace5b4f:
+
+    # mcorn "The play? What play?"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:601
+translate uk_UA mar_corn_82ab0a17:
+
+    # m "The play that we need to go to right now! Or we'll be late..."
+    m ""
+
+# game/scripts/maria_events.rpy:603
+translate uk_UA mar_corn_b041a541:
+
+    # corn "You never mentioned a play before now, Mr. [name]. Why have you been so silent?"
+    corn ""
+
+# game/scripts/maria_events.rpy:604
+translate uk_UA mar_corn_e78397ee:
+
+    # m "He doesn't really talk much..."
+    m ""
+
+# game/scripts/maria_events.rpy:605
+translate uk_UA mar_corn_f37a1577:
+
+    # c "It was a pleasure, Cornwall. {i}As always...{/i}"
+    c ""
+
+# game/scripts/maria_events.rpy:606
+translate uk_UA mar_corn_0b3eb23f_1:
+
+    # corn "..."
+    corn ""
+
+# game/scripts/maria_events.rpy:608
+translate uk_UA mar_corn_db9f0ed3:
+
+    # corn "Fine... it's been a pleasure, Mr. Freeman."
+    corn ""
+
+# game/scripts/maria_events.rpy:610
+translate uk_UA mar_corn_23a5e346:
+
+    # c "...\n{i}(Has Cornwall always been left-handed?){/i}"
+    c ""
+
+# game/scripts/maria_events.rpy:611
+translate uk_UA mar_corn_51e8e492:
+
+    # c "{i}(I guess I should...){/i}"
+    c ""
+
+# game/scripts/maria_events.rpy:612
+translate uk_UA mar_corn_66d6f9ae:
+
+    # corn "What is the issue?"
+    corn ""
+
+# game/scripts/maria_events.rpy:616
+translate uk_UA mar_corn_59566001:
+
+    # c "!!" with ssshake
+    c "" with ssshake
+
+# game/scripts/maria_events.rpy:617
+translate uk_UA mar_corn_1c299ff5:
+
+    # corn "I thought so...\n...No ring.\nCare to explain?"
+    corn ""
+
+# game/scripts/maria_events.rpy:618
+translate uk_UA mar_corn_d1105871:
+
+    # mcorn "And where exactly is YOUR ring, oh wonderful husband?"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:620
+translate uk_UA mar_corn_82f259af:
+
+    # corn "GOD DAMMIT WOMAN!" with ssshake
+    corn "" with ssshake
+
+# game/scripts/maria_events.rpy:621
+translate uk_UA mar_corn_e2a32292:
+
+    # mcorn "Don't yell at me!"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:623
+translate uk_UA mar_corn_a18138ed:
+
+    # corn "Could you be helpful for ONCE IN YOUR LIFE!?"
+    corn ""
+
+# game/scripts/maria_events.rpy:624
+translate uk_UA mar_corn_e01e43f3:
+
+    # mcorn "I am helpful!\nMaybe if you learned some respect..."
+    mcorn ""
+
+# game/scripts/maria_events.rpy:625
+translate uk_UA mar_corn_b185d122:
+
+    # corn "RESPECT!? Do you call locking me out of the restroom and forcing me to pee in the sink respect!?"
+    corn ""
+
+# game/scripts/maria_events.rpy:626
+translate uk_UA mar_corn_664cc451:
+
+    # mcorn "You know I get nervous when you just stand outside the door like that!"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:627
+translate uk_UA mar_corn_fe04c69c:
+
+    # corn "We've been married for decades, woman! And you know I keep my wedding ring in a safe place!"
+    corn ""
+
+# game/scripts/maria_events.rpy:629
+translate uk_UA mar_corn_c8f65519:
+
+    # mcart "Ooookay, It's about time for us to head out too. Thanks for the food, Corny."
+    mcart ""
+
+# game/scripts/maria_events.rpy:630
+translate uk_UA mar_corn_2f9b98f1:
+
+    # mich "Byebye..."
+    mich ""
+
+# game/scripts/maria_events.rpy:631
+translate uk_UA mar_corn_a1efdfcc:
+
+    # m "Byeee!"
+    m ""
+
+# game/scripts/maria_events.rpy:633
+translate uk_UA mar_corn_23b8541c:
+
+    # mcorn "LOOK AT WHAT YOU DID!" with ssshake
+    mcorn "" with ssshake
+
+# game/scripts/maria_events.rpy:634
+translate uk_UA mar_corn_20e7c5f5:
+
+    # mich "{i}I told you this was going to be a bad idea...{/i}"
+    mich ""
+
+# game/scripts/maria_events.rpy:635
+translate uk_UA mar_corn_b19e82f0:
+
+    # mcart "{i}The food was free, it wasn't {u}that{/u} bad...{/i}"
+    mcart ""
+
+# game/scripts/maria_events.rpy:637
+translate uk_UA mar_corn_94a83cd0:
+
+    # m "{i}You forgot the ring?{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:638
+translate uk_UA mar_corn_0deec8e8:
+
+    # c "{i}I don't have any rings...{/i}"
+    c ""
+
+# game/scripts/maria_events.rpy:639
+translate uk_UA mar_corn_3f0ed2ab:
+
+    # c "But hey, how did it go? What was that noise? Are you okay?"
+    c ""
+
+# game/scripts/maria_events.rpy:640
+translate uk_UA mar_corn_f54d1fae:
+
+    # m "Heheh, I'll tell everyone at home! But check this out!"
+    m ""
+
+# game/scripts/maria_events.rpy:642
+translate uk_UA mar_corn_6c6c8323:
+
+    # c "You stole their jewelry?"
+    c ""
+
+# game/scripts/maria_events.rpy:643
+translate uk_UA mar_corn_fc7c2fb3:
+
+    # m "Well, I'm kinda stuck with it since there's no way to take it off, sooo..."
+    m ""
+
+# game/scripts/maria_events.rpy:644
+translate uk_UA mar_corn_59ffdd04:
+
+    # c "How did that happen?"
+    c ""
+
+# game/scripts/maria_events.rpy:645
+translate uk_UA mar_corn_56812945:
+
+    # m "It's a long story, but it has a happy ending~ Heheh!"
+    m ""
+
+# game/scripts/maria_events.rpy:650
+translate uk_UA mar_corn_554cfe36:
+
+    # f "Oh my god!! It's so beautiful!"
+    f ""
+
+# game/scripts/maria_events.rpy:651
+translate uk_UA mar_corn_4d98f68c:
+
+    # a "That's awesome, Maria!\nYou can take the ring off now though."
+    a ""
+
+# game/scripts/maria_events.rpy:652
+translate uk_UA mar_corn_650cbf67:
+
+    # m "It's nice, right?"
+    m ""
+
+# game/scripts/maria_events.rpy:653
+translate uk_UA mar_corn_c08a1b30:
+
+    # em "It's very pretty."
+    em ""
+
+# game/scripts/maria_events.rpy:654
+translate uk_UA mar_corn_9d71e967:
+
+    # f "Pretty? Nice?? It's stunning! Every girl wants one~\nIt's made of pure gold and NINE diamonds!"
+    f ""
+
+# game/scripts/maria_events.rpy:655
+translate uk_UA mar_corn_1624edf5:
+
+    # m "Nine?\nWait- how did you know that?"
+    m ""
+
+# game/scripts/maria_events.rpy:656
+translate uk_UA mar_corn_a447b9cb:
+
+    # f "Hey I can borrow it on weekends, right?"
+    f ""
+
+# game/scripts/maria_events.rpy:658
+translate uk_UA mar_corn_80c91a46:
+
+    # m "About that...\nI can't take it off!"
+    m ""
+
+# game/scripts/maria_events.rpy:659
+translate uk_UA mar_corn_c83eaf92:
+
+    # f "You didn't take the screw?? It's made of gold too!"
+    f ""
+
+# game/scripts/maria_events.rpy:660
+translate uk_UA mar_corn_6874f5c0:
+
+    # em "You don't seem very concerned about that."
+    em ""
+
+# game/scripts/maria_events.rpy:662
+translate uk_UA mar_corn_c503a593:
+
+    # m "Better a gold chain than an iron one."
+    m ""
+
+# game/scripts/maria_events.rpy:663
+translate uk_UA mar_corn_5c643cd0:
+
+    # em "Well that's kinda dark."
+    em ""
+
+# game/scripts/maria_events.rpy:664
+translate uk_UA mar_corn_b4591b6e:
+
+    # f "Oh I understand you perfectly~!"
+    f ""
+
+# game/scripts/maria_events.rpy:665
+translate uk_UA mar_corn_1882a8b4:
+
+    # a "{i}You could take the ring off though.{/i}"
+    a ""
+
+# game/scripts/maria_events.rpy:667
+translate uk_UA mar_corn_b815309b:
+
+    # c "Maria, the mission. What happened?"
+    c ""
+
+# game/scripts/maria_events.rpy:668
+translate uk_UA mar_corn_c07fec23:
+
+    # m "Oh, right!"
+    m ""
+
+# game/scripts/maria_events.rpy:670
+translate uk_UA mar_corn_b44c91dd:
+
+    # m "So get this; Cornwall's email is CORNDOG58!"
+    m ""
+
+# game/scripts/maria_events.rpy:671
+translate uk_UA mar_corn_89fd89ea:
+
+    # f "WHAT!"
+    f ""
+
+# game/scripts/maria_events.rpy:672
+translate uk_UA mar_corn_69600bf1:
+
+    # c "Maria..."
+    c ""
+
+# game/scripts/maria_events.rpy:673
+translate uk_UA mar_corn_24524aa5:
+
+    # m "I'm getting to it!"
+    m ""
+
+# game/scripts/maria_events.rpy:674
+translate uk_UA mar_corn_43efe388:
+
+    # m "So I looked through his email, and what did I find? He was talking to YOUR father!"
+    m ""
+
+# game/scripts/maria_events.rpy:676
+translate uk_UA mar_corn_572b5c67:
+
+    # em "Wait, what?"
+    em ""
+
+# game/scripts/maria_events.rpy:677
+translate uk_UA mar_corn_3862f10f:
+
+    # f "Aaron? How do you know it was him?"
+    f ""
+
+# game/scripts/maria_events.rpy:678
+translate uk_UA mar_corn_59e3dceb:
+
+    # m "There's no question, it was him! And you wanna know why he contacted Cornwall?"
+    m ""
+
+# game/scripts/maria_events.rpy:679
+translate uk_UA mar_corn_95d79767:
+
+    # f "Why??"
+    f ""
+
+# game/scripts/maria_events.rpy:680
+translate uk_UA mar_corn_b894b4b0:
+
+    # em "Something to do with the gambling he did a while ago?"
+    em ""
+
+# game/scripts/maria_events.rpy:681
+translate uk_UA mar_corn_7df254b5:
+
+    # m "No! He was trying to buy low quality elves, in bulk, straight from Cornwall!"
+    m ""
+
+# game/scripts/maria_events.rpy:682
+translate uk_UA mar_corn_5afc4d0e:
+
+    # em "But he's never owned a slave before."
+    em ""
+
+# game/scripts/maria_events.rpy:683
+translate uk_UA mar_corn_5b626894:
+
+    # f "He doesn't even like elves!"
+    f ""
+
+# game/scripts/maria_events.rpy:684
+translate uk_UA mar_corn_e125998a:
+
+    # m "I know, that's why it was so strange to me!"
+    m ""
+
+# game/scripts/maria_events.rpy:685
+translate uk_UA mar_corn_88436045:
+
+    # m "But that's not even the craziest thing!"
+    m ""
+
+# game/scripts/maria_events.rpy:687
+translate uk_UA mar_corn_8db708dd:
+
+    # m "Look! Does anything look strange to you?"
+    m ""
+
+# game/scripts/maria_events.rpy:689
+translate uk_UA mar_corn_d19f855d_1:
+
+    # c "..."
+    c ""
+
+# game/scripts/maria_events.rpy:690
+translate uk_UA mar_corn_97ea4b77:
+
+    # c "Holy shit."
+    c ""
+
+# game/scripts/maria_events.rpy:691
+translate uk_UA mar_corn_27349bee:
+
+    # a "What? What?"
+    a ""
+
+# game/scripts/maria_events.rpy:692
+translate uk_UA mar_corn_999e97ac:
+
+    # m "Cornwall has a half-elf child!!"
+    m ""
+
+# game/scripts/maria_events.rpy:694
+translate uk_UA mar_corn_af463959:
+
+    # f "How can you tell?"
+    f ""
+
+# game/scripts/maria_events.rpy:695
+translate uk_UA mar_corn_83b4d029:
+
+    # c "Are you sure it's his?"
+    c ""
+
+# game/scripts/maria_events.rpy:696
+translate uk_UA mar_corn_17c195d6:
+
+    # m "It was in an email chain called 'Family'! Can you believe he still emails his photos to his wife?"
+    m ""
+
+# game/scripts/maria_events.rpy:697
+translate uk_UA mar_corn_635d7b2e:
+
+    # han "If that's true, he must have kept that secret for decades..."
+    han ""
+
+# game/scripts/maria_events.rpy:698
+translate uk_UA mar_corn_e074a872:
+
+    # f "But how do you KNOW? She could be human."
+    f ""
+
+# game/scripts/maria_events.rpy:699
+translate uk_UA mar_corn_935bdaf7:
+
+    # em "Yeah, she doesn't have any elvish features at all."
+    em ""
+
+# game/scripts/maria_events.rpy:700
+translate uk_UA mar_corn_7bdc97e6:
+
+    # c "Cornwall has a slave with orange hair. He said he's had her for decades..."
+    c ""
+
+# game/scripts/maria_events.rpy:701
+translate uk_UA mar_corn_de31ba64:
+
+    # em "Naturally orange?"
+    em ""
+
+# game/scripts/maria_events.rpy:702
+translate uk_UA mar_corn_be38c66a:
+
+    # m "She's his favorite slave too! It has to be his!"
+    m ""
+
+# game/scripts/maria_events.rpy:703
+translate uk_UA mar_corn_54bf2d6b:
+
+    # han "{size=-5}{i}Fucking hypocrite...{/i}{/size}"
+    han ""
+
+# game/scripts/maria_events.rpy:705
+translate uk_UA mar_corn_d7c555b5:
+
+    # a "{i}Isn't she in danger?{/i}"
+    a ""
+
+# game/scripts/maria_events.rpy:706
+translate uk_UA mar_corn_487a1850:
+
+    # m "Hm?"
+    m ""
+
+# game/scripts/maria_events.rpy:708
+translate uk_UA mar_corn_ab3d4f85:
+
+    # a "You're smiling but... that's a child! And she's Cornwall's property..."
+    a ""
+
+# game/scripts/maria_events.rpy:709
+translate uk_UA mar_corn_e612037c_1:
+
+    # m "..."
+    m ""
+
+# game/scripts/maria_events.rpy:710
+translate uk_UA mar_corn_4d988d40:
+
+    # m "Well, it doesn't look like he treats her bad. She's not wearing a chain."
+    m ""
+
+# game/scripts/maria_events.rpy:712
+translate uk_UA mar_corn_d2bdd6ff:
+
+    # f "It looks like they treat her like a normal kid."
+    f ""
+
+# game/scripts/maria_events.rpy:713
+translate uk_UA mar_corn_b753c1bd:
+
+    # han "Isn't he breaking his own law then?"
+    han ""
+
+# game/scripts/maria_events.rpy:714
+translate uk_UA mar_corn_7e1ab73d:
+
+    # a "And his own beliefs..."
+    a ""
+
+# game/scripts/maria_events.rpy:715
+translate uk_UA mar_corn_553b1ea1:
+
+    # em "I guess so."
+    em ""
+
+# game/scripts/maria_events.rpy:716
+translate uk_UA mar_corn_f33c9e0d:
+
+    # m "That's why this is so good! This will fucking RUIN him!! No way he wins his re-election!"
+    m ""
+
+# game/scripts/maria_events.rpy:717
+translate uk_UA mar_corn_cd4c143a:
+
+    # f "That's a good point! When are you going to share it?"
+    f ""
+
+# game/scripts/maria_events.rpy:718
+translate uk_UA mar_corn_4ba272a4:
+
+    # m "At the right time. If I don't do this now, he'll just say it was a fake image someone generated."
+    m ""
+
+# game/scripts/maria_events.rpy:720
+translate uk_UA mar_corn_eb90e932:
+
+    # m "Oh, and I may have knocked one of his slaves out. But I didn't mean to!"
+    m ""
+
+# game/scripts/maria_events.rpy:721
+translate uk_UA mar_corn_e81449fd:
+
+    # f "What??"
+    f ""
+
+# game/scripts/maria_events.rpy:722
+translate uk_UA mar_corn_c50f9c4b:
+
+    # m "I just used a little taser on her! I thought it would hurt her just a bit, but it kinda exploded..."
+    m ""
+
+# game/scripts/maria_events.rpy:723
+translate uk_UA mar_corn_4de9f790:
+
+    # em "She's okay, right?"
+    em ""
+
+# game/scripts/maria_events.rpy:724
+translate uk_UA mar_corn_924b3052:
+
+    # m "I think so. She was going to tell Cornwall I was spying! She could actually fight pretty well too..."
+    m ""
+
+# game/scripts/maria_events.rpy:726
+translate uk_UA mar_corn_2c8e9ac0:
+
+    # c "We would be in jail right now if you didn't, so... you did well."
+    c ""
+
+# game/scripts/maria_events.rpy:727
+translate uk_UA mar_corn_5a6b1e82:
+
+    # m "Thank you. It wasn't my first choice..."
+    m ""
+
+# game/scripts/maria_events.rpy:730
+translate uk_UA mar_corn_8d6167fc:
+
+    # m "*gasp*! Everyone! Everyone! Shut up!"
+    m ""
+
+# game/scripts/maria_events.rpy:731
+translate uk_UA mar_corn_bfe1ad26:
+
+    # em "Someone's calling?"
+    em ""
+
+# game/scripts/maria_events.rpy:732
+translate uk_UA mar_corn_1e83336b:
+
+    # han "Who is it?"
+    han ""
+
+# game/scripts/maria_events.rpy:733
+translate uk_UA mar_corn_6fe5da4f:
+
+    # m "It's Mrs. Cornwall! Shhh!"
+    m ""
+
+# game/scripts/maria_events.rpy:734
+translate uk_UA mar_corn_d12a6df5:
+
+    # a "You're going to pick up?"
+    a ""
+
+# game/scripts/maria_events.rpy:735
+translate uk_UA mar_corn_52589660:
+
+    # m "I have to!"
+    m ""
+
+# game/scripts/maria_events.rpy:737
+translate uk_UA mar_corn_ef876594:
+
+    # m "Hello?"
+    m ""
+
+# game/scripts/maria_events.rpy:738
+translate uk_UA mar_corn_42590f16:
+
+    # mcorn "Hi! Hello, Anna? I just wanted to apologize for the way my husband was acting earlier. He really gets uncomfortable around people sometimes..."
+    mcorn ""
+
+# game/scripts/maria_events.rpy:739
+translate uk_UA mar_corn_c327a624:
+
+    # m "Ohh, that's no problem at all. I know how men can be..."
+    m ""
+
+# game/scripts/maria_events.rpy:740
+translate uk_UA mar_corn_839830d3:
+
+    # mcorn "Yeah... but, I also have a question for you..."
+    mcorn ""
+
+# game/scripts/maria_events.rpy:741
+translate uk_UA mar_corn_7a5c1899_1:
+
+    # m "Yes?"
+    m ""
+
+# game/scripts/maria_events.rpy:742
+translate uk_UA mar_corn_7856d081:
+
+    # mcorn "You see, after you left, Yuqi came running down the stairs looking for you... She said you were snooping around the office?"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:744
+translate uk_UA mar_corn_3247279a:
+
+    # m "Ohh! Yes, I was looking for the restroom... I was a bit lost. She wouldn't stop following me, it was a bit awkward..."
+    m ""
+
+# game/scripts/maria_events.rpy:745
+translate uk_UA mar_corn_3edc1e86:
+
+    # mcorn "Are you serious? I told that damn elf to treat my guests with respect... My husband picked her out you know. Only because she could fight, too..."
+    mcorn ""
+
+# game/scripts/maria_events.rpy:746
+translate uk_UA mar_corn_166d2e21:
+
+    # m "Oh, well it's not a big deal. She's just doing her job, haha!"
+    m ""
+
+# game/scripts/maria_events.rpy:747
+translate uk_UA mar_corn_4e10ffaf:
+
+    # mcorn "I suppose. But there was also-"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:748
+translate uk_UA mar_corn_d455bb6a:
+
+    # m "-Ah! I'm so sorry, can we continue this conversation another time? We just arrived to dinner."
+    m ""
+
+# game/scripts/maria_events.rpy:749
+translate uk_UA mar_corn_cc314dc5:
+
+    # mcorn "Oh! Of course! Of course! I didn't mean to bother you, dear. I'll talk to you later, okay?"
+    mcorn ""
+
+# game/scripts/maria_events.rpy:750
+translate uk_UA mar_corn_70c4a654:
+
+    # m "Okay, byeeee~"
+    m ""
+
+# game/scripts/maria_events.rpy:752
+translate uk_UA mar_corn_21770b77:
+
+    # m "Phew... that was close."
+    m ""
+
+# game/scripts/maria_events.rpy:753
+translate uk_UA mar_corn_dd0b01a5:
+
+    # a "She's not that smart, is she?"
+    a ""
+
+# game/scripts/maria_events.rpy:754
+translate uk_UA mar_corn_48bc9a51:
+
+    # m "Luckily for me, no. But she'll figure it out eventually if I don't get better."
+    m ""
+
+# game/scripts/maria_events.rpy:757
+translate uk_UA mar_corn_96b57458:
+
+    # m "But anyway... I could really use a hot shower after all of that. I'll talk to you girls later!"
+    m ""
+
+# game/scripts/maria_events.rpy:758
+translate uk_UA mar_corn_b56da03c:
+
+    # f "You deserve it! Go!"
+    f ""
+
+# game/scripts/maria_events.rpy:760
+translate uk_UA mar_corn_e09d85bd:
+
+    # m "And you... you did amazing as well."
+    m ""
+
+# game/scripts/maria_events.rpy:761
+translate uk_UA mar_corn_cb4b9b8d:
+
+    # c "I only distracted them."
+    c ""
+
+# game/scripts/maria_events.rpy:762
+translate uk_UA mar_corn_0e3fd153:
+
+    # m "And you looked so hot doing it."
+    m ""
+
+# game/scripts/maria_events.rpy:766
+translate uk_UA mar_corn_bfa1aa8e:
+
+    # m "I love you baby, I'll see you tomorrow."
+    m ""
+
+# game/scripts/maria_events.rpy:767
+translate uk_UA mar_corn_f134e22c:
+
+    # c "I love you."
+    c ""
+
+# game/scripts/maria_events.rpy:1163
+translate uk_UA mar_practice_04fc1c64:
+
+    # m "You say so little, but that bulge in your pants speaks for the both of you... Come here!"
+    m ""
+
+# game/scripts/maria_events.rpy:2715
+translate uk_UA mar_beachdate_0453a601:
+
+    # m "Oh hi [name]. Interested in going to the beach with me?"
+    m ""
+
+# game/scripts/maria_events.rpy:2720
+translate uk_UA mar_beachdate_bcc1cfb8:
+
+    # m "Awesome! I'll meet you at your car after I'm dressed."
+    m ""
+
+# game/scripts/maria_events.rpy:2722
+translate uk_UA mar_beachdate_54be8fa7:
+
+    # "...{w}...{w}..."
+    ""
+
+# game/scripts/maria_events.rpy:2724
+translate uk_UA mar_beachdate_dfb3ba65:
+
+    # m "Glad you could make it [name]."
+    m ""
+
+# game/scripts/maria_events.rpy:2726
+translate uk_UA mar_beachdate_7b7963fe:
+
+    # m "This place is great, isn't it?"
+    m ""
+
+# game/scripts/maria_events.rpy:2727
+translate uk_UA mar_beachdate_992f40e8:
+
+    # c "You've been here before?"
+    c ""
+
+# game/scripts/maria_events.rpy:2729
+translate uk_UA mar_beachdate_e99ca925:
+
+    # m "I've been on every public beach in east Syl'anar. Some private ones too."
+    m ""
+
+# game/scripts/maria_events.rpy:2731
+translate uk_UA mar_beachdate_00ee82e6:
+
+    # m "There are definitely better ones, but this one isn't as packed."
+    m ""
+
+# game/scripts/maria_events.rpy:2733
+translate uk_UA mar_beachdate_74b9d622:
+
+    # m "Nnn..." with ssshake
+    m "" with ssshake
+
+# game/scripts/maria_events.rpy:2734
+translate uk_UA mar_beachdate_69b3084d:
+
+    # c "What was that?"
+    c ""
+
+# game/scripts/maria_events.rpy:2736
+translate uk_UA mar_beachdate_cbf804a4:
+
+    # m "O-Oh nothing...! Just a... girl cramp!"
+    m ""
+
+# game/scripts/maria_events.rpy:2737
+translate uk_UA mar_beachdate_bd47619c:
+
+    # c "Oh, I see..."
+    c ""
+
+# game/scripts/maria_events.rpy:2739
+translate uk_UA mar_beachdate_cfd90bc7:
+
+    # m "So... did you do anything fun after you spied on me?"
+    m ""
+
+# game/scripts/maria_events.rpy:2740
+translate uk_UA mar_beachdate_bb00a52c:
+
+    # c "What do you mean?"
+    c ""
+
+# game/scripts/maria_events.rpy:2741
+translate uk_UA mar_beachdate_48df2cb1:
+
+    # m "You know what I mean..."
+    m ""
+
+# game/scripts/maria_events.rpy:2742
+translate uk_UA mar_beachdate_b17eeec9:
+
+    # m "I couldn't help but n-"
+    m ""
+
+# game/scripts/maria_events.rpy:2744
+translate uk_UA mar_beachdate_74b9d622_1:
+
+    # m "Nnn..." with ssshake
+    m "" with ssshake
+
+# game/scripts/maria_events.rpy:2745
+translate uk_UA mar_beachdate_3fc15ae0:
+
+    # c "Are you okay?"
+    c ""
+
+# game/scripts/maria_events.rpy:2746
+translate uk_UA mar_beachdate_192e622d:
+
+    # m "Yeah, of course..."
+    m ""
+
+# game/scripts/maria_events.rpy:2748
+translate uk_UA mar_beachdate_b01dea4f:
+
+    # m "Like I was saying... I couldn't help but notice a bulge before you left..."
+    m ""
+
+# game/scripts/maria_events.rpy:2749
+translate uk_UA mar_beachdate_c5a24f94:
+
+    # m "If you don't want to admit, I will..."
+    m ""
+
+# game/scripts/maria_events.rpy:2750
+translate uk_UA mar_beachdate_b83a75f3:
+
+    # m "I went right back to masturbating after you left, heheh..."
+    m ""
+
+# game/scripts/maria_events.rpy:2751
+translate uk_UA mar_beachdate_80fb3768:
+
+    # c "Yeah, it sounded like you were making a ton of money."
+    c ""
+
+# game/scripts/maria_events.rpy:2752
+translate uk_UA mar_beachdate_86f72800:
+
+    # m "No silly... I didn't stream anything after that."
+    m ""
+
+# game/scripts/maria_events.rpy:2753
+translate uk_UA mar_beachdate_4bcb453b:
+
+    # c "Oh."
+    c ""
+
+# game/scripts/maria_events.rpy:2754
+translate uk_UA mar_beachdate_00850862:
+
+    # m "Heheh, yup."
+    m ""
+
+# game/scripts/maria_events.rpy:2755
+translate uk_UA mar_beachdate_2a1d83ab:
+
+    # m "What can I say? It was hot..."
+    m ""
+
+# game/scripts/maria_events.rpy:2756
+translate uk_UA mar_beachdate_475b5542:
+
+    # m "Have you ever considered... you know... joining?"
+    m ""
+
+# game/scripts/maria_events.rpy:2757
+translate uk_UA mar_beachdate_d981c448:
+
+    # m "You don't have to show your face... nobody would recognize you."
+    m ""
+
+# game/scripts/maria_events.rpy:2758
+translate uk_UA mar_beachdate_8e0b5ec7:
+
+    # c "You want me to join your stream?"
+    c ""
+
+# game/scripts/maria_events.rpy:2759
+translate uk_UA mar_beachdate_37986217:
+
+    # m "All we do is masturbate..."
+    m ""
+
+# game/scripts/maria_events.rpy:2760
+translate uk_UA mar_beachdate_f766bda2:
+
+    # m "Or maybe you could spank me, there's a huge audience for that."
+    m ""
+
+# game/scripts/maria_events.rpy:2761
+translate uk_UA mar_beachdate_9436367c:
+
+    # m "Hey, what's that weird look on your face? It's just for work... you would get a cut."
+    m ""
+
+# game/scripts/maria_events.rpy:2762
+translate uk_UA mar_beachdate_631f2bf2:
+
+    # c "...I'll definitely have to think on it."
+    c ""
+
+# game/scripts/maria_events.rpy:2763
+translate uk_UA mar_beachdate_b0ea594d:
+
+    # m "Heheh, alright."
+    m ""
+
+# game/scripts/maria_events.rpy:2765
+translate uk_UA mar_beachdate_d253fbc8:
+
+    # m "Hey, we should get some drinks! There's a good bar here."
+    m ""
+
+# game/scripts/maria_events.rpy:2766
+translate uk_UA mar_beachdate_5145c461:
+
+    # c "Sure, let's do it."
+    c ""
+
+# game/scripts/maria_events.rpy:2769
+translate uk_UA mar_beachdate_5dfd24cc:
+
+    # ba "Sup, what can I do for ya?"
+    ba ""
+
+# game/scripts/maria_events.rpy:2770
+translate uk_UA mar_beachdate_39fc4fd7:
+
+    # m "Hmmm... do you have tequila?"
+    m ""
+
+# game/scripts/maria_events.rpy:2771
+translate uk_UA mar_beachdate_40eab776:
+
+    # ba "Oh, hell yeah, absolutely! That'll be $5."
+    ba ""
+
+# game/scripts/maria_events.rpy:2772
+translate uk_UA mar_beachdate_d9a47e93:
+
+    # m "Hmmmm... I can think of a few other ways to pay for it..."
+    m ""
+
+# game/scripts/maria_events.rpy:2776
+translate uk_UA mar_beachdate_326af496:
+
+    # m "How about this instead...?"
+    m ""
+
+# game/scripts/maria_events.rpy:2777
+translate uk_UA mar_beachdate_7eb827e2:
+
+    # ba "Oooo..."
+    ba ""
+
+# game/scripts/maria_events.rpy:2778
+translate uk_UA mar_beachdate_e01bdeea:
+
+    # ba "Alright, deal! Be right back!"
+    ba ""
+
+# game/scripts/maria_events.rpy:2780
+translate uk_UA mar_beachdate_c623a6df:
+
+    # m "Works every time... men are so easy."
+    m ""
+
+# game/scripts/maria_events.rpy:2782
+translate uk_UA mar_beachdate_61b7591f:
+
+    # c "I can pay for it."
+    c ""
+
+# game/scripts/maria_events.rpy:2784
+translate uk_UA mar_beachdate_d64c0a55:
+
+    # ba "Cool!"
+    ba ""
+
+# game/scripts/maria_events.rpy:2785
+translate uk_UA mar_beachdate_581795db:
+
+    # c "Two please."
+    c ""
+
+# game/scripts/maria_events.rpy:2787
+translate uk_UA mar_beachdate_03de75e8:
+
+    # "You spend $5"
+    ""
+
+# game/scripts/maria_events.rpy:2789
+translate uk_UA mar_beachdate_50a3fbae:
+
+    # m "You didn't have to do that... I was just going to flash him."
+    m ""
+
+# game/scripts/maria_events.rpy:2791
+translate uk_UA mar_beachdate_1c2c1714:
+
+    # ba "Here ya go pretty lady."
+    ba ""
+
+# game/scripts/maria_events.rpy:2792
+translate uk_UA mar_beachdate_98c6141c:
+
+    # m "Thank you..."
+    m ""
+
+# game/scripts/maria_events.rpy:2794
+translate uk_UA mar_beachdate_466d47d5:
+
+    # m "Cheers!"
+    m ""
+
+# game/scripts/maria_events.rpy:2795
+translate uk_UA mar_beachdate_660086d6:
+
+    # "Maria chugs her entire drink before she even gets to her chair..."
+    ""
+
+# game/scripts/maria_events.rpy:2797
+translate uk_UA mar_beachdate_5c3ae0cd:
+
+    # m "You should have bought a drink... they're really good!"
+    m ""
+
+# game/scripts/maria_events.rpy:2798
+translate uk_UA mar_beachdate_04ceb18f:
+
+    # c "Are you alright? You already look drunk."
+    c ""
+
+# game/scripts/maria_events.rpy:2799
+translate uk_UA mar_beachdate_21a367ad:
+
+    # m "Heheh, yeah... I guess I am."
+    m ""
+
+# game/scripts/maria_events.rpy:2800
+translate uk_UA mar_beachdate_50025fca:
+
+    # m "What...? I just want to have some fun..."
+    m ""
+
+# game/scripts/maria_events.rpy:2802
+translate uk_UA mar_beachdate_f5b42010:
+
+    # m "Aah!" with ssshake
+    m "" with ssshake
+
+# game/scripts/maria_events.rpy:2804
+translate uk_UA mar_beachdate_cbf9ddf0:
+
+    # m "Hehe, oops..."
+    m ""
+
+# game/scripts/maria_events.rpy:2805
+translate uk_UA mar_beachdate_bbba863a:
+
+    # c "Another 'cramp'?"
+    c ""
+
+# game/scripts/maria_events.rpy:2806
+translate uk_UA mar_beachdate_64146d22:
+
+    # m "...I've been keeping a secret..."
+    m ""
+
+# game/scripts/maria_events.rpy:2808
+translate uk_UA mar_beachdate_efa015a5:
+
+    # m "In here..."
+    m ""
+
+# game/scripts/maria_events.rpy:2810
+translate uk_UA mar_beachdate_579aa8f2:
+
+    # m "But it's a secret..."
+    m ""
+
+# game/scripts/maria_events.rpy:2811
+translate uk_UA mar_beachdate_8fc6a788:
+
+    # c "Looks like you're enjoying it."
+    c ""
+
+# game/scripts/maria_events.rpy:2812
+translate uk_UA mar_beachdate_30b7efdd:
+
+    # m "Mhm, heheh...!"
+    m ""
+
+# game/scripts/maria_events.rpy:2813
+translate uk_UA mar_beachdate_248e343e:
+
+    # m "Don't stare too much, though..."
+    m ""
+
+# game/scripts/maria_events.rpy:2814
+translate uk_UA mar_beachdate_da6e4421:
+
+    # m "It {i}really{/i} turns me on, heheh..."
+    m ""
+
+# game/scripts/maria_events.rpy:2815
+translate uk_UA mar_beachdate_4c40a36b:
+
+    # m "Mmmmm, but..."
+    m ""
+
+# game/scripts/maria_events.rpy:2817
+translate uk_UA mar_beachdate_d43cbe64:
+
+    # m "Maybe I'm overstepping... I don't want to get between you and Ash..."
+    m ""
+
+# game/scripts/maria_events.rpy:2818
+translate uk_UA mar_beachdate_b6c433da:
+
+    # c " Oh, I'm polygamous..."
+    c ""
+
+# game/scripts/maria_events.rpy:2820
+translate uk_UA mar_beachdate_abba3c29:
+
+    # m "Interesting...!"
+    m ""
+
+# game/scripts/maria_events.rpy:2821
+translate uk_UA mar_beachdate_61578cca:
+
+    # m "I bet you've fucked that Kali girl already, hm?"
+    m ""
+
+# game/scripts/maria_events.rpy:2823
+translate uk_UA mar_beachdate_4e8c7062:
+
+    # c "Of course."
+    c ""
+
+# game/scripts/maria_events.rpy:2824
+translate uk_UA mar_beachdate_012d2ac0:
+
+    # m "Ooooh, how was it? Are her tits as big as they look?"
+    m ""
+
+# game/scripts/maria_events.rpy:2825
+translate uk_UA mar_beachdate_e503e883:
+
+    # c "She's amazing."
+    c ""
+
+# game/scripts/maria_events.rpy:2827
+translate uk_UA mar_beachdate_f41ba07d:
+
+    # c "Not yet."
+    c ""
+
+# game/scripts/maria_events.rpy:2828
+translate uk_UA mar_beachdate_a9724975:
+
+    # m "Mmmh, yet, huh? Heheh..."
+    m ""
+
+# game/scripts/maria_events.rpy:2830
+translate uk_UA mar_beachdate_7c18dd41:
+
+    # m "Well... now that we're both available, maybe we can see where this thing goes, hm?"
+    m ""
+
+# game/scripts/maria_events.rpy:2831
+translate uk_UA mar_beachdate_3c610f59:
+
+    # c "I would like that."
+    c ""
+
+# game/scripts/maria_events.rpy:2832
+translate uk_UA mar_beachdate_f5f51c33:
+
+    # m "Good..."
+    m ""
+
+# game/scripts/maria_events.rpy:2833
+translate uk_UA mar_beachdate_89a20459:
+
+    # m "And... I'm more than just a great piece of ass and tits, I'm actually really smart, ya know?"
+    m ""
+
+# game/scripts/maria_events.rpy:2834
+translate uk_UA mar_beachdate_d0ae06d2:
+
+    # c "Is that so?"
+    c ""
+
+# game/scripts/maria_events.rpy:2835
+translate uk_UA mar_beachdate_277032fe:
+
+    # m "It is! I graduated with a 4.2 GPA!"
+    m ""
+
+# game/scripts/maria_events.rpy:2836
+translate uk_UA mar_beachdate_32c8bfcb:
+
+    # m "I've always had to work extra hard... my childhood wasn't all that great, so I get my attention in any way I can..."
+    m ""
+
+# game/scripts/maria_events.rpy:2837
+translate uk_UA mar_beachdate_76d15109:
+
+    # m "Plus... it's not like I was going to get any advantages from my parents, soo..."
+    m ""
+
+# game/scripts/maria_events.rpy:2838
+translate uk_UA mar_beachdate_a42167bd:
+
+    # c "Not on talking terms with them?"
+    c ""
+
+# game/scripts/maria_events.rpy:2839
+translate uk_UA mar_beachdate_73673e1d:
+
+    # m "Yeah, you could say that..."
+    m ""
+
+# game/scripts/maria_events.rpy:2843
+translate uk_UA mar_beachdate_6ded932b:
+
+    # m "Nnnh, fuck... I need to pee..."
+    m ""
+
+# game/scripts/maria_events.rpy:2844
+translate uk_UA mar_beachdate_1a77f02c:
+
+    # m "Nngh, dammit, be right back..."
+    m ""
+
+# game/scripts/maria_events.rpy:2846
+translate uk_UA mar_beachdate_a20cefa7:
+
+    # "..."
+    ""
+
+# game/scripts/maria_events.rpy:2848
+translate uk_UA mar_beachdate_206f92d0:
+
+    # m "Agh, fuck! The line is huge!"
+    m ""
+
+# game/scripts/maria_events.rpy:2849
+translate uk_UA mar_beachdate_94418507:
+
+    # m "Hnngh, hnnngh! Shit! This is happening one way or another, come with me!"
+    m ""
+
+# game/scripts/maria_events.rpy:2851
+translate uk_UA mar_beachdate_166ed804:
+
+    # "Maria grabs you by the arm and runs you towards a secluded spot...."
+    ""
+
+# game/scripts/maria_events.rpy:2853
+translate uk_UA mar_beachdate_69035e74:
+
+    # m "I'm going right here...!"
+    m ""
+
+# game/scripts/maria_events.rpy:2854
+translate uk_UA mar_beachdate_7da63769:
+
+    # c "Here? In public?"
+    c ""
+
+# game/scripts/maria_events.rpy:2855
+translate uk_UA mar_beachdate_d9f66f24:
+
+    # m "I don't have time to explain myself, I gotta go!"
+    m ""
+
+# game/scripts/maria_events.rpy:2857
+translate uk_UA mar_beachdate_365b2b8f:
+
+    # "You turn around as Maria releives herself..."
+    ""
+
+# game/scripts/maria_events.rpy:2861
+translate uk_UA mar_beachdate_e7c15a9d:
+
+    # m "Ahhh..."
+    m ""
+
+# game/scripts/maria_events.rpy:2862
+translate uk_UA mar_beachdate_d6d47b45:
+
+    # m "...Is it weird that this turns me on? It feels so much better to do it outside..."
+    m ""
+
+# game/scripts/maria_events.rpy:2868
+translate uk_UA mar_beachdate_16ba1807:
+
+    # m "Aaaaaaaahhhhhhhh..."
+    m ""
+
+# game/scripts/maria_events.rpy:2870
+translate uk_UA mar_beachdate_a8491a84:
+
+    # m "Okay, I'm done."
+    m ""
+
+# game/scripts/maria_events.rpy:2871
+translate uk_UA mar_beachdate_9242a583:
+
+    # m "Well, at least nobody saw me... Although... I don't know which outcome I would have preferred more... Hm, maybe next time."
+    m ""
+
+# game/scripts/maria_events.rpy:2872
+translate uk_UA mar_beachdate_3f74f4ab:
+
+    # m "We... should probably get back soon. Who knows if they have security cameras...?"
+    m ""
+
+# game/scripts/maria_events.rpy:2873
+translate uk_UA mar_beachdate_4640bd96:
+
+    # m "It was fun, let's come back again some time!"
+    m ""
+
+# game/scripts/maria_events.rpy:2879
+translate uk_UA mar_beachdate_1ea6c05e:
+
+    # m "Oh well. Let me know when you have time."
+    m ""
+
+# game/scripts/maria_events.rpy:3699
+translate uk_UA mar_hangout_02_9961c1c3:
+
+    # m "Oh, you know... some of this, some of that, mostly just the usual. Having Moon around makes things more tolerable, I think. I've never had co-workers before, I thought they would suck, but she's nice."
+    m ""
+
+# game/scripts/maria_events.rpy:12014
+translate uk_UA allbeach_1e296163:
+
+    # m "I wanted to see if I could get some reaction out of you... and judging by your bulge, I'd say my plan worked out very well..."
+    m ""
+
+# game/scripts/maria_events.rpy:12178
+translate uk_UA marcafe_72f3dd12:
+
+    # m "Hey [name]! Agh, I just finished unpacking everything, my back is killing me."
+    m ""
+
+# game/scripts/maria_events.rpy:12179
+translate uk_UA marcafe_548e67a9:
+
+    # c "Welcome to the hotel! I would have helped if you asked."
+    c ""
+
+# game/scripts/maria_events.rpy:12180
+translate uk_UA marcafe_7bd0eca9:
+
+    # m "No worries, I can handle things on my own. But thanks, I'm definitely diving into that hot springs as soon as humanly possible!"
+    m ""
+
+# game/scripts/maria_events.rpy:12181
+translate uk_UA marcafe_6ee35322:
+
+    # m "Honestly I'm more excited about having a place of my own... my work sort of requires personal space and a roommate really gets in the way of that, ya know?"
+    m ""
+
+# game/scripts/maria_events.rpy:12186
+translate uk_UA marcafe_4e98a5f2:
+
+    # m "But hey, you seem pretty chill, maybe the hot springs can wait... Let's grab some coffee together. You're not too busy, are you?"
+    m ""
+
+# game/scripts/maria_events.rpy:12187
+translate uk_UA marcafe_dd8ef55b:
+
+    # c "Not at all, I'll drive."
+    c ""
+
+# game/scripts/maria_events.rpy:12188
+translate uk_UA marcafe_d835931a:
+
+    # m "Oh, you know a place? Alright, lead the way."
+    m ""
+
+# game/scripts/maria_events.rpy:12190
+translate uk_UA marcafe_05384531:
+
+    # "You drive Maria to the Corpus Cafe."
+    ""
+
+# game/scripts/maria_events.rpy:12194
+translate uk_UA marcafe_6fc19d39:
+
+    # m "Nice place... but let's get one thing out of the way real quick... what's up with you and Ashley?"
+    m ""
+
+# game/scripts/maria_events.rpy:12195
+translate uk_UA marcafe_aee97930:
+
+    # m "I mean, sometimes she talks about you like you're already married. That girl likes you a lot!"
+    m ""
+
+# game/scripts/maria_events.rpy:12196
+translate uk_UA marcafe_7bb1aac6:
+
+    # c "Our relationship is still growing."
+    c ""
+
+# game/scripts/maria_events.rpy:12198
+translate uk_UA marcafe_ffc73369:
+
+    # m "How wonderfully vague..."
+    m ""
+
+# game/scripts/maria_events.rpy:12200
+translate uk_UA marcafe_ff21cee0:
+
+    # m "Oh, a very long time. We've always gone to the same school, we're just two years apart. She's always fun to be around, isn't she?"
+    m ""
+
+# game/scripts/maria_events.rpy:12201
+translate uk_UA marcafe_42019684:
+
+    # m "Honestly though, I don't know a lot about her. She's always kind of been the weird kid in school, and she rarely ever talks about herself... The only time she does is when she's talking about her future family that she's been dreaming up ever since she was a child."
+    m ""
+
+# game/scripts/maria_events.rpy:12202
+translate uk_UA marcafe_e9ea611f:
+
+    # m "That's why I'm curious about what's so special about you... her virginity was very important to her, she always told me how she would only give it to her future husband, sooo..."
+    m ""
+
+# game/scripts/maria_events.rpy:12204
+translate uk_UA marcafe_0f91ba84:
+
+    # m "Hahaha! Oh well, I guess we'll see what happens."
+    m ""
+
+# game/scripts/maria_events.rpy:12205
+translate uk_UA marcafe_2d1c337e:
+
+    # "*ding, ding*"
+    ""
+
+# game/scripts/maria_events.rpy:12207
+translate uk_UA marcafe_d84b7378:
+
+    # m "Huh...? Urgh..."
+    m ""
+
+# game/scripts/maria_events.rpy:12208
+translate uk_UA marcafe_3784857a:
+
+    # c "...?"
+    c ""
+
+# game/scripts/maria_events.rpy:12209
+translate uk_UA marcafe_a7bd5d49:
+
+    # m "{i}God dammit, fuck this prick...{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:12210
+translate uk_UA marcafe_bf4820cf:
+
+    # c "What's wrong?"
+    c ""
+
+# game/scripts/maria_events.rpy:12211
+translate uk_UA marcafe_9d152bac:
+
+    # m "It's my, ugh..."
+    m ""
+
+# game/scripts/maria_events.rpy:12212
+translate uk_UA marcafe_a78a4d5c:
+
+    # m "It's my boyfriend..."
+    m ""
+
+# game/scripts/maria_events.rpy:12213
+translate uk_UA marcafe_2aee3681:
+
+    # c "Your boyfriend?"
+    c ""
+
+# game/scripts/maria_events.rpy:12215
+translate uk_UA marcafe_c5c646fb:
+
+    # m "Yeah, he's a useless piece of shit I've been dating on and off since we were thirteen. If you can even call it dating..."
+    m ""
+
+# game/scripts/maria_events.rpy:12216
+translate uk_UA marcafe_4a83810d:
+
+    # m "We only talk like once a week these days, I'm lucky to even see his face anymore."
+    m ""
+
+# game/scripts/maria_events.rpy:12217
+translate uk_UA marcafe_8fa16932:
+
+    # m "Last week I asked if we could meet up yesterday before I moved, and after days of complete silence, you know what this asshole says to me? {i}'Sorry babe, just saw your message.'{/i}"
+    m ""
+
+# game/scripts/maria_events.rpy:12218
+translate uk_UA marcafe_1a7cdbbb:
+
+    # c "That's it?"
+    c ""
+
+# game/scripts/maria_events.rpy:12219
+translate uk_UA marcafe_8dc22d23:
+
+    # m "That's it! No follow up or anything!"
+    m ""
+
+# game/scripts/maria_events.rpy:12220
+translate uk_UA marcafe_18e70bc5:
+
+    # m "Uuuugh, I'm the only one trying in this relationship..."
+    m ""
+
+# game/scripts/maria_events.rpy:12221
+translate uk_UA marcafe_dd159bd7:
+
+    # c "I can see why you don't like him."
+    c ""
+
+# game/scripts/maria_events.rpy:12223
+translate uk_UA marcafe_49b7f02e:
+
+    # m "I mean, I used to... things have just grown so stale and boring over the years. *sigh*... He's probably cheating on me..."
+    m ""
+
+# game/scripts/maria_events.rpy:12224
+translate uk_UA marcafe_a54b1fdf:
+
+    # m "Would I even care though? It would be a huge weight lifted off my shoulders... I wouldn't have to wonder if he's the one anymore. No more going out of my way to try to make him happy..."
+    m ""
+
+# game/scripts/maria_events.rpy:12227
+translate uk_UA marcafe_5f6774cf:
+
+    # m "Second? I've given him way more than two already..."
+    m ""
+
+# game/scripts/maria_events.rpy:12229
+translate uk_UA marcafe_1dd768ec:
+
+    # m "I suppose."
+    m ""
+
+# game/scripts/maria_events.rpy:12230
+translate uk_UA marcafe_6bdc287b:
+
+    # m "I handle being single well anyway. I can take care of myself, just like I used to..."
+    m ""
+
+# game/scripts/maria_events.rpy:12232
+translate uk_UA marcafe_a29636ec:
+
+    # m "You really think I should?"
+    m ""
+
+# game/scripts/maria_events.rpy:12233
+translate uk_UA marcafe_056f18bc:
+
+    # c "Sounds like he gave up a long time ago. You deserve someone who fights for you every day."
+    c ""
+
+# game/scripts/maria_events.rpy:12234
+translate uk_UA marcafe_ef91b059:
+
+    # m "You think? I mean, yeah... I guess so. Is that normal?"
+    m ""
+
+# game/scripts/maria_events.rpy:12236
+translate uk_UA marcafe_a06de291:
+
+    # m "Whatever, forget about it. I'd rather focus on the present."
+    m ""
+
+# game/scripts/maria_events.rpy:12238
+translate uk_UA marcafe_56dfd21e:
+
+    # m "Would you like a cookie or something? Pick anything you want, I'll get it."
+    m ""
+
+# game/scripts/maria_events.rpy:12239
+translate uk_UA marcafe_f9f3ba2c:
+
+    # c "You're going to pay for it?"
+    c ""
+
+# game/scripts/maria_events.rpy:12240
+translate uk_UA marcafe_2e8fab1c:
+
+    # m "I thought I would make a good impression. Besides, I've seen what you drive..."
+    m ""
+
+# game/scripts/maria_events.rpy:12245
+translate uk_UA marcafe_e20966fb:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12248
+translate uk_UA marcafe_ff742954:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12249
+translate uk_UA marcafe_2cad8615:
+
+    # m "Acts of service is totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12251
+translate uk_UA marcafe_0110937f:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12253
+translate uk_UA marcafe_e20966fb_1:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12256
+translate uk_UA marcafe_ff742954_1:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12257
+translate uk_UA marcafe_2cad8615_1:
+
+    # m "Acts of service is totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12259
+translate uk_UA marcafe_0110937f_1:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12261
+translate uk_UA marcafe_e20966fb_2:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12264
+translate uk_UA marcafe_ff742954_2:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12265
+translate uk_UA marcafe_2cad8615_2:
+
+    # m "Acts of service is totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12267
+translate uk_UA marcafe_0110937f_2:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12269
+translate uk_UA marcafe_e20966fb_3:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12272
+translate uk_UA marcafe_ff742954_3:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12273
+translate uk_UA marcafe_2cad8615_3:
+
+    # m "Acts of service is totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12275
+translate uk_UA marcafe_0110937f_3:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12277
+translate uk_UA marcafe_d653e702:
+
+    # m "I really don't mind paying for it. My job pays well, and I invited you here, so don't worry about it."
+    m ""
+
+# game/scripts/maria_events.rpy:12280
+translate uk_UA marcafe_e20966fb_4:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12283
+translate uk_UA marcafe_ff742954_4:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12284
+translate uk_UA marcafe_2cad8615_4:
+
+    # m "Acts of service is totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12286
+translate uk_UA marcafe_0110937f_4:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12288
+translate uk_UA marcafe_e20966fb_5:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12291
+translate uk_UA marcafe_ff742954_5:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12292
+translate uk_UA marcafe_2cad8615_5:
+
+    # m "Acts of service is totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12294
+translate uk_UA marcafe_0110937f_5:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12296
+translate uk_UA marcafe_e20966fb_6:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12299
+translate uk_UA marcafe_ff742954_6:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12300
+translate uk_UA marcafe_2cad8615_6:
+
+    # m "Acts of service is totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12302
+translate uk_UA marcafe_0110937f_6:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12304
+translate uk_UA marcafe_e20966fb_7:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12307
+translate uk_UA marcafe_ff742954_7:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12308
+translate uk_UA marcafe_2cad8615_7:
+
+    # m "Acts of service is totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12310
+translate uk_UA marcafe_0110937f_7:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12312
+translate uk_UA marcafe_445c5876:
+
+    # m "Ugh, men..."
+    m ""
+
+# game/scripts/maria_events.rpy:12313
+translate uk_UA marcafe_908de9ca:
+
+    # m "I mean, I appreciate it, but I'm trying to drop subtle hints that my job pays more than yours. And I invited you here!"
+    m ""
+
+# game/scripts/maria_events.rpy:12314
+translate uk_UA marcafe_49763396:
+
+    # m "But if you really want to take care of us, that would be nice. I won't turn down free food!"
+    m ""
+
+# game/scripts/maria_events.rpy:12317
+translate uk_UA marcafe_e20966fb_8:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12320
+translate uk_UA marcafe_ff742954_8:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12321
+translate uk_UA marcafe_2cad8615_8:
+
+    # m "Acts of service is totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12323
+translate uk_UA marcafe_0110937f_8:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12325
+translate uk_UA marcafe_e20966fb_9:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12328
+translate uk_UA marcafe_ff742954_9:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12329
+translate uk_UA marcafe_2cad8615_9:
+
+    # m "Acts of service is totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12331
+translate uk_UA marcafe_0110937f_9:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12333
+translate uk_UA marcafe_e20966fb_10:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12336
+translate uk_UA marcafe_ff742954_10:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12337
+translate uk_UA marcafe_2cad8615_10:
+
+    # m "Acts of service is totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12339
+translate uk_UA marcafe_0110937f_10:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12341
+translate uk_UA marcafe_e20966fb_11:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12344
+translate uk_UA marcafe_ff742954_11:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12345
+translate uk_UA marcafe_2cad8615_11:
+
+    # m "Acts of service is totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12347
+translate uk_UA marcafe_0110937f_11:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12349
+translate uk_UA marcafe_ec7755e6:
+
+    # m "Yeah yeah... just pick something!"
+    m ""
+
+# game/scripts/maria_events.rpy:12352
+translate uk_UA marcafe_e20966fb_12:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12355
+translate uk_UA marcafe_ff742954_12:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12356
+translate uk_UA marcafe_8e2dd731:
+
+    # m "Acts of service are totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12358
+translate uk_UA marcafe_0110937f_12:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12360
+translate uk_UA marcafe_e20966fb_13:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12363
+translate uk_UA marcafe_ff742954_13:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12364
+translate uk_UA marcafe_8e2dd731_1:
+
+    # m "Acts of service are totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12366
+translate uk_UA marcafe_0110937f_13:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12368
+translate uk_UA marcafe_e20966fb_14:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12371
+translate uk_UA marcafe_ff742954_14:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12372
+translate uk_UA marcafe_8e2dd731_2:
+
+    # m "Acts of service are totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12374
+translate uk_UA marcafe_0110937f_14:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12376
+translate uk_UA marcafe_e20966fb_15:
+
+    # m "Okay, be right back!"
+    m ""
+
+# game/scripts/maria_events.rpy:12379
+translate uk_UA marcafe_ff742954_15:
+
+    # m "There you go, enjoy."
+    m ""
+
+# game/scripts/maria_events.rpy:12380
+translate uk_UA marcafe_8e2dd731_3:
+
+    # m "Acts of service are totally my love language by the way. Opening a door for me will go a long way..."
+    m ""
+
+# game/scripts/maria_events.rpy:12382
+translate uk_UA marcafe_0110937f_15:
+
+    # m "Also something my boyfriend stopped doing a long time ago..."
+    m ""
+
+# game/scripts/maria_events.rpy:12384
+translate uk_UA marcafe_c90449c7:
+
+    # m "*sigh*... Hey [name]... do you think soulmates are real? That there's really someone out there that you're meant to be with? Someone that completes you in every way?"
+    m ""
+
+# game/scripts/maria_events.rpy:12387
+translate uk_UA marcafe_25574c69:
+
+    # m "Then... I'm not sure I've found mine yet."
+    m ""
+
+# game/scripts/maria_events.rpy:12388
+translate uk_UA marcafe_3e93b2ab:
+
+    # c "Don't give up hope. Maybe yours is still out there. He could even be in this very cafe."
+    c ""
+
+# game/scripts/maria_events.rpy:12390
+translate uk_UA marcafe_12c86054:
+
+    # m "Hah, smooth..."
+    m ""
+
+# game/scripts/maria_events.rpy:12392
+translate uk_UA marcafe_b8599a07:
+
+    # m "If it's meant to be, shouldn't it be obvious? Shouldn't everything just fall into place perfectly?"
+    m ""
+
+# game/scripts/maria_events.rpy:12393
+translate uk_UA marcafe_8a2a447b:
+
+    # c "Being with someone sometimes requires sacrifices and compromises."
+    c ""
+
+# game/scripts/maria_events.rpy:12394
+translate uk_UA marcafe_ca680ba1:
+
+    # m "*sigh*... maybe..."
+    m ""
+
+# game/scripts/maria_events.rpy:12396
+translate uk_UA marcafe_32921cbb:
+
+    # m "*sigh*... maybe it is. Maybe soulmates only exist in books and movies..."
+    m ""
+
+# game/scripts/maria_events.rpy:12398
+translate uk_UA marcafe_c39e1480:
+
+    # m "Maybe I'm not even supposed to be with anyone... Maybe I was meant to be independent."
+    m ""
+
+# game/scripts/maria_events.rpy:12399
+translate uk_UA marcafe_24eb418e:
+
+    # c "Why don't you just leave him?"
+    c ""
+
+# game/scripts/maria_events.rpy:12400
+translate uk_UA marcafe_3fa431e0:
+
+    # m "It's hard, you know? My friends are his friends. His parents are basically mine too. If we break up I have to start over. Like, completely over."
+    m ""
+
+# game/scripts/maria_events.rpy:12401
+translate uk_UA marcafe_a9a44ae6:
+
+    # m "The only thing I have that's mine is my career... without it I would be so fucked. He doesn't even know I have my own job."
+    m ""
+
+# game/scripts/maria_events.rpy:12402
+translate uk_UA marcafe_ac017a93:
+
+    # m "The worst part is, he knows all of this. He's very aware that my life is so entangled with his... he holds it over my head all the time like he actually has that power over me."
+    m ""
+
+# game/scripts/maria_events.rpy:12403
+translate uk_UA marcafe_2d1c337e_1:
+
+    # "*ding, ding*"
+    ""
+
+# game/scripts/maria_events.rpy:12405
+translate uk_UA marcafe_a951b22b:
+
+    # m "Ugh..."
+    m ""
+
+# game/scripts/maria_events.rpy:12406
+translate uk_UA marcafe_8d8a6213:
+
+    # c "What's he saying?"
+    c ""
+
+# game/scripts/maria_events.rpy:12407
+translate uk_UA marcafe_72881f0b:
+
+    # m "He's sending me pictures of lingerie... As if I want to fuck you, dude. Fuck off."
+    m ""
+
+# game/scripts/maria_events.rpy:12408
+translate uk_UA marcafe_a626bcc3:
+
+    # m "Blocked."
+    m ""
+
+# game/scripts/maria_events.rpy:12410
+translate uk_UA marcafe_91fd313d:
+
+    # m "There. Now he won't be an issue. For now..."
+    m ""
+
+# game/scripts/maria_events.rpy:12411
+translate uk_UA marcafe_c3377d75:
+
+    # c "How long has it been like this?"
+    c ""
+
+# game/scripts/maria_events.rpy:12412
+translate uk_UA marcafe_7d88c35b:
+
+    # m "The controlling or the toxicity?"
+    m ""
+
+# game/scripts/maria_events.rpy:12413
+translate uk_UA marcafe_0aaeb44e:
+
+    # c "Uh, both."
+    c ""
+
+# game/scripts/maria_events.rpy:12415
+translate uk_UA marcafe_57b8e0f2:
+
+    # m "The controlling started maybe a year after we started dating. I thought he was normal until he just... changed. Like, out of nowhere. I don't know, maybe he felt like he owns me now so he doesn't have to try anymore."
+    m ""
+
+# game/scripts/maria_events.rpy:12416
+translate uk_UA marcafe_5e58c1de:
+
+    # m "But the toxicity, that started about a year ago. First he starts calling me worthless, then it escelates to name calling... I think we've argued every time we've seen each other for this entire year."
+    m ""
+
+# game/scripts/maria_events.rpy:12417
+translate uk_UA marcafe_e3054046:
+
+    # m "That's when I decided to start my own career. I knew I wouldn't be able to rely on him in the long-term."
+    m ""
+
+# game/scripts/maria_events.rpy:12418
+translate uk_UA marcafe_434a4a76:
+
+    # m "I couldn't even tell you what all the arguments were about... Just some pointless bullshit."
+    m ""
+
+# game/scripts/maria_events.rpy:12420
+translate uk_UA marcafe_ff4df33f:
+
+    # m "But hey... let's forget about him. I'd rather talk about you."
+    m ""
+
+# game/scripts/maria_events.rpy:12422
+translate uk_UA marcafe_c8a9618a:
+
+    # m "What's it like to be a manager of a hotel? You must meet so many interesting people."
+    m ""
+
+# game/scripts/maria_events.rpy:12423
+translate uk_UA marcafe_33125e29:
+
+    # c "I just moved here so I haven't met many people yet."
+    c ""
+
+# game/scripts/maria_events.rpy:12424
+translate uk_UA marcafe_6e4e0f0b:
+
+    # m "No way! Where are you from?"
+    m ""
+
+# game/scripts/maria_events.rpy:12425
+translate uk_UA marcafe_9a8d4e8a:
+
+    # c "Near Capitol City, it's on the other side of the world."
+    c ""
+
+# game/scripts/maria_events.rpy:12426
+translate uk_UA marcafe_03d3a445:
+
+    # m "Of course I've heard of The Capitol, that's awesome! I've always wanted to visit. I hear the canals are so beautiful at night."
+    m ""
+
+# game/scripts/maria_events.rpy:12427
+translate uk_UA marcafe_34b9f2f4:
+
+    # c "They are. I would love to take you some day."
+    c ""
+
+# game/scripts/maria_events.rpy:12428
+translate uk_UA marcafe_81b99cda:
+
+    # m "Aww, that's so sweet! I would love to go with you! I've never even left this area, traveling is definitely on my bucket list. Oh! Have you ever been to Syl'tin? There's just something about that place that calls to me. Maybe it's those old pyramids!"
+    m ""
+
+# game/scripts/maria_events.rpy:12429
+translate uk_UA marcafe_e3a7b3c9:
+
+    # c "I haven't, but I would love to go with you some day."
+    c ""
+
+# game/scripts/maria_events.rpy:12430
+translate uk_UA marcafe_b9ec87f9:
+
+    # m "Really? Oh, we could travel the whole world together! I'm no housewife, you know? I like to work too, so we'll have even more money to spend on touring the world!"
+    m ""
+
+# game/scripts/maria_events.rpy:12432
+translate uk_UA marcafe_b0388cc0:
+
+    # m "Uh, heh, maybe I'm getting ahead of myself..."
+    m ""
+
+# game/scripts/maria_events.rpy:12436
+translate uk_UA marcafe_2b067966:
+
+    # m "Urgh... I'm so exhausted today. Moving by myself is a lot more work than I thought it would be..."
+    m ""
+
+# game/scripts/maria_events.rpy:12437
+translate uk_UA marcafe_63f0d4f8:
+
+    # c "Spend some time in our hot springs, it will rejuvenate you like nothing else."
+    c ""
+
+# game/scripts/maria_events.rpy:12438
+translate uk_UA marcafe_0a52c648:
+
+    # m "I think I will. But tomorrow... I really just want to pass out. 12 hours of rest sounds like a good starting point."
+    m ""
+
+# game/scripts/maria_events.rpy:12439
+translate uk_UA marcafe_f54c874c:
+
+    # c "I'll make sure you aren't bothered then."
+    c ""
+
+# game/scripts/maria_events.rpy:12441
+translate uk_UA marcafe_f9ace4d5:
+
+    # m "Thanks... that's really so sweet."
+    m ""
+
+# game/scripts/maria_events.rpy:12442
+translate uk_UA marcafe_9b8db5e8:
+
+    # c "It's the bare minimum."
+    c ""
+
+# game/scripts/maria_events.rpy:12443
+translate uk_UA marcafe_d473012c:
+
+    # m "I'm glad you think so."
+    m ""
+
+# game/scripts/maria_events.rpy:12445
+translate uk_UA marcafe_a07eff0a:
+
+    # m "Urgh... I just realized how long it's been since I've been on something even close to resembling a date. Do all men stop trying after they get into a relationship?"
+    m ""
+
+# game/scripts/maria_events.rpy:12446
+translate uk_UA marcafe_77277d0b:
+
+    # c "Only the ones that suck."
+    c ""
+
+# game/scripts/maria_events.rpy:12447
+translate uk_UA marcafe_528b91d5:
+
+    # m "Right... *sigh*..."
+    m ""
+
+# game/scripts/maria_events.rpy:12448
+translate uk_UA marcafe_de3a9435:
+
+    # c "You deserve so much more, Maria. You're beautiful, and you seem very intelligent. Don't get stuck in the past."
+    c ""
+
+# game/scripts/maria_events.rpy:12450
+translate uk_UA marcafe_53cbc00a:
+
+    # m "Wow... that's everything I needed to hear right now. Thank you for that..."
+    m ""
+
+# game/scripts/maria_events.rpy:12452
+translate uk_UA marcafe_9db650de:
+
+    # m "My life has just been one big series of unfortunate events... My boyfriend has been the one constant in my life for so long. Almost a decade... It's hard to give that up, you know?"
+    m ""
+
+# game/scripts/maria_events.rpy:12453
+translate uk_UA marcafe_3cb14b0c:
+
+    # m "Anyway... thanks [name]. You really know how to listen. That's rare, I think. I don't know what's normal anymore..."
+    m ""
+
+# game/scripts/maria_events.rpy:12455
+translate uk_UA marcafe_daaed9b1:
+
+    # m "Are you ready to head back?"
+    m ""
+
+# game/scripts/maria_events.rpy:12456
+translate uk_UA marcafe_c48dc32f:
+
+    # c "Sure."
+    c ""
+
+# game/scripts/maria_events.rpy:12458
+translate uk_UA marcafe_7de358ea:
+
+    # m "Thanks for again everything, [name]."
+    m ""
+
+# game/scripts/maria_events.rpy:12653
+translate uk_UA martalkl_3437cbee:
+
+    # m "Glad to be getting things done!"
+    m ""
+
+# game/scripts/maria_events.rpy:12654
+translate uk_UA martalkl_92ec7b9f:
+
+    # m "I'm sort of officially a spy now, aren't I? I gotta take this more seriously..."
+    m ""
+
+# game/scripts/maria_events.rpy:12657
+translate uk_UA martalkl_d3bd1f0f:
+
+    # m "I think I'm ready to take being a spy more seriously. Don't you?"
+    m ""
+
+# game/scripts/maria_events.rpy:12658
+translate uk_UA martalkl_1e465272:
+
+    # c "If it's something you're sure about, I'm here to help."
+    c ""
+
+# game/scripts/maria_events.rpy:12659
+translate uk_UA martalkl_aeb58856:
+
+    # m "Yeah. I mean what else am I going to do? The world is going to shit, I can't sit back and take it."
+    m ""
+
+# game/scripts/maria_events.rpy:12662
+translate uk_UA martalkl_817f9fb9:
+
+    # m "I feel so good about saving Cira! We really kicked some ass back there!"
+    m ""
+
+# game/scripts/maria_events.rpy:12663
+translate uk_UA martalkl_f02ffce4:
+
+    # m "Well I kicked some balls, but, you get it."
+    m ""
+
+# game/scripts/maria_events.rpy:12664
+translate uk_UA martalkl_cb0b2c1c:
+
+    # c "You did well."
+    c ""
+
+# game/scripts/maria_events.rpy:12665
+translate uk_UA martalkl_04797cb5:
+
+    # m "Yeah, that guy really pissed me off..."
+    m ""
+
+# game/scripts/maria_events.rpy:12668
+translate uk_UA martalkl_f08e5124:
+
+    # m "I feel better after training with Nia. I think I'll be ready for the mission, don't you?"
+    m ""
+
+# game/scripts/maria_events.rpy:12669
+translate uk_UA martalkl_8198f9f0:
+
+    # c "I think so. Just don't rush into anything."
+    c ""
+
+# game/scripts/maria_events.rpy:12670
+translate uk_UA martalkl_0b425f17:
+
+    # m "I'm tired of sitting around doing nothing while this world gets shittier and shitter."
+    m ""
+
+# game/scripts/maria_events.rpy:12671
+translate uk_UA martalkl_261f842b:
+
+    # c "I know, me too..."
+    c ""
+
+# game/scripts/maria_events.rpy:12674
+translate uk_UA martalkl_9838c920:
+
+    # m "I want to do something, [name]! I can't just stand her knowing who my mother is..."
+    m ""
+
+# game/scripts/maria_events.rpy:12675
+translate uk_UA martalkl_75c2569a:
+
+    # m "This world ruined our family! I never got to meet my parents because of people like Cornwall. I'm ready to make some change."
+    m ""
+
+# game/scripts/maria_events.rpy:12678
+translate uk_UA martalkl_41bf58a1:
+
+    # m "It was so cool to learn about my heritage! Well, half of it anyway."
+    m ""
+
+# game/scripts/maria_events.rpy:12681
+translate uk_UA martalkl_919a07a7:
+
+    # m "I don't know what I should do. I just need some time to think."
+    m ""
+
+# game/scripts/maria_events.rpy:12684
+translate uk_UA martalkl_98f1f8e8:
+
+    # m "*sigh*... I'm okay. I'm back with you, so, I'm okay..."
+    m ""
+
+# game/scripts/maria_events.rpy:12689
+translate uk_UA martalkl_ae3a66de:
+
+    # m "I'm great! My best friend is my room mate again! Aaaah!"
+    m ""
+
+# game/scripts/maria_events.rpy:12692
+translate uk_UA martalkl_09c57319:
+
+    # m "I'm good! I'm great. I'm loving life actually."
+    m ""
+
+# game/scripts/maria_events.rpy:12695
+translate uk_UA martalkl_9ccc8301:
+
+    # m "I'm happy! I love spending time with you and Hana."
+    m ""
+
+# game/scripts/maria_events.rpy:12698
+translate uk_UA martalkl_3b3cd77e:
+
+    # m "I love being naughty with you in risky situations..."
+    m ""
+
+# game/scripts/maria_events.rpy:12701
+translate uk_UA martalkl_180147c8:
+
+    # m "Can you believe it? It's Hana! Aaaah! I never thought I'd see her again!"
+    m ""
+
+# game/scripts/maria_events.rpy:12704
+translate uk_UA martalkl_4b81e240:
+
+    # m "Heheh, Lin's fun to play with, isn't she?"
+    m ""
+
+# game/scripts/maria_events.rpy:12707
+translate uk_UA martalkl_8ad1ad32:
+
+    # m "I don't let just anyone see me in my glasses you know... you're special."
+    m ""
+
+# game/scripts/maria_events.rpy:12710
+translate uk_UA martalkl_6ce429e2:
+
+    # m "Sorry if I can't make my mind up sometimes... I really, really like you. I'm sure of it. I can see a future with you."
+    m ""
+
+# game/scripts/maria_events.rpy:12713
+translate uk_UA martalkl_0bc276eb:
+
+    # m "I don't know... I need time to think."
+    m ""
+
+# game/scripts/maria_events.rpy:12716
+translate uk_UA martalkl_d0e05ced:
+
+    # m "I'm good, and you cutie?"
+    m ""
+
+# game/scripts/maria_events.rpy:12719
+translate uk_UA martalkl_e3f3dfcf:
+
+    # m "I wish I knew everyone's secrets... I would have so much tea to spill."
+    m ""
+
+# game/scripts/maria_events.rpy:12722
+translate uk_UA martalkl_54cbb4e1:
+
+    # m "I'm not so sure about streaming anymore..."
+    m ""
+
+# game/scripts/maria_events.rpy:12725
+translate uk_UA martalkl_7282b8eb:
+
+    # m "Enjoying life~"
+    m ""
+
+# game/scripts/maria_events.rpy:12728
+translate uk_UA martalkl_66769668:
+
+    # m "Thanks for listening when I need someone to talk to. There are some really good people in this hotel."
+    m ""
+
+# game/scripts/maria_events.rpy:12731
+translate uk_UA martalkl_cbd2f34a:
+
+    # m "Ah, I love this hotel... I would live here for the rest of my life if I could."
+    m ""
+
+# game/scripts/maria_events.rpy:12734
+translate uk_UA martalkl_bf026a8e:
+
+    # m "Ugh, I hate my ex. I wish I could just delete the parts of my brain that remembers him..."
+    m ""
+
+# game/scripts/maria_events.rpy:12735
+translate uk_UA martalkl_f2ac6966:
+
+    # m "Thank you for punching him. I needed that memory."
+    m ""
+
+# game/scripts/maria_events.rpy:12738
+translate uk_UA martalkl_2930b52c:
+
+    # m "Not so bad, how about you?"
+    m ""
+
+# game/scripts/maria_events.rpy:12741
+translate uk_UA martalkl_b9d4a954:
+
+    # m "Ellen... now that's a juicy ass, isn't it?"
+    m ""
+
+# game/scripts/maria_events.rpy:12742
+translate uk_UA martalkl_87d926cd:
+
+    # c "Someone's horny."
+    c ""
+
+# game/scripts/maria_events.rpy:12743
+translate uk_UA martalkl_7eb1e6db:
+
+    # m "Always~"
+    m ""
+
+# game/scripts/maria_events.rpy:12746
+translate uk_UA martalkl_88f03371:
+
+    # m "I can tell, I'm going to like this place!"
+    m ""
+
+# game/scripts/maria_events.rpy:12749
+translate uk_UA martalkl_9f13c62f:
+
+    # m "I wish this hotel offered better drinks... I would love to get drunk at the hot springs."
+    m ""
+
+# game/scripts/maria_events.rpy:12752
+translate uk_UA martalkl_6ecae7b0:
+
+    # m "You're so naughty... I love it."
+    m ""
+
+translate uk_UA strings:
+
+    # game/scripts/maria_events.rpy:121
+    old "The one you blamed my elf on?"
+    new ""
+
+    # game/scripts/maria_events.rpy:121
+    old "Which protest? I don't follow the news."
+    new ""
+
+    # game/scripts/maria_events.rpy:121
+    old "I thought that was a test for Archon."
+    new ""
+
+    # game/scripts/maria_events.rpy:12225
+    old "Give him a second chance."
+    new ""
+
+    # game/scripts/maria_events.rpy:12225
+    old "There's plenty of fish in the sea."
+    new ""
+
+    # game/scripts/maria_events.rpy:12225
+    old "Dump his ass."
+    new ""
+
+    # game/scripts/maria_events.rpy:12241
+    old "Okay, I'll order..."
+    new ""
+
+    # game/scripts/maria_events.rpy:12241
+    old "Let's split the bill."
+    new ""
+
+    # game/scripts/maria_events.rpy:12241
+    old "Hey, my car is a classic."
+    new ""
+
+    # game/scripts/maria_events.rpy:12385
+    old "Love takes work."
+    new ""
+
+    # game/scripts/maria_events.rpy:12385
+    old "It's bullshit."
+    new ""
+

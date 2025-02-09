@@ -1996,3 +1996,113 @@ translate uk_UA lobby_bot_talk_c9680a30_2:
     # bot "Hello [botown]!"
     bot ""
 
+# TODO: Translation updated at 2025-02-09 00:44
+
+# game/scripts/lobby_script.rpy:10
+translate uk_UA lobby3_c6ebbc6b:
+
+    # c "It's getting late..."
+    c ""
+
+# game/scripts/lobby_script.rpy:156
+translate uk_UA lobby3continued_c6991da6:
+
+    # q "{i}AAAAAAH!{/i}"
+    q ""
+
+# game/scripts/lobby_script.rpy:157
+translate uk_UA lobby3continued_77d6dc75:
+
+    # c "What's that? It's coming from outside."
+    c ""
+
+# game/scripts/lobby_script.rpy:1089
+translate uk_UA lobby_bot_talk_8b4e6625:
+
+    # bot "Hello [botown]! It's raining..."
+    bot ""
+
+# game/scripts/lobby_script.rpy:1091
+translate uk_UA lobby_bot_talk_b907093e:
+
+    # bot "Hiii~"
+    bot ""
+
+# game/scripts/lobby_script.rpy:1093
+translate uk_UA lobby_bot_talk_d2bd74f8:
+
+    # bot "Hellooo!"
+    bot ""
+
+# game/scripts/lobby_script.rpy:1100
+translate uk_UA lobby_bot_talk_2a75e183:
+
+    # bot "It's raining again..."
+    bot ""
+
+# game/scripts/lobby_script.rpy:1102
+translate uk_UA lobby_bot_talk_1b898871:
+
+    # bot "Hey."
+    bot ""
+
+# game/scripts/lobby_script.rpy:1104
+translate uk_UA lobby_bot_talk_a89877e7:
+
+    # bot "Hello!"
+    bot ""
+
+# game/scripts/lobby_script.rpy:1111
+translate uk_UA lobby_bot_talk_7e3068e7:
+
+    # bot "Ugh, it's raining..."
+    bot ""
+
+# game/scripts/lobby_script.rpy:1113
+translate uk_UA lobby_bot_talk_1b898871_1:
+
+    # bot "Hey."
+    bot ""
+
+# game/scripts/lobby_script.rpy:1115
+translate uk_UA lobby_bot_talk_d1e5edaa:
+
+    # bot "What's up."
+    bot ""
+
+# game/scripts/lobby_script.rpy:1122
+translate uk_UA lobby_bot_talk_782ca79e:
+
+    # bot "It's raining again, [botown]."
+    bot ""
+
+# game/scripts/lobby_script.rpy:1124
+translate uk_UA lobby_bot_talk_994fb5bd:
+
+    # bot "Hello...!"
+    bot ""
+
+# game/scripts/lobby_script.rpy:1126
+translate uk_UA lobby_bot_talk_bd6638a3:
+
+    # bot "How can I help?"
+    bot ""
+
+# game/scripts/lobby_script.rpy:1133
+translate uk_UA lobby_bot_talk_8a423067:
+
+    # bot "It's raining!"
+    bot ""
+
+# game/scripts/lobby_script.rpy:1135
+translate uk_UA lobby_bot_talk_415e3835:
+
+    # bot "Hey hey."
+    bot ""
+
+# game/scripts/lobby_script.rpy:1137
+translate uk_UA lobby_bot_talk_a89877e7_1:
+
+    # bot "Hello!"
+    bot ""
+

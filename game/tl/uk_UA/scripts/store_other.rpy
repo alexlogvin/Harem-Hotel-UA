@@ -150,3 +150,35 @@ translate uk_UA strings:
     old "Rasha's Phone"
     new ""
 
+# TODO: Translation updated at 2025-02-09 00:44
+
+# game/scripts/store_other.rpy:175
+translate uk_UA buy_other_b0ea5483_4:
+
+    # "I already bought that."
+    ""
+
+# game/scripts/store_other.rpy:181
+translate uk_UA buy_other_9ccbe5e3_4:
+
+    # "The order has been placed, but our shipping department is closed.\nYour order will arrive the day after tomorrow."
+    ""
+
+# game/scripts/store_other.rpy:184
+translate uk_UA buy_other_7c0a07fa_4:
+
+    # "The order has been placed, it will arrive tomorrow morning."
+    ""
+
+# game/scripts/store_other.rpy:187
+translate uk_UA buy_other_b5cb3122_4:
+
+    # "I don't have enough money for that"
+    ""
+
+translate uk_UA strings:
+
+    # game/scripts/store_other.rpy:52
+    old "Kate's Earrings"
+    new ""
+

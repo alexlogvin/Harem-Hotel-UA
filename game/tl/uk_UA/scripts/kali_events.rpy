@@ -47236,3 +47236,2121 @@ translate uk_UA kalitalk_2e6b7081:
     # k "I'm doing great!"
     k ""
 
+# TODO: Translation updated at 2025-02-09 00:44
+
+# game/scripts/kali_events.rpy:12
+translate uk_UA kali_work_543ed9dc:
+
+    # k "What are you doing here, Vanessa? I thought you were pissed at me."
+    k ""
+
+# game/scripts/kali_events.rpy:13
+translate uk_UA kali_work_50411d09:
+
+    # van "Well I was, but..."
+    van ""
+
+# game/scripts/kali_events.rpy:15
+translate uk_UA kali_work_d31aae05:
+
+    # van "It's not like I think you're a bad person, it's just the shitty circumstances I'm angry at. I was really excited for that job offer."
+    van ""
+
+# game/scripts/kali_events.rpy:16
+translate uk_UA kali_work_406cf7d1:
+
+    # k "Don't you hate my dad?"
+    k ""
+
+# game/scripts/kali_events.rpy:17
+translate uk_UA kali_work_c4aa0bd5:
+
+    # van "Yes, but replacing elves with robots is the future! I really wanted to be a part of that."
+    van ""
+
+# game/scripts/kali_events.rpy:18
+translate uk_UA kali_work_46bfc647:
+
+    # van "So, I'm sorry for being a bitch, I don't want to stop being your friend or anything."
+    van ""
+
+# game/scripts/kali_events.rpy:20
+translate uk_UA kali_work_a689f311:
+
+    # k "It's whatever, there's a reason I don't advertise my family name after all."
+    k ""
+
+# game/scripts/kali_events.rpy:21
+translate uk_UA kali_work_ee34516c:
+
+    # k "Kinda sucks he's been grooming me to take over his company. I mean Lucy would definitely run it into the ground, but I'm no leader. Good thing that's never happening..."
+    k ""
+
+# game/scripts/kali_events.rpy:22
+translate uk_UA kali_work_3b7b36ee:
+
+    # van "You have an amazing opportunity in front of you though!"
+    van ""
+
+# game/scripts/kali_events.rpy:24
+translate uk_UA kali_work_bfc32049:
+
+    # van "Just think about it, you get to be a part of the team that sets the course for our future! Everyone's future!"
+    van ""
+
+# game/scripts/kali_events.rpy:25
+translate uk_UA kali_work_2b25fbef:
+
+    # van "I feel a lot better knowing it's you steering this ship. You're not some asshole trying to make the most money out of it, you actually care, and that's all I can ask for."
+    van ""
+
+# game/scripts/kali_events.rpy:26
+translate uk_UA kali_work_fe7b2002:
+
+    # k "Right, well I'm not steering anything, I'm just joining the team."
+    k ""
+
+# game/scripts/kali_events.rpy:27
+translate uk_UA kali_work_78481d87:
+
+    # k "Anyway, I really gotta-"
+    k ""
+
+# game/scripts/kali_events.rpy:29
+translate uk_UA kali_work_6190f4db:
+
+    # c "Hey."
+    c ""
+
+# game/scripts/kali_events.rpy:30
+translate uk_UA kali_work_e3e41fb2:
+
+    # van "Hi [name]."
+    van ""
+
+# game/scripts/kali_events.rpy:31
+translate uk_UA kali_work_0c26904e:
+
+    # k "Oh hey! I was just coming down to see you."
+    k ""
+
+# game/scripts/kali_events.rpy:33
+translate uk_UA kali_work_48fc288b:
+
+    # c "What's up?"
+    c ""
+
+# game/scripts/kali_events.rpy:34
+translate uk_UA kali_work_c95f3261:
+
+    # k "Today's my first day of work. Would you mind coming with me? I hate flying alone..."
+    k ""
+
+# game/scripts/kali_events.rpy:35
+translate uk_UA kali_work_9e4b9499:
+
+    # van "What do you mean flying alone?"
+    van ""
+
+# game/scripts/kali_events.rpy:36
+translate uk_UA kali_work_e3cc138d:
+
+    # k "I work in Corpus, I take my dad's private jet. But I guess I'll have to get used to flying every day."
+    k ""
+
+# game/scripts/kali_events.rpy:37
+translate uk_UA kali_work_28e99e55:
+
+    # van "You fly to and from work EVERY DAY?"
+    van ""
+
+# game/scripts/kali_events.rpy:38
+translate uk_UA kali_work_1c9cce17:
+
+    # k "Um, yeah... so do you have time [name]?"
+    k ""
+
+# game/scripts/kali_events.rpy:39
+translate uk_UA kali_work_ce70eae1:
+
+    # c "Yeah, should I pack?"
+    c ""
+
+# game/scripts/kali_events.rpy:40
+translate uk_UA kali_work_51b81ad7:
+
+    # k "No, we'll only be staying for a few hours."
+    k ""
+
+# game/scripts/kali_events.rpy:41
+translate uk_UA kali_work_23cd6c3d:
+
+    # van "Talk about waste..."
+    van ""
+
+# game/scripts/kali_events.rpy:43
+translate uk_UA kali_work_c83b5589:
+
+    # van "Alright, I'll let you kids have fun. See ya."
+    van ""
+
+# game/scripts/kali_events.rpy:44
+translate uk_UA kali_work_4a090221:
+
+    # k "Thanks for stopping by, Vanessa."
+    k ""
+
+# game/scripts/kali_events.rpy:46
+translate uk_UA kali_work_00aee1a3:
+
+    # k "Alright, let's get this over with..."
+    k ""
+
+# game/scripts/kali_events.rpy:47
+translate uk_UA kali_work_65730b7b:
+
+    # "You and Kali drive to the jetport and fly to Corpus."
+    ""
+
+# game/scripts/kali_events.rpy:48
+translate uk_UA kali_work_eff9aa3c:
+
+    # "Once arriving to Nero Tower, security ushers you two to the 88th floor..."
+    ""
+
+# game/scripts/kali_events.rpy:50
+translate uk_UA kali_work_685431dc:
+
+    # kd "Kali! Kali's boyfriend! You made it!"
+    kd ""
+
+# game/scripts/kali_events.rpy:51
+translate uk_UA kali_work_8e9bbd7f:
+
+    # k "His name is [name], dad."
+    k ""
+
+# game/scripts/kali_events.rpy:52
+translate uk_UA kali_work_5395d2e5:
+
+    # kd "Of course, I couldn't forget! How are you?"
+    kd ""
+
+# game/scripts/kali_events.rpy:53
+translate uk_UA kali_work_4b96af06:
+
+    # k "Fine, dad. What are you doing here?"
+    k ""
+
+# game/scripts/kali_events.rpy:54
+translate uk_UA kali_work_7ed36de5:
+
+    # kd "I'm here to show you around!"
+    kd ""
+
+# game/scripts/kali_events.rpy:56
+translate uk_UA kali_work_31fd98cb:
+
+    # kd "How ya been, pal? Hotel still in rough shape?"
+    kd ""
+
+# game/scripts/kali_events.rpy:57
+translate uk_UA kali_work_a5a91e74:
+
+    # c "Uhh."
+    c ""
+
+# game/scripts/kali_events.rpy:58
+translate uk_UA kali_work_02f86224:
+
+    # kd "I'm only one phone call away, don't forget!"
+    kd ""
+
+# game/scripts/kali_events.rpy:60
+translate uk_UA kali_work_b6bc6880:
+
+    # kd "Come on, come on. We have work to do!"
+    kd ""
+
+# game/scripts/kali_events.rpy:61
+translate uk_UA kali_work_e109b2a7:
+
+    # k "{i}I love you too, dad...{/i}"
+    k ""
+
+# game/scripts/kali_events.rpy:62
+translate uk_UA kali_work_f5dafbab:
+
+    # kd "Huh? Oh! Yes I love you more, darling."
+    kd ""
+
+# game/scripts/kali_events.rpy:64
+translate uk_UA kali_work_399d8dc5:
+
+    # kd "You know Kali, I wasn't always the wealthiest man in the world."
+    kd ""
+
+# game/scripts/kali_events.rpy:65
+translate uk_UA kali_work_b56624ed:
+
+    # k "Obviously."
+    k ""
+
+# game/scripts/kali_events.rpy:66
+translate uk_UA kali_work_45c9638e:
+
+    # kd "It all started on my father's diamond mine. You might think being his son would mean that I got special treatment, but no sir! Day in and day out, he forced me to work those mines."
+    kd ""
+
+# game/scripts/kali_events.rpy:67
+translate uk_UA kali_work_ea89b476:
+
+    # k "That's you?"
+    k ""
+
+# game/scripts/kali_events.rpy:68
+translate uk_UA kali_work_4b854088:
+
+    # kd "It was hard work being the waterboy! Something no child should ever have to endure, but it turned me into a man. It gave me ambition! It lit a fire in my very soul!"
+    kd ""
+
+# game/scripts/kali_events.rpy:69
+translate uk_UA kali_work_d6218a69:
+
+    # k "Is that why you sent me to Syl'anar all alone...?"
+    k ""
+
+# game/scripts/kali_events.rpy:71
+translate uk_UA kali_work_f4421e5f:
+
+    # kd "Once my father died, it devastated us... nearly broke the family. We relied on him! He was my hero! As an only child, I felt lost..."
+    kd ""
+
+# game/scripts/kali_events.rpy:72
+translate uk_UA kali_work_924c504f:
+
+    # k "You were pretty handsome in your early years."
+    k ""
+
+# game/scripts/kali_events.rpy:73
+translate uk_UA kali_work_763bfd41:
+
+    # kd "Yes, I had nothing but my looks... {w}and the few billion syls that I inherited."
+    kd ""
+
+# game/scripts/kali_events.rpy:75
+translate uk_UA kali_work_217389a5:
+
+    # k "BILLION!?" with ssshake
+    k "" with ssshake
+
+# game/scripts/kali_events.rpy:76
+translate uk_UA kali_work_82fc43b5:
+
+    # kd "Oh, and the diamond mine."
+    kd ""
+
+# game/scripts/kali_events.rpy:78
+translate uk_UA kali_work_f6d591a1:
+
+    # kd "But you know what I did? Instead of sulking, I built the future! I had a dream!"
+    kd ""
+
+# game/scripts/kali_events.rpy:79
+translate uk_UA kali_work_9be18352:
+
+    # k "Damn, nice hair."
+    k ""
+
+# game/scripts/kali_events.rpy:80
+translate uk_UA kali_work_3531581b:
+
+    # kd "So I built a garage! Yes, just the garage! And I got all my friends to work for me, and we built Nero Inc. with their blood, sweat, and tears! Right there in that garage that I built specifically for this purpose!"
+    kd ""
+
+# game/scripts/kali_events.rpy:81
+translate uk_UA kali_work_17f942f1:
+
+    # k "That's what that old building in the middle of our backyard was for?"
+    k ""
+
+# game/scripts/kali_events.rpy:82
+translate uk_UA kali_work_8fd166ea:
+
+    # kd "Precisely! And it worked! We built the world's first nano-chip, and I became a self-made man! Because I had to fire the others."
+    kd ""
+
+# game/scripts/kali_events.rpy:84
+translate uk_UA kali_work_14d1aa9c:
+
+    # kd "And here I am now. The CEO of the biggest company in the world... Mayor of The Capitol... and the wealthiest man in history."
+    kd ""
+
+# game/scripts/kali_events.rpy:85
+translate uk_UA kali_work_c51a205c:
+
+    # kd "Our products are in everything from smart glasses to war-droids. This era was built on Nero tech! The world as you know it would not exist without my work."
+    kd ""
+
+# game/scripts/kali_events.rpy:86
+translate uk_UA kali_work_ea8a8846:
+
+    # k "Did you get hair plugs?"
+    k ""
+
+# game/scripts/kali_events.rpy:87
+translate uk_UA kali_work_161b7d62:
+
+    # kd "That's none of your business, sweetie."
+    kd ""
+
+# game/scripts/kali_events.rpy:88
+translate uk_UA kali_work_2ecf462c:
+
+    # k "When was this painted?"
+    k ""
+
+# game/scripts/kali_events.rpy:89
+translate uk_UA kali_work_3571156b:
+
+    # kd "Well it's a painting of a picture from 14 years ago. At the founding of Nero Inc! Perhaps the artist took some liberties."
+    kd ""
+
+# game/scripts/kali_events.rpy:90
+translate uk_UA kali_work_088e5a17:
+
+    # k "Uh-huh..."
+    k ""
+
+# game/scripts/kali_events.rpy:92
+translate uk_UA kali_work_2b91fd79:
+
+    # kd "Anyway, we're here!"
+    kd ""
+
+# game/scripts/kali_events.rpy:93
+translate uk_UA kali_work_a2ccfc96:
+
+    # k "Is this your office?"
+    k ""
+
+# game/scripts/kali_events.rpy:94
+translate uk_UA kali_work_5039b2a6:
+
+    # kd "No, it's the elfbot division of Nero Inc! This is where you'll be working."
+    kd ""
+
+# game/scripts/kali_events.rpy:95
+translate uk_UA kali_work_ed9f1c6d:
+
+    # k "You have all these paintings here and this isn't even your office...?"
+    k ""
+
+# game/scripts/kali_events.rpy:96
+translate uk_UA kali_work_3c98014a:
+
+    # kd "I have them on every floor, sweetie."
+    kd ""
+
+# game/scripts/kali_events.rpy:97
+translate uk_UA kali_work_3a7ba75b:
+
+    # kd "Come on! Let's meet the team!"
+    kd ""
+
+# game/scripts/kali_events.rpy:99
+translate uk_UA kali_work_7dacc274:
+
+    # kd "Meet your receptionist, Linda!"
+    kd ""
+
+# game/scripts/kali_events.rpy:100
+translate uk_UA kali_work_2b2f7bce:
+
+    # k "Hey Linda."
+    k ""
+
+# game/scripts/kali_events.rpy:101
+translate uk_UA kali_work_92707382:
+
+    # linda "M-Mr. Trenero!? Hello! It's so nice to meet you!"
+    linda ""
+
+# game/scripts/kali_events.rpy:102
+translate uk_UA kali_work_b6e082ab:
+
+    # kd "Linda, this is Kali, my firstborn. Treat her well, alright?"
+    kd ""
+
+# game/scripts/kali_events.rpy:103
+translate uk_UA kali_work_c741e16e:
+
+    # linda "Of course! I got your emails."
+    linda ""
+
+# game/scripts/kali_events.rpy:104
+translate uk_UA kali_work_2e2462c2:
+
+    # kd "Alright, keep up the great work!"
+    kd ""
+
+# game/scripts/kali_events.rpy:105
+translate uk_UA kali_work_1f96e118:
+
+    # linda "O-Of course!"
+    linda ""
+
+# game/scripts/kali_events.rpy:107
+translate uk_UA kali_work_e81ddc47:
+
+    # kd "At Nero Inc., we hire only the best of the best. Even if we have to take them from our competitors! We'll settle for nothing less."
+    kd ""
+
+# game/scripts/kali_events.rpy:108
+translate uk_UA kali_work_a6ae1dc9:
+
+    # kd "This is why we need you, Kali. You're my daughter - my protege!"
+    kd ""
+
+# game/scripts/kali_events.rpy:109
+translate uk_UA kali_work_51ea98d6:
+
+    # k "You didn't train me at all, dad..."
+    k ""
+
+# game/scripts/kali_events.rpy:110
+translate uk_UA kali_work_ae985c32:
+
+    # kd "Greatness is all in the genetics. I always knew you would reach great heights!"
+    kd ""
+
+# game/scripts/kali_events.rpy:111
+translate uk_UA kali_work_3c1b08f5:
+
+    # k "Mmmh..."
+    k ""
+
+# game/scripts/kali_events.rpy:113
+translate uk_UA kali_work_40cac8c5:
+
+    # k "Ah, and here are two of our best at Nero Inc. New hires! Sibling prodigies who scored the highest in Syl'anar!"
+    k ""
+
+# game/scripts/kali_events.rpy:114
+translate uk_UA kali_work_93e42e0c:
+
+    # q "Mr. Trenero!"
+    q ""
+
+# game/scripts/kali_events.rpy:115
+translate uk_UA kali_work_3dade82f:
+
+    # q "{i}That's really him??{/i}"
+    q ""
+
+# game/scripts/kali_events.rpy:117
+translate uk_UA kali_work_78b2d3a7:
+
+    # kang "IT'S AN HONOR TO MEET YOU, SIR! MY NAME IS SEO-YEON KANG, AND THIS IS MY SISTER, JANG!!" with ssshake
+    kang "" with ssshake
+
+# game/scripts/kali_events.rpy:118
+translate uk_UA kali_work_178977b2:
+
+    # jang "Hellooo~"
+    jang ""
+
+# game/scripts/kali_events.rpy:119
+translate uk_UA kali_work_bcb8da52:
+
+    # kd "I like your spunk, kid!"
+    kd ""
+
+# game/scripts/kali_events.rpy:120
+translate uk_UA kali_work_fdab6b4d:
+
+    # jang "Can I get your autograph?"
+    jang ""
+
+# game/scripts/kali_events.rpy:121
+translate uk_UA kali_work_98321ba2:
+
+    # kd "No."
+    kd ""
+
+# game/scripts/kali_events.rpy:123
+translate uk_UA kali_work_43984e6a:
+
+    # kd "And this is Kali! I'm sure you both read the email I sent?"
+    kd ""
+
+# game/scripts/kali_events.rpy:124
+translate uk_UA kali_work_630224a4:
+
+    # jang "Of course! Hello, Kali! It's nice to finally meet you!"
+    jang ""
+
+# game/scripts/kali_events.rpy:125
+translate uk_UA kali_work_e611c605:
+
+    # kang "It will be an honor to work with you!"
+    kang ""
+
+# game/scripts/kali_events.rpy:126
+translate uk_UA kali_work_a729b475:
+
+    # k "Hi...\n{i}Um, dad... what did you tell everyone?{/i}"
+    k ""
+
+# game/scripts/kali_events.rpy:127
+translate uk_UA kali_work_2d753dd5:
+
+    # kd "Only the good stuff, of course."
+    kd ""
+
+# game/scripts/kali_events.rpy:128
+translate uk_UA kali_work_c36b8eca:
+
+    # kd "Come on, let me take you to your office!"
+    kd ""
+
+# game/scripts/kali_events.rpy:130
+translate uk_UA kali_work_4e6ba6bb:
+
+    # kd "If you ever get thirsty, we have a bar on the floor below this one. And tacos on the 79th floor! Best tacos in Corpus!"
+    kd ""
+
+# game/scripts/kali_events.rpy:131
+translate uk_UA kali_work_aca67504:
+
+    # worker "MR. TRENERO, I LOVE YOU!" with ssshake
+    worker "" with ssshake
+
+# game/scripts/kali_events.rpy:132
+translate uk_UA kali_work_197f4e0c:
+
+    # k "I guess that's pretty cool..."
+    k ""
+
+# game/scripts/kali_events.rpy:133
+translate uk_UA kali_work_5f4bad58:
+
+    # kd "Your boyfriend is welcome to anything too! He will have to pay though."
+    kd ""
+
+# game/scripts/kali_events.rpy:134
+translate uk_UA kali_work_d19f855d:
+
+    # c "..."
+    c ""
+
+# game/scripts/kali_events.rpy:135
+translate uk_UA kali_work_4df137a1:
+
+    # kd "Food is only free for people with badges. It's policy! You understand."
+    kd ""
+
+# game/scripts/kali_events.rpy:137
+translate uk_UA kali_work_f853c0c7:
+
+    # kd "And here's your office, right in front of the stairs. It's the best one! You can decorate it however you want."
+    kd ""
+
+# game/scripts/kali_events.rpy:138
+translate uk_UA kali_work_b66e1a02:
+
+    # k "I get my own office?"
+    k ""
+
+# game/scripts/kali_events.rpy:139
+translate uk_UA kali_work_c03570eb:
+
+    # kd "Of course! A leader needs to project a certain sense of power."
+    kd ""
+
+# game/scripts/kali_events.rpy:140
+translate uk_UA kali_work_cd41af62:
+
+    # k "I'm sorry, what?"
+    k ""
+
+# game/scripts/kali_events.rpy:141
+translate uk_UA kali_work_c014e285:
+
+    # kd "Hm?"
+    kd ""
+
+# game/scripts/kali_events.rpy:143
+translate uk_UA kali_work_1f71fd13:
+
+    # k "You never said anything about me being the leader! I'm {i}not{/i} a leader!"
+    k ""
+
+# game/scripts/kali_events.rpy:144
+translate uk_UA kali_work_f55dfb7a:
+
+    # kd "Of course you're going to lead the team, Kali! I couldn't choose just anyone fresh out of college, it had to be you!"
+    kd ""
+
+# game/scripts/kali_events.rpy:145
+translate uk_UA kali_work_c7cfd781:
+
+    # k "I've only studied for a few weeks! {i}Weeks{/i} dad! And I have no management skills! I've barely worked at all!"
+    k ""
+
+# game/scripts/kali_events.rpy:146
+translate uk_UA kali_work_50a08725:
+
+    # kd "Ya see! You're already ahead of me at your age!"
+    kd ""
+
+# game/scripts/kali_events.rpy:147
+translate uk_UA kali_work_9418c3ca:
+
+    # k "Are you kidding me??"
+    k ""
+
+# game/scripts/kali_events.rpy:148
+translate uk_UA kali_work_18ec69d1:
+
+    # kd "It will all come naturally to you, trust me."
+    kd ""
+
+# game/scripts/kali_events.rpy:149
+translate uk_UA kali_work_dd70a9d7:
+
+    # k "Can we talk about this!?"
+    k ""
+
+# game/scripts/kali_events.rpy:150
+translate uk_UA kali_work_1b8b26ec:
+
+    # kd "Sorry, I already sent out the emails. No backing out now."
+    kd ""
+
+# game/scripts/kali_events.rpy:152
+translate uk_UA kali_work_75b72818:
+
+    # k "SEND ANOTHER!"
+    k ""
+
+# game/scripts/kali_events.rpy:153
+translate uk_UA kali_work_208b8ac6:
+
+    # kd "No can do, sweetie. Everyone here is relying on you now. Think of this as the first step to replacing me as CEO in a few years."
+    kd ""
+
+# game/scripts/kali_events.rpy:155
+translate uk_UA kali_work_d55b9863:
+
+    # k "I'M NOT RUNNING YOUR COMPANY, DAD!" with ssshake
+    k "" with ssshake
+
+# game/scripts/kali_events.rpy:156
+translate uk_UA kali_work_ad3f8f32:
+
+    # kd "Don't even worry about it, it's far in the future."
+    kd ""
+
+# game/scripts/kali_events.rpy:157
+translate uk_UA kali_work_cd3ab03d:
+
+    # kd "Listen, just give this a chance, alright? It'll be great for you, I know it!"
+    kd ""
+
+# game/scripts/kali_events.rpy:158
+translate uk_UA kali_work_a80d43d9:
+
+    # k "You've barely spent a day with me in your entire life, you don't know me at all! And where was all this generosity when you sent me to a hotel in the middle of nowhere!?"
+    k ""
+
+# game/scripts/kali_events.rpy:159
+translate uk_UA kali_work_583389a9:
+
+    # kd "You needed a proper rags to riches story, just like your father, and his before him."
+    kd ""
+
+# game/scripts/kali_events.rpy:160
+translate uk_UA kali_work_87ef168b:
+
+    # k "YOU INHERITED BILLIONS OF SYLS! You weren't wearing rags, YOU WERE COSPLAYING! You're nothing but lucky!"
+    k ""
+
+# game/scripts/kali_events.rpy:161
+translate uk_UA kali_work_d1d648ac:
+
+    # kd "That's uncalled for..."
+    kd ""
+
+# game/scripts/kali_events.rpy:162
+translate uk_UA kali_work_d4f40434:
+
+    # k "Listen dad, if you give me even a single syl, I'm donating it to charity!"
+    k ""
+
+# game/scripts/kali_events.rpy:163
+translate uk_UA kali_work_675d51f8:
+
+    # kd "YOU WOULDN'T DARE!"
+    kd ""
+
+# game/scripts/kali_events.rpy:164
+translate uk_UA kali_work_a9fa6429:
+
+    # k "Yeah! I'll dissolve this company in a heartbeat! I don't want anything to do with you or your company! I'm only here to bring us the future!"
+    k ""
+
+# game/scripts/kali_events.rpy:165
+translate uk_UA kali_work_e9feaaf8:
+
+    # kd "There! That's the attitude I'm looking for! That ambition in your soul to lead humanity into the next era!"
+    kd ""
+
+# game/scripts/kali_events.rpy:167
+translate uk_UA kali_work_d8e4c606:
+
+    # k "URGH!"
+    k ""
+
+# game/scripts/kali_events.rpy:168
+translate uk_UA kali_work_f47a14ab:
+
+    # jang "Is everything okay...?"
+    jang ""
+
+# game/scripts/kali_events.rpy:169
+translate uk_UA kali_work_8f1c231b:
+
+    # kd "Everything is A-OK! Nothing to worry about."
+    kd ""
+
+# game/scripts/kali_events.rpy:170
+translate uk_UA kali_work_b23a3de6:
+
+    # kang "Everyone is a bit on edge... we're not sure what we're supposed to be working on right now..."
+    kang ""
+
+# game/scripts/kali_events.rpy:172
+translate uk_UA kali_work_ae9ff791:
+
+    # k "I WANT A FULLY FUNCTIONAL ELFBOT BY NEXT WEEK! DO YOU HEAR ME!?" with ssshake
+    k "" with ssshake
+
+# game/scripts/kali_events.rpy:173
+translate uk_UA kali_work_64871a23:
+
+    # kang "O-Oh! I guess I'll get started on locomotion then."
+    kang ""
+
+# game/scripts/kali_events.rpy:174
+translate uk_UA kali_work_94447825:
+
+    # jang "That might be a bit tough, but... yeah I'll start working on calibrating the sensors."
+    jang ""
+
+# game/scripts/kali_events.rpy:176
+translate uk_UA kali_work_165dbb3d:
+
+    # k "Well that was easy."
+    k ""
+
+# game/scripts/kali_events.rpy:177
+translate uk_UA kali_work_7147db3a:
+
+    # kd "See! You're a natural."
+    kd ""
+
+# game/scripts/kali_events.rpy:178
+translate uk_UA kali_work_f481b732:
+
+    # k "I'm quitting once the elfbot is released."
+    k ""
+
+# game/scripts/kali_events.rpy:179
+translate uk_UA kali_work_6e3a6006:
+
+    # kd "Whatever you feel is necessary. Follow your heart!"
+    kd ""
+
+# game/scripts/kali_events.rpy:180
+translate uk_UA kali_work_14e6f02e:
+
+    # k "{i}Yeah, unless it contradicts yours...{/i}"
+    k ""
+
+# game/scripts/kali_events.rpy:182
+translate uk_UA kali_work_eb9032b9:
+
+    # k "Whatever, that's enough work for one day. Come on, [name], we're going home."
+    k ""
+
+# game/scripts/kali_events.rpy:183
+translate uk_UA kali_work_217c8100:
+
+    # kd "That's the spirit! Good work, honey!"
+    kd ""
+
+# game/scripts/kali_events.rpy:184
+translate uk_UA kali_work_5aeb5eae:
+
+    # k "Bye dad."
+    k ""
+
+# game/scripts/kali_events.rpy:187
+translate uk_UA kali_work_284c42d4:
+
+    # k "Urgh, what a pain..."
+    k ""
+
+# game/scripts/kali_events.rpy:188
+translate uk_UA kali_work_f309c8ea:
+
+    # c "You did great though."
+    c ""
+
+# game/scripts/kali_events.rpy:189
+translate uk_UA kali_work_f6f35448:
+
+    # k "That life just wasn't meant for me."
+    k ""
+
+# game/scripts/kali_events.rpy:190
+translate uk_UA kali_work_528f4167:
+
+    # c "Neither was moving to my hotel, right? But it turned out well."
+    c ""
+
+# game/scripts/kali_events.rpy:191
+translate uk_UA kali_work_5b091a89:
+
+    # k "I guess... but that's not what being a leader looks like."
+    k ""
+
+# game/scripts/kali_events.rpy:192
+translate uk_UA kali_work_7b7b2e3c:
+
+    # c "Your father seemed impressed..."
+    c ""
+
+# game/scripts/kali_events.rpy:193
+translate uk_UA kali_work_c96eed0f:
+
+    # k "He's not exactly a good example. I had no idea he inherited billions of syls. He told me he was a self-made man, but you heard him, he's delusional!"
+    k ""
+
+# game/scripts/kali_events.rpy:194
+translate uk_UA kali_work_912bba53:
+
+    # k "He thinks he had it rough because he was a waterboy? People with families died in those mines, and I bet he never even stepped foot inside one."
+    k ""
+
+# game/scripts/kali_events.rpy:195
+translate uk_UA kali_work_bbab09fb:
+
+    # k "Fuck, it's no wonder Vanessa hated me; my dad's an entitled conman."
+    k ""
+
+# game/scripts/kali_events.rpy:196
+translate uk_UA kali_work_3de77e39:
+
+    # c "Brutal."
+    c ""
+
+# game/scripts/kali_events.rpy:197
+translate uk_UA kali_work_79c2866e:
+
+    # k "Honest."
+    k ""
+
+# game/scripts/kali_events.rpy:199
+translate uk_UA kali_work_e1874c75:
+
+    # k "Well, what do you wanna do now? We could spend the night here if you're too tired to fly back."
+    k ""
+
+# game/scripts/kali_events.rpy:200
+translate uk_UA kali_work_0561ed30:
+
+    # c "I should get back to the hotel, who knows what's going on."
+    c ""
+
+# game/scripts/kali_events.rpy:201
+translate uk_UA kali_work_3778b414:
+
+    # k "Alright, we'll head out."
+    k ""
+
+# game/scripts/kali_events.rpy:202
+translate uk_UA kali_work_82091822:
+
+    # k "..."
+    k ""
+
+# game/scripts/kali_events.rpy:204
+translate uk_UA kali_work_cb49e458:
+
+    # k "Nnh... Thank you for your support, honeybear. You're really the best boyfriend ever." with ssshake
+    k "" with ssshake
+
+# game/scripts/kali_events.rpy:3242
+translate uk_UA kali_hangout_04_cc617a38:
+
+    # c "You're already great at it, I'm sure you'll get there."
+    c ""
+
+# game/scripts/kali_events.rpy:4765
+translate uk_UA kali_stressfuck_81b4b5af:
+
+    # van "Call it theft if you want, but they don't belong there in the first place. A person shouldn't {i}belong{/i} to anyone. A person should be free from all oppression, and until you see what affects them also affects us and actually do something about it... nothing will change."
+    van ""
+
+# game/scripts/kali_events.rpy:5754
+translate uk_UA kali_lustrons_45379d26:
+
+    # k "Nnnnh... let's get those titties out..."
+    k ""
+
+# game/scripts/kali_events.rpy:5987
+translate uk_UA kaliuni_5c61f361:
+
+    # "She tells you that one of the students, who will be acting as her tour guide, plans to meet up with her at one of her computer science classes. The two of you decide to head there now..."
+    ""
+
+# game/scripts/kali_events.rpy:11346
+translate uk_UA kalisdad_7fd2fe74:
+
+    # kd "What? Can't a father talk to his daughter's boyfriend?"
+    kd ""
+
+# game/scripts/kali_events.rpy:13145
+translate uk_UA kalicafe_b4d485b2:
+
+    # k "{i}Hnnn... this was a mistake... how am I going to afford rent now?{/i}"
+    k ""
+
+# game/scripts/kali_events.rpy:13146
+translate uk_UA kalicafe_922fd700:
+
+    # c "Kali?"
+    c ""
+
+# game/scripts/kali_events.rpy:13147
+translate uk_UA kalicafe_4be8205f:
+
+    # k "*gasp*! [name]??" with ssshake
+    k "" with ssshake
+
+# game/scripts/kali_events.rpy:13149
+translate uk_UA kalicafe_984042ce:
+
+    # k "[name], you're here..."
+    k ""
+
+# game/scripts/kali_events.rpy:13151
+translate uk_UA kalicafe_06d7075a:
+
+    # k "I know it's a bit fancy, but... I thought you would really like it...!"
+    k ""
+
+# game/scripts/kali_events.rpy:13152
+translate uk_UA kalicafe_aced1f4c:
+
+    # k "So uhhh... how do I look?"
+    k ""
+
+# game/scripts/kali_events.rpy:13156
+translate uk_UA kalicafe_668a9937:
+
+    # k "S-Shut up... I know..."
+    k ""
+
+# game/scripts/kali_events.rpy:13159
+translate uk_UA kalicafe_5e2d9015:
+
+    # k "Yeah... I don't know... I just wanted to make a good impression."
+    k ""
+
+# game/scripts/kali_events.rpy:13162
+translate uk_UA kalicafe_b9ee3372:
+
+    # k "Tsk..."
+    k ""
+
+# game/scripts/kali_events.rpy:13164
+translate uk_UA kalicafe_dc3d2889:
+
+    # k "Whatever, I don't even want to go anymore..."
+    k ""
+
+# game/scripts/kali_events.rpy:13165
+translate uk_UA kalicafe_53972221:
+
+    # c "No, no... let's go. I want to go."
+    c ""
+
+# game/scripts/kali_events.rpy:13166
+translate uk_UA kalicafe_82091822:
+
+    # k "..."
+    k ""
+
+# game/scripts/kali_events.rpy:13167
+translate uk_UA kalicafe_1c8122ca:
+
+    # c "You'll enjoy yourself, I promise."
+    c ""
+
+# game/scripts/kali_events.rpy:13168
+translate uk_UA kalicafe_07bba56c:
+
+    # k "Fine, whatever..."
+    k ""
+
+# game/scripts/kali_events.rpy:13171
+translate uk_UA kalicafe_72c43092:
+
+    # k "I knew this was a mistake!"
+    k ""
+
+# game/scripts/kali_events.rpy:13174
+translate uk_UA kalicafe_47cdd4d7:
+
+    # k "Whatever! I don't even want to go anymore!"
+    k ""
+
+# game/scripts/kali_events.rpy:13175
+translate uk_UA kalicafe_2f331a3c:
+
+    # c "No, no... let's go. It was just a joke."
+    c ""
+
+# game/scripts/kali_events.rpy:13176
+translate uk_UA kalicafe_27bc9c39:
+
+    # k "It sounds like you're more concerned about fucking me. This is a date, not an orgy..."
+    k ""
+
+# game/scripts/kali_events.rpy:13177
+translate uk_UA kalicafe_1c8122ca_1:
+
+    # c "You'll enjoy yourself, I promise."
+    c ""
+
+# game/scripts/kali_events.rpy:13178
+translate uk_UA kalicafe_07bba56c_1:
+
+    # k "Fine, whatever..."
+    k ""
+
+# game/scripts/kali_events.rpy:13180
+translate uk_UA kalicafe_d5c73938:
+
+    # k "So... are we going now, or...?"
+    k ""
+
+# game/scripts/kali_events.rpy:13181
+translate uk_UA kalicafe_05f6ae35:
+
+    # c "Of course. This way, please..."
+    c ""
+
+# game/scripts/kali_events.rpy:13182
+translate uk_UA kalicafe_45f24ba7:
+
+    # k "Heheh, what a gentleman..."
+    k ""
+
+# game/scripts/kali_events.rpy:13184
+translate uk_UA kalicafe_bb7941ca:
+
+    # "You drive Kali to the top rated cafe in Caliber city. On your way you notice that Kali is a bit awkward from the attempts at small talk, you can tell she's not very socially experienced."
+    ""
+
+# game/scripts/kali_events.rpy:13185
+translate uk_UA kalicafe_264bcd94:
+
+    # "After you two place your order, you sit down..."
+    ""
+
+# game/scripts/kali_events.rpy:13187
+translate uk_UA kalicafe_0b50ba33:
+
+    # k "I knew this was a mistake..."
+    k ""
+
+# game/scripts/kali_events.rpy:13188
+translate uk_UA kalicafe_ea4dee15:
+
+    # c "What? What's wrong?"
+    c ""
+
+# game/scripts/kali_events.rpy:13189
+translate uk_UA kalicafe_a8a97274:
+
+    # k "It's just... I feel a little overdressed..."
+    k ""
+
+# game/scripts/kali_events.rpy:13190
+translate uk_UA kalicafe_ef02871f:
+
+    # c "Oh. You remembered I invited you to a cafe, right?"
+    c ""
+
+# game/scripts/kali_events.rpy:13191
+translate uk_UA kalicafe_b3c3be5b:
+
+    # k "Yeah... I just wanted this night to be memorable, I guess... but it's hard to enjoy myself with all the stares..."
+    k ""
+
+# game/scripts/kali_events.rpy:13195
+translate uk_UA kalicafe_a82d826a:
+
+    # k "I'm pretty? No one has ever called me that before..."
+    k ""
+
+# game/scripts/kali_events.rpy:13196
+translate uk_UA kalicafe_bc729a4d:
+
+    # c "You must not get out much then."
+    c ""
+
+# game/scripts/kali_events.rpy:13197
+translate uk_UA kalicafe_aca1d33d:
+
+    # k "Not really... heh, thanks..."
+    k ""
+
+# game/scripts/kali_events.rpy:13201
+translate uk_UA kalicafe_4ec79bb8:
+
+    # k "Ugh, can't you see that I'm doing this all for you? I got my nails done and everything just for today..."
+    k ""
+
+# game/scripts/kali_events.rpy:13202
+translate uk_UA kalicafe_26483cb8:
+
+    # c "I'm paying for everything, all you needed to do was show up."
+    c ""
+
+# game/scripts/kali_events.rpy:13203
+translate uk_UA kalicafe_2faca5c6:
+
+    # k "What kind of reponse is that? It's just fucking coffee. If we're counting money then why don't we talk about the price of this dress? Or the perfume I used for today? Did you even take a shower??"
+    k ""
+
+# game/scripts/kali_events.rpy:13205
+translate uk_UA kalicafe_e7a7c645:
+
+    # c "I'm sorry, you're right. We should focus on how we feel, not anything artificial."
+    c ""
+
+# game/scripts/kali_events.rpy:13207
+translate uk_UA kalicafe_8901f831:
+
+    # k "Yes, thank you..."
+    k ""
+
+# game/scripts/kali_events.rpy:13209
+translate uk_UA kalicafe_1bbee1d0:
+
+    # k "I'll try, but it's hard..."
+    k ""
+
+# game/scripts/kali_events.rpy:13210
+translate uk_UA kalicafe_22577b83:
+
+    # c "We can be in our own little world together. The rest of it is just noise. Don't worry about what anyone else thinks."
+    c ""
+
+# game/scripts/kali_events.rpy:13212
+translate uk_UA kalicafe_fbd628a4:
+
+    # k "*sigh*... I really like the sound of that. Okay, I'll try."
+    k ""
+
+# game/scripts/kali_events.rpy:13215
+translate uk_UA kalicafe_dd2307e0:
+
+    # k "You're saying I don't look pretty?"
+    k ""
+
+# game/scripts/kali_events.rpy:13216
+translate uk_UA kalicafe_23b9fe00:
+
+    # c "I'm saying you don't even need to try to be."
+    c ""
+
+# game/scripts/kali_events.rpy:13218
+translate uk_UA kalicafe_18e223b6:
+
+    # k "Oh, well that's nice... to be honest I prefer casual Kali too..."
+    k ""
+
+# game/scripts/kali_events.rpy:13221
+translate uk_UA kalicafe_f3a6c479:
+
+    # c "That necklace looks very nice... are those real diamonds?"
+    c ""
+
+# game/scripts/kali_events.rpy:13223
+translate uk_UA kalicafe_66f15bb6:
+
+    # k "Oh, yeah, it was something my father bought for my mother a long time ago. Now it's mine."
+    k ""
+
+# game/scripts/kali_events.rpy:13224
+translate uk_UA kalicafe_a836ed79:
+
+    # c "Wow, that's a very nice gift."
+    c ""
+
+# game/scripts/kali_events.rpy:13226
+translate uk_UA kalicafe_0a5af7f6:
+
+    # k "Gift giving was her love language. Everything she got was a gift to her at one point, so eventually she started giving us her stuff."
+    k ""
+
+# game/scripts/kali_events.rpy:13227
+translate uk_UA kalicafe_a07f6538:
+
+    # c "{i}'Was'?{/i}"
+    c ""
+
+# game/scripts/kali_events.rpy:13228
+translate uk_UA kalicafe_ac238df4:
+
+    # k "She died a long time ago..."
+    k ""
+
+# game/scripts/kali_events.rpy:13230
+translate uk_UA kalicafe_dfba945c:
+
+    # k "Thanks..."
+    k ""
+
+# game/scripts/kali_events.rpy:13232
+translate uk_UA kalicafe_8c86c5bc:
+
+    # k "Hey, this is the Corpus Cafe, right? Did you know my dad bought the rights to the brand recently?"
+    k ""
+
+# game/scripts/kali_events.rpy:13233
+translate uk_UA kalicafe_d7dbd85f:
+
+    # c "Really? I didn't know your dad was a business man."
+    c ""
+
+# game/scripts/kali_events.rpy:13235
+translate uk_UA kalicafe_55c7689a:
+
+    # k "Yeah, one of the best. For good or bad... \nHe buys so many businesses and companies I couldn't even begin to list them all."
+    k ""
+
+# game/scripts/kali_events.rpy:13238
+translate uk_UA kalicafe_bea8ad3b:
+
+    # k "Egh, well... lets change the subject..."
+    k ""
+
+# game/scripts/kali_events.rpy:13239
+translate uk_UA kalicafe_6e6ce20e:
+
+    # c "Oh?"
+    c ""
+
+# game/scripts/kali_events.rpy:13242
+translate uk_UA kalicafe_c4bfcf8a:
+
+    # k "My father doesn't really have time for his children... he's too focused on his businesses, they take all his time..."
+    k ""
+
+# game/scripts/kali_events.rpy:13244
+translate uk_UA kalicafe_11b2af75:
+
+    # k "I feel most loved when then people I love reassure and validate me, and my father is just never around to do that. My mother would only give me gifts... So I guess I just turned to climbing the leaderboards on videogames to get that feeling."
+    k ""
+
+# game/scripts/kali_events.rpy:13245
+translate uk_UA kalicafe_da42e13c:
+
+    # c "That's rough... He doesn't support you even a little bit?"
+    c ""
+
+# game/scripts/kali_events.rpy:13249
+translate uk_UA kalicafe_f69608af:
+
+    # k "Ergh, here...? I hate coffee, remember?"
+    k ""
+
+# game/scripts/kali_events.rpy:13251
+translate uk_UA kalicafe_80debafe:
+
+    # k "I don't know what I'm going to do for money... I spent most of it on tonight and now I regret it..."
+    k ""
+
+# game/scripts/kali_events.rpy:13255
+translate uk_UA kalicafe_379dbf83:
+
+    # k "What the fuck is wrong with you!? I already told you no!"
+    k ""
+
+# game/scripts/kali_events.rpy:13256
+translate uk_UA kalicafe_2610b279:
+
+    # c "Sorry, I-"
+    c ""
+
+# game/scripts/kali_events.rpy:13257
+translate uk_UA kalicafe_550e26cb:
+
+    # k "Don't tell me it was just another dumb joke! I'm stressed out and you're not helping! What do you think laughing is going to solve!?"
+    k ""
+
+# game/scripts/kali_events.rpy:13261
+translate uk_UA kalicafe_2ecae727:
+
+    # k "{i}'We'...?{/i}"
+    k ""
+
+# game/scripts/kali_events.rpy:13262
+translate uk_UA kalicafe_3372122e:
+
+    # c "Whatever happens, I'm sure we will figure things out together."
+    c ""
+
+# game/scripts/kali_events.rpy:13264
+translate uk_UA kalicafe_7aedfb13:
+
+    # k "Well aren't you romantic..."
+    k ""
+
+# game/scripts/kali_events.rpy:13265
+translate uk_UA kalicafe_a235f96d:
+
+    # k "You're already thinking about {i}us{/i}, instead of {i}you{/i} and {i}I?{/i}\nMaybe this dress made a good impression after all..."
+    k ""
+
+# game/scripts/kali_events.rpy:13266
+translate uk_UA kalicafe_3882f3bc:
+
+    # c "It wasn't the dress that caught my eye, it was you."
+    c ""
+
+# game/scripts/kali_events.rpy:13267
+translate uk_UA kalicafe_cbce6d97:
+
+    # k "Heh, you're so cheesy... I like that."
+    k ""
+
+# game/scripts/kali_events.rpy:13271
+translate uk_UA kalicafe_cf812239:
+
+    # k "It's kind of hard to be romantic when you're stressed about money...!"
+    k ""
+
+# game/scripts/kali_events.rpy:13272
+translate uk_UA kalicafe_f17cb3a7:
+
+    # c "You'll be fine."
+    c ""
+
+# game/scripts/kali_events.rpy:13274
+translate uk_UA kalicafe_3e2cc547:
+
+    # k "How do you know!? Money doesn't just appear out of thin air!"
+    k ""
+
+# game/scripts/kali_events.rpy:13275
+translate uk_UA kalicafe_4c79bed8:
+
+    # c "Because I'll help you if you need it. I'm here for you. You can miss a payment or two, I won't kick you out."
+    c ""
+
+# game/scripts/kali_events.rpy:13277
+translate uk_UA kalicafe_d5c7b65c:
+
+    # k "R-Reallly...? You'd do that for me?"
+    k ""
+
+# game/scripts/kali_events.rpy:13278
+translate uk_UA kalicafe_2957d75e:
+
+    # c "Of course, I'll take care of you."
+    c ""
+
+# game/scripts/kali_events.rpy:13280
+translate uk_UA kalicafe_5a92a216:
+
+    # k "That's very generous, [name]... thank you."
+    k ""
+
+# game/scripts/kali_events.rpy:13282
+translate uk_UA kalicafe_53fc9786:
+
+    # k "*sigh*... you have no idea how much stress that just lifted off my shoulders. Maybe I'll be able to enjoy today after all..."
+    k ""
+
+# game/scripts/kali_events.rpy:13287
+translate uk_UA kalicafe_a0e992ed:
+
+    # k "So uhhh, how's being the owner of a hotel going for you? Do you like it?"
+    k ""
+
+# game/scripts/kali_events.rpy:13291
+translate uk_UA kalicafe_f51dbb0a:
+
+    # k "Me too, to be honest. When my father sent me to the other side of the planet I was sort of expecting him to, I don't know... house me."
+    k ""
+
+# game/scripts/kali_events.rpy:13292
+translate uk_UA kalicafe_012d6786:
+
+    # k "But instead he chose the most random hotel in the middle of nowhere. Like, did he even do any research...?"
+    k ""
+
+# game/scripts/kali_events.rpy:13294
+translate uk_UA kalicafe_b94b7f99:
+
+    # c "I think you'll fall in love eventaully."
+    c ""
+
+# game/scripts/kali_events.rpy:13296
+translate uk_UA kalicafe_12b4f141:
+
+    # k "Heh, with you or the hotel? Heh..."
+    k ""
+
+# game/scripts/kali_events.rpy:13297
+translate uk_UA kalicafe_7f2d975c:
+
+    # c "Both, I hope."
+    c ""
+
+# game/scripts/kali_events.rpy:13298
+translate uk_UA kalicafe_f029b9ff:
+
+    # k "We'll see..."
+    k ""
+
+# game/scripts/kali_events.rpy:13301
+translate uk_UA kalicafe_b7458afa:
+
+    # k "I really hope so! It's a dump, I won't lie. It's not what I'm used to all..."
+    k ""
+
+# game/scripts/kali_events.rpy:13302
+translate uk_UA kalicafe_16292fcb:
+
+    # c "What are you used to?"
+    c ""
+
+# game/scripts/kali_events.rpy:13303
+translate uk_UA kalicafe_a4d0767d:
+
+    # k "Uhh, well the house I grew up in had more rooms than your hotel, so..."
+    k ""
+
+# game/scripts/kali_events.rpy:13304
+translate uk_UA kalicafe_ea63761c:
+
+    # c "Really? Wow."
+    c ""
+
+# game/scripts/kali_events.rpy:13306
+translate uk_UA kalicafe_d73bcbcb:
+
+    # k "Yeah, I mean... I only used one anyway so it's whatever..."
+    k ""
+
+# game/scripts/kali_events.rpy:13308
+translate uk_UA kalicafe_2c9f674c:
+
+    # k "You own a company too?"
+    k ""
+
+# game/scripts/kali_events.rpy:13310
+translate uk_UA kalicafe_62090b50:
+
+    # k "Oh, you mean me... haha... that's sweet."
+    k ""
+
+# game/scripts/kali_events.rpy:13311
+translate uk_UA kalicafe_02367af7:
+
+    # k "What is it about me that you like so much? I'm not really that attractive..."
+    k ""
+
+# game/scripts/kali_events.rpy:13312
+translate uk_UA kalicafe_c91c17f5:
+
+    # c "Yes you are! You're stunning! You have so much of natural beauty, even in your casual clothes."
+    c ""
+
+# game/scripts/kali_events.rpy:13313
+translate uk_UA kalicafe_23edf8c0:
+
+    # k "That's so sweet, thank you...!"
+    k ""
+
+# game/scripts/kali_events.rpy:13319
+translate uk_UA kalicafe_74ad6579:
+
+    # k "Oh by the way, I met your elf. She's cute but... I'm not very used to seeing them."
+    k ""
+
+# game/scripts/kali_events.rpy:13322
+translate uk_UA kalicafe_f7da5526:
+
+    # k "Oh good... I guess we're both from outside of Syl'anar, huh? We have one thing in common at least."
+    k ""
+
+# game/scripts/kali_events.rpy:13324
+translate uk_UA kalicafe_7bbde4e0:
+
+    # c "We can go together!"
+    c ""
+
+# game/scripts/kali_events.rpy:13325
+translate uk_UA kalicafe_af72cae7:
+
+    # k "Really? That would be so cool!"
+    k ""
+
+# game/scripts/kali_events.rpy:13327
+translate uk_UA kalicafe_93aca465:
+
+    # k "I mean, uh... if you want. It's whatever..."
+    k ""
+
+# game/scripts/kali_events.rpy:13328
+translate uk_UA kalicafe_ea58153d:
+
+    # k "I don't really... do much... so if you ever want to do something just... let me know..."
+    k ""
+
+# game/scripts/kali_events.rpy:13329
+translate uk_UA kalicafe_2cca6196:
+
+    # c "Haha, sure."
+    c ""
+
+# game/scripts/kali_events.rpy:13330
+translate uk_UA kalicafe_5a8335c8:
+
+    # c "So, what else does your father actually do? Maybe we could enter into a business arrangement."
+    c ""
+
+# game/scripts/kali_events.rpy:13332
+translate uk_UA kalicafe_4fe7c8a5:
+
+    # k "Um, well... I don't want you to look at me different, so... I don't know how much I should say..."
+    k ""
+
+# game/scripts/kali_events.rpy:13334
+translate uk_UA kalicafe_47d25bfc:
+
+    # k "He's not a slave master or anything... I just want you to see me for me and not for my father's money..."
+    k ""
+
+# game/scripts/kali_events.rpy:13338
+translate uk_UA kalicafe_49990a9b:
+
+    # k "But he's not a greedy asshole... He loves helping small businesses you know? But anyway, enough about my father. I kind of hate his guts right now..."
+    k ""
+
+# game/scripts/kali_events.rpy:13341
+translate uk_UA kalicafe_1ed09f0a:
+
+    # k "Oh, I guess I'm on my computer most days... playing games, watching movies, browsing the internet... arguing with dumbasses online."
+    k ""
+
+# game/scripts/kali_events.rpy:13343
+translate uk_UA kalicafe_bec416ed:
+
+    # k "Honestly, it's not what I want to be doing. It's what I do to cope. My mother was the only person who showed me love, and ever since she died, I've felt so lonely. I don't know what else to do..."
+    k ""
+
+# game/scripts/kali_events.rpy:13344
+translate uk_UA kalicafe_0d0e2613:
+
+    # k "I also like to do squats first thing in the morning. It keeps me in shape and wakes me up. Trust me, you don't want to see young Kali, I was so fat..."
+    k ""
+
+# game/scripts/kali_events.rpy:13349
+translate uk_UA kalicafe_58f12c3b:
+
+    # k "W-Well I hope it's burned into your head, because that was the last time you're going to see it...!"
+    k ""
+
+# game/scripts/kali_events.rpy:13352
+translate uk_UA kalicafe_49e0ae9f:
+
+    # k "W-What? No! Not at-"
+    k ""
+
+# game/scripts/kali_events.rpy:13355
+translate uk_UA kalicafe_24a31de3:
+
+    # k "I just hope you enjoyed it while it lasted..."
+    k ""
+
+# game/scripts/kali_events.rpy:13357
+translate uk_UA kalicafe_0f3c866f:
+
+    # k "G-Good... shut up."
+    k ""
+
+# game/scripts/kali_events.rpy:13359
+translate uk_UA kalicafe_025ec066:
+
+    # ba "Here's your lemonade, enjoy."
+    ba ""
+
+# game/scripts/kali_events.rpy:13364
+translate uk_UA kalicafe_64ca7918:
+
+    # k "Well, I should get going. Thanks for taking me out! It was a nice change of pace."
+    k ""
+
+# game/scripts/kali_events.rpy:13366
+translate uk_UA kalicafe_7a9b42a8:
+
+    # k "And don't tell anyone I came here. I don't want anyone thinking I like- ...coffee."
+    k ""
+
+# game/scripts/kali_events.rpy:13367
+translate uk_UA kalicafe_2edd942a:
+
+    # c "Haha, no problem."
+    c ""
+
+# game/scripts/kali_events.rpy:13602
+translate uk_UA kalitalk_11f7c4ed:
+
+    # k "*sigh*... Well, I guess I'm a manager now. Just like you, huh?"
+    k ""
+
+# game/scripts/kali_events.rpy:13603
+translate uk_UA kalitalk_a912a3f5:
+
+    # c "Aren't we a power couple."
+    c ""
+
+# game/scripts/kali_events.rpy:13604
+translate uk_UA kalitalk_4828a959:
+
+    # k "Heh. I guess so... *sigh*... I just wish I didn't have to fly there every day."
+    k ""
+
+# game/scripts/kali_events.rpy:13607
+translate uk_UA kalitalk_587d3767:
+
+    # k "Did you see my step-mother? Freaky..."
+    k ""
+
+# game/scripts/kali_events.rpy:13610
+translate uk_UA kalitalk_d6ecf7bf:
+
+    # k "So I was always going to be hired... My friends had no choice."
+    k ""
+
+# game/scripts/kali_events.rpy:13611
+translate uk_UA kalitalk_fac51330:
+
+    # c "You still learned a lot."
+    c ""
+
+# game/scripts/kali_events.rpy:13612
+translate uk_UA kalitalk_cbf843ea:
+
+    # k "Yeah but... it doesn't feel as good as I thought it would."
+    k ""
+
+# game/scripts/kali_events.rpy:13615
+translate uk_UA kalitalk_be6cbbe4:
+
+    # k "Now everyone at school is talking about the elfbot. We're all pretty excited to change the world."
+    k ""
+
+# game/scripts/kali_events.rpy:13616
+translate uk_UA kalitalk_a608e71f:
+
+    # c "You'll be the one changing the world Kali, I know it."
+    c ""
+
+# game/scripts/kali_events.rpy:13617
+translate uk_UA kalitalk_51f6fece:
+
+    # k "Heh, thanks..."
+    k ""
+
+# game/scripts/kali_events.rpy:13620
+translate uk_UA kalitalk_b6e5f9c7:
+
+    # k "I had a great time with you and Moon! We should do that more often."
+    k ""
+
+# game/scripts/kali_events.rpy:13623
+translate uk_UA kalitalk_45b408e5:
+
+    # k "I can't believe we made Vanessa strip! Hahaha!"
+    k ""
+
+# game/scripts/kali_events.rpy:13626
+translate uk_UA kalitalk_2f9ed440:
+
+    # k "So Vanessa knows about the sanctuary..."
+    k ""
+
+# game/scripts/kali_events.rpy:13627
+translate uk_UA kalitalk_d3100d17:
+
+    # c "She won't tell anyone, right?"
+    c ""
+
+# game/scripts/kali_events.rpy:13628
+translate uk_UA kalitalk_d66e9b23:
+
+    # k "No, absolutely not. If anything, she's more likely to start sending you monthly donations."
+    k ""
+
+# game/scripts/kali_events.rpy:13631
+translate uk_UA kalitalk_08835249:
+
+    # k "I love you honeybear, thank you for being so supportive."
+    k ""
+
+# game/scripts/kali_events.rpy:13632
+translate uk_UA kalitalk_558c1091:
+
+    # c "I love you too, Kali."
+    c ""
+
+# game/scripts/kali_events.rpy:13635
+translate uk_UA kalitalk_f0fb9a6b:
+
+    # k "Vanessa can be a bit much, but... she means well."
+    k ""
+
+# game/scripts/kali_events.rpy:13636
+translate uk_UA kalitalk_304143e0:
+
+    # k "I just wish she weren't so damn annoying..."
+    k ""
+
+# game/scripts/kali_events.rpy:13639
+translate uk_UA kalitalk_19f171e4:
+
+    # k "Is it too early to drop out?"
+    k ""
+
+# game/scripts/kali_events.rpy:13640
+translate uk_UA kalitalk_ab4d64ae:
+
+    # c "Don't give up, Kali. You can do this."
+    c ""
+
+# game/scripts/kali_events.rpy:13641
+translate uk_UA kalitalk_ccdef0bf:
+
+    # k "Yeah, but do I want to put up with other people? *sigh*..."
+    k ""
+
+# game/scripts/kali_events.rpy:13644
+translate uk_UA kalitalk_2a2f3597:
+
+    # k "Thank you for everything, [name]! I love you!"
+    k ""
+
+# game/scripts/kali_events.rpy:13645
+translate uk_UA kalitalk_cfecdb81:
+
+    # c "I love you more."
+    c ""
+
+# game/scripts/kali_events.rpy:13648
+translate uk_UA kalitalk_f8983ff1:
+
+    # k "You're my soulmate, [name], you really are. Thank you for all the support."
+    k ""
+
+# game/scripts/kali_events.rpy:13651
+translate uk_UA kalitalk_d3c2356a:
+
+    # k "A bit anxious but... ah, I just love you. I hope you'll always be there for me."
+    k ""
+
+# game/scripts/kali_events.rpy:13652
+translate uk_UA kalitalk_4cff680c:
+
+    # c "Always."
+    c ""
+
+# game/scripts/kali_events.rpy:13655
+translate uk_UA kalitalk_c7383955:
+
+    # k "I love you, honeybear."
+    k ""
+
+# game/scripts/kali_events.rpy:13656
+translate uk_UA kalitalk_7858831b:
+
+    # c "Love you too."
+    c ""
+
+# game/scripts/kali_events.rpy:13659
+translate uk_UA kalitalk_c8304977:
+
+    # k "My dad was shot. It still doesn't feel real..."
+    k ""
+
+# game/scripts/kali_events.rpy:13660
+translate uk_UA kalitalk_2f4de10d:
+
+    # c "He'll be fine."
+    c ""
+
+# game/scripts/kali_events.rpy:13661
+translate uk_UA kalitalk_d45af321:
+
+    # k "I hope so... but who did this?"
+    k ""
+
+# game/scripts/kali_events.rpy:13664
+translate uk_UA kalitalk_f0842a23:
+
+    # k "That whole scene you and Maria set up... that was pretty hot."
+    k ""
+
+# game/scripts/kali_events.rpy:13665
+translate uk_UA kalitalk_1ddbbd87:
+
+    # c "You liked that, huh?"
+    c ""
+
+# game/scripts/kali_events.rpy:13666
+translate uk_UA kalitalk_3fc15a38:
+
+    # k "I fucking loved it..."
+    k ""
+
+# game/scripts/kali_events.rpy:13669
+translate uk_UA kalitalk_f21e3446:
+
+    # k "I'm sorry for being a bitch sometimes... I love you."
+    k ""
+
+# game/scripts/kali_events.rpy:13670
+translate uk_UA kalitalk_4d99d48e:
+
+    # c "I love you too, babe."
+    c ""
+
+# game/scripts/kali_events.rpy:13673
+translate uk_UA kalitalk_a670b851:
+
+    # k "I'm alright, how about you?"
+    k ""
+
+# game/scripts/kali_events.rpy:13676
+translate uk_UA kalitalk_a8014bcc:
+
+    # k "*sigh*... spending time with Lucy is always a gamble. You never know if you're going to have fun or be made fun of..."
+    k ""
+
+# game/scripts/kali_events.rpy:13679
+translate uk_UA kalitalk_a62f1d00:
+
+    # k "Fucking Lucy... she can really be a bitch sometimes."
+    k ""
+
+# game/scripts/kali_events.rpy:13682
+translate uk_UA kalitalk_426db29f:
+
+    # k "Well I guess I'm living with Lucy again... I had a few good weeks of peace... urgh."
+    k ""
+
+# game/scripts/kali_events.rpy:13685
+translate uk_UA kalitalk_5ce9c2d9:
+
+    # k "You're the only person I could spend hours talking to and never get tired..."
+    k ""
+
+# game/scripts/kali_events.rpy:13688
+translate uk_UA kalitalk_43f1058b:
+
+    # k "Hey stranger..."
+    k ""
+
+# game/scripts/kali_events.rpy:13689
+translate uk_UA kalitalk_2609ae4c:
+
+    # c "Stranger?"
+    c ""
+
+# game/scripts/kali_events.rpy:13690
+translate uk_UA kalitalk_25f6f447:
+
+    # k "You know I love you now... do I have to remind you every day..."
+    k ""
+
+# game/scripts/kali_events.rpy:13691
+translate uk_UA kalitalk_adb7f81f:
+
+    # c "Absolutely you do. I love you too, babe."
+    c ""
+
+# game/scripts/kali_events.rpy:13692
+translate uk_UA kalitalk_f0d0ad18:
+
+    # k "{i}Babe...{/b} hmph..."
+    k ""
+
+# game/scripts/kali_events.rpy:13695
+translate uk_UA kalitalk_64ae6d3b:
+
+    # k "My dad thinks he can do whatever he wants... ugh, and he's not even wrong."
+    k ""
+
+# game/scripts/kali_events.rpy:13698
+translate uk_UA kalitalk_5200956c:
+
+    # k "Lin's cute. She's kinda like the hotel's mascot."
+    k ""
+
+# game/scripts/kali_events.rpy:13701
+translate uk_UA kalitalk_874ecc37:
+
+    # k "Lin and I have been talking about you~"
+    k ""
+
+# game/scripts/kali_events.rpy:13702
+translate uk_UA kalitalk_4f5aa843:
+
+    # c "Good things."
+    c ""
+
+# game/scripts/kali_events.rpy:13703
+translate uk_UA kalitalk_1fa80a97:
+
+    # k "Horrible..."
+    k ""
+
+# game/scripts/kali_events.rpy:13706
+translate uk_UA kalitalk_02b810e9:
+
+    # k "Thanks for helping me out~ heh..."
+    k ""
+
+# game/scripts/kali_events.rpy:13709
+translate uk_UA kalitalk_83d9667e:
+
+    # k "Thanks for protecting me out there. I don't know what I'd do without you."
+    k ""
+
+# game/scripts/kali_events.rpy:13712
+translate uk_UA kalitalk_2d31239d:
+
+    # k "Don't expect me to dress up as a maid every day..."
+    k ""
+
+# game/scripts/kali_events.rpy:13713
+translate uk_UA kalitalk_b6140fa3:
+
+    # c "Just whenever I want?"
+    c ""
+
+# game/scripts/kali_events.rpy:13714
+translate uk_UA kalitalk_b435fc73:
+
+    # k "Shut up..."
+    k ""
+
+# game/scripts/kali_events.rpy:13717
+translate uk_UA kalitalk_00266eb7:
+
+    # k "I'm starting to like you..."
+    k ""
+
+# game/scripts/kali_events.rpy:13718
+translate uk_UA kalitalk_86c42a24:
+
+    # k "Uh- spending time with you, I mean. Like, you're cool, you know?"
+    k ""
+
+# game/scripts/kali_events.rpy:13719
+translate uk_UA kalitalk_183c089c:
+
+    # c "Did you just friendzone me?"
+    c ""
+
+# game/scripts/kali_events.rpy:13720
+translate uk_UA kalitalk_73e95c89:
+
+    # k "What? No! Uh- I'm shutting up now."
+    k ""
+
+# game/scripts/kali_events.rpy:13723
+translate uk_UA kalitalk_3314134b:
+
+    # k "That was kinda hot, right? My dad had no idea..."
+    k ""
+
+# game/scripts/kali_events.rpy:15330
+translate uk_UA talkkaliwork_47dc58b9:
+
+    # k "Anyway... I'm headed there now actually. I'm supposed to meet my manager and co-workers before I start."
+    k ""
+
+# game/scripts/kali_events.rpy:15350
+translate uk_UA talkkaliwork_f6044624:
+
+    # nid "You're Kali... right? I'm Nidra... I'll be your co-worker..."
+    nid ""
+
+translate uk_UA strings:
+
+    # game/scripts/kali_events.rpy:13153
+    old "You look stunning, Kali."
+    new ""
+
+    # game/scripts/kali_events.rpy:13153
+    old "It's a bit much for a coffee date, but I love it."
+    new ""
+
+    # game/scripts/kali_events.rpy:13192
+    old "Pretty girls get stares, it's natural."
+    new ""
+
+    # game/scripts/kali_events.rpy:13192
+    old "Dress for the occasion next time."
+    new ""
+
+    # game/scripts/kali_events.rpy:13192
+    old "Just focus on me."
+    new ""
+
+    # game/scripts/kali_events.rpy:13192
+    old "I like casual Kali."
+    new ""
+
+    # game/scripts/kali_events.rpy:13252
+    old "You could still work as a maid..."
+    new ""
+
+    # game/scripts/kali_events.rpy:13252
+    old "We'll figure things out."
+    new ""
+
+    # game/scripts/kali_events.rpy:13252
+    old "Just focus on us today."
+    new ""
+
+    # game/scripts/kali_events.rpy:13288
+    old "I was expecting more."
+    new ""
+
+    # game/scripts/kali_events.rpy:13288
+    old "I prefer the company."
+    new ""
+

@@ -51858,3 +51858,2433 @@ translate uk_UA strings:
     old "{color=#8C8C8C} With Emma (+$$$$$$){/color}"
     new ""
 
+# TODO: Translation updated at 2025-02-09 00:44
+
+# game/scripts/clone_events.rpy:15
+translate uk_UA twin_stone_b13ce69a:
+
+    # mystwman "If you want him dead, just say the word."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:16
+translate uk_UA twin_stone_fe767cf3:
+
+    # mystman "It is not enough to kill a man. To make him suffer as I did, to take what he has taken from me... that is the retribution I seek."
+    mystman ""
+
+# game/scripts/clone_events.rpy:17
+translate uk_UA twin_stone_1502190c:
+
+    # mystwman "..."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:18
+translate uk_UA twin_stone_71f05e28:
+
+    # mystman "You think I'm foolish, that I've lost my way?"
+    mystman ""
+
+# game/scripts/clone_events.rpy:20
+translate uk_UA twin_stone_30e9d694:
+
+    # mystwman "No. I just don't see the point in dragging it out. If you want him gone, get rid of him."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:21
+translate uk_UA twin_stone_c682c5c1:
+
+    # mystman "I will not repeat the mistakes of those who fell before me. The Ascendants continue to prosper because we adapt."
+    mystman ""
+
+# game/scripts/clone_events.rpy:22
+translate uk_UA twin_stone_8c05dcf1:
+
+    # mystwman "That didn't stop you from sending that elf to his grave last week."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:23
+translate uk_UA twin_stone_18ff534f:
+
+    # mystman "A dead elf is nothing special. A human, however..."
+    mystman ""
+
+# game/scripts/clone_events.rpy:24
+translate uk_UA twin_stone_f0027fd2:
+
+    # mystwman "There you go again..."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:25
+translate uk_UA twin_stone_090e1229:
+
+    # mystman "I do not make the rules. I take advantage of them."
+    mystman ""
+
+# game/scripts/clone_events.rpy:27
+translate uk_UA twin_stone_403718b6:
+
+    # mystman "Hm... he's an immigrant, isn't he? Deport him. Find anything you can."
+    mystman ""
+
+# game/scripts/clone_events.rpy:28
+translate uk_UA twin_stone_8a3e6551:
+
+    # mystwman "*sigh*... that's a lot of work. If the police can't find anything, what makes you think I can?"
+    mystwman ""
+
+# game/scripts/clone_events.rpy:29
+translate uk_UA twin_stone_8eb842f8:
+
+    # mystman "The police are only capable of handing out speeding tickets. You however are the most able person I know."
+    mystman ""
+
+# game/scripts/clone_events.rpy:31
+translate uk_UA twin_stone_99969752:
+
+    # mystman "..."
+    mystman ""
+
+# game/scripts/clone_events.rpy:32
+translate uk_UA twin_stone_0bf88ce8:
+
+    # mystman "I trust no one more than I trust you, my right hand... I have faith in you."
+    mystman ""
+
+# game/scripts/clone_events.rpy:34
+translate uk_UA twin_stone_6fae72c3:
+
+    # mystwman "Of course, father... consider it done."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:36
+translate uk_UA twin_stone_94d019a6:
+
+    # "...{w}..."
+    ""
+
+# game/scripts/clone_events.rpy:37
+translate uk_UA twin_stone_e20618ab:
+
+    # e "*knock knock*\nRise and shine, [name]! I have something for you!" with ssshake
+    e "" with ssshake
+
+# game/scripts/clone_events.rpy:38
+translate uk_UA twin_stone_04c7953c:
+
+    # c "*yawwwn*... Ellen?"
+    c ""
+
+# game/scripts/clone_events.rpy:52
+translate uk_UA twin_stone_cont_2d06eccb:
+
+    # e "A letter was left at our door this morning. It's addressed to you."
+    e ""
+
+# game/scripts/clone_events.rpy:54
+translate uk_UA twin_stone_cont_9019d55c:
+
+    # c "Who is it from?"
+    c ""
+
+# game/scripts/clone_events.rpy:55
+translate uk_UA twin_stone_cont_6f58a746:
+
+    # e "It doesn't say. It only mentions your name."
+    e ""
+
+# game/scripts/clone_events.rpy:56
+translate uk_UA twin_stone_cont_9dff41bf:
+
+    # c "Let's see..."
+    c ""
+
+# game/scripts/clone_events.rpy:58
+translate uk_UA twin_stone_cont_855c44f3:
+
+    # c "Parchment? Oh."
+    c ""
+
+# game/scripts/clone_events.rpy:59
+translate uk_UA twin_stone_cont_924d27d3:
+
+    # e "What is it?"
+    e ""
+
+# game/scripts/clone_events.rpy:61
+translate uk_UA twin_stone_cont_50c4b5e5:
+
+    # c "Felicity and Emma's father wants to apologize at... Juicy Burger."
+    c ""
+
+# game/scripts/clone_events.rpy:62
+translate uk_UA twin_stone_cont_6c697ae6:
+
+    # e "Can't go wrong with the classics I suppose?"
+    e ""
+
+# game/scripts/clone_events.rpy:63
+translate uk_UA twin_stone_cont_b76aa751:
+
+    # c "And he called me his son-in-law... that's new."
+    c ""
+
+# game/scripts/clone_events.rpy:65
+translate uk_UA twin_stone_cont_c0aad438:
+
+    # e "Will you go? It might be a good opportunity to normalize things between you two."
+    e ""
+
+# game/scripts/clone_events.rpy:66
+translate uk_UA twin_stone_cont_3b40c1c9:
+
+    # c "This seems out of character of him, but it's a public setting so I doubt he means any harm."
+    c ""
+
+# game/scripts/clone_events.rpy:67
+translate uk_UA twin_stone_cont_7c5fff1f:
+
+    # c "If he wants to talk, we'll talk. But I'm bringing [botname]."
+    c ""
+
+# game/scripts/clone_events.rpy:68
+translate uk_UA twin_stone_cont_7e436170:
+
+    # e "Very well, I'll let Felicity and Emma know."
+    e ""
+
+# game/scripts/clone_events.rpy:69
+translate uk_UA twin_stone_cont_e82b58ab:
+
+    # c "Actually, don't say anything yet. They're not too happy with him right now and if they got involved it might ruin things."
+    c ""
+
+# game/scripts/clone_events.rpy:70
+translate uk_UA twin_stone_cont_8c5884c9:
+
+    # c "But if I have a chance to mend things between everyone, I'll take it. I'll tell them how it went when I return."
+    c ""
+
+# game/scripts/clone_events.rpy:71
+translate uk_UA twin_stone_cont_8555133e:
+
+    # e "Very well, good luck [name]."
+    e ""
+
+# game/scripts/clone_events.rpy:73
+translate uk_UA twin_stone_cont_69a24be3:
+
+    # "As you enter the lobby [botname] immediately comes running down the stairs eager to help."
+    ""
+
+# game/scripts/clone_events.rpy:74
+translate uk_UA twin_stone_cont_ccb0bbd2:
+
+    # bot "Ready when you are, [botown]!"
+    bot ""
+
+# game/scripts/clone_events.rpy:75
+translate uk_UA twin_stone_cont_48614516:
+
+    # "The two of you get in your car and drive to Juicy Burger."
+    ""
+
+# game/scripts/clone_events.rpy:77
+translate uk_UA twin_stone_cont_f841194c:
+
+    # bot "Hmm, are you sure this is the right one? I don't see him anywhere."
+    bot ""
+
+# game/scripts/clone_events.rpy:78
+translate uk_UA twin_stone_cont_339bf679:
+
+    # c "We're a bit early. Let's wait for him over there."
+    c ""
+
+# game/scripts/clone_events.rpy:80
+translate uk_UA twin_stone_cont_9d428dfe:
+
+    # bot "Aren't you hungry [botown]?"
+    bot ""
+
+# game/scripts/clone_events.rpy:82
+translate uk_UA twin_stone_cont_25718be5:
+
+    # c "I'll wait until he arrives, he offered to pay."
+    c ""
+
+# game/scripts/clone_events.rpy:83
+translate uk_UA twin_stone_cont_9ee88edb:
+
+    # bot "Okay."
+    bot ""
+
+# game/scripts/clone_events.rpy:85
+translate uk_UA twin_stone_cont_306cf365:
+
+    # bot "Why do you think he had a change of heart all of the sudden?"
+    bot ""
+
+# game/scripts/clone_events.rpy:86
+translate uk_UA twin_stone_cont_8064e849:
+
+    # c "That's what I want to find out. Last we spoke, he was very upset that his daughters were living in my hotel."
+    c ""
+
+# game/scripts/clone_events.rpy:87
+translate uk_UA twin_stone_cont_0205763d:
+
+    # bot "Maybe you should have brought them."
+    bot ""
+
+# game/scripts/clone_events.rpy:88
+translate uk_UA twin_stone_cont_65d07916:
+
+    # c "They don't want to speak to him right now. They're all mad at each other. It's a messy situation."
+    c ""
+
+# game/scripts/clone_events.rpy:90
+translate uk_UA twin_stone_cont_78186cca:
+
+    # bot "I see... I hope Ally and I never become like that."
+    bot ""
+
+# game/scripts/clone_events.rpy:92
+translate uk_UA twin_stone_cont_37f95a39:
+
+    # bot "I see..."
+    bot ""
+
+# game/scripts/clone_events.rpy:94
+translate uk_UA twin_stone_cont_fa665d71:
+
+    # bot "Hey! That's him isn't it?"
+    bot ""
+
+# game/scripts/clone_events.rpy:95
+translate uk_UA twin_stone_cont_4ce77e5e:
+
+    # c "Hm?"
+    c ""
+
+# game/scripts/clone_events.rpy:99
+translate uk_UA twin_stone_cont_19321348:
+
+    # bot "It is!"
+    bot ""
+
+# game/scripts/clone_events.rpy:100
+translate uk_UA twin_stone_cont_ff947188:
+
+    # c "Nice car for a Dean..."
+    c ""
+
+# game/scripts/clone_events.rpy:102
+translate uk_UA twin_stone_cont_0bf267ce:
+
+    # aaron "Park the car, I won't be long."
+    aaron ""
+
+# game/scripts/clone_events.rpy:103
+translate uk_UA twin_stone_cont_8bdb4b64:
+
+    # man "Of course, sir."
+    man ""
+
+# game/scripts/clone_events.rpy:116
+translate uk_UA twin_stone_cont_a20cefa7:
+
+    # "..."
+    ""
+
+# game/scripts/clone_events.rpy:118
+translate uk_UA twin_stone_cont_a1b9e05f:
+
+    # aaron "...You brought your android."
+    aaron ""
+
+# game/scripts/clone_events.rpy:119
+translate uk_UA twin_stone_cont_03b55f4d:
+
+    # bot "Hello."
+    bot ""
+
+# game/scripts/clone_events.rpy:120
+translate uk_UA twin_stone_cont_f7254425:
+
+    # c "Good morning, Aaron."
+    c ""
+
+# game/scripts/clone_events.rpy:121
+translate uk_UA twin_stone_cont_46e34eac:
+
+    # aaron "[name], I'm surprised you can even afford one with your hotel being in the shape it is."
+    aaron ""
+
+# game/scripts/clone_events.rpy:122
+translate uk_UA twin_stone_cont_bf8386c8:
+
+    # c "She was my grandfather's, so was the hotel."
+    c ""
+
+# game/scripts/clone_events.rpy:123
+translate uk_UA twin_stone_cont_933a8d4e:
+
+    # aaron "I see."
+    aaron ""
+
+# game/scripts/clone_events.rpy:125
+translate uk_UA twin_stone_cont_5ab3ef9d:
+
+    # aaron "..."
+    aaron ""
+
+# game/scripts/clone_events.rpy:126
+translate uk_UA twin_stone_cont_b34e9010:
+
+    # c "Hungry?"
+    c ""
+
+# game/scripts/clone_events.rpy:128
+translate uk_UA twin_stone_cont_5ab3ef9d_1:
+
+    # aaron "..."
+    aaron ""
+
+# game/scripts/clone_events.rpy:130
+translate uk_UA twin_stone_cont_b27165b3:
+
+    # aaron "I didn't come here to eat. I came to talk."
+    aaron ""
+
+# game/scripts/clone_events.rpy:131
+translate uk_UA twin_stone_cont_85ed0411:
+
+    # c "You offered..."
+    c ""
+
+# game/scripts/clone_events.rpy:132
+translate uk_UA twin_stone_cont_bad4b7df:
+
+    # aaron "[name], do you know the importance of family?"
+    aaron ""
+
+# game/scripts/clone_events.rpy:134
+translate uk_UA twin_stone_cont_5ca169f4:
+
+    # aaron "Before you give me your answer, allow me to clarify."
+    aaron ""
+
+# game/scripts/clone_events.rpy:136
+translate uk_UA twin_stone_cont_95375a17:
+
+    # aaron "The bond of blood is a sacred one. Since the dawn of civilization blood has paved the way for greatness. Entire kingdoms have risen and fallen over this bond, and the severing of it."
+    aaron ""
+
+# game/scripts/clone_events.rpy:137
+translate uk_UA twin_stone_cont_a3bbbefd:
+
+    # c "I thought you wanted to apologize, not give me a history lesson."
+    c ""
+
+# game/scripts/clone_events.rpy:139
+translate uk_UA twin_stone_cont_90e6a7f0:
+
+    # aaron "Do not interrupt me."
+    aaron ""
+
+# game/scripts/clone_events.rpy:141
+translate uk_UA twin_stone_cont_5b2a4852:
+
+    # aaron "Felicity and Emma were meant for something far greater than what you're able to offer them in that archaic building you pass off as a hotel."
+    aaron ""
+
+# game/scripts/clone_events.rpy:142
+translate uk_UA twin_stone_cont_36608b92:
+
+    # aaron "Are you aware that you are stifling their development? Do you even care?"
+    aaron ""
+
+# game/scripts/clone_events.rpy:143
+translate uk_UA twin_stone_cont_783ac23d:
+
+    # c "They're not children."
+    c ""
+
+# game/scripts/clone_events.rpy:144
+translate uk_UA twin_stone_cont_059c1b8e:
+
+    # aaron "No, but they are mine."
+    aaron ""
+
+# game/scripts/clone_events.rpy:146
+translate uk_UA twin_stone_cont_4e2355c9:
+
+    # aaron "I know I haven't been the perfect father. But if you had met my parents and seen where we came from, perfection is the last thing you would be worried about."
+    aaron ""
+
+# game/scripts/clone_events.rpy:148
+translate uk_UA twin_stone_cont_667397e7:
+
+    # aaron "The Beaumonts come from peasantry in the old world, you see."
+    aaron ""
+
+# game/scripts/clone_events.rpy:150
+translate uk_UA twin_stone_cont_1b099cbf:
+
+    # aaron "I was witness to my grandparents shoveling shit from the outhouse of a royal family on a daily basis at an early age. They died shoveling shit for people who never even saw their faces. This was the moment I became aware of the inequality of our world."
+    aaron ""
+
+# game/scripts/clone_events.rpy:151
+translate uk_UA twin_stone_cont_464b8eb3:
+
+    # aaron "My parents would not accept this life for me, so when we heard of a land on the far side of this world that could offer that freedom we desired, we sold everything we had and boarded a ship to Syl'anar."
+    aaron ""
+
+# game/scripts/clone_events.rpy:153
+translate uk_UA twin_stone_cont_7f7a68c2:
+
+    # aaron "Only my mother and I would endure the three months aboard."
+    aaron ""
+
+# game/scripts/clone_events.rpy:154
+translate uk_UA twin_stone_cont_f7b5c835:
+
+    # aaron "A lone woman at sea, weeks away from any authority, was easy prey for the predators who lurked. Still, she endured, for she knew that without her presence, I would suffer a worse fate yet."
+    aaron ""
+
+# game/scripts/clone_events.rpy:156
+translate uk_UA twin_stone_cont_ba9a6f40:
+
+    # aaron "{i}The bond of blood.{/i}"
+    aaron ""
+
+# game/scripts/clone_events.rpy:158
+translate uk_UA twin_stone_cont_c128c782:
+
+    # aaron "One must be willing to sacrifice everything for his family. So that those who come after may lead better lives."
+    aaron ""
+
+# game/scripts/clone_events.rpy:160
+translate uk_UA twin_stone_cont_428538ac:
+
+    # aaron "So I'll ask again, [name]..."
+    aaron ""
+
+# game/scripts/clone_events.rpy:161
+translate uk_UA twin_stone_cont_fa70c420:
+
+    # aaron "Do you understand the importance of family?"
+    aaron ""
+
+# game/scripts/clone_events.rpy:162
+translate uk_UA twin_stone_cont_fb896f19:
+
+    # c "Family? Blood? Those are two different things entirely."
+    c ""
+
+# game/scripts/clone_events.rpy:163
+translate uk_UA twin_stone_cont_dd3c7642:
+
+    # aaron "...?"
+    aaron ""
+
+# game/scripts/clone_events.rpy:165
+translate uk_UA twin_stone_cont_80c35ee6:
+
+    # c "It doesn't matter where you come from, the only thing that matters is what you do with the one life you're given."
+    c ""
+
+# game/scripts/clone_events.rpy:166
+translate uk_UA twin_stone_cont_1eced3d2:
+
+    # c "Your mother was a very brave person, and I won't lie, you've been dealt a very shitty hand in life, but that doesn't excuse the things you've done."
+    c ""
+
+# game/scripts/clone_events.rpy:167
+translate uk_UA twin_stone_cont_49f98efb:
+
+    # c "The hotel, that is my family. I want what's best for them just as your mother wanted what's best for you. And just like your father, I would die to give them a better life."
+    c ""
+
+# game/scripts/clone_events.rpy:169
+translate uk_UA twin_stone_cont_120fb234:
+
+    # aaron "...Is that so?"
+    aaron ""
+
+# game/scripts/clone_events.rpy:170
+translate uk_UA twin_stone_cont_f1e7004f:
+
+    # c "Without doubt. Blood, or no blood."
+    c ""
+
+# game/scripts/clone_events.rpy:172
+translate uk_UA twin_stone_cont_723293d2:
+
+    # aaron "...{w}...{w}..."
+    aaron ""
+
+# game/scripts/clone_events.rpy:174
+translate uk_UA twin_stone_cont_3b6708cd:
+
+    # aaron "Very well..."
+    aaron ""
+
+# game/scripts/clone_events.rpy:175
+translate uk_UA twin_stone_cont_3784857a:
+
+    # c "...?"
+    c ""
+
+# game/scripts/clone_events.rpy:187
+translate uk_UA twin_stone_cont_bda3ff80:
+
+    # c "...!"
+    c ""
+
+# game/scripts/clone_events.rpy:192
+translate uk_UA twin_stone_cont_064eafff:
+
+    # bot "Um..."
+    bot ""
+
+# game/scripts/clone_events.rpy:194
+translate uk_UA twin_stone_cont_0375222b:
+
+    # aaron "Then perhaps you would be willing to prove that."
+    aaron ""
+
+# game/scripts/clone_events.rpy:195
+translate uk_UA twin_stone_cont_4a278c38:
+
+    # c "...Stoneface."
+    c ""
+
+# game/scripts/clone_events.rpy:197
+translate uk_UA twin_stone_cont_a20cefa7_1:
+
+    # "..."
+    ""
+
+# game/scripts/clone_events.rpy:199
+translate uk_UA twin_stone_cont_45899aeb:
+
+    # bman "It's up, boss. What am I looking for?"
+    bman ""
+
+# game/scripts/clone_events.rpy:200
+translate uk_UA twin_stone_cont_19fa2ec8:
+
+    # mystwman "Anything incriminating."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:201
+translate uk_UA twin_stone_cont_2c7c8d9d:
+
+    # hman "Yeah and don't get too close or your drone will pop like a balloon."
+    hman ""
+
+# game/scripts/clone_events.rpy:202
+translate uk_UA twin_stone_cont_2872f2ff:
+
+    # mystwman "The robot isn't here."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:203
+translate uk_UA twin_stone_cont_6714c91e:
+
+    # hman "What? How do you know, boss? I wouldn't risk it, that's the only drone we got!"
+    hman ""
+
+# game/scripts/clone_events.rpy:204
+translate uk_UA twin_stone_cont_b6f46a10:
+
+    # mystwman "Just go. Search the property. Check the windows."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:205
+translate uk_UA twin_stone_cont_f8273fd5:
+
+    # bman "Yes ma'am."
+    bman ""
+
+# game/scripts/clone_events.rpy:218
+translate uk_UA twin_stone_cont_85b10c92:
+
+    # lu "...Um, Kali?"
+    lu ""
+
+# game/scripts/clone_events.rpy:219
+translate uk_UA twin_stone_cont_82091822:
+
+    # k "..."
+    k ""
+
+# game/scripts/clone_events.rpy:221
+translate uk_UA twin_stone_cont_b50491e8:
+
+    # lu "Kali, there's a drone looking inside our windows!"
+    lu ""
+
+# game/scripts/clone_events.rpy:222
+translate uk_UA twin_stone_cont_82091822_1:
+
+    # k "..."
+    k ""
+
+# game/scripts/clone_events.rpy:224
+translate uk_UA twin_stone_cont_1b52007f:
+
+    # lu "KALI!" with ssshake
+    lu "" with ssshake
+
+# game/scripts/clone_events.rpy:225
+translate uk_UA twin_stone_cont_6afb00a4:
+
+    # k "WHAT!?" with ssshake
+    k "" with ssshake
+
+# game/scripts/clone_events.rpy:226
+translate uk_UA twin_stone_cont_48822842:
+
+    # lu "There's a drone outside looking in all of our windows!"
+    lu ""
+
+# game/scripts/clone_events.rpy:227
+translate uk_UA twin_stone_cont_afd1737e:
+
+    # k "What? No way."
+    k ""
+
+# game/scripts/clone_events.rpy:228
+translate uk_UA twin_stone_cont_1c21ef23:
+
+    # lu "Look!"
+    lu ""
+
+# game/scripts/clone_events.rpy:230
+translate uk_UA twin_stone_cont_f6e449fd:
+
+    # k "Oh shit, there is."
+    k ""
+
+# game/scripts/clone_events.rpy:231
+translate uk_UA twin_stone_cont_26ad98a5:
+
+    # lu "I wasn't lying..."
+    lu ""
+
+# game/scripts/clone_events.rpy:232
+translate uk_UA twin_stone_cont_3ded0e1e:
+
+    # k "Hey [botname], what's that drone doing outside?"
+    k ""
+
+# game/scripts/clone_events.rpy:233
+translate uk_UA twin_stone_cont_a20cefa7_2:
+
+    # "..."
+    ""
+
+# game/scripts/clone_events.rpy:234
+translate uk_UA twin_stone_cont_095ccf56:
+
+    # k "[botname]...? Hello?"
+    k ""
+
+# game/scripts/clone_events.rpy:236
+translate uk_UA twin_stone_cont_fa3f169f:
+
+    # k "Shit."
+    k ""
+
+# game/scripts/clone_events.rpy:238
+translate uk_UA twin_stone_cont_7c9e1bee:
+
+    # k "GUYS! There's a drone spying on us!" with ssshake
+    k "" with ssshake
+
+# game/scripts/clone_events.rpy:240
+translate uk_UA twin_stone_cont_5d296f81:
+
+    # l "A drone?"
+    l ""
+
+# game/scripts/clone_events.rpy:241
+translate uk_UA twin_stone_cont_17ae743b:
+
+    # f "Ew, perverts?"
+    f ""
+
+# game/scripts/clone_events.rpy:242
+translate uk_UA twin_stone_cont_93f1fdf6:
+
+    # k "Does anyone know where [botname] is? She's not responding!"
+    k ""
+
+# game/scripts/clone_events.rpy:243
+translate uk_UA twin_stone_cont_03ba5cfd:
+
+    # e "She went out with [name]."
+    e ""
+
+# game/scripts/clone_events.rpy:245
+translate uk_UA twin_stone_cont_7e068ca5:
+
+    # k "Urgh, why now!?"
+    k ""
+
+# game/scripts/clone_events.rpy:246
+translate uk_UA twin_stone_cont_2b494c18:
+
+    # e "Hold on, let me check the cameras..."
+    e ""
+
+# game/scripts/clone_events.rpy:247
+translate uk_UA twin_stone_cont_2cab8d1c:
+
+    # k "If they find the sanctuary-"
+    k ""
+
+# game/scripts/clone_events.rpy:248
+translate uk_UA twin_stone_cont_86773794:
+
+    # e "Oh! There are four people outside. And they don't look very friendly..."
+    e ""
+
+# game/scripts/clone_events.rpy:249
+translate uk_UA twin_stone_cont_93334484:
+
+    # k "What?"
+    k ""
+
+# game/scripts/clone_events.rpy:251
+translate uk_UA twin_stone_cont_321e5c38:
+
+    # em "I'm locking the door..."
+    em ""
+
+# game/scripts/clone_events.rpy:253
+translate uk_UA twin_stone_cont_bac606d2:
+
+    # e "Don't bother."
+    e ""
+
+# game/scripts/clone_events.rpy:254
+translate uk_UA twin_stone_cont_30a449b0:
+
+    # f "Oh my god, Ellen!"
+    f ""
+
+# game/scripts/clone_events.rpy:255
+translate uk_UA twin_stone_cont_d8de60fd:
+
+    # em "Ellen, don't!"
+    em ""
+
+# game/scripts/clone_events.rpy:257
+translate uk_UA twin_stone_cont_c9805e57:
+
+    # e "LEAVE! THIS IS YOUR FINAL WARNING!"
+    e ""
+
+# game/scripts/clone_events.rpy:259
+translate uk_UA twin_stone_cont_41eb298f:
+
+    # hman "HA! Ya gonna murder me? This road is public property!"
+    hman ""
+
+# game/scripts/clone_events.rpy:260
+translate uk_UA twin_stone_cont_66a56cc4:
+
+    # e "You're spying, we see your drone!"
+    e ""
+
+# game/scripts/clone_events.rpy:261
+translate uk_UA twin_stone_cont_71668a2c:
+
+    # hman "We're just uhhhh, wildlife enthusiasts! Love birds and shit!"
+    hman ""
+
+# game/scripts/clone_events.rpy:262
+translate uk_UA twin_stone_cont_aac1bcc6:
+
+    # e "Quit stalling and leave!"
+    e ""
+
+# game/scripts/clone_events.rpy:263
+translate uk_UA twin_stone_cont_51de1e11:
+
+    # hman "Ya ain't gonna shoot. Ya can't!"
+    hman ""
+
+# game/scripts/clone_events.rpy:265
+translate uk_UA twin_stone_cont_32356028:
+
+    # bman "There's a whole building back there full of elves."
+    bman ""
+
+# game/scripts/clone_events.rpy:266
+translate uk_UA twin_stone_cont_fdc6be30:
+
+    # mystwman "There are only two registered to the estate."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:267
+translate uk_UA twin_stone_cont_e4c9798e:
+
+    # bman "Lot more than two back there. At least six beds."
+    bman ""
+
+# game/scripts/clone_events.rpy:269
+translate uk_UA twin_stone_cont_775285dc:
+
+    # f "{i}Ellen, don't fight them! They could be hiding guns!{/i}"
+    f ""
+
+# game/scripts/clone_events.rpy:270
+translate uk_UA twin_stone_cont_c744c6b6:
+
+    # e "Get back inside Felicity!"
+    e ""
+
+# game/scripts/clone_events.rpy:271
+translate uk_UA twin_stone_cont_78a86185:
+
+    # f "{i}I'm not going to watch you die in front of me, don't you remember those two? That white-haired bitch was just stalking us too!{/i} COME INSIDE!"
+    f ""
+
+# game/scripts/clone_events.rpy:272
+translate uk_UA twin_stone_cont_3e11048e:
+
+    # em "BOTH OF YOU GET IN HERE RIGHT NOW!"
+    em ""
+
+# game/scripts/clone_events.rpy:277
+translate uk_UA twin_stone_cont_c359542a:
+
+    # mystwman "Hm."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:279
+translate uk_UA twin_stone_cont_8013f17f:
+
+    # mystwman "Move. I can handle this."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:280
+translate uk_UA twin_stone_cont_c134b145:
+
+    # hman "Uh, what are ya doin'?"
+    hman ""
+
+# game/scripts/clone_events.rpy:282
+translate uk_UA twin_stone_cont_caaabfa3:
+
+    # mystwman "You know, I've always wondered what was so special about you two. Pigeonholed into a life of luxury... "
+    mystwman ""
+
+# game/scripts/clone_events.rpy:284
+translate uk_UA twin_stone_cont_69c16734:
+
+    # mystwman "You never saw this world for what it really is. Do you even know where you come from?"
+    mystwman ""
+
+# game/scripts/clone_events.rpy:286
+translate uk_UA twin_stone_cont_30c64914:
+
+    # mystwman "No. You never had to fight for anything... Everything you have was given to you. And for you to throw it all away..."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:287
+translate uk_UA twin_stone_cont_a577b130:
+
+    # e "Stay back!"
+    e ""
+
+# game/scripts/clone_events.rpy:289
+translate uk_UA twin_stone_cont_9ae399b1:
+
+    # mystwman "I suppose it doesn't matter now. All that is about to change..."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:291
+translate uk_UA twin_stone_cont_fb7306aa:
+
+    # mystwman "Little sister."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:292
+translate uk_UA twin_stone_cont_441ddb0c:
+
+    # f "{i}!!!{/i}"
+    f ""
+
+# game/scripts/clone_events.rpy:294
+translate uk_UA twin_stone_cont_f08db2e0:
+
+    # f "You're-..."
+    f ""
+
+# game/scripts/clone_events.rpy:296
+translate uk_UA twin_stone_cont_39c17b34:
+
+    # mystwman "I only came to talk..."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:298
+translate uk_UA twin_stone_cont_b378abf7:
+
+    # e "Bullshit!" with ssshake
+    e "" with ssshake
+
+# game/scripts/clone_events.rpy:299
+translate uk_UA twin_stone_cont_8530071b:
+
+    # e "Felicity, get inside!"
+    e ""
+
+# game/scripts/clone_events.rpy:301
+translate uk_UA twin_stone_cont_d88f2c31:
+
+    # mystwman "Felicity, we know about the unregistered elves. One simple call to the police and this whole place is shut down, and your precious boyfriend is sent back to where he came from. Permanently."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:302
+translate uk_UA twin_stone_cont_7e5be565:
+
+    # e "What?"
+    e ""
+
+# game/scripts/clone_events.rpy:303
+translate uk_UA twin_stone_cont_1869c231:
+
+    # f "He saved those elves!"
+    f ""
+
+# game/scripts/clone_events.rpy:304
+translate uk_UA twin_stone_cont_c7d573bd:
+
+    # mystwman "And now you have a chance to save him, and everyone else in this hotel."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:306
+translate uk_UA twin_stone_cont_da7455bd:
+
+    # mystwman "Come with me..."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:308
+translate uk_UA twin_stone_cont_423fd506:
+
+    # mystwman "And no one gets hurt."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:310
+translate uk_UA twin_stone_cont_e4d27481:
+
+    # mystwman "By the way... I saw what you did to that cop. Not bad..."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:312
+translate uk_UA twin_stone_cont_6b0d8035:
+
+    # f "You stalked me, you sent gangsters after me! You- you tried to plant drugs on us! Why???"
+    f ""
+
+# game/scripts/clone_events.rpy:314
+translate uk_UA twin_stone_cont_33730904:
+
+    # mystwman "That was all father, dear sister. I couldn't give less of a shit about you two. In fact, that was father's plan. Until recently..."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:315
+translate uk_UA twin_stone_cont_e81449fd:
+
+    # f "What??"
+    f ""
+
+# game/scripts/clone_events.rpy:316
+translate uk_UA twin_stone_cont_d29df859:
+
+    # mystwman "We were never supposed to meet. But things are different now."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:318
+translate uk_UA twin_stone_cont_3862706d:
+
+    # mystwman "Welcome to the family..."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:323
+translate uk_UA twin_stone_cont_c9114bf1:
+
+    # c "Why did you call me here, really?"
+    c ""
+
+# game/scripts/clone_events.rpy:324
+translate uk_UA twin_stone_cont_f7a2d7d0:
+
+    # aarons "Felicity and Emma are meant to be the culmination of generations of Beaumonts fighting for a decent life."
+    aarons ""
+
+# game/scripts/clone_events.rpy:325
+translate uk_UA twin_stone_cont_d8d73373:
+
+    # aarons "I could not succeed with my firstborn, but together we paved the road for greatness."
+    aarons ""
+
+# game/scripts/clone_events.rpy:326
+translate uk_UA twin_stone_cont_5af91370:
+
+    # c "Firstborn?"
+    c ""
+
+# game/scripts/clone_events.rpy:328
+translate uk_UA twin_stone_cont_24e4c133:
+
+    # aarons "I have done things most would be unwilling to do in order to end the cycle of poverty. The Beaumonts arrived in Syl'anar with {u}nothing{/u}."
+    aarons ""
+
+# game/scripts/clone_events.rpy:329
+translate uk_UA twin_stone_cont_23e34440:
+
+    # aarons "It is not easy, nor for the light-hearted... but those who come to me for help were cast aside by society long ago. I am their only hope."
+    aarons ""
+
+# game/scripts/clone_events.rpy:331
+translate uk_UA twin_stone_cont_b7e0f8bd:
+
+    # aarons "Many were abandoned by their community."
+    aarons ""
+
+# game/scripts/clone_events.rpy:333
+translate uk_UA twin_stone_cont_7dedd33f:
+
+    # aarons "Some, abused by their parents."
+    aarons ""
+
+# game/scripts/clone_events.rpy:335
+translate uk_UA twin_stone_cont_1aff26c9:
+
+    # aarons "And others are ostracized simply due to how they look..."
+    aarons ""
+
+# game/scripts/clone_events.rpy:337
+translate uk_UA twin_stone_cont_d6bd4923:
+
+    # aarons "This world is cruel, and completely unfair. Those with power will do nothing to help. We are but tools to make their lives more comfortable, and this is a fact I will not accept for my children."
+    aarons ""
+
+# game/scripts/clone_events.rpy:339
+translate uk_UA twin_stone_cont_d19f855d:
+
+    # c "..."
+    c ""
+
+# game/scripts/clone_events.rpy:340
+translate uk_UA twin_stone_cont_0121316f:
+
+    # aarons "...?"
+    aarons ""
+
+# game/scripts/clone_events.rpy:341
+translate uk_UA twin_stone_cont_2ddebfdd:
+
+    # aarons "That look on your face, what does it mean?"
+    aarons ""
+
+# game/scripts/clone_events.rpy:343
+translate uk_UA twin_stone_cont_19a32437:
+
+    # c "...Everything you just said, I don't disagree."
+    c ""
+
+# game/scripts/clone_events.rpy:344
+translate uk_UA twin_stone_cont_0c94ba69:
+
+    # c "Everyone in my hotel has a story or two just like those. They just want to live free, and someone somewhere always has an issue with that."
+    c ""
+
+# game/scripts/clone_events.rpy:345
+translate uk_UA twin_stone_cont_6ce67c46:
+
+    # aarons "Yet you ignore their problems, take advantage of their situations, and live a comfortable life in the wake of their suffering."
+    aarons ""
+
+# game/scripts/clone_events.rpy:347
+translate uk_UA twin_stone_cont_f177265e:
+
+    # c "No, I put them first and support their dreams. Most of them don't even pay rent."
+    c ""
+
+# game/scripts/clone_events.rpy:348
+translate uk_UA twin_stone_cont_e71e13bf:
+
+    # aarons "Then tell me, if you see it too... what is the difference between you and I?"
+    aarons ""
+
+# game/scripts/clone_events.rpy:350
+translate uk_UA twin_stone_cont_d19f855d_1:
+
+    # c "..."
+    c ""
+
+# game/scripts/clone_events.rpy:352
+translate uk_UA twin_stone_cont_36ed570c:
+
+    # c "Well that's easy. You want control. You're a hypocrite. If Felicity and Emma wanted to leave tomorrow, I would help them pack."
+    c ""
+
+# game/scripts/clone_events.rpy:353
+translate uk_UA twin_stone_cont_7e8f6f3e:
+
+    # aarons "Out of hate?"
+    aarons ""
+
+# game/scripts/clone_events.rpy:354
+translate uk_UA twin_stone_cont_556947c4:
+
+    # c "Out of love."
+    c ""
+
+# game/scripts/clone_events.rpy:356
+translate uk_UA twin_stone_cont_86becb45:
+
+    # aarons "You would doom them! They have no job, no friends or other family to run to."
+    aarons ""
+
+# game/scripts/clone_events.rpy:357
+translate uk_UA twin_stone_cont_28e21fb7:
+
+    # c "They would doom themselves. A free bird will always fly back home."
+    c ""
+
+# game/scripts/clone_events.rpy:358
+translate uk_UA twin_stone_cont_563de672:
+
+    # aarons "A free bird is food for the hunter!"
+    aarons ""
+
+# game/scripts/clone_events.rpy:359
+translate uk_UA twin_stone_cont_c26acce1:
+
+    # aarons "You speak of freedom, yet you're blind to its dangers! This world is not fair, and it is certainly not forgiving! There are those in this world who would do unspeakable things to them! I know, I've seen it!"
+    aarons ""
+
+# game/scripts/clone_events.rpy:360
+translate uk_UA twin_stone_cont_eff52783:
+
+    # c "And you think your guidance is the only way? Sheltering them, controlling every move, that's not guidance. That's imprisonment masked as protection. Ask them and they'll tell you the same."
+    c ""
+
+# game/scripts/clone_events.rpy:361
+translate uk_UA twin_stone_cont_36c43d36:
+
+    # aarons "Protection they need! The same protection that so many others now thrive under. Love is not simply about letting go, it is giving those who need it the tools to survive; to fight; to THRIVE!"
+    aarons ""
+
+# game/scripts/clone_events.rpy:363
+translate uk_UA twin_stone_cont_a84af7b3:
+
+    # aarons "You are a child of delusion! You know nothing of the horrors of this world, nothing but a life of comfort on the backs of those who suffer!"
+    aarons ""
+
+# game/scripts/clone_events.rpy:364
+translate uk_UA twin_stone_cont_c67cd0b6:
+
+    # aarons "Once my children return to me, they will see this world for what it really is! They'll thank me for everything I've done - for protecting them from the wolves at their door, from the pain and suffering that haunts us around every corner!"
+    aarons ""
+
+# game/scripts/clone_events.rpy:365
+translate uk_UA twin_stone_cont_f36558d2:
+
+    # c "Nothing will change. They resent you, they always will."
+    c ""
+
+# game/scripts/clone_events.rpy:368
+translate uk_UA twin_stone_cont_9809d2d8:
+
+    # aarons "SAY THAT AGAIN!" with ssshake
+    aarons "" with ssshake
+
+# game/scripts/clone_events.rpy:369
+translate uk_UA twin_stone_cont_a4e625d7:
+
+    # c "!!!"
+    c ""
+
+# game/scripts/clone_events.rpy:371
+translate uk_UA twin_stone_cont_e8a57932:
+
+    # mystwman "Say that again?"
+    mystwman ""
+
+# game/scripts/clone_events.rpy:372
+translate uk_UA twin_stone_cont_428c96f7:
+
+    # f "MY FAMILY IS HERE! I don't even know you!"
+    f ""
+
+# game/scripts/clone_events.rpy:373
+translate uk_UA twin_stone_cont_abb8b16b:
+
+    # mystwman "Oh you will, we'll all become well acquainted with time, don't worry."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:375
+translate uk_UA twin_stone_cont_646b35fe:
+
+    # mystwman "Think about it. You can't refuse, and you can't shoot me. This whole facade crumbles unless you do what I say."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:377
+translate uk_UA twin_stone_cont_25ebc052:
+
+    # mystwman "You understand, don't you? We have power - real power. And you will too, if you do what's best for you."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:379
+translate uk_UA twin_stone_cont_b65ffdc3:
+
+    # mystwman "The others, they're loyal to blood. We're a family, you know?"
+    mystwman ""
+
+# game/scripts/clone_events.rpy:381
+translate uk_UA twin_stone_cont_b3158a32:
+
+    # mystwman "They'll do whatever you say. Fetch your coffee, massage your feet, even sever their own hand..."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:382
+translate uk_UA twin_stone_cont_c0dd7b91:
+
+    # f "I don't care about that!"
+    f ""
+
+# game/scripts/clone_events.rpy:385
+translate uk_UA twin_stone_cont_984b555b:
+
+    # mystwman "Speaking of family, where is that twin of yours?"
+    mystwman ""
+
+# game/scripts/clone_events.rpy:387
+translate uk_UA twin_stone_cont_8d7b2882:
+
+    # mystwman "Speaking of family, where is that clone of yours?"
+    mystwman ""
+
+# game/scripts/clone_events.rpy:389
+translate uk_UA twin_stone_cont_c1912efd:
+
+    # f "She went shopping!"
+    f ""
+
+# game/scripts/clone_events.rpy:390
+translate uk_UA twin_stone_cont_92600a5e:
+
+    # mystwman "Where exactly did she go shopping?"
+    mystwman ""
+
+# game/scripts/clone_events.rpy:391
+translate uk_UA twin_stone_cont_3417b48b:
+
+    # f "Fine! I- I'll come with you, okay? Just don't hurt anyone here!"
+    f ""
+
+# game/scripts/clone_events.rpy:392
+translate uk_UA twin_stone_cont_c7c1bac0:
+
+    # mystwman "Hmm?"
+    mystwman ""
+
+# game/scripts/clone_events.rpy:393
+translate uk_UA twin_stone_cont_a0429ed6:
+
+    # f "That includes the elves, they stay!"
+    f ""
+
+# game/scripts/clone_events.rpy:395
+translate uk_UA twin_stone_cont_d67d98af:
+
+    # mystwman "Hmph, I suppose father will be happy with one of you. For now..."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:396
+translate uk_UA twin_stone_cont_04482d18:
+
+    # f "If I go, nothing happens to anyone here, right?"
+    f ""
+
+# game/scripts/clone_events.rpy:397
+translate uk_UA twin_stone_cont_5acb4510:
+
+    # mystwman "Of course. Dear father only wants his special daughters back."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:398
+translate uk_UA twin_stone_cont_b527a878:
+
+    # e "Felicity!"
+    e ""
+
+# game/scripts/clone_events.rpy:399
+translate uk_UA twin_stone_cont_a8266288:
+
+    # f "It's the only way..."
+    f ""
+
+# game/scripts/clone_events.rpy:401
+translate uk_UA twin_stone_cont_f94e22c5:
+
+    # aarons "It is the only way!\nI never wanted this life for Felicity and Emma, I wanted them as far away from it as possible, but now I have no choice!"
+    aarons ""
+
+# game/scripts/clone_events.rpy:402
+translate uk_UA twin_stone_cont_5be4c6b7:
+
+    # aarons "This is YOUR fault, slaver! They would have thrived in ignorance under my wing, BUT NOW---"
+    aarons ""
+
+# game/scripts/clone_events.rpy:403
+translate uk_UA twin_stone_cont_b53e10bc:
+
+    # "*bzzt, bzzt*"
+    ""
+
+# game/scripts/clone_events.rpy:405
+translate uk_UA twin_stone_cont_35d47bbb:
+
+    # aarons "?"
+    aarons ""
+
+# game/scripts/clone_events.rpy:407
+translate uk_UA twin_stone_cont_e8787823:
+
+    # aarons "Yes?"
+    aarons ""
+
+# game/scripts/clone_events.rpy:408
+translate uk_UA twin_stone_cont_4de15a9f:
+
+    # mystwman "It's done."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:409
+translate uk_UA twin_stone_cont_b8fb1e7a:
+
+    # aarons "*deep exhale*...{w=1} good."
+    aarons ""
+
+# game/scripts/clone_events.rpy:411
+translate uk_UA twin_stone_cont_cc6e8a32:
+
+    # c "Wait, what happened?"
+    c ""
+
+# game/scripts/clone_events.rpy:412
+translate uk_UA twin_stone_cont_12ce6a77:
+
+    # aarons "You lose. Death would be too easy for you."
+    aarons ""
+
+# game/scripts/clone_events.rpy:413
+translate uk_UA twin_stone_cont_297d93f3:
+
+    # c "What?"
+    c ""
+
+# game/scripts/clone_events.rpy:415
+translate uk_UA twin_stone_cont_42df632f:
+
+    # c "[botname], what's going on at the hotel?"
+    c ""
+
+# game/scripts/clone_events.rpy:416
+translate uk_UA twin_stone_cont_45afd3d9:
+
+    # bot "I don't know, [botown]. We've blocked outside connections, I can only monitor the hotel while in the hotel."
+    bot ""
+
+# game/scripts/clone_events.rpy:417
+translate uk_UA twin_stone_cont_1a56852a:
+
+    # c "I have a bad feeling about this..."
+    c ""
+
+# game/scripts/clone_events.rpy:419
+translate uk_UA twin_stone_cont_94d019a6:
+
+    # "...{w}..."
+    ""
+
+# game/scripts/clone_events.rpy:422
+translate uk_UA twin_stone_cont_316c984a:
+
+    # c "Is everyone okay?\n-What happened?"
+    c ""
+
+# game/scripts/clone_events.rpy:423
+translate uk_UA twin_stone_cont_4f4ae6e1:
+
+    # em "Nnngh! They took her! She's gone!"
+    em ""
+
+# game/scripts/clone_events.rpy:424
+translate uk_UA twin_stone_cont_54b8a74f:
+
+    # c "Felicity? Who took her!?"
+    c ""
+
+# game/scripts/clone_events.rpy:425
+translate uk_UA twin_stone_cont_a6cecb25:
+
+    # em "*sniff*! The fucking stalker! That white-haired bitch! Nnngh!"
+    em ""
+
+# game/scripts/clone_events.rpy:426
+translate uk_UA twin_stone_cont_0d24a233:
+
+    # k "They know about the sanctuary too."
+    k ""
+
+# game/scripts/clone_events.rpy:427
+translate uk_UA twin_stone_cont_dc4d9eca:
+
+    # e "They blackmailed us... She felt like going with them was the only option to protect us."
+    e ""
+
+# game/scripts/clone_events.rpy:428
+translate uk_UA twin_stone_cont_15c38d28:
+
+    # e "...It was hard to argue against, to be honest..."
+    e ""
+
+# game/scripts/clone_events.rpy:429
+translate uk_UA twin_stone_cont_d0c35efa:
+
+    # c "She protected us?"
+    c ""
+
+# game/scripts/clone_events.rpy:431
+translate uk_UA twin_stone_cont_ccb03811:
+
+    # em "AND WHERE WERE YOU TWO!? ON SOME FUCKING DATE??"
+    em ""
+
+# game/scripts/clone_events.rpy:432
+translate uk_UA twin_stone_cont_1ab594ad:
+
+    # c "We were talking with your father. It... was a trap."
+    c ""
+
+# game/scripts/clone_events.rpy:434
+translate uk_UA twin_stone_cont_dab948c6:
+
+    # em "What...?"
+    em ""
+
+# game/scripts/clone_events.rpy:435
+translate uk_UA twin_stone_cont_cc726fd5:
+
+    # c "Your father... he's Stoneface, he orchestrated the whole thing."
+    c ""
+
+# game/scripts/clone_events.rpy:437
+translate uk_UA twin_stone_cont_89b65bc8:
+
+    # a "Stoneface... is...?"
+    a ""
+
+# game/scripts/clone_events.rpy:438
+translate uk_UA twin_stone_cont_9c0e021d:
+
+    # em "How do you know!?"
+    em ""
+
+# game/scripts/clone_events.rpy:440
+translate uk_UA twin_stone_cont_9e9b80d9:
+
+    # c "It was obvious, trust me."
+    c ""
+
+# game/scripts/clone_events.rpy:441
+translate uk_UA twin_stone_cont_b974be62:
+
+    # em "HOW DO YOU KNOW!?"
+    em ""
+
+# game/scripts/clone_events.rpy:442
+translate uk_UA twin_stone_cont_3eb39c3a:
+
+    # c "He almost killed me, Emma!"
+    c ""
+
+# game/scripts/clone_events.rpy:443
+translate uk_UA twin_stone_cont_1ba338dd:
+
+    # e "That's why she called Felicity her little sister... She wasn't talking about a mafia family, she meant the real thing..."
+    e ""
+
+# game/scripts/clone_events.rpy:445
+translate uk_UA twin_stone_cont_06a270db:
+
+    # em "Oh my god!! Nnngh!"
+    em ""
+
+# game/scripts/clone_events.rpy:446
+translate uk_UA twin_stone_cont_e3415345:
+
+    # a "That means he has Ren {i}and{/i} Felicity!"
+    a ""
+
+# game/scripts/clone_events.rpy:447
+translate uk_UA twin_stone_cont_4c21a442:
+
+    # a "WHERE IS THAT MOTHERFUCKER, TELL ME!" with ssshake
+    a "" with ssshake
+
+# game/scripts/clone_events.rpy:448
+translate uk_UA twin_stone_cont_a9f34c76:
+
+    # c "I don't know."
+    c ""
+
+# game/scripts/clone_events.rpy:449
+translate uk_UA twin_stone_cont_71819783:
+
+    # em "He never spent time at home, *sniff*! We were raised by our butler! Nnngh! Oh my god, it all makes sense...! Fuck, fuck!"
+    em ""
+
+# game/scripts/clone_events.rpy:451
+translate uk_UA twin_stone_cont_0f018b26:
+
+    # k "What do we do?"
+    k ""
+
+# game/scripts/clone_events.rpy:452
+translate uk_UA twin_stone_cont_365fa07a:
+
+    # l "I've never felt more vulnerable here... they hold all the power."
+    l ""
+
+# game/scripts/clone_events.rpy:454
+translate uk_UA twin_stone_cont_05cbc6cf:
+
+    # a "{i}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGH!!!{/i}" with sshake
+    a "" with sshake
+
+# game/scripts/clone_events.rpy:455
+translate uk_UA twin_stone_cont_0d337d1e:
+
+    # a "{i}FUCK! FUCK! FUCK! FUCK! FUCK!{/i}" with sshake
+    a "" with sshake
+
+# game/scripts/clone_events.rpy:456
+translate uk_UA twin_stone_cont_4f27e31e:
+
+    # k "A-Ashley...!" with sshake
+    k "" with sshake
+
+# game/scripts/clone_events.rpy:457
+translate uk_UA twin_stone_cont_52bbe694:
+
+    # a "{i}THEY! CAN'T! KEEP! DOING! THIS! TO! MEEEEEE!!!{/i}" with sshake
+    a "" with sshake
+
+# game/scripts/clone_events.rpy:458
+translate uk_UA twin_stone_cont_eae68416:
+
+    # a "{b}I'LL KILL THEM! I'LL KILL THEM! FUUUUUUCK!!!{/b}" with sshake
+    a "" with sshake
+
+# game/scripts/clone_events.rpy:459
+translate uk_UA twin_stone_cont_a69252c2:
+
+    # e "Ashley, calm down! That won't help anyone!" with sshake
+    e "" with sshake
+
+# game/scripts/clone_events.rpy:460
+translate uk_UA twin_stone_cont_f3b0c239:
+
+    # a "{i}FUCK YOU! FUCK YOU! FUCK YOUUUU!!!{/i}" with sshake
+    a "" with sshake
+
+# game/scripts/clone_events.rpy:462
+translate uk_UA twin_stone_cont_741c180a:
+
+    # a "They're ripping my family apart, [name]! Why can't I have them back!? I just want a normal life! {i}PLEASE!!!{/i}"
+    a ""
+
+# game/scripts/clone_events.rpy:463
+translate uk_UA twin_stone_cont_39677e7d:
+
+    # em "Ashley..."
+    em ""
+
+# game/scripts/clone_events.rpy:464
+translate uk_UA twin_stone_cont_0949df43:
+
+    # c "We'll get them back. I promise."
+    c ""
+
+# game/scripts/clone_events.rpy:465
+translate uk_UA twin_stone_cont_0b4c7d98:
+
+    # a "{i}Please! Please!{/i} I need them!"
+    a ""
+
+# game/scripts/clone_events.rpy:467
+translate uk_UA twin_stone_cont_2dab6919:
+
+    # m "Ashley! What happened?"
+    m ""
+
+# game/scripts/clone_events.rpy:468
+translate uk_UA twin_stone_cont_853b2615:
+
+    # em "HOW!? Not even I know where he spends most of his time!"
+    em ""
+
+# game/scripts/clone_events.rpy:471
+translate uk_UA twin_stone_cont_d95eecb1:
+
+    # em "And what, call the cops!? He owns them! Not like anyone would believe us anyway!"
+    em ""
+
+# game/scripts/clone_events.rpy:472
+translate uk_UA twin_stone_cont_062a8b1a:
+
+    # c "Right... the only people who know what Stoneface looks like are his family, and now us."
+    c ""
+
+# game/scripts/clone_events.rpy:475
+translate uk_UA twin_stone_cont_5a222e7c:
+
+    # em "Good luck! We'll be waiting for months!"
+    em ""
+
+# game/scripts/clone_events.rpy:478
+translate uk_UA twin_stone_cont_5891b587:
+
+    # em "His car!?"
+    em ""
+
+# game/scripts/clone_events.rpy:479
+translate uk_UA twin_stone_cont_5cb5aba6:
+
+    # c "It looked almost as old as he was, but it was in perfect condition. If we find his car and trail it, he'll lead us."
+    c ""
+
+# game/scripts/clone_events.rpy:482
+translate uk_UA twin_stone_cont_5891b587_1:
+
+    # em "His car!?"
+    em ""
+
+# game/scripts/clone_events.rpy:483
+translate uk_UA twin_stone_cont_5cb5aba6_1:
+
+    # c "It looked almost as old as he was, but it was in perfect condition. If we find his car and trail it, he'll lead us."
+    c ""
+
+# game/scripts/clone_events.rpy:486
+translate uk_UA twin_stone_cont_5891b587_2:
+
+    # em "His car!?"
+    em ""
+
+# game/scripts/clone_events.rpy:487
+translate uk_UA twin_stone_cont_5cb5aba6_2:
+
+    # c "It looked almost as old as he was, but it was in perfect condition. If we find his car and trail it, he'll lead us."
+    c ""
+
+# game/scripts/clone_events.rpy:490
+translate uk_UA twin_stone_cont_5a222e7c_1:
+
+    # em "Good luck! We'll be waiting for months!"
+    em ""
+
+# game/scripts/clone_events.rpy:493
+translate uk_UA twin_stone_cont_d95eecb1_1:
+
+    # em "And what, call the cops!? He owns them! Not like anyone would believe us anyway!"
+    em ""
+
+# game/scripts/clone_events.rpy:494
+translate uk_UA twin_stone_cont_062a8b1a_1:
+
+    # c "Right... the only people who know what Stoneface looks like are his family, and now us."
+    c ""
+
+# game/scripts/clone_events.rpy:497
+translate uk_UA twin_stone_cont_5891b587_3:
+
+    # em "His car!?"
+    em ""
+
+# game/scripts/clone_events.rpy:498
+translate uk_UA twin_stone_cont_5cb5aba6_3:
+
+    # c "It looked almost as old as he was, but it was in perfect condition. If we find his car and trail it, he'll lead us."
+    c ""
+
+# game/scripts/clone_events.rpy:501
+translate uk_UA twin_stone_cont_5891b587_4:
+
+    # em "His car!?"
+    em ""
+
+# game/scripts/clone_events.rpy:502
+translate uk_UA twin_stone_cont_5cb5aba6_4:
+
+    # c "It looked almost as old as he was, but it was in perfect condition. If we find his car and trail it, he'll lead us."
+    c ""
+
+# game/scripts/clone_events.rpy:505
+translate uk_UA twin_stone_cont_9bbbb101:
+
+    # em "That... might actually work... He owns a rare car collection and that old white one is his favorite."
+    em ""
+
+# game/scripts/clone_events.rpy:506
+translate uk_UA twin_stone_cont_ddc385d9:
+
+    # c "That's the one."
+    c ""
+
+# game/scripts/clone_events.rpy:507
+translate uk_UA twin_stone_cont_737175d0:
+
+    # a "I can start looking for it now! But it will take some time."
+    a ""
+
+# game/scripts/clone_events.rpy:508
+translate uk_UA twin_stone_cont_d16c82a9:
+
+    # em "Why do I have to have such a shitty family..."
+    em ""
+
+# game/scripts/clone_events.rpy:510
+translate uk_UA twin_stone_cont_c54f6fef:
+
+    # em "*gasp*!" with ssshake
+    em "" with ssshake
+
+# game/scripts/clone_events.rpy:511
+translate uk_UA twin_stone_cont_14871af9:
+
+    # a "{u}We{/u} are your family now, Emma."
+    a ""
+
+# game/scripts/clone_events.rpy:512
+translate uk_UA twin_stone_cont_1c94510a:
+
+    # a "WE'RE GOING TO GET FELICITY BACK!" with ssshake
+    a "" with ssshake
+
+# game/scripts/clone_events.rpy:514
+translate uk_UA twin_stone_cont_2e646e31:
+
+    # em "Nnnnh! *sniff*! Mmmn...!"
+    em ""
+
+# game/scripts/clone_events.rpy:515
+translate uk_UA twin_stone_cont_ae04431b:
+
+    # a "I promise."
+    a ""
+
+# game/scripts/clone_events.rpy:521
+translate uk_UA twin_stone_cont_e5e69ba1:
+
+    # f "I'm sorry! I'm sorry! Please, just don't hurt them!"
+    f ""
+
+# game/scripts/clone_events.rpy:522
+translate uk_UA twin_stone_cont_6508ac59:
+
+    # mystwman "I can't make any guarantees..."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:524
+translate uk_UA twin_stone_cont_4c945aae:
+
+    # mystwman "Now, call your sister. You wouldn't want to make father upset."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:526
+translate uk_UA twin_stone_cont_59ed2582:
+
+    # mystwman "Now, call Emma. You wouldn't want to make father upset."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:528
+translate uk_UA twin_stone_cont_674c74d9:
+
+    # mystwman "You know how he is... cold as a rock one moment, until he snaps... You do {u}not{/u} want to be the subject of his rage."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:529
+translate uk_UA twin_stone_cont_04204315:
+
+    # f "Her phone broke last week!"
+    f ""
+
+# game/scripts/clone_events.rpy:530
+translate uk_UA twin_stone_cont_abe8d46f:
+
+    # mystwman "There you go lying again. You know we could just send men to that hotel to find her outselves, right?"
+    mystwman ""
+
+# game/scripts/clone_events.rpy:531
+translate uk_UA twin_stone_cont_f9c497c0:
+
+    # f "You promised to leave them alone!"
+    f ""
+
+# game/scripts/clone_events.rpy:532
+translate uk_UA twin_stone_cont_dfadb1c9:
+
+    # mystwman "Did I? I've been so forgetful lately... I hardly know what's true anymore."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:533
+translate uk_UA twin_stone_cont_125a3ea2:
+
+    # f "You fucking snake!"
+    f ""
+
+# game/scripts/clone_events.rpy:534
+translate uk_UA twin_stone_cont_4b765be5:
+
+    # mystwman "Oh, if only it were up to me... you would-"
+    mystwman ""
+
+# game/scripts/clone_events.rpy:537
+translate uk_UA twin_stone_cont_49f77f80:
+
+    # mystwman "Took you long enough..."
+    mystwman ""
+
+# game/scripts/clone_events.rpy:538
+translate uk_UA twin_stone_cont_c0512d4e:
+
+    # stonefacea "Silence."
+    stonefacea ""
+
+# game/scripts/clone_events.rpy:540
+translate uk_UA twin_stone_cont_ca324fa2:
+
+    # f "D-Dad!?"
+    f ""
+
+# game/scripts/clone_events.rpy:541
+translate uk_UA twin_stone_cont_058f4aba:
+
+    # stonefacea "..."
+    stonefacea ""
+
+# game/scripts/clone_events.rpy:542
+translate uk_UA twin_stone_cont_e43b2f30:
+
+    # f "Dad, what's going on!?"
+    f ""
+
+# game/scripts/clone_events.rpy:543
+translate uk_UA twin_stone_cont_e33caba5:
+
+    # stonefacea "Where..."
+    stonefacea ""
+
+# game/scripts/clone_events.rpy:545
+translate uk_UA twin_stone_cont_270105c8:
+
+    # stonefacea "{b}IS THE OTHER ONE!?{/b}"
+    stonefacea ""
+
+# game/scripts/clone_events.rpy:551
+translate uk_UA twin_stone_cont_3ff48ca8:
+
+    # r "v0.18: Because Harem Hotel is still in development, and the next event has not been made yet, you will be returned to the hotel as if this did not happen so you may continue to interact with Felicity."
+    r ""
+
+# game/scripts/clone_events.rpy:3199
+translate uk_UA em_hangout_03_9d3e547f:
+
+    # em "Yeah, I'll say! You have to treat Felicity and I equally though, okay? Otherwise one of us might get really jealous..."
+    em ""
+
+# game/scripts/clone_events.rpy:4280
+translate uk_UA twin_gym_7fb83fdc:
+
+    # f "This is a privately owned community college, that means he gets to decide what's taught here. Fucking attending history class in this school means learning stuff that happened thousands of years ago on the other side of the planet, not stuff that happened here. You think that makes them happy? I don't want to be in the middle of it!"
+    f ""
+
+# game/scripts/clone_events.rpy:15747
+translate uk_UA emroomtalk_1ea9dc95:
+
+    # em "Did you have fun in the garden? Heheh."
+    em ""
+
+# game/scripts/clone_events.rpy:15748
+translate uk_UA emroomtalk_b42e080f:
+
+    # c "Lots."
+    c ""
+
+# game/scripts/clone_events.rpy:15749
+translate uk_UA emroomtalk_cf1497a7:
+
+    # em "Good~"
+    em ""
+
+# game/scripts/clone_events.rpy:15752
+translate uk_UA emroomtalk_84783d80:
+
+    # em "Fairies! I can't believe it!"
+    em ""
+
+# game/scripts/clone_events.rpy:15753
+translate uk_UA emroomtalk_3cbffdf4:
+
+    # em "So, I guess that means fairy tales are historical documents? Heheh, nah..."
+    em ""
+
+# game/scripts/clone_events.rpy:15756
+translate uk_UA emroomtalk_f2c9282d:
+
+    # em "Horrible. We have a stalker! And it's a woman! I can't even tell if it's worse or not..."
+    em ""
+
+# game/scripts/clone_events.rpy:15759
+translate uk_UA emroomtalk_88e5a918:
+
+    # em "Of course he didn't want to help... That's dad for you."
+    em ""
+
+# game/scripts/clone_events.rpy:15762
+translate uk_UA emroomtalk_591cd408:
+
+    # em "Doing well. Thanks for showing up to our gym by the way."
+    em ""
+
+# game/scripts/clone_events.rpy:15765
+translate uk_UA emroomtalk_4bbc1986:
+
+    # em "A bit horny... I can't stop thinking about us in the dungeon!"
+    em ""
+
+# game/scripts/clone_events.rpy:15768
+translate uk_UA emroomtalk_c151eb55:
+
+    # em "We got a kitty, [name]! So cuuuute~"
+    em ""
+
+# game/scripts/clone_events.rpy:15771
+translate uk_UA emroomtalk_a4c6c96b:
+
+    # em "Just kinda lost... I don't know what I want to do with my life yet."
+    em ""
+
+# game/scripts/clone_events.rpy:15772
+translate uk_UA emroomtalk_70c2f525:
+
+    # c "You're young, you'll figure it out."
+    c ""
+
+# game/scripts/clone_events.rpy:15775
+translate uk_UA emroomtalk_4296e7ec:
+
+    # em "I'm great! Um, can we sleep together tonight?"
+    em ""
+
+# game/scripts/clone_events.rpy:15778
+translate uk_UA emroomtalk_90dea4bf:
+
+    # em "I love youuu~"
+    em ""
+
+# game/scripts/clone_events.rpy:15779
+translate uk_UA emroomtalk_969c2b30:
+
+    # c "I love you too."
+    c ""
+
+# game/scripts/clone_events.rpy:15782
+translate uk_UA emroomtalk_e10c2663:
+
+    # em "I had so much fun at our father's cabin! I hope you did too?"
+    em ""
+
+# game/scripts/clone_events.rpy:15786
+translate uk_UA emroomtalk_d84f7af1:
+
+    # em "Lin can be very motherly when she wants to be, huh? I guess all those decades makes her pretty wise."
+    em ""
+
+# game/scripts/clone_events.rpy:15792
+translate uk_UA emroomtalk_8a45e067:
+
+    # em "Oh by the way, thanks for the date~ I really enjoyed my time with you!"
+    em ""
+
+# game/scripts/clone_events.rpy:15795
+translate uk_UA emroomtalk_946b8f23:
+
+    # em "I'm good! But would you mind telling Felicity that she needs a shower? She's kinda stinky..."
+    em ""
+
+# game/scripts/clone_events.rpy:15796
+translate uk_UA emroomtalk_c5f030c7:
+
+    # f "Excuse me!?"
+    f ""
+
+# game/scripts/clone_events.rpy:15797
+translate uk_UA emroomtalk_af226358:
+
+    # em "{i}Heheh...{/i}"
+    em ""
+
+# game/scripts/clone_events.rpy:15800
+translate uk_UA emroomtalk_e24beb2b:
+
+    # em "Enjoy the pizza? Heheh, I can make it any time for you!"
+    em ""
+
+# game/scripts/clone_events.rpy:15801
+translate uk_UA emroomtalk_96dd6054:
+
+    # f "That's Lin's job..."
+    f ""
+
+# game/scripts/clone_events.rpy:15804
+translate uk_UA emroomtalk_0f05a4c5:
+
+    # em "I'm okay, a bit bored... you wanna go to the beach soon?"
+    em ""
+
+# game/scripts/clone_events.rpy:15807
+translate uk_UA emroomtalk_3d3a61c4:
+
+    # em "I love my new clothes... thank you~"
+    em ""
+
+# game/scripts/clone_events.rpy:15810
+translate uk_UA emroomtalk_768eb4d2:
+
+    # em "Good! Don't mind Felicity..."
+    em ""
+
+# game/scripts/clone_events.rpy:15813
+translate uk_UA emroomtalk_33722db0:
+
+    # em "I'm still a bit confused, but... I'll see where this goes."
+    em ""
+
+# game/scripts/clone_events.rpy:15816
+translate uk_UA emroomtalk_e20602a6:
+
+    # em "I'm sorry about Felicity..."
+    em ""
+
+# game/scripts/clone_events.rpy:15817
+translate uk_UA emroomtalk_0eddfddc:
+
+    # em "Ugh, I just realized I've been apologizing for her behavior for years..."
+    em ""
+
+# game/scripts/clone_events.rpy:15820
+translate uk_UA emroomtalk_e80329dc:
+
+    # em "Me? I'm good."
+    em ""
+
+# game/scripts/clone_events.rpy:15823
+translate uk_UA emroomtalk_efb2a5e3:
+
+    # em "Heheh, hi cutie."
+    em ""
+
+# game/scripts/clone_events.rpy:15826
+translate uk_UA emroomtalk_f81339ca:
+
+    # em "Just existing."
+    em ""
+
+# game/scripts/clone_events.rpy:15829
+translate uk_UA emroomtalk_6b54e5c4:
+
+    # em "Good! I love shopping. If only I had the money..."
+    em ""
+
+# game/scripts/clone_events.rpy:15832
+translate uk_UA emroomtalk_268fd43c:
+
+    # em "You're a good person, [name]. Thank you."
+    em ""
+
+# game/scripts/clone_events.rpy:15835
+translate uk_UA emroomtalk_46486f6b:
+
+    # em "Felicity told me you made her wear a maid outfit for money! Oh I wish I could have seen that!"
+    em ""
+
+# game/scripts/clone_events.rpy:16745
+translate uk_UA felroomtalk_f715c874:
+
+    # f "Good~ I really had fun with you in the garden~ heheh."
+    f ""
+
+# game/scripts/clone_events.rpy:16748
+translate uk_UA felroomtalk_46f9c60a:
+
+    # f "So fairies are real...? I always thought they were a conspiracy..."
+    f ""
+
+# game/scripts/clone_events.rpy:16749
+translate uk_UA felroomtalk_8237e47f:
+
+    # c "You're not upset that the cops tried to plant drugs on us?"
+    c ""
+
+# game/scripts/clone_events.rpy:16750
+translate uk_UA felroomtalk_a52209e9:
+
+    # f "Sure, but that's nothing new.\nBut FAIRIES! Oh my god! I wish I had a pet fairy growing up!"
+    f ""
+
+# game/scripts/clone_events.rpy:16753
+translate uk_UA felroomtalk_7ceed0b4:
+
+    # f "I'm okay... I just can't believe we have stalkers again. And this time it's a woman..."
+    f ""
+
+# game/scripts/clone_events.rpy:16754
+translate uk_UA felroomtalk_43f4c9ef:
+
+    # c "Again?"
+    c ""
+
+# game/scripts/clone_events.rpy:16755
+translate uk_UA felroomtalk_ee867259:
+
+    # f "Long story..."
+    f ""
+
+# game/scripts/clone_events.rpy:16758
+translate uk_UA felroomtalk_8cfb4e89:
+
+    # f "Fucking Aaron... I should have known our father wouldn't help us..."
+    f ""
+
+# game/scripts/clone_events.rpy:16761
+translate uk_UA felroomtalk_57d7e40b:
+
+    # f "I'm well~\nThanks for showing up to our gym!"
+    f ""
+
+# game/scripts/clone_events.rpy:16764
+translate uk_UA felroomtalk_a6581e88:
+
+    # f "Wondeful! I'll never forget our time in the dungeon~ Heheh..."
+    f ""
+
+# game/scripts/clone_events.rpy:16767
+translate uk_UA felroomtalk_3b66258c:
+
+    # f "I'm so happy, [name]! We got a kitty! Oh my god! It's really a dream come true~!"
+    f ""
+
+# game/scripts/clone_events.rpy:16770
+translate uk_UA felroomtalk_d019671b:
+
+    # f "Lin can be really annoying sometimes... like, she's had hundreds of years to learn how to play an instrument!"
+    f ""
+
+# game/scripts/clone_events.rpy:16773
+translate uk_UA felroomtalk_a07eafb5:
+
+    # f "I'm okay~ I really like sleeping with you~"
+    f ""
+
+# game/scripts/clone_events.rpy:16776
+translate uk_UA felroomtalk_1433b6d8:
+
+    # f "Bored..."
+    f ""
+
+# game/scripts/clone_events.rpy:16779
+translate uk_UA felroomtalk_9fe2a102:
+
+    # f "Having a wealthy father has it's benefits... I'm glad we get to enjoy them."
+    f ""
+
+# game/scripts/clone_events.rpy:16783
+translate uk_UA felroomtalk_5e294cb3:
+
+    # f "Who does Lin think she is, our mother? More like grandmother..."
+    f ""
+
+# game/scripts/clone_events.rpy:16786
+translate uk_UA felroomtalk_9c8d0236:
+
+    # f "Don't worry about Emma, she can be a bit territorial sometimes."
+    f ""
+
+# game/scripts/clone_events.rpy:16787
+translate uk_UA felroomtalk_9f1a7f7f:
+
+    # em "I'm right here!"
+    em ""
+
+# game/scripts/clone_events.rpy:16788
+translate uk_UA felroomtalk_4a632904:
+
+    # f "{i}Shhh...{/i}"
+    f ""
+
+# game/scripts/clone_events.rpy:16791
+translate uk_UA felroomtalk_0bac886c:
+
+    # f "Hi cutie~ I love you!"
+    f ""
+
+# game/scripts/clone_events.rpy:16792
+translate uk_UA felroomtalk_31621bc2:
+
+    # em "Ugh. Shut up!"
+    em ""
+
+# game/scripts/clone_events.rpy:16795
+translate uk_UA felroomtalk_83ec5151:
+
+    # f "Fine..."
+    f ""
+
+# game/scripts/clone_events.rpy:16798
+translate uk_UA felroomtalk_7296466a:
+
+    # f "Did I ever tell you about the time Emma tried to cook pizza and forgot it in the oven? *sigh*... you just can't trust her around an oven."
+    f ""
+
+# game/scripts/clone_events.rpy:16799
+translate uk_UA felroomtalk_8d29386f:
+
+    # em "Excuse me? I was a child!"
+    em ""
+
+# game/scripts/clone_events.rpy:16800
+translate uk_UA felroomtalk_aa74cb4b:
+
+    # f "{i}I still wouldn't trust her...{/i}"
+    f ""
+
+# game/scripts/clone_events.rpy:16803
+translate uk_UA felroomtalk_1d289ee5:
+
+    # f "I WILL go into that dungeon some day, just watch..."
+    f ""
+
+# game/scripts/clone_events.rpy:16806
+translate uk_UA felroomtalk_904f6836:
+
+    # f "You took Emma shopping? You better take me on a date soon..."
+    f ""
+
+# game/scripts/clone_events.rpy:16809
+translate uk_UA felroomtalk_fa45f293:
+
+    # f "I don't want to talk to you..."
+    f ""
+
+# game/scripts/clone_events.rpy:16812
+translate uk_UA felroomtalk_049fd885:
+
+    # f "I'm good. Thanks~"
+    f ""
+
+# game/scripts/clone_events.rpy:16815
+translate uk_UA felroomtalk_e0222699:
+
+    # f "Maybe I overreacted a bit with the tea..."
+    f ""
+
+# game/scripts/clone_events.rpy:16816
+translate uk_UA felroomtalk_4aa039af:
+
+    # c "You think?"
+    c ""
+
+# game/scripts/clone_events.rpy:16819
+translate uk_UA felroomtalk_55aa194c:
+
+    # f "I'm good. I'm actually starting to like this place."
+    f ""
+
+# game/scripts/clone_events.rpy:16822
+translate uk_UA felroomtalk_c9979a97:
+
+    # f "A bit bored... wanna go somewhere soon?"
+    f ""
+
+# game/scripts/clone_events.rpy:16825
+translate uk_UA felroomtalk_91899666:
+
+    # f "I love buying things..."
+    f ""
+
+# game/scripts/clone_events.rpy:16828
+translate uk_UA felroomtalk_64bea8e4:
+
+    # f "Depends. When do we go shopping again?"
+    f ""
+
+# game/scripts/clone_events.rpy:16831
+translate uk_UA felroomtalk_156f6339:
+
+    # f "Thank you for being a decent person, [name]... I haven't met anyone like you before."
+    f ""
+
+# game/scripts/clone_events.rpy:16834
+translate uk_UA felroomtalk_c7aec3e2:
+
+    # f "Never make me wear a maid outfit again..."
+    f ""
+
+# game/scripts/clone_events.rpy:16835
+translate uk_UA felroomtalk_97d32580:
+
+    # c "But you looked adorable."
+    c ""
+
+# game/scripts/clone_events.rpy:16836
+translate uk_UA felroomtalk_66f1b386:
+
+    # f "Really? Heheh."
+    f ""
+
+translate uk_UA strings:
+
+    # game/scripts/clone_events.rpy:11
+    old "{size=+50}Somewhere in Syl'anar...{/size}"
+    new ""
+
+    # game/scripts/clone_events.rpy:469
+    old "We catch him at school."
+    new ""
+
+    # game/scripts/clone_events.rpy:469
+    old "His car, it's too unique."
+    new ""
+
+    # game/scripts/clone_events.rpy:469
+    old "Your old house."
+    new ""
+
+    # game/scripts/clone_events.rpy:517
+    old "{size=+50}Later that night...{/size}"
+    new ""
+

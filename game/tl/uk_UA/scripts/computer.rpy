@@ -70,3 +70,11 @@ translate uk_UA strings:
     old "Open the wiki"
     new "Відкрити вікі"
 
+# TODO: Translation updated at 2025-02-09 00:44
+
+# game/scripts/computer.rpy:165
+translate uk_UA patreon_1909018c:
+
+    # r "Redsoul, mastergrind, Magyarfi, Archangel, CheeseMasta, Tale, Phoenix Fire, Commissar Senas, Draconia44, Oznek, Relod, Airstryker, Naildir, Ruddock96, skinnypeen, ck14500, Mayet, x4p4ck, Ryzano419, Rikenzu, Kosucha..."
+    r ""
+

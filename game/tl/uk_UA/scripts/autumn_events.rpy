@@ -32038,3 +32038,2603 @@ translate uk_UA strings:
     old "{size=+50}Meanwhile...{/size}"
     new ""
 
+# TODO: Translation updated at 2025-02-09 00:44
+
+# game/scripts/autumn_events.rpy:10
+translate uk_UA autumn_save_cab77205:
+
+    # au "Ah! Lin, before you go outside... a word please?"
+    au ""
+
+# game/scripts/autumn_events.rpy:11
+translate uk_UA autumn_save_a82f1ac1:
+
+    # l "Hm?"
+    l ""
+
+# game/scripts/autumn_events.rpy:13
+translate uk_UA autumn_save_175e8667:
+
+    # l "Is everything okay, Autumn?"
+    l ""
+
+# game/scripts/autumn_events.rpy:14
+translate uk_UA autumn_save_bc29885d:
+
+    # au "No... I wanted to apologize..."
+    au ""
+
+# game/scripts/autumn_events.rpy:15
+translate uk_UA autumn_save_0b0be9c3:
+
+    # l "About what?"
+    l ""
+
+# game/scripts/autumn_events.rpy:17
+translate uk_UA autumn_save_addf490d:
+
+    # au "Well, everything... we never got along well because of our pasts, and I was very judgy when I first joined. But that's not me anymore."
+    au ""
+
+# game/scripts/autumn_events.rpy:18
+translate uk_UA autumn_save_c6c955e3:
+
+    # l "Okay..."
+    l ""
+
+# game/scripts/autumn_events.rpy:19
+translate uk_UA autumn_save_9dbf69a1:
+
+    # au "I was really ignorant about a lot of things, and even though I study a lot it wasn't enough. I never believed you when you said the crusaders massacred so many elves when they colonized Syl'anar, but... I think you were right after all."
+    au ""
+
+# game/scripts/autumn_events.rpy:20
+translate uk_UA autumn_save_b78ba102:
+
+    # l "Yes, I was there..."
+    l ""
+
+# game/scripts/autumn_events.rpy:22
+translate uk_UA autumn_save_b45f5cc8:
+
+    # au "So, I'm sorry for not believing you... and I'm sorry for... all the other things I did to your people."
+    au ""
+
+# game/scripts/autumn_events.rpy:23
+translate uk_UA autumn_save_a4d813ba:
+
+    # au "I wanted to give you some money as a way to make things right between us!"
+    au ""
+
+# game/scripts/autumn_events.rpy:24
+translate uk_UA autumn_save_23a88951:
+
+    # l "...{w}...?"
+    l ""
+
+# game/scripts/autumn_events.rpy:26
+translate uk_UA autumn_save_3fa12165:
+
+    # l "Don't patronize me..."
+    l ""
+
+# game/scripts/autumn_events.rpy:27
+translate uk_UA autumn_save_9f6a10f5:
+
+    # au "What!? You don't accept my apology?"
+    au ""
+
+# game/scripts/autumn_events.rpy:28
+translate uk_UA autumn_save_cf04cb3c:
+
+    # l "I don't know what you did to my {i}'my people'{/i}, but I didn't do anything for that money."
+    l ""
+
+# game/scripts/autumn_events.rpy:29
+translate uk_UA autumn_save_aa074120:
+
+    # au "See it as payment for the time you and [botname] took over at the Corpus Cafe while my father was in the hospital!"
+    au ""
+
+# game/scripts/autumn_events.rpy:30
+translate uk_UA autumn_save_7ebd98d7:
+
+    # l "We did that because you're our friend, not because we were expecting a reward. Your father almost died!"
+    l ""
+
+# game/scripts/autumn_events.rpy:31
+translate uk_UA autumn_save_de4c0346:
+
+    # au "But...! *sigh*, I'm really sorry..."
+    au ""
+
+# game/scripts/autumn_events.rpy:32
+translate uk_UA autumn_save_a46a4eae:
+
+    # l "Why are you so sorry now? What changed?"
+    l ""
+
+# game/scripts/autumn_events.rpy:33
+translate uk_UA autumn_save_f153aa4f:
+
+    # au "..."
+    au ""
+
+# game/scripts/autumn_events.rpy:34
+translate uk_UA autumn_save_8dc0bbb2:
+
+    # l "Listen, I don't know what you did, but you didn't do it to me. If you want to help then, I don't know... do something. Make the world a better place."
+    l ""
+
+# game/scripts/autumn_events.rpy:35
+translate uk_UA autumn_save_d17d239c:
+
+    # au "I thought money might help..."
+    au ""
+
+# game/scripts/autumn_events.rpy:36
+translate uk_UA autumn_save_11f45a93:
+
+    # l "A few brownies aren't going to change the world, Autumn."
+    l ""
+
+# game/scripts/autumn_events.rpy:37
+translate uk_UA autumn_save_f153aa4f_1:
+
+    # au "..."
+    au ""
+
+# game/scripts/autumn_events.rpy:39
+translate uk_UA autumn_save_2db940f8:
+
+    # a "I know how you could help!" with ssshake
+    a "" with ssshake
+
+# game/scripts/autumn_events.rpy:40
+translate uk_UA autumn_save_064c2f35:
+
+    # au "AH!"
+    au ""
+
+# game/scripts/autumn_events.rpy:41
+translate uk_UA autumn_save_e3a84491:
+
+    # a "Hehe~ scaredy cat."
+    a ""
+
+# game/scripts/autumn_events.rpy:42
+translate uk_UA autumn_save_273dcbfa:
+
+    # l "What do you mean, Ashley?"
+    l ""
+
+# game/scripts/autumn_events.rpy:44
+translate uk_UA autumn_save_c5f06505:
+
+    # a "We could go to Old Town and help people! If Autumn wants to give away money so badly, she can do it there."
+    a ""
+
+# game/scripts/autumn_events.rpy:45
+translate uk_UA autumn_save_7c2490eb:
+
+    # au "But they'll spend it on drugs..."
+    au ""
+
+# game/scripts/autumn_events.rpy:46
+translate uk_UA autumn_save_b5c7ab9c:
+
+    # a "Probably. You can just buy them food then."
+    a ""
+
+# game/scripts/autumn_events.rpy:47
+translate uk_UA autumn_save_124bfbbe:
+
+    # au "But, um... I'd rather help the elves."
+    au ""
+
+# game/scripts/autumn_events.rpy:48
+translate uk_UA autumn_save_c2e739c6:
+
+    # a "Why?"
+    a ""
+
+# game/scripts/autumn_events.rpy:49
+translate uk_UA autumn_save_01be35e7:
+
+    # l "It doesn't matter, Autumn. You're not going to end poverty or slavery by yourself..."
+    l ""
+
+# game/scripts/autumn_events.rpy:50
+translate uk_UA autumn_save_e47b4221:
+
+    # au "But maybe together...?"
+    au ""
+
+# game/scripts/autumn_events.rpy:52
+translate uk_UA autumn_save_98c63a90:
+
+    # c "What's up everyone? You all look so tense."
+    c ""
+
+# game/scripts/autumn_events.rpy:53
+translate uk_UA autumn_save_88bd23a2:
+
+    # a "We're all going to Old Town to help everyone!"
+    a ""
+
+# game/scripts/autumn_events.rpy:54
+translate uk_UA autumn_save_1184c121:
+
+    # c "Really? Alright, I'll get the car ready."
+    c ""
+
+# game/scripts/autumn_events.rpy:55
+translate uk_UA autumn_save_1ab4932c:
+
+    # a "Okay! Be there soon!"
+    a ""
+
+# game/scripts/autumn_events.rpy:57
+translate uk_UA autumn_save_b7f92710:
+
+    # a "See, why can't you all be more like him?"
+    a ""
+
+# game/scripts/autumn_events.rpy:58
+translate uk_UA autumn_save_aff3dae3:
+
+    # au "Umm..."
+    au ""
+
+# game/scripts/autumn_events.rpy:59
+translate uk_UA autumn_save_de9b74e4:
+
+    # l "I'm a slave, Ashley. But I guess if he goes, I can help too."
+    l ""
+
+# game/scripts/autumn_events.rpy:60
+translate uk_UA autumn_save_b1ea10af:
+
+    # au "I suppose... I could go too... but are you sure we'll be safe walking around the slums?"
+    au ""
+
+# game/scripts/autumn_events.rpy:61
+translate uk_UA autumn_save_c99d06b4:
+
+    # a "We'll be fine, Autumn. I used to bike to Old Town all the time as a kid!"
+    a ""
+
+# game/scripts/autumn_events.rpy:62
+translate uk_UA autumn_save_7f227548:
+
+    # au "Nnnh..."
+    au ""
+
+# game/scripts/autumn_events.rpy:64
+translate uk_UA autumn_save_c42bd01c:
+
+    # "Once everyone hops in your car, you drive to Old Town, near the outskirts of Caliber city."
+    ""
+
+# game/scripts/autumn_events.rpy:65
+translate uk_UA autumn_save_25c60a6b:
+
+    # "As you're driving, you notice that Ashley is showing Lin funny videos in the back seat. They laugh together and make small talk. Meanwhile Autumn is on her phone looking very concerned in the passenger seat."
+    ""
+
+# game/scripts/autumn_events.rpy:66
+translate uk_UA autumn_save_4be27954:
+
+    # "After you arrive to the river separating Old Town from Downtown, you park your car in a safe location and the four of you begin walking into the slums."
+    ""
+
+# game/scripts/autumn_events.rpy:68
+translate uk_UA autumn_save_047a364f:
+
+    # a "Sooo what are we gonna do? We could buy them food, whores, drugs..."
+    a ""
+
+# game/scripts/autumn_events.rpy:69
+translate uk_UA autumn_save_d4b93d68:
+
+    # l "This was your idea, Ashley..."
+    l ""
+
+# game/scripts/autumn_events.rpy:71
+translate uk_UA autumn_save_b6d43592:
+
+    # l "Wait, drugs??"
+    l ""
+
+# game/scripts/autumn_events.rpy:72
+translate uk_UA autumn_save_0bec9b7a:
+
+    # au "Hmn..."
+    au ""
+
+# game/scripts/autumn_events.rpy:73
+translate uk_UA autumn_save_0e2d111c:
+
+    # a "Yeah, they really like them here."
+    a ""
+
+# game/scripts/autumn_events.rpy:74
+translate uk_UA autumn_save_26348ad8:
+
+    # l "How about we talk to the leader of this district? We could encourage them to build housing!"
+    l ""
+
+# game/scripts/autumn_events.rpy:75
+translate uk_UA autumn_save_b8828399:
+
+    # a "HAHAHA! Good one."
+    a ""
+
+# game/scripts/autumn_events.rpy:76
+translate uk_UA autumn_save_aff3dae3_1:
+
+    # au "Umm..."
+    au ""
+
+# game/scripts/autumn_events.rpy:77
+translate uk_UA autumn_save_562c8eeb:
+
+    # l "Or we could buy non-perishables and hand them out. Protein bars, oatmeal and cereals..."
+    l ""
+
+# game/scripts/autumn_events.rpy:78
+translate uk_UA autumn_save_e7f70009:
+
+    # a "I guess, but then we're just making [name] and Autumn pay for everything. What if we did something even bigger? Something we can all help with!"
+    a ""
+
+# game/scripts/autumn_events.rpy:79
+translate uk_UA autumn_save_7973ff43:
+
+    # l "Wasn't that the plan? You dragged us out here, Ashley! You come up with something!"
+    l ""
+
+# game/scripts/autumn_events.rpy:80
+translate uk_UA autumn_save_54fe35b5:
+
+    # q "Autumn?"
+    q ""
+
+# game/scripts/autumn_events.rpy:82
+translate uk_UA autumn_save_bfbba487:
+
+    # au "Oh, hello!"
+    au ""
+
+# game/scripts/autumn_events.rpy:83
+translate uk_UA autumn_save_34cc0331:
+
+    # fla "There you are."
+    fla ""
+
+# game/scripts/autumn_events.rpy:84
+translate uk_UA autumn_save_b8075775:
+
+    # c "You invited him, Autumn?"
+    c ""
+
+# game/scripts/autumn_events.rpy:86
+translate uk_UA autumn_save_ac1a22ec:
+
+    # zoia "ASHLEY, RUN!" with ssshake
+    zoia "" with ssshake
+
+# game/scripts/autumn_events.rpy:87
+translate uk_UA autumn_save_db58cef1:
+
+    # runa "RUN!"
+    runa ""
+
+# game/scripts/autumn_events.rpy:88
+translate uk_UA autumn_save_09db9eaf:
+
+    # a "Huh?"
+    a ""
+
+# game/scripts/autumn_events.rpy:90
+translate uk_UA autumn_save_cb667eba:
+
+    # fla "Autumn... you said we were going on a trip."
+    fla ""
+
+# game/scripts/autumn_events.rpy:91
+translate uk_UA autumn_save_2d9746c6:
+
+    # au "Yes! To the slums. And I'm so glad you came!"
+    au ""
+
+# game/scripts/autumn_events.rpy:92
+translate uk_UA autumn_save_7ed04da2:
+
+    # fla "This is not what I had in mind..."
+    fla ""
+
+# game/scripts/autumn_events.rpy:94
+translate uk_UA autumn_save_c84699b4:
+
+    # fla "Hm?"
+    fla ""
+
+# game/scripts/autumn_events.rpy:95
+translate uk_UA autumn_save_a9347942:
+
+    # fla "Who is that?"
+    fla ""
+
+# game/scripts/autumn_events.rpy:97
+translate uk_UA autumn_save_90f6ccf0:
+
+    # au "Hm? Ashley or Lin?"
+    au ""
+
+# game/scripts/autumn_events.rpy:98
+translate uk_UA autumn_save_156ecc1a:
+
+    # fla "The one in the hoodie."
+    fla ""
+
+# game/scripts/autumn_events.rpy:99
+translate uk_UA autumn_save_e087ada9:
+
+    # au "Oh, that's Ashley. Why?"
+    au ""
+
+# game/scripts/autumn_events.rpy:101
+translate uk_UA autumn_save_453645f5:
+
+    # au "Wait! How do you keep doing that? You're blind!"
+    au ""
+
+# game/scripts/autumn_events.rpy:103
+translate uk_UA autumn_save_d7f2c582:
+
+    # au "Um, Dante?"
+    au ""
+
+# game/scripts/autumn_events.rpy:104
+translate uk_UA autumn_save_7eae194d:
+
+    # dante "..."
+    dante ""
+
+# game/scripts/autumn_events.rpy:105
+translate uk_UA autumn_save_d67fc9c1:
+
+    # c "Hey, hey."
+    c ""
+
+# game/scripts/autumn_events.rpy:106
+translate uk_UA autumn_save_2a7f97bd:
+
+    # a "What do you want with me!?"
+    a ""
+
+# game/scripts/autumn_events.rpy:107
+translate uk_UA autumn_save_4bc31c03:
+
+    # dante "Who do you work for? What does The Seldarine mean to you?"
+    dante ""
+
+# game/scripts/autumn_events.rpy:108
+translate uk_UA autumn_save_d582c6d2:
+
+    # a "WHO?"
+    a ""
+
+# game/scripts/autumn_events.rpy:109
+translate uk_UA autumn_save_40a58f31:
+
+    # zoia "{i}Ashley, just-{/i}"
+    zoia ""
+
+# game/scripts/autumn_events.rpy:113
+translate uk_UA autumn_save_e52bc663:
+
+    # q "Ah! Then I see no reason to be coy! Hello friends!"
+    q ""
+
+# game/scripts/autumn_events.rpy:114
+translate uk_UA autumn_save_30c82a4c:
+
+    # au "WHAT!?"
+    au ""
+
+# game/scripts/autumn_events.rpy:116
+translate uk_UA autumn_save_209f77d7:
+
+    # runa "You would reveal yourself so brazenly?"
+    runa ""
+
+# game/scripts/autumn_events.rpy:117
+translate uk_UA autumn_save_587bced9:
+
+    # zoia "What's your angle, Talvin!?"
+    zoia ""
+
+# game/scripts/autumn_events.rpy:118
+translate uk_UA autumn_save_33d35ef3:
+
+    # q "Angle? We're on the same side, no?"
+    q ""
+
+# game/scripts/autumn_events.rpy:119
+translate uk_UA autumn_save_77cef57e:
+
+    # au "What's going on!?"
+    au ""
+
+# game/scripts/autumn_events.rpy:121
+translate uk_UA autumn_save_9d5cce00:
+
+    # tabe "They call me Tabe, I am this ones eyes and divine messenger."
+    tabe ""
+
+# game/scripts/autumn_events.rpy:122
+translate uk_UA autumn_save_3c79758f:
+
+    # tabe "As fellow cherubim I see no reason to hide from each other. Despite appearances, you are friends aren't you?"
+    tabe ""
+
+# game/scripts/autumn_events.rpy:123
+translate uk_UA autumn_save_1829aa5c:
+
+    # runa "You are talking about our attire?"
+    runa ""
+
+# game/scripts/autumn_events.rpy:124
+translate uk_UA autumn_save_b90777a7:
+
+    # tabe "Yes! It does scream {i}Seldarine.{/i} But you're not of The Seldarine, are you?"
+    tabe ""
+
+# game/scripts/autumn_events.rpy:125
+translate uk_UA autumn_save_2fa95155:
+
+    # zoia "No, and we're not cherubim either. Is that some kind of insult?"
+    zoia ""
+
+# game/scripts/autumn_events.rpy:126
+translate uk_UA autumn_save_acd7e216:
+
+    # tabe "We're all cherubim in Syl'anar, friends."
+    tabe ""
+
+# game/scripts/autumn_events.rpy:128
+translate uk_UA autumn_save_050a246e:
+
+    # dante "You didn't tell me one of your friends was gifted, Autumn."
+    dante ""
+
+# game/scripts/autumn_events.rpy:129
+translate uk_UA autumn_save_877f01d4:
+
+    # au "Well you didn't tell me about {u}that{/u}!"
+    au ""
+
+# game/scripts/autumn_events.rpy:130
+translate uk_UA autumn_save_20b8b2d2:
+
+    # dante "How long have you known these cherubim, Ashley?"
+    dante ""
+
+# game/scripts/autumn_events.rpy:131
+translate uk_UA autumn_save_6d337fe4:
+
+    # a "They're fairies!"
+    a ""
+
+# game/scripts/autumn_events.rpy:132
+translate uk_UA autumn_save_e39361e7:
+
+    # dante "That's an elvish word."
+    dante ""
+
+# game/scripts/autumn_events.rpy:134
+translate uk_UA autumn_save_7e9857d3:
+
+    # tabe "Are we sure they aren't followers of The Seldarine? That ones ignorance was quite convincing..."
+    tabe ""
+
+# game/scripts/autumn_events.rpy:135
+translate uk_UA autumn_save_61e5c4da:
+
+    # runa "We don't work for anyone."
+    runa ""
+
+# game/scripts/autumn_events.rpy:136
+translate uk_UA autumn_save_bb61a3e4:
+
+    # tabe "Yet you avoid the question."
+    tabe ""
+
+# game/scripts/autumn_events.rpy:138
+translate uk_UA autumn_save_e6c1e676:
+
+    # zoia "{u}You're{/u} the crazy one! What kind of gods are {i}you{/i} speaking to? Liar!"
+    zoia ""
+
+# game/scripts/autumn_events.rpy:139
+translate uk_UA autumn_save_7f748b8a:
+
+    # tabe "I don't trust these two, Dante..."
+    tabe ""
+
+# game/scripts/autumn_events.rpy:140
+translate uk_UA autumn_save_08139af0:
+
+    # zoia "And we don't trust you!"
+    zoia ""
+
+# game/scripts/autumn_events.rpy:141
+translate uk_UA autumn_save_39216113:
+
+    # c "Hey, we're all here to help people, aren't we? There's no reason to fight."
+    c ""
+
+# game/scripts/autumn_events.rpy:143
+translate uk_UA autumn_save_f8792f42:
+
+    # dante "I thought we were going to the beach."
+    dante ""
+
+# game/scripts/autumn_events.rpy:144
+translate uk_UA autumn_save_8488e9b3:
+
+    # au "Sorry... I was scared and wanted more muscle..."
+    au ""
+
+# game/scripts/autumn_events.rpy:145
+translate uk_UA autumn_save_ecaf84aa:
+
+    # l "You lied to him?"
+    l ""
+
+# game/scripts/autumn_events.rpy:146
+translate uk_UA autumn_save_ff907447:
+
+    # au "I would never! I didn't mean to mislead you, Dante, but I didn't think you would come if I mentioned the slums."
+    au ""
+
+# game/scripts/autumn_events.rpy:147
+translate uk_UA autumn_save_5b5be9bd:
+
+    # dante "You were right. And I'm not a good fighter, Autumn. I'm blind."
+    dante ""
+
+# game/scripts/autumn_events.rpy:148
+translate uk_UA autumn_save_10db5306:
+
+    # au "Okay but you're intimidating!"
+    au ""
+
+# game/scripts/autumn_events.rpy:149
+translate uk_UA autumn_save_d220457f:
+
+    # dante "I think I should leave."
+    dante ""
+
+# game/scripts/autumn_events.rpy:151
+translate uk_UA autumn_save_507f1749:
+
+    # au "Please don't! Since I signed up to become a saint I've been trying to find ways to help people, but we don't do any of that in the church!"
+    au ""
+
+# game/scripts/autumn_events.rpy:152
+translate uk_UA autumn_save_9a4a5aa4:
+
+    # au "I'm tired of it! I want to make a real difference. Don't you as well, Dante?"
+    au ""
+
+# game/scripts/autumn_events.rpy:153
+translate uk_UA autumn_save_7eae194d_1:
+
+    # dante "..."
+    dante ""
+
+# game/scripts/autumn_events.rpy:154
+translate uk_UA autumn_save_1cec2d77:
+
+    # l "He's from your church...?"
+    l ""
+
+# game/scripts/autumn_events.rpy:155
+translate uk_UA autumn_save_d63707c8:
+
+    # a "Hey, are you rich though?"
+    a ""
+
+# game/scripts/autumn_events.rpy:156
+translate uk_UA autumn_save_eca545f5:
+
+    # dante "*sigh*... There has been one thing bothering me since I became the flagellant."
+    dante ""
+
+# game/scripts/autumn_events.rpy:158
+translate uk_UA autumn_save_49099b07:
+
+    # dante "You see, they promised me new eyes. Any pair I wanted. Alarian, Tindian, or Talvin. But any time I bring it up they shut me up."
+    dante ""
+
+# game/scripts/autumn_events.rpy:159
+translate uk_UA autumn_save_68b37316:
+
+    # dante "They won't tell me where they get them, or why they only offer elvish eyes. I don't care about dark-vision or farsight, I just want to see again."
+    dante ""
+
+# game/scripts/autumn_events.rpy:160
+translate uk_UA autumn_save_46e5a608:
+
+    # au "They can do that? Replace your eyes? I've never heard of a procedure like that..."
+    au ""
+
+# game/scripts/autumn_events.rpy:161
+translate uk_UA autumn_save_ffa59a58:
+
+    # dante "That's what the church promised. A miracle."
+    dante ""
+
+# game/scripts/autumn_events.rpy:163
+translate uk_UA autumn_save_891c64b2:
+
+    # l "Something feels very wrong about this..."
+    l ""
+
+# game/scripts/autumn_events.rpy:164
+translate uk_UA autumn_save_4a6120f2:
+
+    # a "Rich fucks have been wanting elvish organs for as long as I can remember, it's not very surprising."
+    a ""
+
+# game/scripts/autumn_events.rpy:165
+translate uk_UA autumn_save_8130bdb6:
+
+    # l "Really? I've never heard that..."
+    l ""
+
+# game/scripts/autumn_events.rpy:166
+translate uk_UA autumn_save_99c181a8:
+
+    # a "You hear about it all the time in Old Town. Whenever an elf goes missing people joke about their organs being harvested. They last longer, you know?"
+    a ""
+
+# game/scripts/autumn_events.rpy:167
+translate uk_UA autumn_save_40ebf36d:
+
+    # l "That's not a funny joke..."
+    l ""
+
+# game/scripts/autumn_events.rpy:169
+translate uk_UA autumn_save_d4ff29fc:
+
+    # dante "About a year ago an Alari elf was found on these streets with her eyes missing, but the strangest part was that her murderer was also dead right next to her. Cops dismissed the whole thing, but I think something more is going on."
+    dante ""
+
+# game/scripts/autumn_events.rpy:171
+translate uk_UA autumn_save_efde0fda:
+
+    # c "Oh I know what you're talking about, I saw the crime scene."
+    c ""
+
+# game/scripts/autumn_events.rpy:172
+translate uk_UA autumn_save_1418cedc:
+
+    # a "Woah, cool!"
+    a ""
+
+# game/scripts/autumn_events.rpy:173
+translate uk_UA autumn_save_859f508f:
+
+    # l "What!? You never mentioned that!"
+    l ""
+
+# game/scripts/autumn_events.rpy:174
+translate uk_UA autumn_save_c09344ea:
+
+    # dante "Then you know what I'm talking about. If this is where they want to buy my eyes, I don't want them."
+    dante ""
+
+# game/scripts/autumn_events.rpy:176
+translate uk_UA autumn_save_d4a0d11d:
+
+    # au "That's insane!"
+    au ""
+
+# game/scripts/autumn_events.rpy:177
+translate uk_UA autumn_save_a4a0f238:
+
+    # dante "If this is where they're getting my eyes, I don't want them."
+    dante ""
+
+# game/scripts/autumn_events.rpy:178
+translate uk_UA autumn_save_95b836d6:
+
+    # au "Would the church really-"
+    au ""
+
+# game/scripts/autumn_events.rpy:179
+translate uk_UA autumn_save_a79bbbfd:
+
+    # l "-YES!"
+    l ""
+
+# game/scripts/autumn_events.rpy:180
+translate uk_UA autumn_save_168620c2:
+
+    # au "Oh..."
+    au ""
+
+# game/scripts/autumn_events.rpy:181
+translate uk_UA autumn_save_f4de9fa2:
+
+    # dante "I don't know, I hope not."
+    dante ""
+
+# game/scripts/autumn_events.rpy:182
+translate uk_UA autumn_save_073e395e:
+
+    # tabe "Of course not!"
+    tabe ""
+
+# game/scripts/autumn_events.rpy:184
+translate uk_UA autumn_save_7b7c76ee:
+
+    # tabe "If this is true, then this is purely corruption! Corruption that must be stamped out."
+    tabe ""
+
+# game/scripts/autumn_events.rpy:185
+translate uk_UA autumn_save_773556fb:
+
+    # tabe "It's settled! The cherubim will search high and low for this organ farm and lead you straight to it!"
+    tabe ""
+
+# game/scripts/autumn_events.rpy:187
+translate uk_UA autumn_save_2b29bc5c:
+
+    # runa "Why not tell your god directly and have him take care of it, {i}mister divine messenger.{/i}"
+    runa ""
+
+# game/scripts/autumn_events.rpy:188
+translate uk_UA autumn_save_41bf8a58:
+
+    # tabe "That's not how it works."
+    tabe ""
+
+# game/scripts/autumn_events.rpy:189
+translate uk_UA autumn_save_b38d28e7:
+
+    # runa "Mhmm..."
+    runa ""
+
+# game/scripts/autumn_events.rpy:191
+translate uk_UA autumn_save_f472f839:
+
+    # tabe "HAHA! It's a race then! See you at the finish line!"
+    tabe ""
+
+# game/scripts/autumn_events.rpy:192
+translate uk_UA autumn_save_749e2b88:
+
+    # zoia "You know we can't-!"
+    zoia ""
+
+# game/scripts/autumn_events.rpy:195
+translate uk_UA autumn_save_ddcb53d5:
+
+    # zoia "...win."
+    zoia ""
+
+# game/scripts/autumn_events.rpy:196
+translate uk_UA autumn_save_7ab18e28:
+
+    # au "How did he do that?"
+    au ""
+
+# game/scripts/autumn_events.rpy:198
+translate uk_UA autumn_save_a541ceec:
+
+    # zoia "THESE WINGS WERE MADE FOR STEALTH, BASTARD!"
+    zoia ""
+
+# game/scripts/autumn_events.rpy:199
+translate uk_UA autumn_save_bdb7b5d4:
+
+    # runa "Calm down, sister. He's trying to make you mad."
+    runa ""
+
+# game/scripts/autumn_events.rpy:200
+translate uk_UA autumn_save_e3a481ce:
+
+    # zoia "It's working!"
+    zoia ""
+
+# game/scripts/autumn_events.rpy:202
+translate uk_UA autumn_save_1393dd9a:
+
+    # runa "What do you think we should do, Ashley?"
+    runa ""
+
+# game/scripts/autumn_events.rpy:203
+translate uk_UA autumn_save_ac18cf80:
+
+    # a "I'm bad at making decisions... [name]?"
+    a ""
+
+# game/scripts/autumn_events.rpy:204
+translate uk_UA autumn_save_90f1bb52:
+
+    # l "You dragged us out here, Ashley!"
+    l ""
+
+# game/scripts/autumn_events.rpy:205
+translate uk_UA autumn_save_2deb52bf:
+
+    # a "It's your fault for following me..."
+    a ""
+
+# game/scripts/autumn_events.rpy:206
+translate uk_UA autumn_save_959a2900:
+
+    # l "Wha..."
+    l ""
+
+# game/scripts/autumn_events.rpy:207
+translate uk_UA autumn_save_fa8cc687:
+
+    # c "If we find the organ farm we could call the police."
+    c ""
+
+# game/scripts/autumn_events.rpy:209
+translate uk_UA autumn_save_0d5fdd42:
+
+    # a "Yeah! Go find it!"
+    a ""
+
+# game/scripts/autumn_events.rpy:210
+translate uk_UA autumn_save_83728020:
+
+    # zoia "How are we supposed to find it, Ashley? There's thousands of buildings in Old Town! We'll be searching for weeks!"
+    zoia ""
+
+# game/scripts/autumn_events.rpy:213
+translate uk_UA autumn_save_cef8d070:
+
+    # tabe "I found it!"
+    tabe ""
+
+# game/scripts/autumn_events.rpy:214
+translate uk_UA autumn_save_393bd2c9:
+
+    # zoia "WHAT!? How?"
+    zoia ""
+
+# game/scripts/autumn_events.rpy:216
+translate uk_UA autumn_save_18874d30:
+
+    # tabe "The murder scene was on the news. It's right around the corner on the right."
+    tabe ""
+
+# game/scripts/autumn_events.rpy:217
+translate uk_UA autumn_save_f1da0284:
+
+    # runa "Is it that close?"
+    runa ""
+
+# game/scripts/autumn_events.rpy:218
+translate uk_UA autumn_save_383d2eea:
+
+    # zoia "Bullshit! Something is off about you!"
+    zoia ""
+
+# game/scripts/autumn_events.rpy:220
+translate uk_UA autumn_save_b552ee19:
+
+    # tabe "I know, I know... I {i}am{/i} better looking than the average cherub."
+    tabe ""
+
+# game/scripts/autumn_events.rpy:221
+translate uk_UA autumn_save_5f3b8cf3:
+
+    # zoia "I'LL KILL YOU!" with ssshake
+    zoia "" with ssshake
+
+# game/scripts/autumn_events.rpy:222
+translate uk_UA autumn_save_21414150:
+
+    # runa "Zoia!"
+    runa ""
+
+# game/scripts/autumn_events.rpy:223
+translate uk_UA autumn_save_76de1b40:
+
+    # tabe "HAHA! You would have to catch me first."
+    tabe ""
+
+# game/scripts/autumn_events.rpy:225
+translate uk_UA autumn_save_acab61b0:
+
+    # tabe "Are we doing this or not?"
+    tabe ""
+
+# game/scripts/autumn_events.rpy:226
+translate uk_UA autumn_save_027aa74c:
+
+    # c "Let's see where this leads."
+    c ""
+
+# game/scripts/autumn_events.rpy:227
+translate uk_UA autumn_save_626d0992:
+
+    # l "I suppose..."
+    l ""
+
+# game/scripts/autumn_events.rpy:228
+translate uk_UA autumn_save_af6195fa:
+
+    # a "Alright!!"
+    a ""
+
+# game/scripts/autumn_events.rpy:230
+translate uk_UA autumn_save_ece77c7c:
+
+    # dante "No, I'm going to the beach."
+    dante ""
+
+# game/scripts/autumn_events.rpy:231
+translate uk_UA autumn_save_1cfa81ac:
+
+    # au "What?"
+    au ""
+
+# game/scripts/autumn_events.rpy:232
+translate uk_UA autumn_save_01ad0498:
+
+    # tabe "Hold on, I did all of that for nothing?"
+    tabe ""
+
+# game/scripts/autumn_events.rpy:233
+translate uk_UA autumn_save_97a90efc:
+
+    # dante "Nobody asked you to. They can call the police when they find them, it's out of our hands."
+    dante ""
+
+# game/scripts/autumn_events.rpy:234
+translate uk_UA autumn_save_2a705f86:
+
+    # tabe "Alright, whatever."
+    tabe ""
+
+# game/scripts/autumn_events.rpy:235
+translate uk_UA autumn_save_fb318693:
+
+    # a "Hold on!"
+    a ""
+
+# game/scripts/autumn_events.rpy:237
+translate uk_UA autumn_save_dfc439c6:
+
+    # dante "Good luck. And you should really put a collar on your elf."
+    dante ""
+
+# game/scripts/autumn_events.rpy:238
+translate uk_UA autumn_save_fbaf6100:
+
+    # au "Are you serious!?"
+    au ""
+
+# game/scripts/autumn_events.rpy:239
+translate uk_UA autumn_save_d6c10512:
+
+    # zoia "YEAH! FLY AWAY COWARD!"
+    zoia ""
+
+# game/scripts/autumn_events.rpy:240
+translate uk_UA autumn_save_6e3cc901:
+
+    # l "It's okay, he probably has a stressful life..."
+    l ""
+
+# game/scripts/autumn_events.rpy:241
+translate uk_UA autumn_save_f6365e69:
+
+    # a "Like we don't!?"
+    a ""
+
+# game/scripts/autumn_events.rpy:244
+translate uk_UA autumn_save_6faf68ab:
+
+    # au "What should we do?"
+    au ""
+
+# game/scripts/autumn_events.rpy:245
+translate uk_UA autumn_save_d9dc406d:
+
+    # a "Fuck him, the plan doesn't change!"
+    a ""
+
+# game/scripts/autumn_events.rpy:246
+translate uk_UA autumn_save_bdae2e2e:
+
+    # l "And... what exactly is the plan, Ashley?"
+    l ""
+
+# game/scripts/autumn_events.rpy:247
+translate uk_UA autumn_save_4cc1f352:
+
+    # a "I don't know, don't ask me."
+    a ""
+
+# game/scripts/autumn_events.rpy:248
+translate uk_UA autumn_save_63e6e803:
+
+    # l "Ashley...!"
+    l ""
+
+# game/scripts/autumn_events.rpy:250
+translate uk_UA autumn_save_360229be:
+
+    # a "[name], what's the plan?"
+    a ""
+
+# game/scripts/autumn_events.rpy:251
+translate uk_UA autumn_save_e77f886b:
+
+    # au "If someone is really harvesting organs from elves and killing them in the process, someone needs to stop them!"
+    au ""
+
+# game/scripts/autumn_events.rpy:253
+translate uk_UA autumn_save_9189f52a:
+
+    # au "No, not someone... me! I need to stop them! Especially if the church is involved, it's my responsibility."
+    au ""
+
+# game/scripts/autumn_events.rpy:255
+translate uk_UA autumn_save_af6e6704:
+
+    # au "We stop them. That's the plan."
+    au ""
+
+# game/scripts/autumn_events.rpy:256
+translate uk_UA autumn_save_82822a0c:
+
+    # l "..."
+    l ""
+
+# game/scripts/autumn_events.rpy:257
+translate uk_UA autumn_save_1104e660:
+
+    # c "I couldn't agree more."
+    c ""
+
+# game/scripts/autumn_events.rpy:258
+translate uk_UA autumn_save_cb71c575:
+
+    # a "Alright!! Lead the way, cherubim!"
+    a ""
+
+# game/scripts/autumn_events.rpy:259
+translate uk_UA autumn_save_dd7f2831:
+
+    # runa "Never call us that again."
+    runa ""
+
+# game/scripts/autumn_events.rpy:262
+translate uk_UA autumn_save_8d7d38ca:
+
+    # l "This is where it happened?"
+    l ""
+
+# game/scripts/autumn_events.rpy:263
+translate uk_UA autumn_save_7ccbb0d6:
+
+    # zoia "You see that door to the right? It's the back entrance to an abandoned hospital. That must be it."
+    zoia ""
+
+# game/scripts/autumn_events.rpy:264
+translate uk_UA autumn_save_754c7e55:
+
+    # au "Nobody is here. Isn't that a bit eerie?"
+    au ""
+
+# game/scripts/autumn_events.rpy:266
+translate uk_UA autumn_save_c4fc8e44:
+
+    # a "Does this place look familiar, [name]?"
+    a ""
+
+# game/scripts/autumn_events.rpy:267
+translate uk_UA autumn_save_147e4eb4:
+
+    # c "Yeah, this is it."
+    c ""
+
+# game/scripts/autumn_events.rpy:269
+translate uk_UA autumn_save_998c0f91:
+
+    # au "Why would anyone abandon a hospital in the middle of the unhealthiest district in Caliber?"
+    au ""
+
+# game/scripts/autumn_events.rpy:270
+translate uk_UA autumn_save_ab993931:
+
+    # l "...Because no one here could afford it."
+    l ""
+
+# game/scripts/autumn_events.rpy:271
+translate uk_UA autumn_save_702761f4:
+
+    # au "This would have been a perfect opportunity for the church too. We get so many donations. Where does it all go?"
+    au ""
+
+# game/scripts/autumn_events.rpy:272
+translate uk_UA autumn_save_b613f14f:
+
+    # l "Oh Autumn..."
+    l ""
+
+# game/scripts/autumn_events.rpy:273
+translate uk_UA autumn_save_c1e72181:
+
+    # a "Are we doing this thing or not!?"
+    a ""
+
+# game/scripts/autumn_events.rpy:274
+translate uk_UA autumn_save_155916a7:
+
+    # c "Runa and Zoia should check it out first."
+    c ""
+
+# game/scripts/autumn_events.rpy:275
+translate uk_UA autumn_save_bf8a0a1b:
+
+    # zoia "I already went in and unlocked it. I didn't see anyone."
+    zoia ""
+
+# game/scripts/autumn_events.rpy:276
+translate uk_UA autumn_save_a67fce1c:
+
+    # au "Perfect. This is our opportunity to make a difference."
+    au ""
+
+# game/scripts/autumn_events.rpy:277
+translate uk_UA autumn_save_3a8b9701:
+
+    # a "*sigh*, don't get your hopes so high, Autumn."
+    a ""
+
+# game/scripts/autumn_events.rpy:283
+translate uk_UA autumn_save_093d857e:
+
+    # au "Oh my."
+    au ""
+
+# game/scripts/autumn_events.rpy:284
+translate uk_UA autumn_save_6aed0b50:
+
+    # a "Yup, the drugs are gone."
+    a ""
+
+# game/scripts/autumn_events.rpy:285
+translate uk_UA autumn_save_326d4f54:
+
+    # zoia "Why were you lookin', huh?"
+    zoia ""
+
+# game/scripts/autumn_events.rpy:286
+translate uk_UA autumn_save_a5ad1621:
+
+    # runa "This is as far as I went, we may need to explore."
+    runa ""
+
+# game/scripts/autumn_events.rpy:288
+translate uk_UA autumn_save_43d7f945:
+
+    # au "Hey Lin, can I ask you something?"
+    au ""
+
+# game/scripts/autumn_events.rpy:289
+translate uk_UA autumn_save_c482b471:
+
+    # l "What is it?"
+    l ""
+
+# game/scripts/autumn_events.rpy:290
+translate uk_UA autumn_save_5518b693:
+
+    # au "Did you know that the church teaches elves how to be slaves?"
+    au ""
+
+# game/scripts/autumn_events.rpy:292
+translate uk_UA autumn_save_32e4892d:
+
+    # l "Yes... every elf is indoctrinated."
+    l ""
+
+# game/scripts/autumn_events.rpy:293
+translate uk_UA autumn_save_e3fdbf77:
+
+    # au "Even you?"
+    au ""
+
+# game/scripts/autumn_events.rpy:294
+translate uk_UA autumn_save_0f87d2bc:
+
+    # l "Even me."
+    l ""
+
+# game/scripts/autumn_events.rpy:296
+translate uk_UA autumn_save_f153aa4f_2:
+
+    # au "..."
+    au ""
+
+# game/scripts/autumn_events.rpy:306
+translate uk_UA autumn_save_2b14a8e8:
+
+    # au "*gasp*!"
+    au ""
+
+# game/scripts/autumn_events.rpy:307
+translate uk_UA autumn_save_eb8a95da:
+
+    # au "{i}{size=-6}I'm so sorry...{/size}{/i}"
+    au ""
+
+# game/scripts/autumn_events.rpy:308
+translate uk_UA autumn_save_5b782b1f:
+
+    # l "It's not your fault, Autumn. That's how I learned to be a maid, so it turned out well."
+    l ""
+
+# game/scripts/autumn_events.rpy:310
+translate uk_UA autumn_save_7a1bca31:
+
+    # au "Lin... A long time ago you said that you {u}wanted{/u} to be a slave. Is that still true?"
+    au ""
+
+# game/scripts/autumn_events.rpy:311
+translate uk_UA autumn_save_17e915e9:
+
+    # l "It's complicated... In this world, I need to be a slave to be protected. But I don't think anyone deserves to be a slave, I want everyone to be free."
+    l ""
+
+# game/scripts/autumn_events.rpy:313
+translate uk_UA autumn_save_8589909e:
+
+    # au "{i}{size=-6}I thought we were the good guys...{/size}{/i}"
+    au ""
+
+# game/scripts/autumn_events.rpy:314
+translate uk_UA autumn_save_56d78dd6:
+
+    # l "We are, Autumn."
+    l ""
+
+# game/scripts/autumn_events.rpy:316
+translate uk_UA autumn_save_60617fc9:
+
+    # au "...!"
+    au ""
+
+# game/scripts/autumn_events.rpy:317
+translate uk_UA autumn_save_e183e177:
+
+    # l "...Is everything okay?"
+    l ""
+
+# game/scripts/autumn_events.rpy:318
+translate uk_UA autumn_save_f153aa4f_3:
+
+    # au "..."
+    au ""
+
+# game/scripts/autumn_events.rpy:320
+translate uk_UA autumn_save_266f3e6f:
+
+    # l "Autumn, what's wrong? You've been acting strange lately..."
+    l ""
+
+# game/scripts/autumn_events.rpy:321
+translate uk_UA autumn_save_e15ad473:
+
+    # au "I..."
+    au ""
+
+# game/scripts/autumn_events.rpy:323
+translate uk_UA autumn_save_a2d5b416:
+
+    # a "Woah, woah, woah! How did you guys miss THIS!?"
+    a ""
+
+# game/scripts/autumn_events.rpy:324
+translate uk_UA autumn_save_6b342fbf:
+
+    # l "What?"
+    l ""
+
+# game/scripts/autumn_events.rpy:326
+translate uk_UA autumn_save_48d8b4ff:
+
+    # a "Look! There's a whole futuristic lab in there! But it's locked..."
+    a ""
+
+# game/scripts/autumn_events.rpy:327
+translate uk_UA autumn_save_d70b1c5a:
+
+    # au "Here of all places?"
+    au ""
+
+# game/scripts/autumn_events.rpy:328
+translate uk_UA autumn_save_2d2a113a:
+
+    # a "There's bottles, and vials, and all kinds of things. But it doesn't look like a place they do surgery."
+    a ""
+
+# game/scripts/autumn_events.rpy:329
+translate uk_UA autumn_save_f895bd9d:
+
+    # l "I think we're in the right spot..."
+    l ""
+
+# game/scripts/autumn_events.rpy:330
+translate uk_UA autumn_save_614bfdca:
+
+    # au "Should we call the police?"
+    au ""
+
+# game/scripts/autumn_events.rpy:331
+translate uk_UA autumn_save_6f6488b0:
+
+    # a "Let's keep searching!"
+    a ""
+
+# game/scripts/autumn_events.rpy:333
+translate uk_UA autumn_save_43f70287:
+
+    # au "...I want to make things right between us, Lin."
+    au ""
+
+# game/scripts/autumn_events.rpy:334
+translate uk_UA autumn_save_a77db0ac:
+
+    # l "I hope so."
+    l ""
+
+# game/scripts/autumn_events.rpy:335
+translate uk_UA autumn_save_f8346af4:
+
+    # au "If there's corruption in the church, I'll find it."
+    au ""
+
+# game/scripts/autumn_events.rpy:336
+translate uk_UA autumn_save_d9667c41:
+
+    # l "You don't call a bear corrupt for eating a deer, it's only natural."
+    l ""
+
+# game/scripts/autumn_events.rpy:337
+translate uk_UA autumn_save_fd66f0e6:
+
+    # au "What are you saying?"
+    au ""
+
+# game/scripts/autumn_events.rpy:338
+translate uk_UA autumn_save_4c75a035:
+
+    # l "I think you understand."
+    l ""
+
+# game/scripts/autumn_events.rpy:340
+translate uk_UA autumn_save_088a1525:
+
+    # au "Uh, hey Ashley! Wait up!"
+    au ""
+
+# game/scripts/autumn_events.rpy:341
+translate uk_UA autumn_save_09db9eaf_1:
+
+    # a "Huh?"
+    a ""
+
+# game/scripts/autumn_events.rpy:342
+translate uk_UA autumn_save_9b1fb3a0:
+
+    # au "When did you meet your cher- I mean fairies? Do they have names? Where do they come from?"
+    au ""
+
+# game/scripts/autumn_events.rpy:344
+translate uk_UA autumn_save_debf544a:
+
+    # zoia "Excuse me, we're not pets! My mother named me Zoia!"
+    zoia ""
+
+# game/scripts/autumn_events.rpy:345
+translate uk_UA autumn_save_f1956c28:
+
+    # a "I mean, I do feed you, and walk you, and pick up after you..."
+    a ""
+
+# game/scripts/autumn_events.rpy:346
+translate uk_UA autumn_save_813b8c31:
+
+    # zoia "Shut up."
+    zoia ""
+
+# game/scripts/autumn_events.rpy:347
+translate uk_UA autumn_save_b1dad8c7:
+
+    # runa "My name is Runa, by the way."
+    runa ""
+
+# game/scripts/autumn_events.rpy:349
+translate uk_UA autumn_save_87c2c8d4:
+
+    # a "Anyway I met them awhile ago at the beach. One of them was so afraid of us that she almost died! So I raised her back to health, and that was that!"
+    a ""
+
+# game/scripts/autumn_events.rpy:350
+translate uk_UA autumn_save_6292af17:
+
+    # a "You really call them cherubs?"
+    a ""
+
+# game/scripts/autumn_events.rpy:351
+translate uk_UA autumn_save_bff2a6e4:
+
+    # au "Cherubim is the pural of cherub, Ashley, but yes. My Paragon is a cherub! Though her wings were more... feathery?"
+    au ""
+
+# game/scripts/autumn_events.rpy:352
+translate uk_UA autumn_save_715a8670:
+
+    # runa "Frost fairy."
+    runa ""
+
+# game/scripts/autumn_events.rpy:354
+translate uk_UA autumn_save_0b145dc4:
+
+    # au "Hm?"
+    au ""
+
+# game/scripts/autumn_events.rpy:355
+translate uk_UA autumn_save_b780dd2e:
+
+    # runa "They're from Syl'osi. Their wings help them survive the cold. The elves called us forest fairies, and those like that Talvin were referred to as fire fairies."
+    runa ""
+
+# game/scripts/autumn_events.rpy:356
+translate uk_UA autumn_save_43043561:
+
+    # zoia "Nobody asked for the history lesson, Runa."
+    zoia ""
+
+# game/scripts/autumn_events.rpy:357
+translate uk_UA autumn_save_026821ea:
+
+    # au "Wait, you're all from Syl'anar? Not the afterlife...?"
+    au ""
+
+# game/scripts/autumn_events.rpy:358
+translate uk_UA autumn_save_5275108e:
+
+    # runa "We used to be from Syl'anar, but most of us fled when the humans came."
+    runa ""
+
+# game/scripts/autumn_events.rpy:359
+translate uk_UA autumn_save_a44d8de3:
+
+    # au "You ran from us? But we were always told angels led us here. That your presence was a divine message and moving here was Gaius' plan."
+    au ""
+
+# game/scripts/autumn_events.rpy:360
+translate uk_UA autumn_save_d5e168b8:
+
+    # runa "I still don't know who that is."
+    runa ""
+
+# game/scripts/autumn_events.rpy:361
+translate uk_UA autumn_save_e07c233a:
+
+    # c "{i}Oh shit! Quiet!{/i}"
+    c ""
+
+# game/scripts/autumn_events.rpy:363
+translate uk_UA autumn_save_1b1c5cd2:
+
+    # surgeon "...A few successful cases already."
+    surgeon ""
+
+# game/scripts/autumn_events.rpy:364
+translate uk_UA autumn_save_24dc6892:
+
+    # doc "Yeah, hearts are in big demand now, but..."
+    doc ""
+
+# game/scripts/autumn_events.rpy:365
+translate uk_UA autumn_save_84b4869a:
+
+    # c "{i}They're really here!{/i}"
+    c ""
+
+# game/scripts/autumn_events.rpy:366
+translate uk_UA autumn_save_1d4cce3b:
+
+    # au "{i}What do you see??{/i}"
+    au ""
+
+# game/scripts/autumn_events.rpy:367
+translate uk_UA autumn_save_f741efdf:
+
+    # c "{i}Two doctors and an elf with bandages over one eye. They're going to take the other!{/i}"
+    c ""
+
+# game/scripts/autumn_events.rpy:368
+translate uk_UA autumn_save_1b4b6d6f:
+
+    # a "{i}What are we waiting for? Let's fuck 'em up!{/i}"
+    a ""
+
+# game/scripts/autumn_events.rpy:369
+translate uk_UA autumn_save_7f3eb08b:
+
+    # au "{i}We?? I'm not a fighter!{/i}"
+    au ""
+
+# game/scripts/autumn_events.rpy:370
+translate uk_UA autumn_save_c0b48ddd:
+
+    # c "{i}Just back me up!{/i}"
+    c ""
+
+# game/scripts/autumn_events.rpy:371
+translate uk_UA autumn_save_b086f4cf:
+
+    # au "{i}But-{/i}"
+    au ""
+
+# game/scripts/autumn_events.rpy:373
+translate uk_UA autumn_save_8691f06b:
+
+    # c "Drop the knife!" with ssshake
+    c "" with ssshake
+
+# game/scripts/autumn_events.rpy:374
+translate uk_UA autumn_save_82cde416:
+
+    # surgeon "{i}Shit!{/i} How did you get in here!?"
+    surgeon ""
+
+# game/scripts/autumn_events.rpy:375
+translate uk_UA autumn_save_b02bee00:
+
+    # c "Who do you work for? Who do you sell to?"
+    c ""
+
+# game/scripts/autumn_events.rpy:376
+translate uk_UA autumn_save_613407eb:
+
+    # surgeon "I'm not talkin'! You might as well shoot us!"
+    surgeon ""
+
+# game/scripts/autumn_events.rpy:377
+translate uk_UA autumn_save_86148265:
+
+    # c "Alright."
+    c ""
+
+# game/scripts/autumn_events.rpy:378
+translate uk_UA autumn_save_cb1ee9bf:
+
+    # doc "WAIT! I have kids!"
+    doc ""
+
+# game/scripts/autumn_events.rpy:380
+translate uk_UA autumn_save_52af5d43:
+
+    # a "Then you better start talking, ASSHOLE!"
+    a ""
+
+# game/scripts/autumn_events.rpy:381
+translate uk_UA autumn_save_5f888599:
+
+    # tog "...{w}..."
+    tog ""
+
+# game/scripts/autumn_events.rpy:382
+translate uk_UA autumn_save_9128e50c:
+
+    # surgeon "HAHAHAHA! You brought your girlfriend!?"
+    surgeon ""
+
+# game/scripts/autumn_events.rpy:384
+translate uk_UA autumn_save_b82ee9cb:
+
+    # a "Grrr..."
+    a ""
+
+# game/scripts/autumn_events.rpy:385
+translate uk_UA autumn_save_ec42db72:
+
+    # doc "What is this, some kind of date? HAHAHA!"
+    doc ""
+
+# game/scripts/autumn_events.rpy:387
+translate uk_UA autumn_save_79c5dade:
+
+    # a "I'll kill you!" with ssshake
+    a "" with ssshake
+
+# game/scripts/autumn_events.rpy:388
+translate uk_UA autumn_save_54a174bd:
+
+    # c "Ashley..."
+    c ""
+
+# game/scripts/autumn_events.rpy:390
+translate uk_UA autumn_save_45bf98c4:
+
+    # au "Um, nobody has to get hurt..."
+    au ""
+
+# game/scripts/autumn_events.rpy:392
+translate uk_UA autumn_save_4704311f:
+
+    # l "Let's just talk things out, everyone."
+    l ""
+
+# game/scripts/autumn_events.rpy:393
+translate uk_UA autumn_save_277befc0:
+
+    # doc "Who are you people!?"
+    doc ""
+
+# game/scripts/autumn_events.rpy:395
+translate uk_UA autumn_save_8eae29fb:
+
+    # surgeon "Hold on... those eyes!"
+    surgeon ""
+
+# game/scripts/autumn_events.rpy:396
+translate uk_UA autumn_save_5d8c04a0:
+
+    # a "W-What?"
+    a ""
+
+# game/scripts/autumn_events.rpy:398
+translate uk_UA autumn_save_73ced8fe:
+
+    # surgeon "I barely noticed those {i}perfect{/i} dark elf eyes! Where did you get them from!? Can you see in the dark!?"
+    surgeon ""
+
+# game/scripts/autumn_events.rpy:399
+translate uk_UA autumn_save_e476f1b4:
+
+    # c "Back up!"
+    c ""
+
+# game/scripts/autumn_events.rpy:400
+translate uk_UA autumn_save_b40f5011:
+
+    # a "I was born with them!"
+    a ""
+
+# game/scripts/autumn_events.rpy:401
+translate uk_UA autumn_save_c6d8c6eb:
+
+    # surgeon "Impossible! Even the wealthiest people in the world couldn't-"
+    surgeon ""
+
+# game/scripts/autumn_events.rpy:405
+translate uk_UA autumn_save_38079051:
+
+    # surgeon "AAAAAGH! FUCK! STOP! STOP!"
+    surgeon ""
+
+# game/scripts/autumn_events.rpy:406
+translate uk_UA autumn_save_5ea16378:
+
+    # a "Owwww!"
+    a ""
+
+# game/scripts/autumn_events.rpy:407
+translate uk_UA autumn_save_f0e0aa30:
+
+    # c "Back up! Now!"
+    c ""
+
+# game/scripts/autumn_events.rpy:408
+translate uk_UA autumn_save_e3082716:
+
+    # doc "Fuck, man! Fuck, fuck! I can't hear shit!"
+    doc ""
+
+# game/scripts/autumn_events.rpy:409
+translate uk_UA autumn_save_8837dc3c:
+
+    # c "BACK UP!" with ssshake
+    c "" with ssshake
+
+# game/scripts/autumn_events.rpy:410
+translate uk_UA autumn_save_0b358094:
+
+    # surgeon "I get it, I get it! Don't shoot me!"
+    surgeon ""
+
+# game/scripts/autumn_events.rpy:412
+translate uk_UA autumn_save_cfa8cdaf:
+
+    # doc "Y-You're gonna regret doing this!"
+    doc ""
+
+# game/scripts/autumn_events.rpy:413
+translate uk_UA autumn_save_1943c94f:
+
+    # c "You should be more worried about yourselves right now. Who do you work for? Who do you sell to?"
+    c ""
+
+# game/scripts/autumn_events.rpy:414
+translate uk_UA autumn_save_6785f4b7:
+
+    # doc "The people! Anyone who can afford it!"
+    doc ""
+
+# game/scripts/autumn_events.rpy:415
+translate uk_UA autumn_save_74ae9bce:
+
+    # c "Bullshit, did the people pay for all of this equipment?"
+    c ""
+
+# game/scripts/autumn_events.rpy:416
+translate uk_UA autumn_save_7b057111:
+
+    # doc "Do you have any idea how much people are willing to pay for a heart that lasts hundreds of years? Eyes that can see in the dark? Millions!"
+    doc ""
+
+# game/scripts/autumn_events.rpy:417
+translate uk_UA autumn_save_cded07f0:
+
+    # a "Not the people around here, that's for sure."
+    a ""
+
+# game/scripts/autumn_events.rpy:418
+translate uk_UA autumn_save_58d03dd5:
+
+    # doc "Yeah, it's not exactly legal. Yet... But we're saving lives here!"
+    doc ""
+
+# game/scripts/autumn_events.rpy:419
+translate uk_UA autumn_save_bb3718b9:
+
+    # c "At the cost of theirs."
+    c ""
+
+# game/scripts/autumn_events.rpy:420
+translate uk_UA autumn_save_fbbbf2fe:
+
+    # doc "Oh, she was just some street whore, who cares!?"
+    doc ""
+
+# game/scripts/autumn_events.rpy:421
+translate uk_UA autumn_save_7663d992:
+
+    # a "ME!"
+    a ""
+
+# game/scripts/autumn_events.rpy:423
+translate uk_UA autumn_save_07aba412:
+
+    # a "FUCK THIS SHIT! BURN IT TO THE GROUND!" with ssshake
+    a "" with ssshake
+
+# game/scripts/autumn_events.rpy:425
+translate uk_UA autumn_save_47966209:
+
+    # a "{b}BURN IT ALL!{/b}" with sshake
+    a "" with sshake
+
+# game/scripts/autumn_events.rpy:426
+translate uk_UA autumn_save_54a174bd_1:
+
+    # c "Ashley..."
+    c ""
+
+# game/scripts/autumn_events.rpy:427
+translate uk_UA autumn_save_43ca257a:
+
+    # zoia "SAY LESS!"
+    zoia ""
+
+# game/scripts/autumn_events.rpy:428
+translate uk_UA autumn_save_de9a3380:
+
+    # runa "Zoia, no!"
+    runa ""
+
+# game/scripts/autumn_events.rpy:429
+translate uk_UA autumn_save_9f8e016b:
+
+    # c "Wait!"
+    c ""
+
+# game/scripts/autumn_events.rpy:430
+translate uk_UA autumn_save_fbbc8839:
+
+    # "{i}*crash*{/i}" with ssshake
+    "" with ssshake
+
+# game/scripts/autumn_events.rpy:432
+translate uk_UA autumn_save_c8d98331:
+
+    # doc "WHAT THE FUCK!?" with ssshake
+    doc "" with ssshake
+
+# game/scripts/autumn_events.rpy:433
+translate uk_UA autumn_save_ed7286fe:
+
+    # surgeon "The oxygen!"
+    surgeon ""
+
+# game/scripts/autumn_events.rpy:434
+translate uk_UA autumn_save_2c9b4602:
+
+    # doc "SHIT! EVERYONE GET OUT!"
+    doc ""
+
+# game/scripts/autumn_events.rpy:435
+translate uk_UA autumn_save_57e7f783:
+
+    # zoia "Oh that's burning faster than I thought it would..."
+    zoia ""
+
+# game/scripts/autumn_events.rpy:438
+translate uk_UA autumn_save_0dc5b0f0:
+
+    # a "Burn! Burrrrrrn! HAHAHA!"
+    a ""
+
+# game/scripts/autumn_events.rpy:439
+translate uk_UA autumn_save_9009260f:
+
+    # l "It's not opening...!"
+    l ""
+
+# game/scripts/autumn_events.rpy:440
+translate uk_UA autumn_save_28c50bff:
+
+    # au "Let me!"
+    au ""
+
+# game/scripts/autumn_events.rpy:441
+translate uk_UA autumn_save_9fad788c:
+
+    # c "Did you give this any thought at all? Fuck! Everyone get out, I'll grab the elf!"
+    c ""
+
+# game/scripts/autumn_events.rpy:442
+translate uk_UA autumn_save_62dc1158:
+
+    # doc "RUN! IT'S GOING TO EXPLODE!"
+    doc ""
+
+# game/scripts/autumn_events.rpy:444
+translate uk_UA autumn_save_98d0e2a1:
+
+    # a "Uh-oh."
+    a ""
+
+# game/scripts/autumn_events.rpy:445
+translate uk_UA autumn_save_0234e36d:
+
+    # c "Ashley, get out of here!"
+    c ""
+
+# game/scripts/autumn_events.rpy:446
+translate uk_UA autumn_save_fd8b744a:
+
+    # a "But-"
+    a ""
+
+# game/scripts/autumn_events.rpy:447
+translate uk_UA autumn_save_b8553fc5:
+
+    # c "RUN!" with ssshake
+    c "" with ssshake
+
+# game/scripts/autumn_events.rpy:448
+translate uk_UA autumn_save_32b5dd2e:
+
+    # a "O-Okay...!"
+    a ""
+
+# game/scripts/autumn_events.rpy:450
+translate uk_UA autumn_save_a20cefa7:
+
+    # "..."
+    ""
+
+# game/scripts/autumn_events.rpy:451
+translate uk_UA autumn_save_82c6bd92:
+
+    # "......" with ssshake
+    "" with ssshake
+
+# game/scripts/autumn_events.rpy:452
+translate uk_UA autumn_save_0d307b9b:
+
+    # "........." with ssshake
+    "" with ssshake
+
+# game/scripts/autumn_events.rpy:453
+translate uk_UA autumn_save_6d7b42f2:
+
+    # "............" with ssshake
+    "" with ssshake
+
+# game/scripts/autumn_events.rpy:455
+translate uk_UA autumn_save_ab91cacc:
+
+    # l "What's wrong with you!?"
+    l ""
+
+# game/scripts/autumn_events.rpy:456
+translate uk_UA autumn_save_14100069:
+
+    # a "You saw what they were doing!"
+    a ""
+
+# game/scripts/autumn_events.rpy:457
+translate uk_UA autumn_save_a031ba9f:
+
+    # l "That's no excuse for almost killing everyone!"
+    l ""
+
+# game/scripts/autumn_events.rpy:458
+translate uk_UA autumn_save_fb0d16d8:
+
+    # a "How was I supposed to know oxygen was flammable??"
+    a ""
+
+# game/scripts/autumn_events.rpy:459
+translate uk_UA autumn_save_e58b0598:
+
+    # l "SCHOOL!"
+    l ""
+
+# game/scripts/autumn_events.rpy:461
+translate uk_UA autumn_save_89929430:
+
+    # c "*cough, cough*!" with ssshake
+    c "" with ssshake
+
+# game/scripts/autumn_events.rpy:462
+translate uk_UA autumn_save_04b0be05:
+
+    # a "*gasp*! [name]!!"
+    a ""
+
+# game/scripts/autumn_events.rpy:463
+translate uk_UA autumn_save_6167309b:
+
+    # au "Oh thank goodness..."
+    au ""
+
+# game/scripts/autumn_events.rpy:464
+translate uk_UA autumn_save_ec7845c3:
+
+    # l "Are you okay?"
+    l ""
+
+# game/scripts/autumn_events.rpy:466
+translate uk_UA autumn_save_ffd4160b:
+
+    # c "I'll be fine, but we need to find a place for her."
+    c ""
+
+# game/scripts/autumn_events.rpy:467
+translate uk_UA autumn_save_a33c358c:
+
+    # l "Maybe Nia could help."
+    l ""
+
+# game/scripts/autumn_events.rpy:468
+translate uk_UA autumn_save_f984c40c:
+
+    # a "[name], I'm so sorry..."
+    a ""
+
+# game/scripts/autumn_events.rpy:469
+translate uk_UA autumn_save_be4a906a:
+
+    # c "We'll talk about it later."
+    c ""
+
+# game/scripts/autumn_events.rpy:470
+translate uk_UA autumn_save_046884db:
+
+    # a "But..."
+    a ""
+
+# game/scripts/autumn_events.rpy:472
+translate uk_UA autumn_save_f4e5ab26:
+
+    # c "As for you..."
+    c ""
+
+# game/scripts/autumn_events.rpy:473
+translate uk_UA autumn_save_693c1936:
+
+    # surgeon "You fools! That research could have saved lives! It could have led us to the next stage of human evolution!"
+    surgeon ""
+
+# game/scripts/autumn_events.rpy:474
+translate uk_UA autumn_save_d1167e5f:
+
+    # surgeon "Do you think we're the only ones? Do you think you've really accomplished anything here!?"
+    surgeon ""
+
+# game/scripts/autumn_events.rpy:477
+translate uk_UA autumn_save_40ab50aa:
+
+    # surgeon "Oh shit...!"
+    surgeon ""
+
+# game/scripts/autumn_events.rpy:478
+translate uk_UA autumn_save_c0206184:
+
+    # c "Everyone, get back!"
+    c ""
+
+# game/scripts/autumn_events.rpy:481
+translate uk_UA autumn_save_0d76be08:
+
+    # surgeon "No, no..."
+    surgeon ""
+
+# game/scripts/autumn_events.rpy:484
+translate uk_UA autumn_save_ad51653b:
+
+    # surgeon "NNNNOOOOOOOOOOOOOOOOOO! MY RESEARCH!!!"
+    surgeon ""
+
+# game/scripts/autumn_events.rpy:485
+translate uk_UA autumn_save_63e6e803_1:
+
+    # l "Ashley...!"
+    l ""
+
+# game/scripts/autumn_events.rpy:486
+translate uk_UA autumn_save_bb8e4b4e:
+
+    # a "..."
+    a ""
+
+# game/scripts/autumn_events.rpy:489
+translate uk_UA autumn_save_4eb362dc:
+
+    # a "I regret nothing."
+    a ""
+
+# game/scripts/autumn_events.rpy:490
+translate uk_UA autumn_save_1edca4fb:
+
+    # au "{i}{size=-5}Demon child...{/size}{/i}"
+    au ""
+
+# game/scripts/autumn_events.rpy:493
+translate uk_UA autumn_save_5822f983:
+
+    # a "Well that was fun!"
+    a ""
+
+# game/scripts/autumn_events.rpy:494
+translate uk_UA autumn_save_5db940a8:
+
+    # au "FOR WHO!?"
+    au ""
+
+# game/scripts/autumn_events.rpy:495
+translate uk_UA autumn_save_fec0622a:
+
+    # l "You almost killed everyone, Ashley!"
+    l ""
+
+# game/scripts/autumn_events.rpy:496
+translate uk_UA autumn_save_87404d61:
+
+    # runa "You too, Zoia..."
+    runa ""
+
+# game/scripts/autumn_events.rpy:497
+translate uk_UA autumn_save_506d7c7b:
+
+    # a "What? No one got hurt, Old Town will be safer for everyone now."
+    a ""
+
+# game/scripts/autumn_events.rpy:498
+translate uk_UA autumn_save_2ac088ca:
+
+    # c "Now we have no evidence to send them to prison..."
+    c ""
+
+# game/scripts/autumn_events.rpy:499
+translate uk_UA autumn_save_6c6743ee:
+
+    # a "Okay, maybe I'm a little impulsive... but we did it, guys! We should celebrate!"
+    a ""
+
+# game/scripts/autumn_events.rpy:501
+translate uk_UA autumn_save_f5f005a5:
+
+    # au "*sigh*... I just can't believe our church is involved somehow. Dante was right, they were really going to buy his eyes from those people."
+    au ""
+
+# game/scripts/autumn_events.rpy:502
+translate uk_UA autumn_save_31706813:
+
+    # l "Sometimes I can't tell if the humans hate us or love us too much... Is what he said true? That wealthy humans are paying good money for our organs?"
+    l ""
+
+# game/scripts/autumn_events.rpy:503
+translate uk_UA autumn_save_a2a66f67:
+
+    # a "Yeah, probably. I mean it really wouldn't surprise me."
+    a ""
+
+# game/scripts/autumn_events.rpy:505
+translate uk_UA autumn_save_2773099f:
+
+    # a "So what are you going to do about it, Autumn?"
+    a ""
+
+# game/scripts/autumn_events.rpy:506
+translate uk_UA autumn_save_bb4d9ab6:
+
+    # l "You have to stop them! You're the only one who can."
+    l ""
+
+# game/scripts/autumn_events.rpy:507
+translate uk_UA autumn_save_c186550b:
+
+    # au "I am?"
+    au ""
+
+# game/scripts/autumn_events.rpy:508
+translate uk_UA autumn_save_f4d0d9b8:
+
+    # l "If you're a saint, yes!"
+    l ""
+
+# game/scripts/autumn_events.rpy:509
+translate uk_UA autumn_save_de9ce45f:
+
+    # au "I don't know... I think I'll tell Dante what we found, this is really unacceptable. I'll keep my eyes and ears open for anything going on."
+    au ""
+
+# game/scripts/autumn_events.rpy:510
+translate uk_UA autumn_save_46a50ca1:
+
+    # l "Please Autumn, you're the only one of them who cares."
+    l ""
+
+# game/scripts/autumn_events.rpy:512
+translate uk_UA autumn_save_e3298332:
+
+    # c "Come on, everyone. We need to get her to Nia fast, we don't know how much blood she's lost."
+    c ""
+
+# game/scripts/autumn_events.rpy:515
+translate uk_UA autumn_save_923d83ae:
+
+    # c "So you'll find somewhere for her to recover?"
+    c ""
+
+# game/scripts/autumn_events.rpy:516
+translate uk_UA autumn_save_972c50d1:
+
+    # nia "Yeah, it won't be a problem."
+    nia ""
+
+# game/scripts/autumn_events.rpy:518
+translate uk_UA autumn_save_a3c17212:
+
+    # nia "By the way, I can't thank you enough for taking them out! I've been trying to stop them for a while now."
+    nia ""
+
+# game/scripts/autumn_events.rpy:519
+translate uk_UA autumn_save_0d5d06a1:
+
+    # c "You knew about this?"
+    c ""
+
+# game/scripts/autumn_events.rpy:520
+translate uk_UA autumn_save_2f45f282:
+
+    # nia "Let's just say I ran into a couple of kidnappers who met the hard end of my bat a few times."
+    nia ""
+
+# game/scripts/autumn_events.rpy:521
+translate uk_UA autumn_save_25e9635c:
+
+    # c "Right..."
+    c ""
+
+# game/scripts/autumn_events.rpy:523
+translate uk_UA autumn_save_64d79df9:
+
+    # nia "And you, you actually helped?"
+    nia ""
+
+# game/scripts/autumn_events.rpy:524
+translate uk_UA autumn_save_68ef80a8:
+
+    # au "Of course! I couldn't let this go on, especially if the church is involved!"
+    au ""
+
+# game/scripts/autumn_events.rpy:525
+translate uk_UA autumn_save_f6d179d4:
+
+    # nia "Impressive. For a Gaianist..."
+    nia ""
+
+# game/scripts/autumn_events.rpy:526
+translate uk_UA autumn_save_0a15424c:
+
+    # au "Helping the helpless is what we're supposed to do, why is it surprising?"
+    au ""
+
+# game/scripts/autumn_events.rpy:527
+translate uk_UA autumn_save_7357956c:
+
+    # nia "Because in my 300 plus years on this planet, I haven't seen it once."
+    nia ""
+
+# game/scripts/autumn_events.rpy:528
+translate uk_UA autumn_save_f4d54b1a:
+
+    # au "That can't be true..."
+    au ""
+
+# game/scripts/autumn_events.rpy:529
+translate uk_UA autumn_save_a4b981e0:
+
+    # nia "Well it's not, anymore. So thank you."
+    nia ""
+
+# game/scripts/autumn_events.rpy:531
+translate uk_UA autumn_save_ba349f65:
+
+    # nia "{i}You have no idea how hard that was to say...{/i}"
+    nia ""
+
+# game/scripts/autumn_events.rpy:532
+translate uk_UA autumn_save_36bedf61:
+
+    # nia "Anyway get out of here, I have business to take care of."
+    nia ""
+
+# game/scripts/autumn_events.rpy:533
+translate uk_UA autumn_save_140a7c6e:
+
+    # au "Nia, Lin..."
+    au ""
+
+# game/scripts/autumn_events.rpy:538
+translate uk_UA autumn_save_d8a30b72:
+
+    # au "I'll do everything in my power to put an end to this. I'll show you what being a Gaianist is really supposed to mean."
+    au ""
+
+# game/scripts/autumn_events.rpy:540
+translate uk_UA autumn_save_33b45b90:
+
+    # au "I promise."
+    au ""
+
+# game/scripts/autumn_events.rpy:1801
+translate uk_UA aut_capcafe_talk_775f33ac:
+
+    # au "And when the fifth element was finally discovered - electricity - Astra appeared in the sky to guide us. She knew that if left unchecked, humanity might destroy itself with the energy it had itself created. So she taught us moderation, and that all things are ultimately connected and affect one another."
+    au ""
+
+# game/scripts/autumn_events.rpy:4435
+translate uk_UA aut_exh_serve1_51b36ff6:
+
+    # au "No, it's only illegal if {i}you{/i} don't go through with it. I'm just advertising it."
+    au ""
+
+# game/scripts/autumn_events.rpy:6276
+translate uk_UA aut_beach_9e1b28f5:
+
+    # au "Each year that passed, he noticed more people were traveling through his forest. One of the reasons the fairies loved this man so much was because he was as shy as they were. But when a road was built in the middle of Cepherus' forest, the fairies had no choice but to leave."
+    au ""
+
+# game/scripts/autumn_events.rpy:8476
+translate uk_UA auttalk_18a1ad70:
+
+    # au "Tired... are you going to bed soon?"
+    au ""
+
+# game/scripts/autumn_events.rpy:8481
+translate uk_UA auttalk_63cf8fee:
+
+    # au "I'm not feeling great, [name]... I just need some time."
+    au ""
+
+# game/scripts/autumn_events.rpy:8484
+translate uk_UA auttalk_3b749090:
+
+    # au "So I kissed Kali... so what? That doesn't mean I like women."
+    au ""
+
+# game/scripts/autumn_events.rpy:8485
+translate uk_UA auttalk_7543ea61:
+
+    # c "Huh?"
+    c ""
+
+# game/scripts/autumn_events.rpy:8486
+translate uk_UA auttalk_7fdaad9b:
+
+    # au "Nevermind..."
+    au ""
+
+# game/scripts/autumn_events.rpy:8489
+translate uk_UA auttalk_94fcb000:
+
+    # au "I'm great!"
+    au ""
+
+# game/scripts/autumn_events.rpy:8492
+translate uk_UA auttalk_e9d85a0a:
+
+    # au "I can't believe we got to see Gaius' grave together! Best date ever."
+    au ""
+
+# game/scripts/autumn_events.rpy:8495
+translate uk_UA auttalk_d092bf1f:
+
+    # au "I've seen some crazy things, [name]..."
+    au ""
+
+# game/scripts/autumn_events.rpy:8496
+translate uk_UA auttalk_03c8eaf5:
+
+    # c "Are you going to be okay?"
+    c ""
+
+# game/scripts/autumn_events.rpy:8497
+translate uk_UA auttalk_e303319f:
+
+    # au "I just need to process everything."
+    au ""
+
+# game/scripts/autumn_events.rpy:8500
+translate uk_UA auttalk_ab52ed50:
+
+    # au "Just thinking...\nElvish religion and Gaianism share a strange amount of similarities..."
+    au ""
+
+# game/scripts/autumn_events.rpy:8503
+translate uk_UA auttalk_585ed58d:
+
+    # au "I'm okay, I just need to do more research on The Seldarine... they're quite interesting, aren't they?"
+    au ""
+
+# game/scripts/autumn_events.rpy:8506
+translate uk_UA auttalk_c156bbef:
+
+    # au "I'm so glad we witnessed the Resonance of Souls together! It's a big step in any relationship."
+    au ""
+
+# game/scripts/autumn_events.rpy:8509
+translate uk_UA auttalk_ba8a6e32:
+
+    # au "Thank you for all the help, [name]. You're a great person, really."
+    au ""
+
+# game/scripts/autumn_events.rpy:8512
+translate uk_UA auttalk_1d303e23:
+
+    # au "So Jia converted to Gaianism... I didn't expect that."
+    au ""
+
+# game/scripts/autumn_events.rpy:8515
+translate uk_UA auttalk_8ad036f0:
+
+    # au "Our first kiss!!! Ahh! Do you want to do it again?"
+    au ""
+
+# game/scripts/autumn_events.rpy:8518
+translate uk_UA auttalk_9d3e65f2:
+
+    # au "Another heart attack... I hope my father will be okay."
+    au ""
+
+# game/scripts/autumn_events.rpy:8521
+translate uk_UA auttalk_f0731d5e:
+
+    # au "I'm okay, just thinking about life."
+    au ""
+
+# game/scripts/autumn_events.rpy:8524
+translate uk_UA auttalk_19130762:
+
+    # au "I don't know. Fine I guess."
+    au ""
+
+# game/scripts/autumn_events.rpy:8527
+translate uk_UA auttalk_6f96a8d2:
+
+    # au "It's always great to go to the beach, isn't it?"
+    au ""
+
+# game/scripts/autumn_events.rpy:8530
+translate uk_UA auttalk_0e9f858c:
+
+    # au "You're so handy~"
+    au ""
+
+# game/scripts/autumn_events.rpy:8533
+translate uk_UA auttalk_cb80da4d:
+
+    # au "I'm doing great, [name]. How are you?"
+    au ""
+
+# game/scripts/autumn_events.rpy:8536
+translate uk_UA auttalk_56e94dd9:
+
+    # au "Thanks for the help in the shower..."
+    au ""
+
+# game/scripts/autumn_events.rpy:8539
+translate uk_UA auttalk_551c4908:
+
+    # au "I'm alright, and you?"
+    au ""
+
+# game/scripts/autumn_events.rpy:8542
+translate uk_UA auttalk_5d7a6976:
+
+    # au "I'm okay. Did you sleep well?"
+    au ""
+
+# game/scripts/autumn_events.rpy:8545
+translate uk_UA auttalk_33d29f42:
+
+    # au "I'm okay. But are you feeling fine?"
+    au ""
+
+# game/scripts/autumn_events.rpy:8548
+translate uk_UA auttalk_1610eab4:
+
+    # au "I'm okay. A bit bored..."
+    au ""
+
+# game/scripts/autumn_events.rpy:8551
+translate uk_UA auttalk_9fc35778:
+
+    # au "Thinking about what to do..."
+    au ""
+
+# game/scripts/autumn_events.rpy:8554
+translate uk_UA auttalk_2b13da3e:
+
+    # au "I'm doing good, thanks."
+    au ""
+
+# game/scripts/autumn_events.rpy:8556
+translate uk_UA auttalk_1bf97db9:
+
+    # au "Maria... she's a handful isn't she?"
+    au ""
+
+# game/scripts/autumn_events.rpy:8558
+translate uk_UA auttalk_e654870e:
+
+    # au "I was just thinking... [botown] is so unique."
+    au ""
+
